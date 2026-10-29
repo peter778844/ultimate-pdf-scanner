@@ -1,0 +1,482 @@
+1	Configure primeiro uma impressão digital, o desbloqueio facial ou um bloqueio de ecrã.
+2	Este dispositivo não suporta desbloqueio biométrico.
+3	Desbloquear o Ultimate PDF Scanner
+4	As suas digitalizações estão protegidas
+5	O Ultimate PDF Scanner está bloqueado
+6	As suas digitalizações ficam neste dispositivo.
+7	  Desbloquear
+8	Idioma do sistema
+9	Alemão
+10	Inglês
+12	Importar fotos
+13	A preparar o reconhecimento de texto
+14	Não foi possível processar uma foto: %s
+15	A carregar a foto
+16	Foto ilegível
+17	A aplicar o filtro
+18	Ocultar
+19	A inserir a assinatura
+20	Assinatura inserida
+21	A aplicar as alterações
+22	Página editada
+23	Texto guardado
+24	Juntar
+25	%d digitalizações juntas
+26	A mover páginas
+27	A copiar páginas
+28	 (parte)
+29	Limpar a cache
+30	Cache limpa
+31	Remover fotos originais
+32	A criar cópia de segurança
+33	A criar cópia de segurança (%d/%d)
+34	Cópia de segurança guardada
+35	A restaurar a cópia de segurança
+36	 (%d já existentes)
+37	Falha ao restaurar: %s
+38	A criar PDF (%d/%d)
+39	A criar: %s
+40	Falha na exportação: %s
+41	A guardar: %s
+42	PDF guardado (protegido por palavra-passe, AES-256)
+43	%s guardado
+44	A guardar imagens
+45	A guardar imagens (%d/%d)
+46	%d imagens guardadas
+47	A detetar o idioma
+48	Nenhum texto reconhecido para traduzir
+49	Idioma não reconhecido
+50	O texto já está em %s
+51	A carregar o modelo de idioma (~30 MB na primeira vez)
+52	A traduzir (%d/%d)
+53	Página %d
+54	Falha na tradução: %s
+55	1 área ocultada
+56	%d áreas ocultadas
+57	1 digitalização restaurada
+58	%d digitalizações restauradas
+59	O servidor respondeu %d
+60	Ficheiro incompleto
+61	Não encontrado
+62	%d digitalizações no telemóvel · diretamente por Wi-Fi, sem nuvem
+63	O idioma de origem “%s” não é suportado
+64	O idioma de destino “%s” não é suportado
+65	CÓDIGO QR
+66	DOCUMENTO DE IDENTIDADE
+67	DOCUMENTO
+68	LIVRO
+69	CARTÃO DE VISITA
+70	FOTO TIPO PASSE
+71	PDF
+72	Word
+73	Imagens
+74	ZIP
+75	Texto
+76	Excel
+77	CSV
+78	Contacto
+79	Como digitalizado
+80	Letter
+82	Média
+84	Inglês
+85	Francês
+86	Italiano
+87	Espanhol
+88	Português
+89	Neerlandês
+90	Polaco
+91	Checo
+92	Dinamarquês
+93	Sueco
+94	Norueguês
+95	Finlandês
+96	Húngaro
+97	Romeno
+98	Croata
+99	Turco
+100	Grego
+101	Russo
+102	Ucraniano
+103	Árabe
+104	Hebraico
+105	Persa
+106	Chinês (simplificado)
+107	Japonês
+108	Coreano
+109	Latim
+110	Alemão (Fraktur)
+111	1 página
+112	%d páginas
+113	1 digitalização
+114	%d digitalizações
+115	Cancelar
+116	Editar
+117	Voltar
+118	Anular
+119	Guardar
+120	Página
+121	Inserir
+122	Guardar as alterações?
+123	Descartar
+124	Fechar
+125	Concluído
+126	Abrir
+127	Nenhuma
+128	Todas
+129	Mudar o nome
+130	Mais
+131	Eliminar
+132	Partilhar
+133	Guardar
+134	Imprimir
+135	Copiar
+136	Rodar
+137	Transferir
+138	Remover
+139	Mover
+140	Nome
+141	Desligado
+142	Esvaziar
+143	Restaurar
+144	Adicionar texto
+145	p. ex. nome, data …
+146	Nenhum rosto detetado – tente novamente
+147	Digitalizar a página de novo
+148	Disparador remoto ligado
+149	Disparar depois de cada página virada
+150	Ordem de leitura da direita para a esquerda
+151	Ordem de leitura da esquerda para a direita
+152	Disparo automático
+153	Mudar de câmara
+154	Luz
+155	Permita o acesso à câmara.
+156	A recortar a foto tipo passe …
+157	Concluir sem verso
+158	Nenhum código encontrado na imagem
+159	Da galeria
+160	Coloque um código QR ou de barras na moldura
+161	Rosto na oval · olhar em frente · fundo claro
+162	Frente do documento de identidade na moldura
+163	Agora o verso
+164	Coloque o cartão de visita na moldura
+165	Mostre o livro aberto na imagem
+166	Página dupla detetada
+167	Vire a página – dispara automaticamente depois
+168	Fique quieto …
+169	Fique quieto – disparo automático
+170	Mostre a página na imagem
+171	Página detetada
+172	Temporizador de intervalo
+173	Iniciar série
+174	Cor
+175	Tons de cinzento
+176	Preto e branco
+177	Original
+178	Automático
+179	Não é possível recortar
+180	A foto original desta página foi removida para poupar espaço. Use “Digitalizar de novo” para voltar a captar a página.
+181	Ajustar o recorte
+182	Aplicar
+183	Página simples
+184	Página dupla
+185	Auto
+186	  Automático
+187	Arraste os cantos para as margens da página
+188	Organizar páginas
+189	%d selecionadas
+190	Filtro para todas as páginas
+191	Inverter a ordem de leitura
+192	Traduzir…
+193	Eliminar digitalização
+194	Digitalizar
+195	Importar
+196	Organizar
+197	Exportar
+198	Traduzir para …
+199	A tradução é feita no dispositivo. O modelo de idioma é transferido uma única vez na primeira utilização.
+200	Partilhar a tradução
+201	Eliminar a digitalização?
+202	“%s” será eliminado definitivamente.
+203	Contacto reconhecido
+204	Adicionar aos contactos
+205	A processar páginas (%d/%d)
+206	Toque longo numa página para a digitalizar de novo
+207	Só estas
+208	A processar de novo
+209	Repetir
+210	Falhou
+211	Foto não processada
+212	Ocorreu um erro no processamento da imagem.
+213	Nenhum problema encontrado
+214	Digitalizar de novo
+215	Substitui as duas páginas desta página dupla
+216	Abrir a câmara e substituir esta página
+217	Mover para a frente
+218	Mover para trás
+219	Eliminar página
+220	Remover foto
+221	1 página movida
+222	%d páginas movidas
+223	1 página copiada
+224	%d páginas copiadas
+225	Eliminar 1 página?
+226	Eliminar %d páginas?
+227	Verificar 1 página
+228	Verificar %d páginas
+229	Eliminar a página?
+230	PDF pesquisável com o texto reconhecido
+231	Texto editável para Word, LibreOffice e Google Docs
+232	A página como imagem JPG
+233	Uma imagem JPG por página (%d ficheiros)
+234	Todas as páginas em JPG e o texto num arquivo
+235	Apenas o texto reconhecido
+236	Tabelas reconhecidas, uma folha por página
+237	Tabelas reconhecidas em CSV (ponto e vírgula, para Excel)
+238	Cartão de visita como contacto (vCard)
+239	Frente e verso em tamanho real numa página – pronto a imprimir
+240	Formato da página
+241	Proteger com palavra-passe
+242	Encriptação AES-256
+243	Palavra-passe
+244	Pelo menos 4 caracteres
+245	Repetir a palavra-passe
+246	As palavras-passe não coincidem
+247	Incluir imagens das páginas
+248	Cada página como imagem por cima do seu texto
+249	As colunas são reconhecidas pelos espaços no texto – funciona melhor com colunas bem separadas. Números como “1.234,50” são mantidos como números.
+251	Não foram reconhecidos dados de contacto neste cartão.
+252	1 página selecionada
+253	%d páginas selecionadas
+254	Telemóvel
+255	Fax
+256	Telefone
+257	Partilhar %s
+258	Digitalização
+259	Partilhar texto
+260	Partilhar PDF
+261	Movido para o lixo
+262	%d digitalizações movidas para o lixo
+263	Terminar seleção
+264	Selecionar tudo
+265	Mover para pasta
+266	Pastas
+267	Mudar o nome da pasta
+268	Remover a pasta
+269	Lixo (%d)
+270	Lixo
+271	Enviar para o PC
+272	Armazenamento e cópia de segurança
+273	Definições
+274	Pesquisar digitalizações e texto
+275	Pesquisar em todas as digitalizações
+276	Limpar pesquisa
+277	%d resultados
+278	Todas as digitalizações
+279	Nada encontrado
+280	Nenhum nome ou texto reconhecido corresponde a “%s”.
+281	A pasta está vazia
+282	Mova digitalizações para aqui: toque longo numa digitalização e escolha “Mover para pasta”.
+283	Ainda sem digitalizações
+284	Toque em “Digitalizar” para fotografar páginas,\nou importe fotos da galeria.
+285	Nome da pasta
+286	Nova pasta
+287	Juntar %d digitalizações?
+288	Todas as páginas são acrescentadas a “%s” pela ordem de seleção. As restantes digitalizações são removidas depois.
+289	%d a verificar
+290	A processar (%d/%d)
+291	Partilhar como PDF
+292	Mudar a categoria
+293	Sem pasta
+294	Nova pasta …
+295	Categoria
+296	Falha na transferência: %s
+297	sem ligação
+298	Idiomas do reconhecimento de texto
+299	Os idiomas escolhidos são reconhecidos em conjunto – escolha apenas os necessários, cada um torna o reconhecimento mais lento.
+300	Os idiomas em falta são transferidos uma vez (cerca de 2–15 MB) e depois funcionam offline.
+301	A transferir … %d %%
+302	Incluído
+303	Transferido · %s
+304	Não transferido
+305	Toque para selecionar · mantenha premido e arraste para mover
+306	Nova digitalização
+307	Mover para …
+308	Copiar para …
+309	Página %d de %d
+310	Filtro
+311	Recortar
+312	Assinar
+313	Código
+314	Ligação
+315	E-mail
+316	Número de telefone
+317	Local
+318	Código de produto
+319	Rede: %s
+320	Palavra-passe: %s
+321	Encriptação: %s
+322	Copiar palavra-passe
+323	Ligar
+324	Escrever e-mail
+325	Telefonar
+326	Abrir no mapa
+327	A procurar dados sensíveis…
+328	Nada sensível encontrado. Arraste com o dedo para marcar áreas a ocultar.
+329	Encontrado – toque para (des)selecionar, arraste para adicionar áreas:
+330	Barra preta
+331	Pixelizar
+332	Ocultar (%d)
+333	Manual
+334	Rosto
+335	Sem Wi-Fi
+336	Ligue o telemóvel e o PC à mesma rede Wi-Fi (ou o PC ao hotspot do telemóvel). O endereço aparece então aqui.
+337	Abrir no navegador do PC
+338	Código QR do endereço
+339	Escreva o endereço ou digitalize o código QR com a câmara do PC. Aí pode transferir todas as digitalizações em PDF ou texto.
+340	Só na rede local e só enquanto este ecrã estiver aberto. Nada é enviado para a Internet.
+341	Transferido
+342	Não é possível bloquear a app
+343	Idioma
+344	Idioma da app
+345	Captura
+346	Páginas duplas no modo documento
+347	Dividir automaticamente
+348	Nunca dividir
+349	Tira a foto assim que a página estiver estável na imagem.
+350	Modo livro
+351	Deteta quando a página é virada e dispara assim que o livro volta a estar estável.
+352	Ordem de leitura
+353	Esquerda → direita
+354	Direita → esquerda
+355	Direita → esquerda para árabe, hebraico, persa e japonês: a página da direita vem primeiro.
+356	Disparador remoto
+357	Emparelhe um disparador Bluetooth (p. ex. “AB Shutter 3”) nas definições de Bluetooth do Android.
+358	Na câmara, o disparador e as teclas de volume tiram então a foto.
+359	Imagem
+360	Filtro predefinido
+361	Remover escrita à mão
+362	Remove notas a caneta azul/vermelha e a lápis. Também remove impressão nessas cores.
+363	Reconhecimento de texto
+364	Idiomas
+365	Segurança e armazenamento
+366	Bloqueio da app
+367	Desbloquear com impressão digital, rosto ou bloqueio de ecrã ao abrir. O conteúdo fica oculto na lista de apps recentes.
+368	Ocupação, cópia de segurança em ZIP, restaurar
+369	As digitalizações eliminadas são removidas após 30 dias
+370	Offline
+371	Todas as fotos e textos ficam neste dispositivo. A Internet só é usada para transferir idiomas uma vez, quando o pedir.
+372	Sobre
+373	Componentes de código aberto: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (todos com licença Apache 2.0); ML Kit (tradução, deteção de rostos, no dispositivo).
+374	Desenhar assinatura
+375	Assine com o dedo
+376	Colocar assinatura
+377	Desenhar de novo
+378	Mova com um dedo, redimensione com dois dedos.
+379	Assinatura
+380	Ocupado pelo Ultimate PDF Scanner
+381	%s livres no dispositivo
+382	Páginas
+383	Fotos originais
+384	Cache
+385	Libertar espaço
+386	Ficheiros exportados para partilhar
+387	Digitalizações eliminadas nos últimos 30 dias
+388	As páginas prontas mantêm-se, mas o recorte deixa de poder ser alterado.
+389	Maiores digitalizações
+390	Cópia de segurança
+391	Guarde todas as digitalizações num ficheiro ZIP – p. ex. num cartão SD, numa pen USB ou no PC. Nada é enviado.
+392	Incluir o lixo
+393	UltimatePDFScanner-Copia_
+394	A restauração só acrescenta as digitalizações em falta.
+395	Remover as fotos originais?
+396	Poupa %s. As páginas deixam de poder ser recortadas de novo; “Digitalizar de novo” continua possível.
+397	Editar texto · página %d
+398	As correções entram na pesquisa e na camada de texto do PDF.
+399	Nenhum texto reconhecido – escreva aqui
+400	As digitalizações eliminadas são removidas definitivamente após %d dias.
+401	O lixo está vazio
+402	Eliminar definitivamente
+403	Esvaziar o lixo?
+404	%d digitalizações serão eliminadas definitivamente. Não é possível anular.
+405	Eliminar definitivamente?
+406	“%s” será eliminado imediatamente.
+407	falta 1 dia
+408	faltam %d dias
+409	Recibo
+410	Recibos
+411	Fatura
+412	Faturas
+413	Cartão de visita
+414	Cartões de visita
+415	Contrato
+416	Contratos
+417	Carta
+418	Cartas
+419	Documento de identidade
+420	Documentos de identidade
+421	Livro
+422	Livros
+423	Foto tipo passe
+424	Fotos tipo passe
+425	Documento
+426	Documentos
+427	Resolução
+428	Compressão
+429	Baixa
+430	Alta
+431	300 dpi
+432	200 dpi
+433	150 dpi
+434	300 dpi e compressão baixa para impressão e arquivo, 150 dpi e compressão alta para e-mail.
+435	Torna os PDF pesquisáveis e o texto copiável. Desligado: processamento mais rápido, PDF só como imagem.
+436	Nenhuma página detetada
+437	A margem da página não foi encontrada – foi usada a foto inteira.
+438	Desfocada
+439	A foto está tremida ou desfocada.
+440	Demasiado escura
+441	A página está mal iluminada.
+442	Texto difícil de ler
+443	O reconhecimento de texto foi incerto.
+444	Nenhum texto reconhecido
+445	Não foi encontrado texto na página – uma página em branco ou nenhuma página na imagem?
+446	Hindi
+447	Bengali
+448	Urdu
+449	Indonésio
+450	A detetar a página
+451	A endireitar a página
+452	A remover dedos
+453	A verificar a nitidez
+454	Orientação
+455	A melhorar a imagem
+456	Local de armazenamento
+457	Local para exportações
+458	Perguntar sempre
+459	Escolher pasta …
+460	“Guardar” coloca PDF e outras exportações diretamente nesta pasta, sem perguntar sempre. Também funciona com cartão SD.
+461	Guardado em “%s”
+462	O local de armazenamento não está acessível. Escolha-o novamente.
+463	Capturar de novo
+464	Girar 90° à esquerda
+465	Página excluída
+466	Toque longo: capturar de novo, girar ou excluir
+467	Substitui as duas páginas
+468	Limpando as bordas
+469	Qualidade da digitalização
+470	Rápido
+471	Padrão
+472	Preciso
+473	Para textos grandes e nítidos, como cartas e impressões: fotos menores, processamento mais rápido.
+474	Para livros e a maioria dos documentos: boa leitura em velocidade normal.
+475	Para letras miúdas, livros antigos, notas de rodapé e fórmulas: resolução total da câmera, mais lento, mais memória.
+476	IMAGEM
+477	Coloque a imagem plana · sem flash · evite reflexos
+478	ligado
+479	desligado
+480	Captura automática ligada: após virar a página
+481	Captura automática ligada: assim que a página estiver parada
+482	Captura automática desligada
+483	PDF e exportação
+484	Local para PDFs e imagens
+485	Pode alterar isto para arquivos individuais ao exportar.
+486	Mais opções …

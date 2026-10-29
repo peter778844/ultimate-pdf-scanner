@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Ultimate PDF Scanner</string>
+    <string name="widget_description">Direkt scannen: Dokument, Buch oder QR-Code</string>
+    <string name="shortcut_scan">Scannen</string>
+    <string name="shortcut_book">Buch scannen</string>
+    <string name="shortcut_qr">QR-Code</string>
+    <string name="tile_scan">Scannen</string>
+</resources>

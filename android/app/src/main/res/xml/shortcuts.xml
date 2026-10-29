@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:shortcutId="scan" android:enabled="true" android:icon="@drawable/ic_shortcut_scan" android:shortcutShortLabel="@string/shortcut_scan">
+        <intent android:action="de.ultimatepdfscanner.app.START" android:targetPackage="de.ultimatepdfscanner.app" android:targetClass="de.ultimatepdfscanner.app.MainActivity">
+            <extra android:name="start" android:value="scan" />
+        </intent>
+    </shortcut>
+    <shortcut android:shortcutId="book" android:enabled="true" android:icon="@drawable/ic_shortcut_book" android:shortcutShortLabel="@string/shortcut_book">
+        <intent android:action="de.ultimatepdfscanner.app.START" android:targetPackage="de.ultimatepdfscanner.app" android:targetClass="de.ultimatepdfscanner.app.MainActivity">
+            <extra android:name="start" android:value="book" />
+        </intent>
+    </shortcut>
+    <shortcut android:shortcutId="qr" android:enabled="true" android:icon="@drawable/ic_shortcut_qr" android:shortcutShortLabel="@string/shortcut_qr">
+        <intent android:action="de.ultimatepdfscanner.app.START" android:targetPackage="de.ultimatepdfscanner.app" android:targetClass="de.ultimatepdfscanner.app.MainActivity">
+            <extra android:name="start" android:value="qr" />
+        </intent>
+    </shortcut>
+</shortcuts>

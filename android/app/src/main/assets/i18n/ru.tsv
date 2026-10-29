@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Сначала настройте отпечаток пальца, распознавание лица или блокировку экрана.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Это устройство не поддерживает биометрическую разблокировку.
+Ultimate PDF Scanner entsperren	Разблокировать Ultimate PDF Scanner
+Deine Scans sind geschützt	Ваши сканы защищены
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner заблокирован
+Deine Scans bleiben auf diesem Gerät.	Ваши сканы остаются на этом устройстве.
+  Entsperren	  Разблокировать
+Systemsprache	Язык системы
+Deutsch	Немецкий
+English	Английский
+Fotos importieren	Импорт фото
+Texterkennung vorbereiten	Подготовка распознавания текста
+Ein Foto konnte nicht verarbeitet werden: %s	Не удалось обработать фото: %s
+Foto laden	Загрузка фото
+Foto nicht lesbar	Фото не читается
+Filter anwenden	Применение фильтра
+Schwärzen	Скрыть данные
+Unterschrift einfügen	Вставка подписи
+Unterschrift eingefügt	Подпись вставлена
+Änderungen einfügen	Применение изменений
+Seite bearbeitet	Страница изменена
+Text gesichert	Текст сохранён
+Zusammenführen	Объединить
+%d Scans zusammengeführt	Объединено сканов: %d
+Seiten verschieben	Перемещение страниц
+Seiten kopieren	Копирование страниц
+ (Teil)	 (часть)
+Zwischenspeicher leeren	Очистить кэш
+Zwischenspeicher geleert	Кэш очищен
+Originalfotos entfernen	Удалить исходные фото
+Sicherung erstellen	Создание резервной копии
+Sicherung erstellen (%d/%d)	Создание резервной копии (%d/%d)
+Sicherung gespeichert	Резервная копия сохранена
+Sicherung wiederherstellen	Восстановление резервной копии
+ (%d schon vorhanden)	 (уже есть: %d)
+Wiederherstellen fehlgeschlagen: %s	Ошибка восстановления: %s
+PDF erstellen (%d/%d)	Создание PDF (%d/%d)
+%s erstellen	Создание: %s
+Export fehlgeschlagen: %s	Ошибка экспорта: %s
+%s speichern	Сохранение: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF сохранён (защищён паролем, AES-256)
+%s gespeichert	Сохранено: %s
+Bilder speichern	Сохранение изображений
+Bilder speichern (%d/%d)	Сохранение изображений (%d/%d)
+%d Bilder gespeichert	Сохранено изображений: %d
+Sprache erkennen	Определение языка
+Kein erkannter Text zum Übersetzen	Нет распознанного текста для перевода
+Sprache nicht erkannt	Язык не распознан
+Der Text ist bereits auf %s	Текст уже на языке: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Загрузка языковой модели (~30 МБ в первый раз)
+Übersetzen (%d/%d)	Перевод (%d/%d)
+Seite %d	Страница %d
+Übersetzung fehlgeschlagen: %s	Ошибка перевода: %s
+1 Bereich unkenntlich gemacht	Скрыта 1 область
+%d Bereiche unkenntlich gemacht	Скрыто областей: %d
+1 Scan wiederhergestellt	Восстановлен 1 скан
+%d Scans wiederhergestellt	Восстановлено сканов: %d
+Server antwortet mit %d	Сервер ответил: %d
+Datei unvollständig	Файл неполный
+Nicht gefunden	Не найдено
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Сканов на телефоне: %d · напрямую по Wi-Fi, без облака
+Ausgangssprache „%s“ wird nicht unterstützt	Исходный язык «%s» не поддерживается
+Zielsprache „%s“ wird nicht unterstützt	Целевой язык «%s» не поддерживается
+QR-CODE	QR-КОД
+AUSWEIS	УДОСТОВЕРЕНИЕ
+DOKUMENT	ДОКУМЕНТ
+BUCH	КНИГА
+VISITENKARTE	ВИЗИТКА
+PASSFOTO	ФОТО НА ДОКУМЕНТЫ
+PDF	PDF
+Word	Word
+Bilder	Изображения
+ZIP	ZIP
+Text	Текст
+Excel	Excel
+CSV	CSV
+Kontakt	Контакт
+Wie gescannt	Как отсканировано
+Letter	Letter
+Mittel	Средняя
+Englisch	Английский
+Französisch	Французский
+Italienisch	Итальянский
+Spanisch	Испанский
+Portugiesisch	Португальский
+Niederländisch	Нидерландский
+Polnisch	Польский
+Tschechisch	Чешский
+Dänisch	Датский
+Schwedisch	Шведский
+Norwegisch	Норвежский
+Finnisch	Финский
+Ungarisch	Венгерский
+Rumänisch	Румынский
+Kroatisch	Хорватский
+Türkisch	Турецкий
+Griechisch	Греческий
+Russisch	Русский
+Ukrainisch	Украинский
+Arabisch	Арабский
+Hebräisch	Иврит
+Persisch	Персидский
+Chinesisch (vereinfacht)	Китайский (упрощённый)
+Japanisch	Японский
+Koreanisch	Корейский
+Latein	Латынь
+Deutsch (Fraktur)	Немецкий (фрактура)
+1 Seite	1 страница
+%d Seiten	Страниц: %d
+1 Scan	1 скан
+%d Scans	Сканов: %d
+Abbrechen	Отмена
+Bearbeiten	Изменить
+Zurück	Назад
+Rückgängig	Отменить действие
+Sichern	Сохранить
+Seite	Страница
+Einfügen	Вставить
+Änderungen sichern?	Сохранить изменения?
+Verwerfen	Не сохранять
+Schließen	Закрыть
+Fertig	Готово
+Öffnen	Открыть
+Keine	Ничего
+Alle	Все
+Umbenennen	Переименовать
+Mehr	Ещё
+Löschen	Удалить
+Teilen	Поделиться
+Speichern	Сохранить
+Drucken	Печать
+Kopieren	Копировать
+Drehen	Повернуть
+Laden	Загрузить
+Entfernen	Убрать
+Verschieben	Переместить
+Name	Имя
+Aus	Выкл.
+Leeren	Очистить
+Wiederherstellen	Восстановить
+Text einfügen	Добавить текст
+z. B. Name, Datum …	напр. имя, дата …
+Kein Gesicht erkannt – bitte noch einmal	Лицо не найдено – попробуйте ещё раз
+Seite erneut scannen	Пересканировать страницу
+Fernauslöser verbunden	Пульт затвора подключён
+Nach dem Umblättern auslösen	Снимать после каждого перелистывания
+Leserichtung rechts nach links	Порядок чтения справа налево
+Leserichtung links nach rechts	Порядок чтения слева направо
+Automatisch auslösen	Автоснимок
+Kamera wechseln	Сменить камеру
+Licht	Фонарик
+Bitte Kamerazugriff erlauben.	Разрешите доступ к камере.
+Passfoto wird zugeschnitten …	Обрезка фото на документы …
+Ohne Rückseite fertig	Готово без оборотной стороны
+Kein Code im Bild gefunden	Код на изображении не найден
+Aus Galerie	Из галереи
+QR-Code oder Barcode in den Rahmen halten	Наведите рамку на QR-код или штрихкод
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Лицо в овале · смотрите прямо · светлый фон
+Vorderseite des Ausweises in den Rahmen	Лицевая сторона удостоверения в рамке
+Jetzt die Rückseite	Теперь оборотная сторона
+Visitenkarte in den Rahmen legen	Положите визитку в рамку
+Aufgeschlagenes Buch ins Bild halten	Держите раскрытую книгу в кадре
+Doppelseite erkannt	Разворот распознан
+Umblättern – löst danach automatisch aus	Переверните страницу – снимок сделается автоматически
+Ruhig halten …	Не двигайтесь …
+Ruhig halten – wird automatisch ausgelöst	Не двигайтесь – автоматический снимок
+Seite ins Bild halten	Держите страницу в кадре
+Seite erkannt	Страница распознана
+Intervall-Timer	Интервальный таймер
+Serie starten	Начать серию
+Farbe	Цвет
+Graustufen	Оттенки серого
+Schwarz-Weiß	Чёрно-белый
+Original	Оригинал
+Automatisch	Автоматически
+Zuschnitt nicht möglich	Обрезка невозможна
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Исходное фото этой страницы удалено для экономии места. Используйте «Пересканировать», чтобы снять страницу заново.
+Zuschnitt anpassen	Настроить обрезку
+Übernehmen	Применить
+Einzelseite	Одна страница
+Doppelseite	Разворот
+Auto	Авто
+  Automatisch	  Автоматически
+Ecken auf die Seitenränder ziehen	Перетащите углы на края страницы
+Seiten ordnen	Упорядочить страницы
+%d ausgewählt	Выбрано: %d
+Filter für alle Seiten	Фильтр для всех страниц
+Leserichtung umkehren	Обратный порядок чтения
+Übersetzen…	Перевести…
+Scan löschen	Удалить скан
+Scannen	Сканировать
+Import	Импорт
+Ordnen	Порядок
+Exportieren	Экспорт
+Übersetzen in …	Перевести на …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Перевод выполняется на устройстве. Языковая модель загружается один раз при первом использовании.
+Übersetzung teilen	Поделиться переводом
+Scan löschen?	Удалить скан?
+„%s“ wird endgültig gelöscht.	«%s» будет удалён безвозвратно.
+Kontakt erkannt	Контакт распознан
+Zu Kontakten	В контакты
+Seiten werden verarbeitet (%d/%d)	Обработка страниц (%d/%d)
+Nur diese	Только эти
+Wird neu verarbeitet	Повторная обработка
+Erneut	Переснять
+Fehlgeschlagen	Ошибка
+Foto nicht verarbeitet	Фото не обработано
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	При обработке изображения произошла ошибка.
+Keine Auffälligkeiten	Проблем не найдено
+Erneut scannen	Пересканировать
+Ersetzt beide Seiten dieser Doppelseite	Заменяет обе страницы этого разворота
+Kamera öffnen und diese Seite ersetzen	Открыть камеру и заменить эту страницу
+Nach vorn	Переместить вперёд
+Nach hinten	Переместить назад
+Seite löschen	Удалить страницу
+Foto entfernen	Убрать фото
+1 Seite verschoben	Перемещена 1 страница
+%d Seiten verschoben	Перемещено страниц: %d
+1 Seite kopiert	Скопирована 1 страница
+%d Seiten kopiert	Скопировано страниц: %d
+1 Seite löschen?	Удалить 1 страницу?
+%d Seiten löschen?	Удалить страницы (%d)?
+1 Seite prüfen	Проверьте 1 страницу
+%d Seiten prüfen	Проверьте страницы: %d
+Seite löschen?	Удалить страницу?
+Durchsuchbares PDF mit erkanntem Text	PDF с поиском по распознанному тексту
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Редактируемый текст для Word, LibreOffice и Google Docs
+Die Seite als JPG-Bild	Страница в виде изображения JPG
+Ein JPG-Bild pro Seite (%d Dateien)	По одному JPG на страницу (файлов: %d)
+Alle Seiten als JPG und der Text in einem Archiv	Все страницы в JPG и текст в одном архиве
+Nur der erkannte Text	Только распознанный текст
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Распознанные таблицы, один лист на страницу
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Распознанные таблицы в CSV (точка с запятой, для Excel)
+Visitenkarte als Kontakt (vCard)	Визитка как контакт (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Обе стороны в натуральную величину на одной странице – готово к печати
+Seitenformat	Формат страницы
+Mit Passwort schützen	Защитить паролем
+AES-256-Verschlüsselung	Шифрование AES-256
+Passwort	Пароль
+Mindestens 4 Zeichen	Не менее 4 символов
+Passwort wiederholen	Повторите пароль
+Passwörter stimmen nicht überein	Пароли не совпадают
+Seitenbilder einfügen	Добавить изображения страниц
+Jede Seite als Bild über ihrem Text	Каждая страница как изображение над её текстом
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Столбцы определяются по промежуткам в тексте – лучше всего с чётко разделёнными столбцами. Числа вида «1 234,50» сохраняются как числа.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	На этой визитке контактные данные не распознаны.
+1 ausgewählte Seite	Выбрана 1 страница
+%d ausgewählte Seiten	Выбрано страниц: %d
+Mobil	Мобильный
+Fax	Факс
+Telefon	Телефон
+%s teilen	Поделиться: %s
+Scan	Скан
+Text teilen	Поделиться текстом
+PDF teilen	Поделиться PDF
+In den Papierkorb verschoben	Перемещено в корзину
+%d Scans in den Papierkorb verschoben	Перемещено в корзину сканов: %d
+Auswahl beenden	Завершить выбор
+Alle auswählen	Выбрать все
+In Ordner verschieben	Переместить в папку
+Ordner	Папки
+Ordner umbenennen	Переименовать папку
+Ordner auflösen	Удалить папку
+Papierkorb (%d)	Корзина (%d)
+Papierkorb	Корзина
+An PC senden	Отправить на ПК
+Speicher & Sicherung	Хранилище и резервная копия
+Einstellungen	Настройки
+Scans und Text durchsuchen	Поиск по сканам и тексту
+Alle Scans durchsuchen	Поиск по всем сканам
+Suche löschen	Очистить поиск
+%d Treffer	Найдено: %d
+Alle Scans	Все сканы
+Nichts gefunden	Ничего не найдено
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Ни одно имя и ни один распознанный текст не содержит «%s».
+Ordner ist leer	Папка пуста
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Переместите сканы сюда: удерживайте скан и выберите «Переместить в папку».
+Noch keine Scans	Сканов пока нет
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Нажмите «Сканировать», чтобы сфотографировать страницы,\nили импортируйте фото из галереи.
+Ordnername	Имя папки
+Neuer Ordner	Новая папка
+%d Scans zusammenführen?	Объединить сканы (%d)?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Все страницы добавляются к «%s» в порядке выбора. Остальные сканы затем удаляются.
+%d prüfen	Проверить: %d
+Wird verarbeitet (%d/%d)	Обработка (%d/%d)
+Als PDF teilen	Поделиться как PDF
+Kategorie ändern	Изменить категорию
+Kein Ordner	Без папки
+Neuer Ordner …	Новая папка …
+Kategorie	Категория
+Download fehlgeschlagen: %s	Ошибка загрузки: %s
+keine Verbindung	нет соединения
+Sprachen der Texterkennung	Языки распознавания текста
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Выбранные языки распознаются вместе – выбирайте только нужные, каждый язык замедляет распознавание.
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Недостающие языки загружаются один раз (около 2–15 МБ) и затем работают офлайн.
+Wird geladen … %d %%	Загрузка … %d %%
+Enthalten	Встроен
+Geladen · %s	Загружен · %s
+Nicht geladen	Не загружен
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Нажмите, чтобы выбрать · удерживайте и тяните, чтобы переместить
+Neuer Scan	Новый скан
+Verschieben nach …	Переместить в …
+Kopieren nach …	Копировать в …
+Seite %d von %d	Страница %d из %d
+Filter	Фильтр
+Zuschnitt	Обрезка
+Signieren	Подписать
+Code	Код
+Link	Ссылка
+E-Mail	Эл. почта
+Telefonnummer	Номер телефона
+Ort	Место
+Produktcode	Код товара
+Netzwerk: %s	Сеть: %s
+Passwort: %s	Пароль: %s
+Verschlüsselung: %s	Шифрование: %s
+Passwort kopieren	Копировать пароль
+Verbinden	Подключиться
+E-Mail schreiben	Написать письмо
+Anrufen	Позвонить
+In Karten öffnen	Открыть на карте
+Suche sensible Daten…	Поиск конфиденциальных данных…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Ничего конфиденциального не найдено. Выделите пальцем области, которые нужно скрыть.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Найдено – нажмите, чтобы выбрать или снять выбор, выделите дополнительные области:
+Schwarzer Balken	Чёрная полоса
+Verpixeln	Пикселизация
+Unkenntlich machen (%d)	Скрыть (%d)
+Manuell	Вручную
+Gesicht	Лицо
+Kein WLAN	Нет Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Подключите телефон и ПК к одной сети Wi-Fi (или ПК к точке доступа телефона). Тогда здесь появится адрес.
+Am PC im Browser öffnen	Откройте в браузере на ПК
+QR-Code der Adresse	QR-код адреса
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Введите адрес или отсканируйте QR-код камерой ПК. Там можно скачать все сканы в PDF или в виде текста.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Только в локальной сети и только пока этот экран открыт. Ничего не загружается в интернет.
+Heruntergeladen	Скачано
+App-Sperre nicht möglich	Блокировка приложения невозможна
+Sprache	Язык
+Sprache der App	Язык приложения
+Aufnahme	Съёмка
+Doppelseiten im Dokument-Modus	Развороты в режиме документа
+Automatisch teilen	Делить автоматически
+Nie teilen	Не делить
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Снимает, как только страница неподвижна в кадре.
+Buch-Modus	Режим книги
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Распознаёт перелистывание и снимает, как только книга снова неподвижна.
+Leserichtung	Порядок чтения
+Links → rechts	Слева → направо
+Rechts → links	Справа → налево
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Справа → налево для арабского, иврита, персидского и японского: правая страница идёт первой.
+Fernauslöser	Пульт затвора
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Подключите Bluetooth-пульт для камеры (напр. «AB Shutter 3») в настройках Bluetooth Android.
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	В камере снимок тогда делают пульт и кнопки громкости.
+Bild	Изображение
+Standardfilter	Фильтр по умолчанию
+Handschrift entfernen	Удалять рукописные пометки
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Удаляет пометки синей/красной ручкой и карандашом. Удаляет также печать этих цветов.
+Texterkennung	Распознавание текста
+Sprachen	Языки
+Sicherheit & Speicher	Безопасность и хранилище
+App-Sperre	Блокировка приложения
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Разблокировка отпечатком, лицом или блокировкой экрана при открытии. Содержимое скрыто в списке недавних приложений.
+Belegung, Backup als ZIP, Wiederherstellen	Занятое место, резервная копия ZIP, восстановление
+Gelöschte Scans werden nach 30 Tagen entfernt	Удалённые сканы стираются через 30 дней
+Offline	Офлайн
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Все фото и тексты остаются на этом устройстве. Интернет нужен только для однократной загрузки языков по вашему запросу.
+Über	О приложении
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Компоненты с открытым кодом: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (все под лицензией Apache 2.0); ML Kit (перевод, распознавание лиц, на устройстве).
+Unterschrift zeichnen	Нарисовать подпись
+Mit dem Finger unterschreiben	Распишитесь пальцем
+Unterschrift platzieren	Разместить подпись
+Neu zeichnen	Нарисовать заново
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Перемещайте одним пальцем, меняйте размер двумя.
+Unterschrift	Подпись
+Belegt von Ultimate PDF Scanner	Занято Ultimate PDF Scanner
+%s frei auf dem Gerät	Свободно на устройстве: %s
+Seiten	Страницы
+Originalfotos	Исходные фото
+Zwischenspeicher	Кэш
+Platz schaffen	Освободить место
+Exportierte Dateien zum Teilen	Экспортированные файлы для отправки
+Gelöschte Scans der letzten 30 Tage	Сканы, удалённые за последние 30 дней
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Готовые страницы сохраняются, но обрезку больше нельзя изменить.
+Größte Scans	Самые большие сканы
+Sicherung	Резервная копия
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Сохраните все сканы в один ZIP-файл – напр. на SD-карту, USB-флешку или ПК. Ничего не загружается в сеть.
+Papierkorb mitsichern	Включить корзину
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Backup_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	При восстановлении добавляются только отсутствующие сканы.
+Originalfotos entfernen?	Удалить исходные фото?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Освободит %s. Страницы больше нельзя будет обрезать заново; «Пересканировать» останется доступным.
+Text bearbeiten · Seite %d	Правка текста · страница %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Исправления попадают в поиск и в текстовый слой PDF.
+Kein Text erkannt – hier eintippen	Текст не распознан – введите здесь
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Удалённые сканы стираются безвозвратно через %d дн.
+Papierkorb ist leer	Корзина пуста
+Endgültig löschen	Удалить навсегда
+Papierkorb leeren?	Очистить корзину?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	Сканы (%d) будут удалены безвозвратно. Это действие нельзя отменить.
+Endgültig löschen?	Удалить навсегда?
+„%s“ wird sofort gelöscht.	«%s» будет удалён сразу.
+noch 1 Tag	остался 1 день
+noch %d Tage	осталось дней: %d
+Quittung	Чек
+Quittungen	Чеки
+Rechnung	Счёт
+Rechnungen	Счета
+Visitenkarte	Визитка
+Visitenkarten	Визитки
+Vertrag	Договор
+Verträge	Договоры
+Brief	Письмо
+Briefe	Письма
+Ausweis	Удостоверение
+Ausweise	Удостоверения
+Buch	Книга
+Bücher	Книги
+Passfoto	Фото на документы
+Passfotos	Фото на документы
+Dokument	Документ
+Dokumente	Документы
+Auflösung	Разрешение
+Kompression	Сжатие
+Gering	Слабое
+Stark	Сильное
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi и слабое сжатие для печати и архива, 150 dpi и сильное сжатие для e-mail.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Делает PDF доступными для поиска, а текст – для копирования. Выкл.: быстрее обработка, PDF только как изображение.
+Keine Seite erkannt	Страница не найдена
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Край страницы не найден – использовано всё фото.
+Unscharf	Нечётко
+Das Foto ist verwackelt oder unscharf.	Фото смазано или не в фокусе.
+Zu dunkel	Слишком темно
+Die Seite ist schlecht ausgeleuchtet.	Страница плохо освещена.
+Text schlecht lesbar	Текст плохо читается
+Die Texterkennung war unsicher.	Распознавание текста было неуверенным.
+Kein Text erkannt	Текст не распознан
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	На странице не найден текст – пустая страница или на снимке вообще нет страницы?
+Hindi	Хинди
+Bengalisch	Бенгальский
+Urdu	Урду
+Indonesisch	Индонезийский
+Seite erkennen	Поиск страницы
+Seite entzerren	Выравнивание страницы
+Finger entfernen	Удаление пальцев
+Schärfe prüfen	Проверка резкости
+Ausrichtung	Ориентация
+Bild verbessern	Улучшение изображения
+Speicherort	Место сохранения
+Speicherort für Exporte	Место сохранения экспорта
+Jedes Mal fragen	Спрашивать каждый раз
+Ordner wählen …	Выбрать папку …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	«Сохранить» кладёт PDF и другие файлы экспорта прямо в эту папку, не спрашивая каждый раз. Подойдёт и SD-карта.
+Gespeichert in „%s“	Сохранено в «%s»
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Место сохранения недоступно. Выберите его заново.
+Neu aufnehmen	Переснять
+Um 90° links drehen	Повернуть на 90° влево
+Seite gelöscht	Страница удалена
+Lange drücken: neu aufnehmen, drehen oder löschen	Долгое нажатие: переснять, повернуть или удалить
+Ersetzt beide Seiten	Заменяет обе страницы
+Ränder bereinigen	Очистка краёв
+Scan-Qualität	Качество сканирования
+Schnell	Быстро
+Standard	Стандарт
+Genau	Точно
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Для крупного чёткого текста, например писем и распечаток: меньшие фото, самая быстрая обработка.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Для книг и большинства документов: хорошее распознавание при обычной скорости.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Для мелкого шрифта, старых книг, сносок и формул: полное разрешение камеры, медленнее, больше памяти.
+BILD	КАРТИНКА
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Положите изображение ровно · без вспышки · избегайте бликов
+an	вкл.
+aus	выкл.
+Automatische Auslösung an: nach dem Umblättern	Автосъёмка включена: после перелистывания
+Automatische Auslösung an: sobald die Seite ruhig liegt	Автосъёмка включена: как только страница неподвижна
+Automatische Auslösung aus	Автосъёмка выключена
+PDF & Export	PDF и экспорт
+Speicherort für PDFs und Bilder	Папка для PDF и изображений
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	При экспорте это можно изменить для отдельных файлов.
+Weitere Optionen …	Другие действия …
+Automatische Verbesserung	Автоматическое улучшение
+Schatten und Artefakte entfernen, Schrift schärfen	Убрать тени и артефакты, сделать текст чётче
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Убрать тени и артефакты, сделать текст чётче. Можно отключить для каждого документа.
+unkorrigiert	без коррекции
+Maximal	Максимум
+Bildqualität	Качество изображения
+volle Auflösung	полное разрешение
+Briefe, Ausdrucke, große Schrift	Письма, распечатки, крупный шрифт
+Bücher und die meisten Dokumente (empfohlen)	Книги и большинство документов (рекомендуется)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Мелкий шрифт, формулы, старые книги – медленнее
+Gilt auch für alle weiteren Scans.	Действует и для всех следующих сканов.
+Ändern	Изменить
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Куда «Сохранить» кладёт экспортированные файлы. На «Поделиться» это не влияет.
+Ordner und Dateiname beim Speichern wählen	Выбирать папку и имя файла при сохранении
+Exporte landen direkt hier	Файлы сохраняются сразу сюда
+Anderen Ordner wählen …	Выбрать другую папку …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Также SD-карта и облачные папки, если они настроены на устройстве.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Постоянный доступ к этой папке невозможен.
+Sehr hohe Auflösung	Очень высокое разрешение
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	При %d МП обработка каждой страницы занимает гораздо больше времени и требует много памяти. Для большинства документов достаточно «Стандарт». «Максимум» имеет смысл только для очень мелкого шрифта.
+Trotzdem verwenden	Всё равно использовать
+langsam	медленно
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Пульт не подключён – выполните сопряжение в настройках Bluetooth
+Mit dem Fernauslöser auslösen	Снимать пультом
+Umblättern	Перелистывание
+Auto 0,7 s	Авто 0,7 с
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Завершает съёмку. Уже снятые страницы сохраняются и обрабатываются.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Включает или выключает фонарик. Глянцевую бумагу лучше снимать без света и под углом к окну.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Берёт уже имеющиеся фото вместо новых снимков.
+Serie	Серия
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Запускает или останавливает серию: таймер автоматически делает снимок каждые несколько секунд.
+Auslöser	Затвор
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Делает снимок. Кнопки громкости и Bluetooth-пульт тоже срабатывают как затвор.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Завершает съёмку и открывает обзор; число показывает фото этой съёмки.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Сколько пикселей в каждом снимке. Быстро (5 МП) для крупного шрифта, Стандарт (12 МП) почти для всего, Максимум для мелкого шрифта и формул – дольше.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Нажатие переключает: выкл., 3, 5 или 10 секунд. Затем затвор запускает серию со снимком через этот интервал – удобно для книг.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Снимает только при нажатии на затвор.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Снимает сам, как только страница 0,7 секунды неподвижна в кадре. В режиме книги: после каждого перелистывания, когда книга снова неподвижна.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Снимает Bluetooth-пультом (например, «AB Shutter 3»). Сначала выполните сопряжение пульта в настройках Bluetooth телефона.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Даёт документу собственное имя; оно же используется как имя файла при экспорте.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Изменить порядок чтения разворотов, перевести на устройстве или удалить скан.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Открывает камеру и добавляет страницы в этот документ.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Добавляет фото из галереи как новые страницы; они обрезаются и распознаются как снимки камеры.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Менять порядок перетаскиванием; выбрать страницы, чтобы повернуть, переместить, скопировать, выделить или удалить их.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Поделиться, сохранить или распечатать как PDF, Word, изображения, ZIP, текст или таблицу.
+Farbe, Graustufen, Schwarz-Weiß	Цвет, оттенки серого, чёрно-белое
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Переключает все страницы этого документа. Чёрно-белое даёт самые маленькие файлы, цвет точно передаёт иллюстрации и печати.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Вкл.: тени, пятна и артефакты удаляются, текст становится контрастнее. Выкл.: страницы только обрезаются и выпрямляются – для фото, рисунков или если улучшение что-то искажает.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Создаёт файл и передаёт его приложению, например почте, мессенджеру или облаку.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Помещает файл в место сохранения – в выбранную папку или, при «Спрашивать каждый раз», туда, куда вы укажете.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Печатает через службу печати Android; там же можно выбрать «Сохранить как PDF».
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Куда «Сохранить» кладёт файлы: спрашивать каждый раз или всегда в одну папку, в том числе на SD-карту или в облачную папку.
+Hilfe & Anleitung	Справка и инструкция
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Совет: удерживайте кнопку секунду – и появится описание её действия.
+Startseite	Главная
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Открывает камеру. Все фото одной съёмки попадают в один общий документ.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Значок галереи над «Сканировать» берёт имеющиеся фото; они обрезаются и распознаются как снимки камеры.
+Suchen	Поиск
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Находит сканы по имени и по распознанному тексту, с номером страницы.
+Ordner und Kategorien	Папки и категории
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Папки объединяют сканы. Категории (книги, чеки …) появляются автоматически, как только есть сканы этого типа.
+Mehrere Scans	Несколько сканов
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Долгое нажатие на скан: выбрать, объединить, переместить в папку или удалить.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Удалённые сканы хранятся в корзине (меню ⋮) 30 дней и могут быть восстановлены.
+Modi	Режимы
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Выбор внизу: Документ (отдельные листы), Книга (развороты делятся на две страницы), Удостоверение (лицевая и оборотная сторона в натуральную величину на одном листе), Визитка (контакт распознаётся), Изображение (точная цветопередача, без распознавания текста), Фото на паспорт (фронтальная камера, 35 × 45 мм) и QR-код.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Слева вверху: Быстро (5 МП) для крупного шрифта, Стандарт (12 МП) почти для всего, Максимум для мелкого шрифта и формул – медленнее.
+Auslösung	Съёмка
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Вручную: затвором. Авто 0,7 с: как только страница 0,7 секунды неподвижна; в режиме книги после каждого перелистывания. Bluetooth: сопряжённым пультом. Кнопки громкости срабатывают всегда.
+Timer und Licht	Таймер и свет
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Значок часов делает снимок каждые 3, 5 или 10 секунд (запуск затвором). Вспышка включает фонарик.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Нажмите на миниатюру справа внизу: страницы обрабатываются, открывается обзор.
+Gute Fotos	Хорошие снимки
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Положите страницу ровно и равномерно освещённой, держите телефон параллельно. Фон, отличающийся по цвету от бумаги, помогает при обрезке.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Действует на все страницы документа. Отдельные страницы можно настроить иначе в просмотре страницы.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Удаляет тени и артефакты и делает текст контрастнее. Если выключить, страница будет только обрезана и выпрямлена.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Нажатие открывает страницу. Долгое нажатие: переснять, повернуть или удалить. Страницы с оранжевой меткой стоит проверить (например, размыты), красные не удалось обработать.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Менять порядок перетаскиванием, поворачивать несколько страниц, перемещать или копировать их в другой документ или выделить в новый документ.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, изображения, ZIP, текст или таблица – поделиться, сохранить или распечатать.
+Mehr (⋮)	Ещё (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Изменить порядок чтения разворотов, перевести на устройстве или удалить скан. Карандаш вверху меняет имя.
+Seitenansicht	Просмотр страницы
+Blättern und Zoomen	Листание и масштаб
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Смахните, чтобы сменить страницу; двойное касание или два пальца увеличивают.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Цвет, оттенки серого или чёрно-белое только для этой страницы, с предпросмотром. Ниже – автоматическое улучшение для этой страницы.
+Drehen und Zuschnitt	Поворот и обрезка
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Поворот на 90°. Обрезка: заново задать углы страницы на исходном фото.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Писать на странице ручкой, маркером или текстом.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Скрыть конфиденциальные данные – полосами или пикселизацией. Номера счетов, номера карт и лица предлагаются автоматически.
+Signieren und Text	Подпись и текст
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Подпись вставляет вашу сохранённую подпись. Текст показывает распознанный текст для исправления и копирования.
+Formate	Форматы
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (с поиском), Word, изображения (JPG), ZIP, текст, Excel или CSV; для визиток также как контакт.
+PDF-Optionen	Параметры PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Формат страницы, разрешение и сжатие определяют качество и размер файла – размер оценивается справа вверху. По желанию с паролем (AES-256).
+Teilen oder Speichern	Поделиться или сохранить
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	«Поделиться» отправляет файл в приложение (почта, мессенджер …). «Сохранить» кладёт его в место сохранения.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	«Спрашивать каждый раз» открывает выбор папки при сохранении. С постоянной папкой экспорт попадает туда без вопросов – в том числе на SD-карту или в облачную папку.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Печатает через службу печати Android или сохраняет как PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Качество изображения, съёмка и разделение разворотов для новых сканов. В камере это можно изменить в любой момент.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Фильтр и автоматическое улучшение, с которыми начинаются новые документы.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Делает PDF доступными для поиска. Языки определяют, какие символы распознаются.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Место сохранения и значения по умолчанию для разрешения, сжатия и формата страницы.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Блокировка отпечатком пальца, резервная копия в ZIP и корзина.
+Ecken setzen	Углы
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Перетащите четыре угла на края страницы; лупа показывает увеличенным место под пальцем.
+Einzel- oder Doppelseite	Одна или две страницы
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Выберите внизу, показывает ли фото одну страницу или открытый разворот. «Автоматически» оставляет решение приложению.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Галочка вверху обрабатывает страницу с новой обрезкой.
+Werkzeuge	Инструменты
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Ручка для письма, маркер для выделения, текст для набранных заметок. Ниже – цвета.
+Korrigieren	Исправить
+Rückgängig nimmt den letzten Strich zurück.	«Отменить» убирает последний штрих.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Записывает изменения в страницу. Без сохранения страница остаётся без изменений.
+Vorschläge	Предложения
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Найденные номера счетов, карт, налоговые номера и лица отмечены – нажмите, чтобы снять или снова поставить отметку.
+Eigene Bereiche	Свои области
+Mit dem Finger weitere Rechtecke aufziehen.	Выделите пальцем дополнительные прямоугольники.
+Balken oder Pixel	Полосы или пиксели
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Чёрная полоса или пикселизация. Текст под ними также удаляется из распознанного текста и из PDF.
+Zeichnen	Нарисовать
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Распишитесь один раз пальцем – подпись сохраняется на устройстве.
+Platzieren	Разместить
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Перемещайте одним пальцем, меняйте размер двумя, затем вставьте.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Значок карандаша вверху заменяет сохранённую подпись.
+Text bearbeiten	Редактировать текст
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Распознанный текст страницы находится внизу, его можно изменить. Вверху изображение страницы для сравнения.
+Wirkung	Действие
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Исправления попадают в поиск, в текстовый слой PDF и в экспорт Word и текста.
+Holt einen gelöschten Scan zurück.	Возвращает удалённый скан.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Сканы удаляются автоматически через 30 дней. «Очистить» удаляет всё сразу.
+Belegung	Занято
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Показывает, сколько места занимают сканы, исходные фото, корзина и кэш.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Удаление исходных фото экономит много места; готовые страницы остаются, только обрезку потом изменить нельзя.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Сохранить все сканы в ZIP-файл и восстановить их на этом или другом устройстве. Ничего не загружается в сеть.
+Auswahl	Выбор
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Выберите языки ваших документов. Каждый дополнительный язык замедляет распознавание.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Недостающие языки загружаются один раз и затем работают без интернета.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Подключите телефон и ПК к одной сети Wi-Fi (или подключите ПК к точке доступа телефона).
+Herunterladen	Скачать
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Откройте показанный адрес в браузере на ПК или отсканируйте QR-код; там все сканы можно скачать как PDF или текст.
+Sicherheit	Безопасность
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Работает только в локальной сети и только пока открыт этот экран.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Язык, качество изображения, съёмка, распознавание текста, место сохранения, блокировка и резервное копирование.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Берёт фото из галереи как новый документ; они обрезаются и распознаются как снимки камеры.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Открывает камеру. Все фото одной съёмки попадают в один общий документ.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Удаляет эту страницу из документа (с подтверждением).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Цвет, оттенки серого или чёрно-белое и автоматическое улучшение только для этой страницы.
+Dreht die Seite um 90° im Uhrzeigersinn.	Поворачивает страницу на 90° по часовой стрелке.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Заново задать углы страницы на исходном фото, если не хватает края или попал фон.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Скрыть конфиденциальные данные полосами или пикселями; они исчезают и из текста PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Ставит вашу сохранённую подпись на страницу; в первый раз вы её рисуете.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Показывает распознанный текст страницы для исправления и копирования.
+Fotografiert beim Tippen auf den Auslöser.	Снимает при нажатии на затвор.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Снимает, как только страница 0,7 с неподвижна в кадре; в режиме книги после каждого перелистывания.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Снимает сопряжённым Bluetooth-пультом.
+Lautstärketasten lösen immer aus.	Кнопки громкости срабатывают всегда.
+Word erstellen, Formeln erkennen (%d/%d)	Создание Word, распознавание формул (%d/%d)
+Belarussisch	Белорусский
+Bulgarisch	Болгарский
+Serbisch	Сербский
+Mazedonisch	Македонский
+Kein Link im geteilten Text	В переданном тексте нет ссылки
+Import fehlgeschlagen: %s	Ошибка импорта: %s
+Link laden	Загрузка ссылки
+Unter dem Link liegt keine PDF- oder Bilddatei.	Ссылка не ведёт к файлу PDF или изображению.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Импортировать можно только файлы PDF и изображения.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Защищённые файлы PDF импортировать нельзя.
+PDF-Seite %d/%d importieren	Импорт страницы PDF %d/%d
+Auto %s s	Авто %s с
+Auslösen nach %s s	Снимок через %s с
+Wartezeit	Время ожидания
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Сколько страница должна лежать неподвижно до автоматического снимка. Короче — быстрее, дольше — меньше смазанных фото.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Снимает сам, как только страница неподвижна; время ожидания (0,2–1,5 с) настраивается ниже. В режиме книги: после каждого перелистывания, как только книга снова неподвижна.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Добавляет фото, скриншоты, файлы PDF или ссылку как дополнительные страницы; фото обрезаются, всё распознаётся.
+Senden an …	Отправить в …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Куда «Сохранить» кладёт экспорт. «Отправить в …» от этого не зависит.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Выберите подпапку, например «Documents» — корневую папку хранилища Android не разрешает.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Создаёт файл и отправляет его в приложение, например WhatsApp, почту, Telegram или облако.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Вручную: кнопкой затвора. Авто: как только страница неподвижна — время ожидания (0,2–1,5 с, по умолчанию 0,7 с) настраивается в окне сканирования под переключателем; в режиме книги после каждого перелистывания. Bluetooth: сопряжённым пультом. Кнопки громкости всегда делают снимок.
+Senden an oder Speichern	Отправить или сохранить
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	«Отправить в …» отправляет файл в приложение (WhatsApp, почта, Telegram, облако …). «Сохранить» кладёт его в место сохранения.
+Importieren	Импорт
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Добавляет фото, скриншоты, файлы PDF или ссылку как новый документ; фото обрезаются, всё распознаётся.
+Bilder aus der Galerie	Изображения из галереи
+Fotos und Screenshots	Фото и скриншоты
+Dateien	Файлы
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Файлы PDF и изображения, например из Загрузок или облака
+Eine PDF- oder Bilddatei aus dem Internet	Файл PDF или изображение из интернета
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Затем как отсканированные страницы: распознавание текста, перевод и экспорт в любой формат.
+Link importieren	Импорт ссылки
+Internetadresse	Веб-адрес
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Снимает, как только страница неподвижна %s с (настраивается в окне сканирования); в режиме книги после каждого перелистывания.
+Fachwörterbuch laden	Загрузка словаря
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Нет словаря для %s или %s – переведено без специальных терминов
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Это не файл словаря (glossary-xx.tsv.gz)
+Download nicht verfügbar	Загрузка недоступна
+Estnisch	Эстонский
+Irisch	Ирландский
+Litauisch	Литовский
+Lettisch	Латышский
+Maltesisch	Мальтийский
+Slowakisch	Словацкий
+Slowenisch	Словенский
+Ohne Fachwörterbuch	Без словаря
+Alle Fachgebiete	Все области
+Fachgebiet: %s	Область: %s
+Fachwörterbücher verwalten …	Управление словарями …
+Fachwörterbücher	Специальные словари
+Aus Datei importieren	Импорт из файла
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Термины из права, медицины, техники, экономики и ещё 17 областей (IATE, терминологическая база ЕС) при переводе передаются точно. Нужен словарь исходного и целевого языка, каждый 0,3–9 МБ.
+Einmal laden, danach offline.	Загрузить один раз, затем офлайн.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Импортируйте файлы glossary-xx.tsv.gz значком папки вверху.
+Fachwörterbücher für die Übersetzung	Специальные словари для перевода
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Право, медицина, техника и другое – 24 языка ЕС
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Все фото и тексты остаются на этом устройстве. Интернет используется только для однократной загрузки языков, моделей перевода и словарей, когда вы её запускаете.
+Übersetzen	Перевести
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Создаёт на устройстве переведённую копию документа: те же страницы и изображения, текст на целевом языке на своём месте. Каждый абзац переводится со своего языка. С «Областью» специальные термины из глоссариев переносятся точно.
+Was nachgeladen werden kann	Что можно загрузить
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Всё по желанию и загружается только по нажатию; потом работает без интернета:\n• Языки распознавания текста: по 1–15 МБ (Настройки › Языки). Немецкий и английский встроены.\n• Китайский: отдельная модель распознавания, около 17 МБ.\n• Модели перевода: около 30 МБ на язык, загружаются автоматически при первом переводе.\n• Специальные словари: 0,3–9 МБ на язык, около 70 МБ для всех 24 языков ЕС (Настройки › Специальные словари).\nЗагруженные файлы можно удалить в любое время.
+Wozu	Зачем
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Обычные переводчики не знают многих терминов или переводят их непоследовательно. Словарь вставляет установленный термин, напр. «Beweislast» → «бремя доказывания».
+Quelle	Источник
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE – терминологическая база учреждений ЕС с терминами из 21 области (право, здравоохранение, техника, экономика, окружающая среда, транспорт …). Есть для 24 официальных языков ЕС.
+Was nötig ist	Что нужно
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	По одному словарю для исходного и целевого языка, напр. немецкий и английский. Одного словаря на язык хватает для всех языковых пар.
+Laden oder importieren	Загрузить или импортировать
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Загрузите стрелкой (один раз, затем офлайн) или импортируйте файл «glossary-xx.tsv.gz» значком папки, напр. с ПК или SD-карты.
+Benutzen	Использование
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	При переводе выберите область вверху. «Все области» использует только термины, которые везде переводятся одинаково.
+Grenzen	Ограничения
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Термины вставляются в начальной форме; склоняемые формы распознаются не всегда.
+Politik	Политика
+Internationale Beziehungen	Международные отношения
+Europäische Union	Европейский союз
+Recht	Право
+Wirtschaft	Экономика
+Handel	Торговля
+Finanzwesen	Финансы
+Soziales und Gesundheit	Социальные вопросы и здравоохранение
+Bildung und Kommunikation	Образование и коммуникации
+Wissenschaft	Наука
+Unternehmen und Wettbewerb	Бизнес и конкуренция
+Beschäftigung und Arbeitsbedingungen	Занятость и условия труда
+Verkehr	Транспорт
+Umwelt	Окружающая среда
+Land-, Forst- und Fischereiwirtschaft	Сельское, лесное и рыбное хозяйство
+Agrarerzeugnisse und Lebensmittel	Агропродовольствие
+Produktion, Technologie und Forschung	Производство, технологии и исследования
+Energie	Энергетика
+Industrie	Промышленность
+Geografie	География
+Internationale Organisationen	Международные организации
+Wenig Licht – Lampe einschalten	Мало света – включить фонарик
+Verarbeitung mehrfach abgebrochen	Обработка неоднократно прерывалась
+Bearbeitungen gehen verloren	Изменения будут потеряны
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Страница будет заново создана из фото. Закрашивания, подпись и заметки придётся добавить снова.
+Neu zuschneiden	Обрезать заново
+Sprachdaten	Языковые данные
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Показывает, сколько места занимают сканы, исходные фото, корзина, кэш и языковые данные (распознавание текста, словари).
+Bitte warten, bis alle Seiten erkannt sind	Подождите, пока все страницы будут распознаны
+Die Sprache „%s“ kann nicht übersetzt werden	Язык «%s» невозможно перевести
+Übersetzung in die Seiten setzen	Вставка перевода в страницы

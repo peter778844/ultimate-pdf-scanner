@@ -1,0 +1,482 @@
+1	Siapkan sidik jari, buka kunci wajah, atau kunci layar terlebih dahulu.
+2	Perangkat ini tidak mendukung buka kunci biometrik.
+3	Buka kunci Ultimate PDF Scanner
+4	Pindaian Anda terlindungi
+5	Ultimate PDF Scanner terkunci
+6	Pindaian Anda tetap di perangkat ini.
+7	  Buka kunci
+8	Bahasa sistem
+9	Jerman
+10	Inggris
+12	Impor foto
+13	Menyiapkan pengenalan teks
+14	Foto tidak dapat diproses: %s
+15	Memuat foto
+16	Foto tidak terbaca
+17	Menerapkan filter
+18	Sensor
+19	Menambahkan tanda tangan
+20	Tanda tangan ditambahkan
+21	Menerapkan perubahan
+22	Halaman diedit
+23	Teks disimpan
+24	Gabungkan
+25	%d pindaian digabungkan
+26	Memindahkan halaman
+27	Menyalin halaman
+28	 (bagian)
+29	Bersihkan cache
+30	Cache dibersihkan
+31	Hapus foto asli
+32	Membuat cadangan
+33	Membuat cadangan (%d/%d)
+34	Cadangan disimpan
+35	Memulihkan cadangan
+36	 (%d sudah ada)
+37	Pemulihan gagal: %s
+38	Membuat PDF (%d/%d)
+39	Membuat %s
+40	Ekspor gagal: %s
+41	Menyimpan %s
+42	PDF disimpan (dilindungi kata sandi, AES-256)
+43	%s disimpan
+44	Menyimpan gambar
+45	Menyimpan gambar (%d/%d)
+46	%d gambar disimpan
+47	Mendeteksi bahasa
+48	Tidak ada teks yang dikenali untuk diterjemahkan
+49	Bahasa tidak dikenali
+50	Teks sudah dalam bahasa %s
+51	Memuat model bahasa (~30 MB pertama kali)
+52	Menerjemahkan (%d/%d)
+53	Halaman %d
+54	Terjemahan gagal: %s
+55	1 area disensor
+56	%d area disensor
+57	1 pindaian dipulihkan
+58	%d pindaian dipulihkan
+59	Server menjawab %d
+60	Berkas tidak lengkap
+61	Tidak ditemukan
+62	%d pindaian di ponsel · langsung lewat Wi-Fi, tanpa cloud
+63	Bahasa sumber “%s” tidak didukung
+64	Bahasa tujuan “%s” tidak didukung
+65	KODE QR
+66	KARTU IDENTITAS
+67	DOKUMEN
+68	BUKU
+69	KARTU NAMA
+70	PASFOTO
+71	PDF
+72	Word
+73	Gambar
+74	ZIP
+75	Teks
+76	Excel
+77	CSV
+78	Kontak
+79	Seperti dipindai
+80	Letter
+82	Sedang
+84	Inggris
+85	Prancis
+86	Italia
+87	Spanyol
+88	Portugis
+89	Belanda
+90	Polandia
+91	Ceko
+92	Denmark
+93	Swedia
+94	Norwegia
+95	Finlandia
+96	Hungaria
+97	Rumania
+98	Kroasia
+99	Turki
+100	Yunani
+101	Rusia
+102	Ukraina
+103	Arab
+104	Ibrani
+105	Persia
+106	Tionghoa (sederhana)
+107	Jepang
+108	Korea
+109	Latin
+110	Jerman (Fraktur)
+111	1 halaman
+112	%d halaman
+113	1 pindaian
+114	%d pindaian
+115	Batal
+116	Edit
+117	Kembali
+118	Urungkan
+119	Simpan
+120	Halaman
+121	Sisipkan
+122	Simpan perubahan?
+123	Buang
+124	Tutup
+125	Selesai
+126	Buka
+127	Tidak ada
+128	Semua
+129	Ganti nama
+130	Lainnya
+131	Hapus
+132	Bagikan
+133	Simpan
+134	Cetak
+135	Salin
+136	Putar
+137	Unduh
+138	Hapus
+139	Pindahkan
+140	Nama
+141	Mati
+142	Kosongkan
+143	Pulihkan
+144	Tambah teks
+145	mis. nama, tanggal …
+146	Wajah tidak ditemukan – coba lagi
+147	Pindai ulang halaman
+148	Pelepas rana jarak jauh terhubung
+149	Potret setelah setiap halaman dibalik
+150	Urutan baca kanan ke kiri
+151	Urutan baca kiri ke kanan
+152	Potret otomatis
+153	Ganti kamera
+154	Lampu
+155	Izinkan akses kamera.
+156	Memotong pasfoto …
+157	Selesai tanpa sisi belakang
+158	Tidak ada kode di gambar
+159	Dari galeri
+160	Arahkan kode QR atau barcode ke dalam bingkai
+161	Wajah di dalam oval · lihat lurus · latar terang
+162	Sisi depan kartu identitas di dalam bingkai
+163	Sekarang sisi belakang
+164	Letakkan kartu nama di dalam bingkai
+165	Arahkan buku yang terbuka ke kamera
+166	Halaman ganda terdeteksi
+167	Balik halaman – lalu memotret otomatis
+168	Tahan diam …
+169	Tahan diam – memotret otomatis
+170	Arahkan halaman ke kamera
+171	Halaman terdeteksi
+172	Timer interval
+173	Mulai seri
+174	Warna
+175	Skala abu-abu
+176	Hitam putih
+177	Asli
+178	Otomatis
+179	Tidak dapat memotong
+180	Foto asli halaman ini dihapus untuk menghemat ruang. Gunakan “Pindai ulang” untuk memotret halaman lagi.
+181	Sesuaikan potongan
+182	Terapkan
+183	Satu halaman
+184	Halaman ganda
+185	Otomatis
+186	  Otomatis
+187	Seret sudut ke tepi halaman
+188	Atur halaman
+189	%d dipilih
+190	Filter untuk semua halaman
+191	Balik urutan baca
+192	Terjemahkan…
+193	Hapus pindaian
+194	Pindai
+195	Impor
+196	Atur
+197	Ekspor
+198	Terjemahkan ke …
+199	Terjemahan berjalan di perangkat. Model bahasa diunduh sekali pada penggunaan pertama.
+200	Bagikan terjemahan
+201	Hapus pindaian?
+202	“%s” akan dihapus permanen.
+203	Kontak dikenali
+204	Tambah ke kontak
+205	Memproses halaman (%d/%d)
+206	Tekan lama halaman untuk memindainya ulang
+207	Hanya ini
+208	Diproses ulang
+209	Ulangi
+210	Gagal
+211	Foto tidak diproses
+212	Terjadi kesalahan saat memproses gambar.
+213	Tidak ada masalah
+214	Pindai ulang
+215	Mengganti kedua halaman dari halaman ganda ini
+216	Buka kamera dan ganti halaman ini
+217	Pindah ke depan
+218	Pindah ke belakang
+219	Hapus halaman
+220	Hapus foto
+221	1 halaman dipindahkan
+222	%d halaman dipindahkan
+223	1 halaman disalin
+224	%d halaman disalin
+225	Hapus 1 halaman?
+226	Hapus %d halaman?
+227	Periksa 1 halaman
+228	Periksa %d halaman
+229	Hapus halaman?
+230	PDF yang dapat dicari dengan teks yang dikenali
+231	Teks yang dapat diedit untuk Word, LibreOffice, dan Google Docs
+232	Halaman sebagai gambar JPG
+233	Satu gambar JPG per halaman (%d berkas)
+234	Semua halaman sebagai JPG dan teks dalam satu arsip
+235	Hanya teks yang dikenali
+236	Tabel yang dikenali, satu lembar per halaman
+237	Tabel yang dikenali sebagai CSV (titik koma, untuk Excel)
+238	Kartu nama sebagai kontak (vCard)
+239	Sisi depan dan belakang ukuran asli dalam satu halaman – siap cetak
+240	Ukuran halaman
+241	Lindungi dengan kata sandi
+242	Enkripsi AES-256
+243	Kata sandi
+244	Minimal 4 karakter
+245	Ulangi kata sandi
+246	Kata sandi tidak cocok
+247	Sertakan gambar halaman
+248	Setiap halaman sebagai gambar di atas teksnya
+249	Kolom dikenali dari jarak di dalam teks – paling baik dengan kolom yang terpisah jelas. Angka seperti “1.234,50” tetap menjadi angka.
+251	Tidak ada data kontak yang dikenali pada kartu ini.
+252	1 halaman dipilih
+253	%d halaman dipilih
+254	Ponsel
+255	Faks
+256	Telepon
+257	Bagikan %s
+258	Pindaian
+259	Bagikan teks
+260	Bagikan PDF
+261	Dipindahkan ke sampah
+262	%d pindaian dipindahkan ke sampah
+263	Akhiri pilihan
+264	Pilih semua
+265	Pindahkan ke folder
+266	Folder
+267	Ganti nama folder
+268	Hapus folder
+269	Sampah (%d)
+270	Sampah
+271	Kirim ke PC
+272	Penyimpanan & cadangan
+273	Pengaturan
+274	Cari pindaian dan teks
+275	Cari semua pindaian
+276	Hapus pencarian
+277	%d hasil
+278	Semua pindaian
+279	Tidak ditemukan
+280	Tidak ada nama atau teks yang cocok dengan “%s”.
+281	Folder kosong
+282	Pindahkan pindaian ke sini: tekan lama pindaian lalu pilih “Pindahkan ke folder”.
+283	Belum ada pindaian
+284	Ketuk “Pindai” untuk memotret halaman,\natau impor foto dari galeri.
+285	Nama folder
+286	Folder baru
+287	Gabungkan %d pindaian?
+288	Semua halaman ditambahkan ke “%s” sesuai urutan pilihan. Pindaian lainnya lalu dihapus.
+289	%d perlu diperiksa
+290	Memproses (%d/%d)
+291	Bagikan sebagai PDF
+292	Ubah kategori
+293	Tanpa folder
+294	Folder baru …
+295	Kategori
+296	Unduhan gagal: %s
+297	tidak ada koneksi
+298	Bahasa pengenalan teks
+299	Bahasa yang dipilih dikenali bersamaan – pilih yang perlu saja, setiap bahasa memperlambat pengenalan.
+300	Bahasa yang belum ada diunduh sekali (sekitar 2–15 MB) lalu berfungsi offline.
+301	Mengunduh … %d %%
+302	Termasuk
+303	Diunduh · %s
+304	Belum diunduh
+305	Ketuk untuk memilih · tekan dan seret untuk memindahkan
+306	Pindaian baru
+307	Pindahkan ke …
+308	Salin ke …
+309	Halaman %d dari %d
+310	Filter
+311	Potong
+312	Tanda tangani
+313	Kode
+314	Tautan
+315	Email
+316	Nomor telepon
+317	Lokasi
+318	Kode produk
+319	Jaringan: %s
+320	Kata sandi: %s
+321	Enkripsi: %s
+322	Salin kata sandi
+323	Sambungkan
+324	Tulis email
+325	Telepon
+326	Buka di peta
+327	Mencari data sensitif…
+328	Tidak ada yang sensitif. Seret dengan jari untuk menandai area yang disensor.
+329	Ditemukan – ketuk untuk memilih/membatalkan, seret untuk menambah area:
+330	Bilah hitam
+331	Piksel
+332	Sensor (%d)
+333	Manual
+334	Wajah
+335	Tidak ada Wi-Fi
+336	Hubungkan ponsel dan PC ke Wi-Fi yang sama (atau PC ke hotspot ponsel). Alamatnya lalu muncul di sini.
+337	Buka di browser PC
+338	Kode QR alamat
+339	Ketik alamat atau pindai kode QR dengan kamera PC. Di sana semua pindaian dapat diunduh sebagai PDF atau teks.
+340	Hanya di jaringan lokal dan hanya selama layar ini terbuka. Tidak ada yang diunggah ke internet.
+341	Diunduh
+342	Kunci aplikasi tidak memungkinkan
+343	Bahasa
+344	Bahasa aplikasi
+345	Pengambilan
+346	Halaman ganda di mode dokumen
+347	Pisahkan otomatis
+348	Jangan pisahkan
+349	Memotret begitu halaman diam di dalam bingkai.
+350	Mode buku
+351	Mengenali halaman dibalik dan memotret begitu buku diam lagi.
+352	Urutan baca
+353	Kiri → kanan
+354	Kanan → kiri
+355	Kanan → kiri untuk Arab, Ibrani, Persia, dan Jepang: halaman kanan lebih dulu.
+356	Pelepas rana jarak jauh
+357	Pasangkan pelepas rana Bluetooth (mis. “AB Shutter 3”) di pengaturan Bluetooth Android.
+358	Di kamera, pelepas rana dan tombol volume lalu mengambil foto.
+359	Gambar
+360	Filter bawaan
+361	Hapus tulisan tangan
+362	Menghapus catatan pena biru/merah dan pensil. Juga menghapus cetakan dengan warna tersebut.
+363	Pengenalan teks
+364	Bahasa
+365	Keamanan & penyimpanan
+366	Kunci aplikasi
+367	Buka dengan sidik jari, wajah, atau kunci layar saat dibuka. Isi disembunyikan di daftar aplikasi terbaru.
+368	Penggunaan, cadangan ZIP, pemulihan
+369	Pindaian yang dihapus dibuang setelah 30 hari
+370	Offline
+371	Semua foto dan teks tetap di perangkat ini. Internet hanya dipakai untuk mengunduh bahasa sekali, atas permintaan Anda.
+372	Tentang
+373	Komponen sumber terbuka: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (semua berlisensi Apache 2.0); ML Kit (terjemahan, deteksi wajah, di perangkat).
+374	Gambar tanda tangan
+375	Tanda tangani dengan jari
+376	Tempatkan tanda tangan
+377	Gambar ulang
+378	Geser dengan satu jari, ubah ukuran dengan dua jari.
+379	Tanda tangan
+380	Dipakai oleh Ultimate PDF Scanner
+381	%s tersedia di perangkat
+382	Halaman
+383	Foto asli
+384	Cache
+385	Kosongkan ruang
+386	Berkas yang diekspor untuk dibagikan
+387	Pindaian yang dihapus dalam 30 hari terakhir
+388	Halaman jadi tetap ada, tetapi potongan tidak dapat diubah lagi.
+389	Pindaian terbesar
+390	Cadangan
+391	Cadangkan semua pindaian dalam satu berkas ZIP – mis. ke kartu SD, flashdisk USB, atau PC. Tidak ada yang diunggah.
+392	Sertakan sampah
+393	UltimatePDFScanner-Cadangan_
+394	Pemulihan hanya menambahkan pindaian yang belum ada.
+395	Hapus foto asli?
+396	Menghemat %s. Halaman tidak dapat dipotong ulang; “Pindai ulang” tetap bisa.
+397	Edit teks · halaman %d
+398	Koreksi masuk ke pencarian dan lapisan teks PDF.
+399	Tidak ada teks yang dikenali – ketik di sini
+400	Pindaian yang dihapus dibuang permanen setelah %d hari.
+401	Sampah kosong
+402	Hapus permanen
+403	Kosongkan sampah?
+404	%d pindaian akan dihapus permanen. Ini tidak dapat diurungkan.
+405	Hapus permanen?
+406	“%s” akan langsung dihapus.
+407	tersisa 1 hari
+408	tersisa %d hari
+409	Struk
+410	Struk
+411	Faktur
+412	Faktur
+413	Kartu nama
+414	Kartu nama
+415	Kontrak
+416	Kontrak
+417	Surat
+418	Surat
+419	Kartu identitas
+420	Kartu identitas
+421	Buku
+422	Buku
+423	Pasfoto
+424	Pasfoto
+425	Dokumen
+426	Dokumen
+427	Resolusi
+428	Kompresi
+429	Rendah
+430	Tinggi
+431	300 dpi
+432	200 dpi
+433	150 dpi
+434	300 dpi dan kompresi rendah untuk cetak dan arsip, 150 dpi dan kompresi tinggi untuk email.
+435	Membuat PDF dapat dicari dan teks dapat disalin. Mati: pemrosesan lebih cepat, PDF hanya gambar.
+436	Halaman tidak terdeteksi
+437	Tepi halaman tidak ditemukan – seluruh foto dipakai.
+438	Buram
+439	Foto goyang atau tidak fokus.
+440	Terlalu gelap
+441	Halaman kurang cahaya.
+442	Teks sulit dibaca
+443	Pengenalan teks tidak yakin.
+444	Tidak ada teks yang dikenali
+445	Tidak ada teks di halaman ini – halaman kosong, atau tidak ada halaman di gambar?
+446	Hindi
+447	Bengali
+448	Urdu
+449	Indonesia
+450	Mendeteksi halaman
+451	Meratakan halaman
+452	Menghapus jari
+453	Memeriksa ketajaman
+454	Orientasi
+455	Menyempurnakan gambar
+456	Lokasi penyimpanan
+457	Lokasi penyimpanan ekspor
+458	Tanya setiap kali
+459	Pilih folder …
+460	“Simpan” langsung menaruh PDF dan ekspor lain di folder ini tanpa bertanya setiap kali. Kartu SD juga bisa.
+461	Disimpan di “%s”
+462	Lokasi penyimpanan tidak dapat dijangkau. Silakan pilih lagi.
+463	Ambil ulang
+464	Putar 90° ke kiri
+465	Halaman dihapus
+466	Tekan lama: ambil ulang, putar, atau hapus
+467	Mengganti kedua halaman
+468	Membersihkan tepi
+469	Kualitas pindai
+470	Cepat
+471	Standar
+472	Akurat
+473	Untuk tulisan besar dan jelas seperti surat dan cetakan: foto lebih kecil, pemrosesan tercepat.
+474	Untuk buku dan sebagian besar dokumen: pengenalan baik dengan kecepatan normal.
+475	Untuk huruf kecil, buku lama, catatan kaki, dan rumus: resolusi kamera penuh, lebih lambat, lebih banyak memori.
+476	GAMBAR
+477	Letakkan gambar rata · tanpa lampu kilat · hindari pantulan
+478	aktif
+479	nonaktif
+480	Jepret otomatis aktif: setelah halaman dibalik
+481	Jepret otomatis aktif: begitu halaman diam
+482	Jepret otomatis nonaktif
+483	PDF & ekspor
+484	Lokasi penyimpanan PDF dan gambar
+485	Dapat diubah untuk tiap file saat mengekspor.
+486	Opsi lainnya …

@@ -1,0 +1,482 @@
+1	Veuillez d’abord configurer une empreinte digitale, le déverrouillage facial ou un verrouillage de l’écran.
+2	Cet appareil ne prend pas en charge le déverrouillage biométrique.
+3	Déverrouiller Ultimate PDF Scanner
+4	Vos scans sont protégés
+5	Ultimate PDF Scanner est verrouillé
+6	Vos scans restent sur cet appareil.
+7	  Déverrouiller
+8	Langue du système
+9	Allemand
+10	Anglais
+12	Importer des photos
+13	Préparation de la reconnaissance de texte
+14	Une photo n’a pas pu être traitée : %s
+15	Chargement de la photo
+16	Photo illisible
+17	Application du filtre
+18	Caviarder
+19	Ajout de la signature
+20	Signature ajoutée
+21	Application des modifications
+22	Page modifiée
+23	Texte enregistré
+24	Fusionner
+25	%d scans fusionnés
+26	Déplacement des pages
+27	Copie des pages
+28	 (partie)
+29	Vider le cache
+30	Cache vidé
+31	Supprimer les photos d’origine
+32	Création de la sauvegarde
+33	Création de la sauvegarde (%d/%d)
+34	Sauvegarde enregistrée
+35	Restauration de la sauvegarde
+36	 (%d déjà présents)
+37	Échec de la restauration : %s
+38	Création du PDF (%d/%d)
+39	Création : %s
+40	Échec de l’export : %s
+41	Enregistrement : %s
+42	PDF enregistré (protégé par mot de passe, AES-256)
+43	%s enregistré
+44	Enregistrement des images
+45	Enregistrement des images (%d/%d)
+46	%d images enregistrées
+47	Détection de la langue
+48	Aucun texte reconnu à traduire
+49	Langue non reconnue
+50	Le texte est déjà en %s
+51	Chargement du modèle de langue (~30 Mo la première fois)
+52	Traduction (%d/%d)
+53	Page %d
+54	Échec de la traduction : %s
+55	1 zone caviardée
+56	%d zones caviardées
+57	1 scan restauré
+58	%d scans restaurés
+59	Le serveur a répondu %d
+60	Fichier incomplet
+61	Introuvable
+62	%d scans sur le téléphone · directement via le Wi-Fi, sans cloud
+63	La langue source « %s » n’est pas prise en charge
+64	La langue cible « %s » n’est pas prise en charge
+65	CODE QR
+66	PIÈCE D’IDENTITÉ
+67	DOCUMENT
+68	LIVRE
+69	CARTE DE VISITE
+70	PHOTO D’IDENTITÉ
+71	PDF
+72	Word
+73	Images
+74	ZIP
+75	Texte
+76	Excel
+77	CSV
+78	Contact
+79	Tel que scanné
+80	Letter
+82	Moyenne
+84	Anglais
+85	Français
+86	Italien
+87	Espagnol
+88	Portugais
+89	Néerlandais
+90	Polonais
+91	Tchèque
+92	Danois
+93	Suédois
+94	Norvégien
+95	Finnois
+96	Hongrois
+97	Roumain
+98	Croate
+99	Turc
+100	Grec
+101	Russe
+102	Ukrainien
+103	Arabe
+104	Hébreu
+105	Persan
+106	Chinois (simplifié)
+107	Japonais
+108	Coréen
+109	Latin
+110	Allemand (Fraktur)
+111	1 page
+112	%d pages
+113	1 scan
+114	%d scans
+115	Annuler
+116	Modifier
+117	Retour
+118	Annuler la dernière action
+119	Enregistrer
+120	Page
+121	Insérer
+122	Enregistrer les modifications ?
+123	Ignorer
+124	Fermer
+125	Terminé
+126	Ouvrir
+127	Aucune
+128	Toutes
+129	Renommer
+130	Plus
+131	Supprimer
+132	Partager
+133	Enregistrer
+134	Imprimer
+135	Copier
+136	Pivoter
+137	Télécharger
+138	Retirer
+139	Déplacer
+140	Nom
+141	Désactivé
+142	Vider
+143	Restaurer
+144	Ajouter du texte
+145	p. ex. nom, date …
+146	Aucun visage détecté – veuillez réessayer
+147	Rescanner la page
+148	Déclencheur à distance connecté
+149	Déclencher après chaque page tournée
+150	Sens de lecture de droite à gauche
+151	Sens de lecture de gauche à droite
+152	Déclenchement automatique
+153	Changer de caméra
+154	Lampe
+155	Veuillez autoriser l’accès à la caméra.
+156	Recadrage de la photo d’identité …
+157	Terminé sans verso
+158	Aucun code trouvé dans l’image
+159	Depuis la galerie
+160	Placez un code QR ou un code-barres dans le cadre
+161	Visage dans l’ovale · regard droit · fond clair
+162	Recto de la pièce d’identité dans le cadre
+163	Maintenant le verso
+164	Placez la carte de visite dans le cadre
+165	Placez le livre ouvert dans le champ
+166	Double page détectée
+167	Tournez la page – déclenchement automatique ensuite
+168	Ne bougez plus …
+169	Ne bougez plus – déclenchement automatique
+170	Placez la page dans le champ
+171	Page détectée
+172	Minuteur d’intervalle
+173	Démarrer la série
+174	Couleur
+175	Niveaux de gris
+176	Noir et blanc
+177	Original
+178	Automatique
+179	Recadrage impossible
+180	La photo d’origine de cette page a été supprimée pour gagner de la place. Utilisez « Rescanner » pour reprendre la page.
+181	Ajuster le recadrage
+182	Appliquer
+183	Page simple
+184	Double page
+185	Auto
+186	  Automatique
+187	Faites glisser les coins sur les bords de la page
+188	Organiser les pages
+189	%d sélectionnées
+190	Filtre pour toutes les pages
+191	Inverser le sens de lecture
+192	Traduire…
+193	Supprimer le scan
+194	Scanner
+195	Importer
+196	Organiser
+197	Exporter
+198	Traduire en …
+199	La traduction se fait sur l’appareil. Le modèle de langue est téléchargé une seule fois la première fois.
+200	Partager la traduction
+201	Supprimer le scan ?
+202	« %s » sera supprimé définitivement.
+203	Contact reconnu
+204	Ajouter aux contacts
+205	Traitement des pages (%d/%d)
+206	Appui long sur une page pour la rescanner
+207	Seulement celles-ci
+208	Nouveau traitement
+209	Reprendre
+210	Échec
+211	Photo non traitée
+212	Une erreur s’est produite lors du traitement de l’image.
+213	Aucun problème détecté
+214	Rescanner
+215	Remplace les deux pages de cette double page
+216	Ouvrir la caméra et remplacer cette page
+217	Avancer
+218	Reculer
+219	Supprimer la page
+220	Retirer la photo
+221	1 page déplacée
+222	%d pages déplacées
+223	1 page copiée
+224	%d pages copiées
+225	Supprimer 1 page ?
+226	Supprimer %d pages ?
+227	Vérifier 1 page
+228	Vérifier %d pages
+229	Supprimer la page ?
+230	PDF consultable avec le texte reconnu
+231	Texte modifiable pour Word, LibreOffice et Google Docs
+232	La page en image JPG
+233	Une image JPG par page (%d fichiers)
+234	Toutes les pages en JPG et le texte dans une archive
+235	Seulement le texte reconnu
+236	Tableaux reconnus, une feuille par page
+237	Tableaux reconnus en CSV (point-virgule, pour Excel)
+238	Carte de visite en contact (vCard)
+239	Recto et verso en taille réelle sur une page – prêt à imprimer
+240	Format de page
+241	Protéger par mot de passe
+242	Chiffrement AES-256
+243	Mot de passe
+244	Au moins 4 caractères
+245	Répéter le mot de passe
+246	Les mots de passe ne correspondent pas
+247	Inclure les images des pages
+248	Chaque page en image au-dessus de son texte
+249	Les colonnes sont reconnues grâce aux espaces dans le texte – cela fonctionne mieux avec des colonnes bien séparées. Les nombres comme « 1 234,50 » sont repris comme nombres.
+251	Aucune coordonnée n’a été reconnue sur cette carte.
+252	1 page sélectionnée
+253	%d pages sélectionnées
+254	Mobile
+255	Fax
+256	Téléphone
+257	Partager : %s
+258	Scan
+259	Partager le texte
+260	Partager le PDF
+261	Déplacé dans la corbeille
+262	%d scans déplacés dans la corbeille
+263	Quitter la sélection
+264	Tout sélectionner
+265	Déplacer dans un dossier
+266	Dossiers
+267	Renommer le dossier
+268	Supprimer le dossier
+269	Corbeille (%d)
+270	Corbeille
+271	Envoyer vers le PC
+272	Stockage et sauvegarde
+273	Paramètres
+274	Rechercher dans les scans et le texte
+275	Rechercher dans tous les scans
+276	Effacer la recherche
+277	%d résultats
+278	Tous les scans
+279	Aucun résultat
+280	Aucun nom ni texte reconnu ne correspond à « %s ».
+281	Le dossier est vide
+282	Déplacez des scans ici : appui long sur un scan, puis « Déplacer dans un dossier ».
+283	Aucun scan pour l’instant
+284	Touchez « Scanner » pour photographier des pages,\nou importez des photos depuis la galerie.
+285	Nom du dossier
+286	Nouveau dossier
+287	Fusionner %d scans ?
+288	Toutes les pages sont ajoutées à « %s » dans l’ordre de sélection. Les autres scans sont ensuite supprimés.
+289	%d à vérifier
+290	Traitement (%d/%d)
+291	Partager en PDF
+292	Changer de catégorie
+293	Aucun dossier
+294	Nouveau dossier …
+295	Catégorie
+296	Échec du téléchargement : %s
+297	pas de connexion
+298	Langues de la reconnaissance de texte
+299	Les langues choisies sont reconnues ensemble – ne choisissez que celles nécessaires, chaque langue ralentit la reconnaissance.
+300	Les langues manquantes sont téléchargées une fois (environ 2–15 Mo) et fonctionnent ensuite hors ligne.
+301	Téléchargement … %d %%
+302	Incluse
+303	Téléchargée · %s
+304	Non téléchargée
+305	Touchez pour sélectionner · maintenez et faites glisser pour déplacer
+306	Nouveau scan
+307	Déplacer vers …
+308	Copier vers …
+309	Page %d sur %d
+310	Filtre
+311	Recadrer
+312	Signer
+313	Code
+314	Lien
+315	E-mail
+316	Numéro de téléphone
+317	Lieu
+318	Code produit
+319	Réseau : %s
+320	Mot de passe : %s
+321	Chiffrement : %s
+322	Copier le mot de passe
+323	Se connecter
+324	Écrire un e-mail
+325	Appeler
+326	Ouvrir dans Maps
+327	Recherche de données sensibles…
+328	Rien de sensible trouvé. Tracez avec le doigt les zones à caviarder.
+329	Trouvé – touchez pour (dé)sélectionner, tracez pour ajouter des zones :
+330	Barre noire
+331	Pixelliser
+332	Caviarder (%d)
+333	Manuel
+334	Visage
+335	Pas de Wi-Fi
+336	Connectez le téléphone et le PC au même Wi-Fi (ou le PC au point d’accès du téléphone). L’adresse apparaît alors ici.
+337	Ouvrir dans le navigateur du PC
+338	Code QR de l’adresse
+339	Saisissez l’adresse ou scannez le code QR avec la caméra du PC. Tous les scans peuvent y être téléchargés en PDF ou en texte.
+340	Uniquement sur le réseau local et seulement tant que cet écran est ouvert. Rien n’est envoyé sur Internet.
+341	Téléchargé
+342	Verrouillage de l’application impossible
+343	Langue
+344	Langue de l’application
+345	Prise de vue
+346	Doubles pages en mode document
+347	Séparer automatiquement
+348	Ne jamais séparer
+349	Prend la photo dès que la page est stable dans le champ.
+350	Mode livre
+351	Détecte les pages tournées et déclenche dès que le livre est à nouveau stable.
+352	Sens de lecture
+353	Gauche → droite
+354	Droite → gauche
+355	Droite → gauche pour l’arabe, l’hébreu, le persan et le japonais : la page de droite vient en premier.
+356	Déclencheur à distance
+357	Associez un déclencheur Bluetooth (p. ex. « AB Shutter 3 ») dans les paramètres Bluetooth d’Android.
+358	Dans la caméra, le déclencheur et les touches de volume prennent alors la photo.
+359	Image
+360	Filtre par défaut
+361	Supprimer l’écriture manuscrite
+362	Supprime les notes au stylo bleu/rouge et au crayon. Supprime aussi l’impression dans ces couleurs.
+363	Reconnaissance de texte
+364	Langues
+365	Sécurité et stockage
+366	Verrouillage de l’application
+367	Déverrouiller par empreinte, visage ou verrouillage de l’écran à l’ouverture. Le contenu est masqué dans l’aperçu des applications récentes.
+368	Occupation, sauvegarde en ZIP, restauration
+369	Les scans supprimés sont effacés après 30 jours
+370	Hors ligne
+371	Toutes les photos et tous les textes restent sur cet appareil. Internet ne sert qu’à télécharger une fois des langues, à votre demande.
+372	À propos
+373	Composants open source : OpenCV, Tesseract OCR, PdfBox-Android, ZXing (tous sous licence Apache 2.0) ; ML Kit (traduction, détection de visage, sur l’appareil).
+374	Dessiner la signature
+375	Signez avec le doigt
+376	Placer la signature
+377	Redessiner
+378	Déplacer avec un doigt, redimensionner avec deux doigts.
+379	Signature
+380	Utilisé par Ultimate PDF Scanner
+381	%s libres sur l’appareil
+382	Pages
+383	Photos d’origine
+384	Cache
+385	Libérer de l’espace
+386	Fichiers exportés pour le partage
+387	Scans supprimés au cours des 30 derniers jours
+388	Les pages finies sont conservées, mais le recadrage ne peut plus être modifié.
+389	Plus gros scans
+390	Sauvegarde
+391	Sauvegardez tous les scans dans un fichier ZIP – p. ex. sur une carte SD, une clé USB ou le PC. Rien n’est envoyé en ligne.
+392	Inclure la corbeille
+393	UltimatePDFScanner-Sauvegarde_
+394	La restauration n’ajoute que les scans manquants.
+395	Supprimer les photos d’origine ?
+396	Économise %s. Les pages ne pourront plus être recadrées ; « Rescanner » reste possible.
+397	Modifier le texte · page %d
+398	Les corrections sont reprises dans la recherche et dans la couche texte du PDF.
+399	Aucun texte reconnu – saisissez-le ici
+400	Les scans supprimés sont effacés définitivement après %d jours.
+401	La corbeille est vide
+402	Supprimer définitivement
+403	Vider la corbeille ?
+404	%d scans seront supprimés définitivement. Cette action est irréversible.
+405	Supprimer définitivement ?
+406	« %s » sera supprimé immédiatement.
+407	encore 1 jour
+408	encore %d jours
+409	Reçu
+410	Reçus
+411	Facture
+412	Factures
+413	Carte de visite
+414	Cartes de visite
+415	Contrat
+416	Contrats
+417	Lettre
+418	Lettres
+419	Pièce d’identité
+420	Pièces d’identité
+421	Livre
+422	Livres
+423	Photo d’identité
+424	Photos d’identité
+425	Document
+426	Documents
+427	Résolution
+428	Compression
+429	Faible
+430	Forte
+431	300 dpi
+432	200 dpi
+433	150 dpi
+434	300 dpi et compression faible pour l’impression et l’archivage, 150 dpi et compression forte pour l’e-mail.
+435	Rend les PDF consultables et le texte copiable. Désactivé : traitement plus rapide, PDF uniquement en image.
+436	Aucune page détectée
+437	Le bord de la page n’a pas été trouvé – la photo entière a été utilisée.
+438	Flou
+439	La photo est bougée ou floue.
+440	Trop sombre
+441	La page est mal éclairée.
+442	Texte difficile à lire
+443	La reconnaissance de texte était incertaine.
+444	Aucun texte reconnu
+445	Aucun texte n’a été trouvé sur la page – une page blanche, ou aucune page dans l’image ?
+446	Hindi
+447	Bengali
+448	Ourdou
+449	Indonésien
+450	Détection de la page
+451	Redressement de la page
+452	Suppression des doigts
+453	Vérification de la netteté
+454	Orientation
+455	Amélioration de l'image
+456	Emplacement
+457	Emplacement des exports
+458	Demander à chaque fois
+459	Choisir un dossier …
+460	« Enregistrer » place les PDF et autres exports directement dans ce dossier, sans demander à chaque fois. Une carte SD convient aussi.
+461	Enregistré dans « %s »
+462	L'emplacement n'est pas accessible. Veuillez le choisir à nouveau.
+463	Reprendre
+464	Pivoter de 90° à gauche
+465	Page supprimée
+466	Appui long : reprendre, pivoter ou supprimer
+467	Remplace les deux pages
+468	Nettoyage des bords
+469	Qualité de numérisation
+470	Rapide
+471	Standard
+472	Précis
+473	Pour les textes grands et nets comme les lettres et impressions : photos plus petites, traitement le plus rapide.
+474	Pour les livres et la plupart des documents : bonne reconnaissance à vitesse normale.
+475	Pour les petits caractères, livres anciens, notes de bas de page et formules : pleine résolution de l’appareil photo, plus lent, plus de mémoire.
+476	IMAGE
+477	Posez l’image à plat · sans flash · évitez les reflets
+478	activé
+479	désactivé
+480	Déclenchement auto activé : après chaque page tournée
+481	Déclenchement auto activé : dès que la page est immobile
+482	Déclenchement auto désactivé
+483	PDF et export
+484	Emplacement des PDF et images
+485	Modifiable pour chaque fichier lors de l’export.
+486	Plus d’options …

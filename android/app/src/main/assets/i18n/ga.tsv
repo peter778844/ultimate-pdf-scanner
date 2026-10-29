@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Socraigh méarlorg, díghlasáil aghaidhe nó glas scáileáin ar dtús.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Ní thacaíonn an gléas seo le díghlasáil bhithmhéadrach.
+Ultimate PDF Scanner entsperren	Díghlasáil Ultimate PDF Scanner
+Deine Scans sind geschützt	Tá do scananna cosanta
+Ultimate PDF Scanner ist gesperrt	Tá Ultimate PDF Scanner faoi ghlas
+Deine Scans bleiben auf diesem Gerät.	Fanann do scananna ar an ngléas seo.
+  Entsperren	  Díghlasáil
+Systemsprache	Teanga an chórais
+Deutsch	Deutsch
+English	English
+Fotos importieren	Iompórtáil grianghraif
+Texterkennung vorbereiten	Ag ullmhú aitheantas téacs
+Ein Foto konnte nicht verarbeitet werden: %s	Níorbh fhéidir an íomhá a phróiseáil: %s
+Foto laden	Íomhá á lódáil
+Foto nicht lesbar	Ní féidir an íomhá a léamh
+Filter anwenden	Cuir scagaire i bhfeidhm
+Schwärzen	Dubhaigh
+Unterschrift einfügen	Cuir síniú isteach
+Unterschrift eingefügt	Síniú curtha isteach
+Änderungen einfügen	Cuir athruithe isteach
+Seite bearbeitet	Leathanach curtha in eagar
+Text gesichert	Téacs sábháilte
+Zusammenführen	Cumaisc
+%d Scans zusammengeführt	Scananna cumaiscthe: %d
+Seiten verschieben	Bog leathanaigh
+Seiten kopieren	Cóipeáil leathanaigh
+ (Teil)	 (cuid)
+Zwischenspeicher leeren	Glan an taisce
+Zwischenspeicher geleert	Taisce glanta
+Originalfotos entfernen	Bain na bunghrianghraif
+Sicherung erstellen	Cruthaigh cúltaca
+Sicherung erstellen (%d/%d)	Cúltaca á chruthú (%d/%d)
+Sicherung gespeichert	Cúltaca sábháilte
+Sicherung wiederherstellen	Athchóirigh cúltaca
+ (%d schon vorhanden)	 (%d ann cheana)
+Wiederherstellen fehlgeschlagen: %s	Theip ar athchóiriú: %s
+PDF erstellen (%d/%d)	PDF á chruthú (%d/%d)
+%s erstellen	Á chruthú: %s
+Export fehlgeschlagen: %s	Theip ar easpórtáil: %s
+%s speichern	Á shábháil: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF sábháilte (cosanta le pasfhocal, AES-256)
+%s gespeichert	Sábháilte: %s
+Bilder speichern	Sábháil íomhánna
+Bilder speichern (%d/%d)	Íomhánna á sábháil (%d/%d)
+%d Bilder gespeichert	Íomhánna sábháilte: %d
+Sprache erkennen	Teanga á haithint
+Kein erkannter Text zum Übersetzen	Níl aon téacs aitheanta le haistriú
+Sprache nicht erkannt	Níor aithníodh an teanga
+Der Text ist bereits auf %s	Tá an téacs i %s cheana
+Sprachmodell laden (beim ersten Mal ~30 MB)	Samhail teanga á lódáil (an chéad uair ~30 MB)
+Übersetzen (%d/%d)	Aistriúchán (%d/%d)
+Seite %d	Leathanach %d
+Übersetzung fehlgeschlagen: %s	Theip ar an aistriúchán: %s
+1 Bereich unkenntlich gemacht	1 limistéar dubhaithe
+%d Bereiche unkenntlich gemacht	Limistéir dhubhaithe: %d
+1 Scan wiederhergestellt	1 scan athchóirithe
+%d Scans wiederhergestellt	Scananna athchóirithe: %d
+Server antwortet mit %d	Freagraíonn an freastalaí le %d
+Datei unvollständig	Comhad neamhiomlán
+Nicht gefunden	Gan aimsiú
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Scananna ar an bhfón: %d · go díreach thar Wi-Fi, gan néal
+Ausgangssprache „%s“ wird nicht unterstützt	Ní thacaítear leis an teanga foinse „%s“
+Zielsprache „%s“ wird nicht unterstützt	Ní thacaítear leis an sprioctheanga „%s“
+QR-CODE	CÓD QR
+AUSWEIS	CÁIPÉIS AITHEANTAIS
+DOKUMENT	CÁIPÉIS
+BUCH	LEABHAR
+VISITENKARTE	CÁRTA GNÓ
+PASSFOTO	GRIANGHRAF PAS
+PDF	PDF
+Word	Word
+Bilder	Íomhánna
+ZIP	ZIP
+Text	Téacs
+Excel	Excel
+CSV	CSV
+Kontakt	Teagmháil
+Wie gescannt	Mar a scanadh
+Letter	Letter
+Mittel	Meánach
+Englisch	Béarla
+Französisch	Fraincis
+Italienisch	Iodáilis
+Spanisch	Spáinnis
+Portugiesisch	Portaingéilis
+Niederländisch	Ollainnis
+Polnisch	Polainnis
+Tschechisch	Seicis
+Dänisch	Danmhairgis
+Schwedisch	Sualainnis
+Norwegisch	Ioruais
+Finnisch	Fionlainnis
+Ungarisch	Ungáiris
+Rumänisch	Rómáinis
+Kroatisch	Cróitis
+Türkisch	Tuircis
+Griechisch	Gréigis
+Russisch	Rúisis
+Ukrainisch	Úcráinis
+Arabisch	Araibis
+Hebräisch	Eabhrais
+Persisch	Peirsis
+Chinesisch (vereinfacht)	Sínis (simplithe)
+Japanisch	Seapáinis
+Koreanisch	Cóiréis
+Latein	Laidin
+Deutsch (Fraktur)	Gearmáinis (cló Gotach)
+1 Seite	1 leathanach
+%d Seiten	%d leathanach
+1 Scan	1 scan
+%d Scans	%d scan
+Abbrechen	Cealaigh
+Bearbeiten	Cuir in eagar
+Zurück	Siar
+Rückgängig	Cealaigh
+Sichern	Sábháil
+Seite	Leathanach
+Einfügen	Cuir isteach
+Änderungen sichern?	Sábháil athruithe?
+Verwerfen	Caith uait
+Schließen	Dún
+Fertig	Déanta
+Öffnen	Oscail
+Keine	Dada
+Alle	Uile
+Umbenennen	Athainmnigh
+Mehr	Tuilleadh
+Löschen	Scrios
+Teilen	Comhroinn
+Speichern	Sábháil
+Drucken	Priontáil
+Kopieren	Cóipeáil
+Drehen	Rothlaigh
+Laden	Íoslódáil
+Entfernen	Bain
+Verschieben	Bog
+Name	Ainm
+Aus	As
+Leeren	Folmhaigh
+Wiederherstellen	Athchóirigh
+Text einfügen	Cuir téacs isteach
+z. B. Name, Datum …	m.sh. ainm, dáta …
+Kein Gesicht erkannt – bitte noch einmal	Níor aithníodh aghaidh – bain triail eile as
+Seite erneut scannen	Scan an leathanach arís
+Fernauslöser verbunden	Scaoilteoir cianda ceangailte
+Nach dem Umblättern auslösen	Scaoil tar éis leathanach a iompú
+Leserichtung rechts nach links	Treo léitheoireachta ó dheis go clé
+Leserichtung links nach rechts	Treo léitheoireachta ó chlé go deas
+Automatisch auslösen	Gabháil uathoibríoch
+Kamera wechseln	Athraigh ceamara
+Licht	Solas
+Bitte Kamerazugriff erlauben.	Ceadaigh rochtain ar an gceamara.
+Passfoto wird zugeschnitten …	Grianghraf pas á ghearradh …
+Ohne Rückseite fertig	Críochnaigh gan an cúl
+Kein Code im Bild gefunden	Níor aimsíodh cód san íomhá
+Aus Galerie	Ón ngailearaí
+QR-Code oder Barcode in den Rahmen halten	Coinnigh an cód QR nó an barrachód laistigh den fhráma
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Aghaidh san ubhchruth · féach díreach romhat · cúlra geal
+Vorderseite des Ausweises in den Rahmen	Taobh tosaigh na cáipéise aitheantais sa fhráma
+Jetzt die Rückseite	Anois an cúl
+Visitenkarte in den Rahmen legen	Leag an cárta gnó sa fhráma
+Aufgeschlagenes Buch ins Bild halten	Coinnigh an leabhar oscailte san amharc
+Doppelseite erkannt	Leathanach dúbailte aitheanta
+Umblättern – löst danach automatisch aus	Iompaigh an leathanach – scaoilfear go huathoibríoch
+Ruhig halten …	Coinnigh socair …
+Ruhig halten – wird automatisch ausgelöst	Coinnigh socair – scaoilfear go huathoibríoch
+Seite ins Bild halten	Coinnigh an leathanach san amharc
+Seite erkannt	Leathanach aitheanta
+Intervall-Timer	Lasc ama le heatramh
+Serie starten	Tosaigh sraith
+Farbe	Dath
+Graustufen	Liathscála
+Schwarz-Weiß	Dubh agus bán
+Original	Bunleagan
+Automatisch	Uathoibríoch
+Zuschnitt nicht möglich	Ní féidir é a ghearradh
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Baineadh bunghrianghraf an leathanaigh seo chun spás a shábháil. Le „Scan arís“ is féidir an leathanach a thógáil arís.
+Zuschnitt anpassen	Ceartaigh an gearradh
+Übernehmen	Cuir i bhfeidhm
+Einzelseite	Leathanach aonair
+Doppelseite	Leathanach dúbailte
+Auto	Uath
+  Automatisch	  Uathoibríoch
+Ecken auf die Seitenränder ziehen	Tarraing na coirnéil go himill an leathanaigh
+Seiten ordnen	Socraigh leathanaigh
+%d ausgewählt	%d roghnaithe
+Filter für alle Seiten	Scagaire do gach leathanach
+Leserichtung umkehren	Aisiompaigh an treo léitheoireachta
+Übersetzen…	Aistrigh…
+Scan löschen	Scrios an scan
+Scannen	Scan
+Import	Iompórtáil
+Ordnen	Socraigh
+Exportieren	Easpórtáil
+Übersetzen in …	Aistrigh go …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Déantar an t-aistriúchán ar an ngléas. An chéad uair íoslódáiltear an tsamhail teanga uair amháin.
+Übersetzung teilen	Comhroinn an t-aistriúchán
+Scan löschen?	Scrios an scan?
+„%s“ wird endgültig gelöscht.	Scriosfar „%s“ go buan.
+Kontakt erkannt	Teagmháil aitheanta
+Zu Kontakten	Chuig teagmhálacha
+Seiten werden verarbeitet (%d/%d)	Leathanaigh á bpróiseáil (%d/%d)
+Nur diese	Na cinn seo amháin
+Wird neu verarbeitet	Athphróiseáilte
+Erneut	Arís
+Fehlgeschlagen	Theip air
+Foto nicht verarbeitet	Íomhá nár próiseáladh
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Tharla earráid le linn próiseála na híomhá.
+Keine Auffälligkeiten	Gan nótaí
+Erneut scannen	Scan arís
+Ersetzt beide Seiten dieser Doppelseite	Cuirtear in ionad an dá leathanach den leathanach dúbailte seo
+Kamera öffnen und diese Seite ersetzen	Oscail an ceamara agus cuir in ionad an leathanaigh seo
+Nach vorn	Ar aghaidh
+Nach hinten	Ar gcúl
+Seite löschen	Scrios an leathanach
+Foto entfernen	Bain an íomhá
+1 Seite verschoben	1 leathanach bogtha
+%d Seiten verschoben	Leathanaigh bhogtha: %d
+1 Seite kopiert	1 leathanach cóipeáilte
+%d Seiten kopiert	Leathanaigh chóipeáilte: %d
+1 Seite löschen?	Scrios 1 leathanach?
+%d Seiten löschen?	Scrios %d leathanach?
+1 Seite prüfen	Seiceáil 1 leathanach
+%d Seiten prüfen	Seiceáil %d leathanach
+Seite löschen?	Scrios an leathanach?
+Durchsuchbares PDF mit erkanntem Text	PDF inchuardaithe le téacs aitheanta
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Téacs in-eagarthóireachta do Word, LibreOffice agus Google Docs
+Die Seite als JPG-Bild	An leathanach mar íomhá JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Íomhá JPG amháin in aghaidh an leathanaigh (%d comhad)
+Alle Seiten als JPG und der Text in einem Archiv	Gach leathanach mar JPG agus an téacs i gcartlann amháin
+Nur der erkannte Text	An téacs aitheanta amháin
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Táblaí aitheanta, bileog oibre amháin in aghaidh an leathanaigh
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Táblaí aitheanta mar CSV (leathstad, do Excel)
+Visitenkarte als Kontakt (vCard)	Cárta gnó mar theagmháil (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Tosach agus cúl i bhfíormhéid ar leathanach amháin – réidh le priontáil
+Seitenformat	Formáid leathanaigh
+Mit Passwort schützen	Cosain le pasfhocal
+AES-256-Verschlüsselung	Criptiúchán AES-256
+Passwort	Pasfhocal
+Mindestens 4 Zeichen	4 charachtar ar a laghad
+Passwort wiederholen	Athdhéan an pasfhocal
+Passwörter stimmen nicht überein	Ní hionann na pasfhocail
+Seitenbilder einfügen	Cuir íomhánna leathanaigh isteach
+Jede Seite als Bild über ihrem Text	Gach leathanach mar íomhá os cionn an téacs
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Aithnítear colúin ó na bearnaí sa téacs – is fearr a oibríonn sé le colúin atá scartha go soiléir. Glactar le huimhreacha cosúil le „1.234,50“ mar uimhreacha.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Níor aithníodh sonraí teagmhála ar an gcárta seo.
+1 ausgewählte Seite	1 leathanach roghnaithe
+%d ausgewählte Seiten	%d leathanach roghnaithe
+Mobil	Fón póca
+Fax	Facs
+Telefon	Fón
+%s teilen	Comhroinn: %s
+Scan	Scan
+Text teilen	Comhroinn téacs
+PDF teilen	Comhroinn PDF
+In den Papierkorb verschoben	Bogtha go dtí an bruscar
+%d Scans in den Papierkorb verschoben	Scananna bogtha go dtí an bruscar: %d
+Auswahl beenden	Críochnaigh an roghnú
+Alle auswählen	Roghnaigh uile
+In Ordner verschieben	Bog go fillteán
+Ordner	Fillteáin
+Ordner umbenennen	Athainmnigh an fillteán
+Ordner auflösen	Scaoil an fillteán
+Papierkorb (%d)	Bruscar (%d)
+Papierkorb	Bruscar
+An PC senden	Seol chuig ríomhaire
+Speicher & Sicherung	Stóráil agus cúltaca
+Einstellungen	Socruithe
+Scans und Text durchsuchen	Cuardaigh scananna agus téacs
+Alle Scans durchsuchen	Cuardaigh gach scan
+Suche löschen	Glan an cuardach
+%d Treffer	%d torthaí
+Alle Scans	Gach scan
+Nichts gefunden	Níor aimsíodh aon rud
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Ní mheaitseálann ainm ná téacs aitheanta „%s“.
+Ordner ist leer	Tá an fillteán folamh
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Bog scananna anseo: coinnigh do mhéar ar scan agus roghnaigh „Bog go fillteán“.
+Noch keine Scans	Gan scananna fós
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Brúigh „Scan“ chun leathanaigh a ghrianghrafadh,\nnó iompórtáil grianghraif ón ngailearaí.
+Ordnername	Ainm an fhillteáin
+Neuer Ordner	Fillteán nua
+%d Scans zusammenführen?	Cumaisc %d scan?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Cuirtear gach leathanach le „%s“ in ord an roghnaithe. Imíonn na scananna eile ansin.
+%d prüfen	Seiceáil %d
+Wird verarbeitet (%d/%d)	Á phróiseáil (%d/%d)
+Als PDF teilen	Comhroinn mar PDF
+Kategorie ändern	Athraigh an chatagóir
+Kein Ordner	Gan fillteán
+Neuer Ordner …	Fillteán nua …
+Kategorie	Catagóir
+Download fehlgeschlagen: %s	Theip ar an íoslódáil: %s
+keine Verbindung	gan nasc
+Sprachen der Texterkennung	Teangacha aitheantais téacs
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Aithnítear na teangacha roghnaithe le chéile – roghnaigh an méid atá ag teastáil amháin, cuireann gach teanga bhreise moill ar an aitheantas. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Íoslódáiltear teangacha atá in easnamh uair amháin (thart ar 2–15 MB) agus oibríonn siad as líne ina dhiaidh sin.
+Wird geladen … %d %%	Á íoslódáil … %d %%
+Enthalten	San áireamh
+Geladen · %s	Íoslódáilte · %s
+Nicht geladen	Gan íoslódáil
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Tapáil chun roghnú · coinnigh agus tarraing chun bogadh
+Neuer Scan	Scan nua
+Verschieben nach …	Bog go …
+Kopieren nach …	Cóipeáil go …
+Seite %d von %d	Leathanach %d de %d
+Filter	Scagaire
+Zuschnitt	Gearradh
+Signieren	Sínigh
+Code	Cód
+Link	Nasc
+E-Mail	Ríomhphost
+Telefonnummer	Uimhir theileafóin
+Ort	Áit
+Produktcode	Uimhir earra
+Netzwerk: %s	Líonra: %s
+Passwort: %s	Pasfhocal: %s
+Verschlüsselung: %s	Criptiúchán: %s
+Passwort kopieren	Cóipeáil an pasfhocal
+Verbinden	Ceangail
+E-Mail schreiben	Scríobh ríomhphost
+Anrufen	Glaoigh
+In Karten öffnen	Oscail i Léarscáileanna
+Suche sensible Daten…	Sonraí íogaire á lorg…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Níor aimsíodh aon rud íogair. Tarraing do mhéar thar limistéir le dubhú.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Aimsithe – tapáil chun roghnú nó díroghnú, tarraing tuilleadh limistéar:
+Schwarzer Balken	Barra dubh
+Verpixeln	Picteilíniú
+Unkenntlich machen (%d)	Dubhaigh (%d)
+Manuell	De láimh
+Gesicht	Aghaidh
+Kein WLAN	Gan Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Ceangail an fón agus an ríomhaire leis an Wi-Fi céanna (nó an ríomhaire le hotspot an fhóin). Taispeántar an seoladh anseo ansin.
+Am PC im Browser öffnen	Oscail i mbrabhsálaí an ríomhaire
+QR-Code der Adresse	Cód QR an tseolta
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Cuir isteach an seoladh nó scan an cód QR le ceamara an ríomhaire. Is féidir leat gach scan a íoslódáil ansin mar PDF nó téacs.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Sa líonra áitiúil amháin agus fad atá an scáileán seo oscailte amháin. Ní sheoltar aon rud chuig an idirlíon.
+Heruntergeladen	Íoslódáilte
+App-Sperre nicht möglich	Níl glas aipe ar fáil
+Sprache	Teanga
+Sprache der App	Teanga na haipe
+Aufnahme	Gabháil
+Doppelseiten im Dokument-Modus	Leathanaigh dhúbailte i mód cáipéise
+Automatisch teilen	Roinn go huathoibríoch
+Nie teilen	Ná roinn riamh
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Scaoileann sé a luaithe a bhíonn an leathanach socair san amharc.
+Buch-Modus	Mód leabhair
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Aithníonn sé iompú leathanaigh agus scaoileann sé a luaithe a bhíonn an leabhar socair arís.
+Leserichtung	Treo léitheoireachta
+Links → rechts	Clé → deas
+Rechts → links	Deas → clé
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Deas → clé d'Araibis, Eabhrais, Peirsis agus Seapáinis: tagann an leathanach ar dheis ar dtús.
+Fernauslöser	Scaoilteoir cianda
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Péireáil scaoilteoir ceamara Bluetooth (m.sh. „AB Shutter 3“) i socruithe Bluetooth Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Sa cheamara scaoileann sé agus na cnaipí airde ansin.
+Bild	Íomhá
+Standardfilter	Scagaire réamhshocraithe
+Handschrift entfernen	Bain lámhscríbhneoireacht
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Baineann sé nótaí le peann gorm/dearg agus peann luaidhe. Baineann sé priontáil sna dathanna sin freisin.
+Texterkennung	Aitheantas téacs
+Sprachen	Teangacha
+Sicherheit & Speicher	Slándáil agus stóráil
+App-Sperre	Glas aipe
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Díghlasáil ag tosú le méarlorg, aghaidh nó glas scáileáin. Ní thaispeántar ábhar san fhorbhreathnú aipeanna.
+Belegung, Backup als ZIP, Wiederherstellen	Úsáid, cúltaca mar ZIP, athchóiriú
+Gelöschte Scans werden nach 30 Tagen entfernt	Baintear scananna scriosta tar éis 30 lá
+Offline	As líne
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Fanann gach íomhá agus téacs ar an ngléas seo. Ní úsáidtear an t-idirlíon ach chun teangacha a íoslódáil uair amháin, má tá sé agat.
+Über	Maidir leis an aip
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Comhpháirteanna foinse oscailte: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (uile Apache License 2.0); ML Kit (aistriúchán, braiteoir aghaidhe, ar an ngléas).
+Unterschrift zeichnen	Tarraing síniú
+Mit dem Finger unterschreiben	Sínigh le do mhéar
+Unterschrift platzieren	Cuir an síniú in áit
+Neu zeichnen	Tarraing arís
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Bog le méar amháin, athraigh méid le dhá mhéar.
+Unterschrift	Síniú
+Belegt von Ultimate PDF Scanner	In úsáid ag Ultimate PDF Scanner
+%s frei auf dem Gerät	%s saor ar an ngléas
+Seiten	Leathanaigh
+Originalfotos	Bunghrianghraif
+Zwischenspeicher	Taisce
+Platz schaffen	Saor spás
+Exportierte Dateien zum Teilen	Comhaid easpórtáilte le comhroinnt
+Gelöschte Scans der letzten 30 Tage	Scananna scriosta le 30 lá anuas
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Fanann na leathanaigh chríochnaithe, ach ní féidir an gearradh a athrú níos déanaí.
+Größte Scans	Na scananna is mó
+Sicherung	Cúltaca
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Sábháil gach scan i gcomhad ZIP amháin – m.sh. ar chárta SD, méaróg USB nó ríomhaire. Ní sheoltar aon rud chuig an idirlíon.
+Papierkorb mitsichern	Cuir an bruscar san áireamh
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-cultaca_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Le linn athchóirithe ní chuirtear leis ach scananna atá in easnamh.
+Originalfotos entfernen?	Bain na bunghrianghraif?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Sábhálann sé %s. Ní féidir leathanaigh a ghearradh arís, ach beidh „Scan arís“ fós indéanta.
+Text bearbeiten · Seite %d	Cuir téacs in eagar · leathanach %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Téann ceartúcháin isteach sa chuardach agus i gciseal téacs an PDF.
+Kein Text erkannt – hier eintippen	Níor aithníodh téacs – clóscríobh anseo é
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Baintear scananna scriosta go buan tar éis %d lá.
+Papierkorb ist leer	Tá an bruscar folamh
+Endgültig löschen	Scrios go buan
+Papierkorb leeren?	Folmhaigh an bruscar?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	Scriosfar %d scan go buan. Ní féidir é seo a chealú.
+Endgültig löschen?	Scrios go buan?
+„%s“ wird sofort gelöscht.	Scriosfar „%s“ láithreach.
+noch 1 Tag	1 lá fágtha
+noch %d Tage	%d lá fágtha
+Quittung	Admháil
+Quittungen	Admhálacha
+Rechnung	Sonrasc
+Rechnungen	Sonraisc
+Visitenkarte	Cárta gnó
+Visitenkarten	Cártaí gnó
+Vertrag	Conradh
+Verträge	Conarthaí
+Brief	Litir
+Briefe	Litreacha
+Ausweis	Cáipéis aitheantais
+Ausweise	Cáipéisí aitheantais
+Buch	Leabhar
+Bücher	Leabhair
+Passfoto	Grianghraf pas
+Passfotos	Grianghraif phas
+Dokument	Cáipéis
+Dokumente	Cáipéisí
+Auflösung	Taifeach
+Kompression	Comhbhrú
+Gering	Íseal
+Stark	Ard
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi agus comhbhrú íseal le haghaidh priontála agus cartlannaithe, 150 dpi agus comhbhrú ard le haghaidh ríomhphoist.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Déanann sé PDFanna inchuardaithe agus an téacs in-chóipeáilte. As: próiseáil níos tapúla, PDF mar íomhá amháin.
+Keine Seite erkannt	Níor aithníodh leathanach
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Níor aimsíodh imeall an leathanaigh – úsáideadh an grianghraf iomlán.
+Unscharf	Doiléir
+Das Foto ist verwackelt oder unscharf.	Tá an grianghraf croite nó doiléir.
+Zu dunkel	Ró-dhorcha
+Die Seite ist schlecht ausgeleuchtet.	Tá an leathanach lasta go dona.
+Text schlecht lesbar	Is deacair an téacs a léamh
+Die Texterkennung war unsicher.	Bhí an t-aitheantas téacs neamhchinnte.
+Kein Text erkannt	Níor aithníodh téacs
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Níor aimsíodh téacs ar an leathanach – leathanach bán nó gan leathanach ar chor ar bith sa ghrianghraf?
+Hindi	Hiondúis
+Bengalisch	Beangáilis
+Urdu	Urdúis
+Indonesisch	Indinéisis
+Seite erkennen	Aithin an leathanach
+Seite entzerren	Díreáil an leathanach
+Finger entfernen	Bain méara
+Schärfe prüfen	Seiceáil géire
+Ausrichtung	Treoshuíomh
+Bild verbessern	Feabhsaigh an íomhá
+Speicherort	Láthair stórála
+Speicherort für Exporte	Láthair stórála don easpórtáil
+Jedes Mal fragen	Fiafraigh gach uair
+Ordner wählen …	Roghnaigh fillteán …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	Cuireann „Sábháil“ PDFanna agus easpórtálacha eile go díreach san fhillteán seo gan fiafraí gach uair. Is féidir cárta SD a úsáid freisin.
+Gespeichert in „%s“	Sábháilte i „%s“
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Níl an láthair stórála inrochtana. Roghnaigh arís í.
+Neu aufnehmen	Tóg arís
+Um 90° links drehen	Rothlaigh 90° ar chlé
+Seite gelöscht	Leathanach scriosta
+Lange drücken: neu aufnehmen, drehen oder löschen	Coinnigh: tóg arís, rothlaigh nó scrios
+Ersetzt beide Seiten	Cuirtear in ionad an dá leathanach
+Ränder bereinigen	Glan imill
+Scan-Qualität	Cáilíocht scanta
+Schnell	Tapa
+Standard	Caighdeánach
+Genau	Beacht
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Do chló mór soiléir mar litreacha agus priontaí: íomhánna níos lú, an phróiseáil is tapúla.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Do leabhair agus formhór na gcáipéisí: aitheantas maith ar ghnáthluas.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Do chló beag, seanleabhair, fonótaí agus foirmlí: taifeach iomlán an cheamara, níos moille, níos mó cuimhne.
+BILD	GRIANGHRAF
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Leag an grianghraf cothrom · gan splanc · seachain frithchaitheamh
+an	ar siúl
+aus	as
+Automatische Auslösung an: nach dem Umblättern	Gabháil uathoibríoch ar siúl: tar éis leathanach a iompú
+Automatische Auslösung an: sobald die Seite ruhig liegt	Gabháil uathoibríoch ar siúl: a luaithe a bhíonn an leathanach socair
+Automatische Auslösung aus	Gabháil uathoibríoch as
+PDF & Export	PDF agus easpórtáil
+Speicherort für PDFs und Bilder	Láthair stórála do PDFanna agus íomhánna
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Le linn easpórtála is féidir é seo a athrú do chomhaid aonair.
+Weitere Optionen …	Tuilleadh roghanna …
+Automatische Verbesserung	Feabhsú uathoibríoch
+Schatten und Artefakte entfernen, Schrift schärfen	Bain scáthanna agus lochtanna, géaraigh an cló
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Bain scáthanna agus lochtanna, géaraigh an cló. Is féidir é a mhúchadh in aghaidh na cáipéise.
+unkorrigiert	gan cheartú
+Maximal	Uasmhéid
+Bildqualität	Cáilíocht íomhá
+volle Auflösung	taifeach iomlán
+Briefe, Ausdrucke, große Schrift	Litreacha, priontaí, cló mór
+Bücher und die meisten Dokumente (empfohlen)	Leabhair agus formhór na gcáipéisí (molta)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Cló beag, foirmlí, seanleabhair – níos moille
+Gilt auch für alle weiteren Scans.	Baineann sé le gach scan ina dhiaidh seo freisin.
+Ändern	Athraigh
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Cá gcuireann „Sábháil“ d'easpórtálacha. Ní théann sé i bhfeidhm ar „Comhroinn“.
+Ordner und Dateiname beim Speichern wählen	Roghnaigh fillteán agus ainm comhaid le linn sábhála
+Exporte landen direkt hier	Téann easpórtálacha go díreach anseo
+Anderen Ordner wählen …	Roghnaigh fillteán eile …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Cártaí SD agus fillteáin néil freisin, má tá siad suiteáilte ar an ngléas.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Níl rochtain bhuan ar an bhfillteán seo indéanta.
+Sehr hohe Auflösung	Taifeach an-ard
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Ag %d MP tógann próiseáil gach leathanaigh i bhfad níos faide agus teastaíonn go leor cuimhne. Is leor „Caighdeánach“ d'fhormhór na gcáipéisí. Ní fiú „Uasmhéid“ ach do chló an-bheag.
+Trotzdem verwenden	Úsáid mar sin féin
+langsam	mall
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Níl scaoilteoir cianda ceangailte – péireáil é i socruithe Bluetooth
+Mit dem Fernauslöser auslösen	Scaoil le scaoilteoir cianda
+Umblättern	Iompú leathanaigh
+Auto 0,7 s	Uath 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Críochnaíonn sé an ghabháil. Fanann leathanaigh atá tógtha cheana agus próiseáiltear iad.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Lasann nó múchann sé an tóirse. Is fearr páipéar snasta a ghrianghrafadh gan solas agus go fiar ón bhfuinneog.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Úsáideann sé grianghraif atá ann cheana in ionad grianghraf nua.
+Serie	Sraith
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Tosaíonn nó stopann sé an tsraith: tógann an lasc ama grianghraf go huathoibríoch gach cúpla soicind ansin.
+Auslöser	Scaoilteoir
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Tógann sé grianghraf. Scaoileann na cnaipí airde agus scaoilteoir Bluetooth freisin.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Críochnaíonn sé an ghabháil agus osclaíonn sé an forbhreathnú; taispeánann an uimhir grianghraif na gabhála seo.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Cé mhéad picteilín atá i ngach grianghraf. Tapa (5 MP) do chló mór, Caighdeánach (12 MP) do bheagnach gach rud, Uasmhéid do chló beag agus foirmlí – tógann sé níos faide.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Tapáil chun athrú: as, 3, 5 nó 10 soicind. Tosaíonn an scaoilteoir sraith ansin le grianghraf ag an eatramh seo – úsáideach do leabhair.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Ní thógann sé grianghraf ach nuair a bhrúnn tú an scaoilteoir.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Scaoileann sé leis féin a luaithe a bhíonn an leathanach socair ar feadh 0,7 soicind. I mód leabhair: tar éis gach iompú leathanaigh, a luaithe a bhíonn an leabhar socair arís.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Scaoileann sé le scaoilteoir Bluetooth (m.sh. „AB Shutter 3“). Péireáil an scaoilteoir ar dtús i socruithe Bluetooth an fhóin.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Tugann sé a ainm féin don cháipéis; úsáidtear é mar ainm comhaid le linn easpórtála freisin.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Aisiompaigh treo léitheoireachta leathanach dúbailte, aistrigh ar an ngléas nó scrios an scan.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Osclaíonn sé an ceamara agus cuireann sé tuilleadh leathanach leis an gcáipéis seo.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Tógann sé grianghraif ón ngailearaí mar leathanaigh nua; gearrtar agus aithnítear iad mar ghrianghraif cheamara.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Athraigh an t-ord trí tharraingt; roghnaigh leathanaigh chun iad a rothlú, a bhogadh, a chóipeáil, a scaradh nó a scriosadh.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Comhroinn, sábháil nó priontáil mar PDF, Word, íomhánna, ZIP, téacs nó tábla.
+Farbe, Graustufen, Schwarz-Weiß	Dath, liathscála, dubh agus bán
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Athraíonn sé gach leathanach den cháipéis seo. Tugann dubh agus bán na comhaid is lú, léiríonn dath grianghraif agus stampaí go dílis.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Ar siúl: baintear scáthanna, smáil agus lochtanna agus éiríonn an cló níos géire. As: ní dhéantar ach na leathanaigh a ghearradh agus a dhíriú – do ghrianghraif, líníochtaí nó nuair a shaobhann an feabhsú rud éigin.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Cruthaíonn sé an comhad agus tugann sé d'aip é, m.sh. ríomhphost, teachtaire nó néal.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Cuireann sé an comhad sa láthair stórála – i bhfillteán seasta nó, le „Fiafraigh gach uair“, áit a gcuireann tú é.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Priontálann sé le seirbhís phriontála Android; is féidir „Sábháil mar PDF“ a roghnú ansin freisin.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Cá gcuireann „Sábháil“ na comhaid: fiafraigh gach uair nó i gcónaí i bhfillteán seasta, ar chárta SD nó i bhfillteán néil freisin.
+Hilfe & Anleitung	Cabhair agus treoracha
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Leid: coinnigh cnaipe ar feadh soicind chun a fheiceáil cad a dhéanann sé.
+Startseite	Baile
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Osclaíonn sé an ceamara. Téann gach grianghraf de ghabháil amháin isteach i gcáipéis chomhroinnte amháin.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Tógann deilbhín an ghailearaí os cionn „Scan“ grianghraif atá ann cheana; gearrtar agus aithnítear iad mar ghrianghraif cheamara.
+Suchen	Cuardaigh
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Aimsíonn sé scananna de réir ainm agus téacs aitheanta, le huimhir an leathanaigh.
+Ordner und Kategorien	Fillteáin agus catagóirí
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Eagraíonn fillteáin scananna. Taispeántar na catagóirí (leabhair, admhálacha …) go huathoibríoch a luaithe a bhíonn scananna den chineál sin ann.
+Mehrere Scans	Il-scananna
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Coinnigh do mhéar ar scan: roghnaigh, cumaisc, bog go fillteán nó scrios.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Tá scananna scriosta sa bhruscar (roghchlár ⋮) ar feadh 30 lá agus is féidir iad a athchóiriú.
+Modi	Móid
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Roghnaigh ag an mbun: Cáipéis (bileoga aonair), Leabhar (roinntear leathanaigh dhúbailte ina dhá leathanach), Cáipéis aitheantais (tosach agus cúl i bhfíormhéid ar bhileog amháin), Cárta gnó (aithnítear an teagmháil), Grianghraf (dathanna dílse, gan aitheantas téacs), Grianghraf pas (ceamara tosaigh, 35 × 45 mm) agus cód QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Ar barr ar chlé: Tapa (5 MP) do chló mór, Caighdeánach (12 MP) do bheagnach gach rud, Uasmhéid do chló beag agus foirmlí – níos moille.
+Auslösung	Gabháil
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	De láimh: leis an scaoilteoir. Uath 0,7 s: a luaithe a bhíonn an leathanach socair ar feadh 0,7 soicind; i mód leabhair tar éis gach iompú leathanaigh. Bluetooth: le scaoilteoir péireáilte. Scaoileann na cnaipí airde i gcónaí.
+Timer und Licht	Lasc ama agus solas
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Tógann deilbhín an chloig grianghraf gach 3, 5 nó 10 soicind (tosaithe leis an scaoilteoir). Lasann an splanc an tóirse.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Tapáil an mionsamhail ag an mbun ar dheis: próiseáiltear na leathanaigh agus osclaíonn an forbhreathnú.
+Gute Fotos	Grianghraif mhaithe
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Leag an leathanach cothrom agus lasta go cothrom, coinnigh an fón comhthreomhar. Cabhraíonn cúlra i ndath difriúil ón bpáipéar leis an ngearradh.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Baineann sé le gach leathanach den cháipéis. Is féidir leathanaigh aonair a shocrú ar bhealach eile in amharc an leathanaigh.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Baineann sé scáthanna agus lochtanna agus déanann sé an cló níos géire. Nuair atá sé múchta ní dhéantar ach an leathanach a ghearradh agus a dhíriú.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Tapáil chun an leathanach a oscailt. Coinnigh: tóg arís, rothlaigh nó scrios. Ba cheart leathanaigh le marc oráiste a sheiceáil (m.sh. doiléir), theip ar na cinn dhearga.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Athraigh an t-ord trí tharraingt, rothlaigh roinnt leathanach, bog nó cóipeáil iad go cáipéis eile, nó scar iad mar cháipéis nua.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, íomhánna, ZIP, téacs nó tábla – comhroinn, sábháil nó priontáil.
+Mehr (⋮)	Tuilleadh (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Aisiompaigh treo léitheoireachta leathanach dúbailte, aistrigh ar an ngléas nó scrios an scan. Athraíonn an peann luaidhe ar barr an t-ainm.
+Seitenansicht	Amharc leathanaigh
+Blättern und Zoomen	Brabhsáil agus súmáil
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Svaidhpeáil chun an leathanach a athrú; tapáil faoi dhó nó úsáid dhá mhéar chun súmáil.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Dath, liathscála nó dubh agus bán don leathanach seo amháin, le réamhamharc. Faoina bhun tá feabhsú uathoibríoch an leathanaigh seo.
+Drehen und Zuschnitt	Rothlaigh agus gearr
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Rothlaigh 90°. Gearr: socraigh coirnéil an leathanaigh arís ar an mbunghrianghraf.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Scríobh ar an leathanach le peann, aibhsitheoir nó téacs.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Déan sonraí íogaire doléite – le barraí nó picteilínithe. Moltar uimhreacha cuntais, uimhreacha cárta agus aghaidheanna.
+Signieren und Text	Síniú agus téacs
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Cuireann Sínigh do shíniú sábháilte isteach. Taispeánann Téacs an téacs aitheanta le ceartú agus le cóipeáil.
+Formate	Formáidí
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (inchuardaithe), Word, íomhánna (JPG), ZIP, téacs, Excel nó CSV; do chártaí gnó mar theagmháil freisin.
+PDF-Optionen	Roghanna PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Socraíonn formáid leathanaigh, taifeach agus comhbhrú cáilíocht agus méid an chomhaid – meastar an méid ar barr ar dheis. Go roghnach le pasfhocal (AES-256).
+Teilen oder Speichern	Comhroinn nó sábháil
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Seolann Comhroinn an comhad chuig aip (ríomhphost, teachtaire …). Cuireann Sábháil sa láthair stórála é.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	Osclaíonn „Fiafraigh gach uair“ roghnóir fillteáin le linn sábhála. Le fillteán seasta téann easpórtálacha ansin gan cheist – ar chárta SD nó i bhfillteán néil freisin.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Priontálann sé le seirbhís phriontála Android nó sábhálann sé mar PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Cáilíocht íomhá, gabháil agus roinnt leathanach dúbailte do scananna nua. Sa cheamara is féidir iad seo a athrú am ar bith.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Scagaire agus feabhsú uathoibríoch lena dtosaíonn cáipéisí nua.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Déanann sé PDFanna inchuardaithe. Socraíonn na teangacha cé na carachtair a aithnítear.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Láthair stórála agus réamhshocruithe do thaifeach, comhbhrú agus formáid leathanaigh.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Glas aipe le méarlorg, cúltaca mar ZIP agus an bruscar.
+Ecken setzen	Socraigh coirnéil
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Tarraing na ceithre choirnéal go himill an leathanaigh; taispeánann an gloine formhéadúcháin an áit faoi do mhéar méadaithe.
+Einzel- oder Doppelseite	Leathanach aonair nó dúbailte
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Roghnaigh ag an mbun an léiríonn an grianghraf leathanach amháin nó leabhar oscailte. Ligeann Uathoibríoch don aip cinneadh a dhéanamh.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Próiseálann an tic ar barr an leathanach leis an ngearradh nua.
+Werkzeuge	Uirlisí
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Peann le scríobh, aibhsitheoir le marcáil, téacs do nótaí clóscríofa. Tá na dathanna thíos.
+Korrigieren	Ceartaigh
+Rückgängig nimmt den letzten Strich zurück.	Baineann Cealaigh an stríoc dheireanach.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Scríobhann sé na hathruithe isteach sa leathanach. Gan sábháil fanann an leathanach gan athrú.
+Vorschläge	Moltaí
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Marcáiltear uimhreacha cuntais, uimhreacha cárta, uimhreacha aitheantais agus aghaidheanna a aimsíodh – tapáil chun díroghnú nó roghnú arís.
+Eigene Bereiche	Limistéir féin
+Mit dem Finger weitere Rechtecke aufziehen.	Tarraing tuilleadh dronuilleog le do mhéar.
+Balken oder Pixel	Barraí nó picteilíní
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Barra dubh nó picteilíniú. Baintear an téacs faoina bhun as an aitheantas téacs agus as an PDF freisin.
+Zeichnen	Tarraing
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Sínigh uair amháin le do mhéar – sábháiltear an síniú ar an ngléas.
+Platzieren	Cuir in áit
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Bog le méar amháin, athraigh méid le dhá mhéar agus cuir isteach ansin.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Cuireann deilbhín an phinn luaidhe ar barr síniú nua in ionad an tsínithe shábháilte.
+Text bearbeiten	Cuir téacs in eagar
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Tá téacs aitheanta an leathanaigh ag an mbun agus is féidir é a chur in eagar. Ar barr tá íomhá an leathanaigh le comparáid.
+Wirkung	Éifeacht
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Téann ceartúcháin isteach sa chuardach, i gciseal téacs an PDF agus in easpórtáil Word agus téacs.
+Holt einen gelöschten Scan zurück.	Faigheann sé scan scriosta ar ais.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Baintear scananna go huathoibríoch tar éis 30 lá. Scriosann „Folmhaigh“ gach rud láithreach.
+Belegung	Úsáid
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Taispeánann sé cé mhéad spáis a thógann scananna, bunghrianghraif, an bruscar agus an taisce.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Sábhálann baint na mbunghrianghraf go leor spáis; fanann na leathanaigh chríochnaithe, ní féidir ach an gearradh a athrú a thuilleadh.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Sábháil gach scan mar chomhad ZIP agus athchóirigh iad ar an ngléas seo nó ar ghléas eile. Ní sheoltar aon rud chuig an idirlíon.
+Auswahl	Rogha
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Roghnaigh teangacha do cháipéisí. Cuireann gach teanga bhreise moill ar an aitheantas.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Íoslódáiltear teangacha atá in easnamh uair amháin agus oibríonn siad as líne ina dhiaidh sin.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Ceangail an fón agus an ríomhaire leis an Wi-Fi céanna (nó an ríomhaire le hotspot an fhóin).
+Herunterladen	Íoslódáil
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Oscail an seoladh a thaispeántar i mbrabhsálaí an ríomhaire nó scan an cód QR; is féidir leat gach scan a íoslódáil ansin mar PDF nó téacs.
+Sicherheit	Slándáil
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Ní oibríonn sé ach sa líonra áitiúil agus fad atá an scáileán seo oscailte.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Teanga, cáilíocht íomhá, gabháil, aitheantas téacs, láthair stórála, glas aipe agus cúltaca.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Tógann sé grianghraif ón ngailearaí mar cháipéis nua; gearrtar agus aithnítear iad mar ghrianghraif cheamara.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Osclaíonn sé an ceamara. Téann gach grianghraf de ghabháil amháin isteach i gcáipéis chomhroinnte amháin.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Scriosann sé an leathanach seo as an gcáipéis (tar éis deimhnithe).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Dath, liathscála nó dubh agus bán agus an feabhsú uathoibríoch don leathanach seo amháin.
+Dreht die Seite um 90° im Uhrzeigersinn.	Rothlaíonn sé an leathanach 90° deiseal.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Socraigh coirnéil an leathanaigh arís ar an mbunghrianghraf má tá imeall in easnamh nó má tá an cúlra le feiceáil.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Déan sonraí íogaire doléite le barraí nó picteilíní; imíonn siad as téacs an PDF freisin.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Cuireann sé do shíniú sábháilte ar an leathanach; an chéad uair tarraingíonn tú é.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Taispeánann sé téacs aitheanta an leathanaigh le ceartú agus le cóipeáil.
+Fotografiert beim Tippen auf den Auslöser.	Tógann sé grianghraf nuair a bhrúnn tú an scaoilteoir.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Scaoileann sé a luaithe a bhíonn an leathanach socair ar feadh 0,7 s; i mód leabhair tar éis gach iompú leathanaigh.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Scaoileann sé le scaoilteoir Bluetooth péireáilte.
+Lautstärketasten lösen immer aus.	Scaoileann na cnaipí airde i gcónaí.
+Word erstellen, Formeln erkennen (%d/%d)	Comhad Word á chruthú, foirmlí á n-aithint (%d/%d)
+Belarussisch	Bealarúisis
+Bulgarisch	Bulgáiris
+Serbisch	Seirbis
+Mazedonisch	Macadóinis
+Kein Link im geteilten Text	Níl aon nasc sa téacs a roinneadh
+Import fehlgeschlagen: %s	Theip ar an iompórtáil: %s
+Link laden	Nasc á lódáil
+Unter dem Link liegt keine PDF- oder Bilddatei.	Ní théann an nasc chuig comhad PDF ná íomhá.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Ní féidir ach comhaid PDF agus íomhánna a iompórtáil.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Ní féidir comhaid PDF faoi chosaint a iompórtáil.
+PDF-Seite %d/%d importieren	Leathanach PDF %d/%d á iompórtáil
+Auto %s s	Uath %s s
+Auslösen nach %s s	Grianghraf tar éis %s s
+Wartezeit	Am feithimh
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Cé chomh fada is a chaithfidh an leathanach fanacht socair roimh an ngrianghraf uathoibríoch. Níos giorra = níos tapúla, níos faide = níos lú grianghraf doiléir.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Tógann sé an grianghraf leis féin chomh luath is atá an leathanach socair; socraigh an t-am feithimh (0,2–1,5 s) thíos. I mód leabhair: tar éis gach leathanach a chasadh, chomh luath is atá an leabhar socair arís.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Cuireann sé grianghraif, gabhálacha scáileáin, comhaid PDF nó nasc leis mar leathanaigh bhreise; gearrtar grianghraif, aithnítear gach rud.
+Senden an …	Seol chuig …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Cá gcuireann „Sábháil“ do chuid easpórtálacha. Tá „Seol chuig …“ neamhspleách air sin.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Roghnaigh fofhillteán, m.sh. „Documents“ – ní cheadaíonn Android barrfhillteán an stórais.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Cruthaíonn sé an comhad agus seolann sé chuig aip é, m.sh. WhatsApp, ríomhphost, Telegram nó stóráil néil.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	De láimh: leis an gcomhla. Uath: chomh luath is atá an leathanach socair – socraigh an t-am feithimh (0,2–1,5 s, réamhshocrú 0,7 s) san fhuinneog scanta faoin lasc; i mód leabhair tar éis gach leathanach a chasadh. Bluetooth: le comhla cianda péireáilte. Glacann na cnaipí airde grianghraf i gcónaí.
+Senden an oder Speichern	Seol chuig nó sábháil
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	Seolann „Seol chuig …“ an comhad chuig aip (WhatsApp, ríomhphost, Telegram, néal …). Cuireann Sábháil é san áit stórála.
+Importieren	Iompórtáil
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Glacann sé grianghraif, gabhálacha scáileáin, comhaid PDF nó nasc mar dhoiciméad nua; gearrtar grianghraif, aithnítear gach rud.
+Bilder aus der Galerie	Íomhánna ón ngailearaí
+Fotos und Screenshots	Grianghraif agus gabhálacha scáileáin
+Dateien	Comhaid
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Comhaid PDF agus íomhánna, m.sh. ó Íoslódálacha nó ón néal
+Eine PDF- oder Bilddatei aus dem Internet	Comhad PDF nó íomhá ón idirlíon
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Ansin cosúil le leathanaigh scanta: aithint téacs, aistriúchán agus easpórtáil chuig aon fhormáid.
+Link importieren	Iompórtáil nasc
+Internetadresse	Seoladh gréasáin
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Tógann sé grianghraf chomh luath is atá an leathanach socair ar feadh %s s (inathraithe san fhuinneog scanta); i mód leabhair tar éis gach leathanach a chasadh.
+Fachwörterbuch laden	Gluais á lódáil
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Tá gluais do %s nó %s ar iarraidh – aistrithe gan téarmaí speisialta
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Ní comhad gluaise é (glossary-xx.tsv.gz)
+Download nicht verfügbar	Níl íoslódáil ar fáil
+Estnisch	Eastóinis
+Irisch	Gaeilge
+Litauisch	Liotuáinis
+Lettisch	Laitvis
+Maltesisch	Máltais
+Slowakisch	Slóvaicis
+Slowenisch	Slóivéinis
+Ohne Fachwörterbuch	Gan ghluais
+Alle Fachgebiete	Gach réimse
+Fachgebiet: %s	Réimse: %s
+Fachwörterbücher verwalten …	Bainistigh gluaiseanna …
+Fachwörterbücher	Gluaiseanna
+Aus Datei importieren	Iompórtáil ó chomhad
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Coinnítear téarmaí speisialta ón dlí, ón leigheas, ón innealtóireacht, ón eacnamaíocht agus ó 17 réimse eile (IATE, bunachar téarmaíochta an AE) go beacht san aistriúchán. Teastaíonn gluais na foinsetheanga agus na sprioctheanga, 0.3–9 MB an ceann.
+Einmal laden, danach offline.	Lódáil uair amháin, ansin as líne.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Iompórtáil comhaid glossary-xx.tsv.gz leis an deilbhín fillteáin thuas.
+Fachwörterbücher für die Übersetzung	Gluaiseanna don aistriúchán
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Dlí, leigheas, innealtóireacht agus tuilleadh – 24 theanga an AE
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Fanann gach grianghraf agus téacs ar an ngléas seo. Ní úsáidtear an t-idirlíon ach chun teangacha, samhlacha aistriúcháin agus gluaiseanna a lódáil uair amháin, nuair a thosaíonn tú é.
+Übersetzen	Aistrigh
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Cruthaíonn sé cóip aistrithe den doiciméad ar an ngléas: na leathanaigh agus na pictiúir chéanna, an téacs sa sprioctheanga ina áit féin. Aistrítear gach alt óna theanga féin. Le “Réimse”, coimeádtar téarmaí speisialta ó na gluaiseanna go díreach.
+Was nachgeladen werden kann	Cad is féidir a íoslódáil
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Tá gach rud roghnach agus ní lódáiltear é ach nuair a thapálann tú; ina dhiaidh sin oibríonn sé gan idirlíon:\n• Teangacha aitheantais téacs: 1–15 MB an ceann (Socruithe › Teangacha). Tá Gearmáinis agus Béarla san áireamh.\n• Sínis: samhail aitheantais dá cuid féin, thart ar 17 MB.\n• Samhlacha aistriúcháin: thart ar 30 MB an teanga, lódáilte go huathoibríoch leis an gcéad aistriúchán.\n• Gluaiseanna: 0.3–9 MB an teanga, thart ar 70 MB do na 24 theanga AE ar fad (Socruithe › Gluaiseanna).\nIs féidir comhaid lódáilte a bhaint tráth ar bith.
+Wozu	Cén fáth
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Ní aithníonn aistritheoirí ginearálta go leor téarmaí speisialta nó aistríonn siad iad go neamhchomhsheasmhach. Cuireann gluais an téarma sainithe isteach, m.sh. „Beweislast“ → „burden of proof“.
+Quelle	Foinse
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, bunachar téarmaíochta institiúidí an AE, le téarmaí ó 21 réimse (dlí, sláinte, innealtóireacht, eacnamaíocht, comhshaol, iompar …). Tá sé ar fáil i 24 theanga oifigiúla an AE.
+Was nötig ist	Cad a theastaíonn
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Gluais amháin don fhoinsetheanga agus ceann don sprioctheanga, m.sh. Gearmáinis agus Béarla. Is leor gluais amháin in aghaidh na teanga do gach péire teangacha.
+Laden oder importieren	Lódáil nó iompórtáil
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Lódáil leis an tsaighead (uair amháin, ansin as líne) nó iompórtáil comhad „glossary-xx.tsv.gz“ leis an deilbhín fillteáin, m.sh. ó ríomhaire nó ó chárta SD.
+Benutzen	Úsáid
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Roghnaigh an réimse thuas agus tú ag aistriú. Ní úsáideann „Gach réimse“ ach téarmaí a aistrítear mar an gcéanna i ngach áit.
+Grenzen	Teorainneacha
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Cuirtear téarmaí isteach ina mbunfhoirm; ní aithnítear foirmeacha infhillte i gcónaí.
+Politik	Polaitíocht
+Internationale Beziehungen	Caidreamh idirnáisiúnta
+Europäische Union	An tAontas Eorpach
+Recht	Dlí
+Wirtschaft	Eacnamaíocht
+Handel	Trádáil
+Finanzwesen	Airgeadas
+Soziales und Gesundheit	Ceisteanna sóisialta agus sláinte
+Bildung und Kommunikation	Oideachas agus cumarsáid
+Wissenschaft	Eolaíocht
+Unternehmen und Wettbewerb	Gnó agus iomaíocht
+Beschäftigung und Arbeitsbedingungen	Fostaíocht agus dálaí oibre
+Verkehr	Iompar
+Umwelt	Comhshaol
+Land-, Forst- und Fischereiwirtschaft	Talmhaíocht, foraoiseacht agus iascach
+Agrarerzeugnisse und Lebensmittel	Agraibhia
+Produktion, Technologie und Forschung	Táirgeadh, teicneolaíocht agus taighde
+Energie	Fuinneamh
+Industrie	Tionscal
+Geografie	Tíreolaíocht
+Internationale Organisationen	Eagraíochtaí idirnáisiúnta
+Wenig Licht – Lampe einschalten	Solas lag – las an lampa
+Verarbeitung mehrfach abgebrochen	Cuireadh isteach ar an bpróiseáil arís agus arís eile
+Bearbeitungen gehen verloren	Caillfear na heagarthóireachtaí
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Cruthaítear an leathanach as an nua ón ngrianghraf. Beidh ort ceilteanna, síniú agus nótaí a chur leis arís.
+Neu zuschneiden	Bearr arís
+Sprachdaten	Sonraí teanga
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Taispeánann sé an méid spáis a thógann scananna, bunghrianghraif, bruscar, taisce agus sonraí teanga (aithint téacs, gluaiseanna).
+Bitte warten, bis alle Seiten erkannt sind	Fan go n-aithneofar na leathanaigh go léir
+Die Sprache „%s“ kann nicht übersetzt werden	Ní féidir an teanga “%s” a aistriú
+Übersetzung in die Seiten setzen	An t-aistriúchán á chur isteach sna leathanaigh

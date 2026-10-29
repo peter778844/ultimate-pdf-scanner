@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Määritä ensin sormenjälki, kasvojentunnistus tai näytön lukitus.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Tämä laite ei tue biometristä avausta.
+Ultimate PDF Scanner entsperren	Avaa Ultimate PDF Scanner
+Deine Scans sind geschützt	Skannauksesi on suojattu
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner on lukittu
+Deine Scans bleiben auf diesem Gerät.	Skannauksesi pysyvät tällä laitteella.
+  Entsperren	  Avaa lukitus
+Systemsprache	Järjestelmän kieli
+Deutsch	Deutsch
+English	English
+Fotos importieren	Tuo kuvia
+Texterkennung vorbereiten	Valmistellaan tekstintunnistusta
+Ein Foto konnte nicht verarbeitet werden: %s	Kuvaa ei voitu käsitellä: %s
+Foto laden	Lataa kuva
+Foto nicht lesbar	Kuva ei ole luettavissa
+Filter anwenden	Käytä suodatinta
+Schwärzen	Peitä
+Unterschrift einfügen	Lisää allekirjoitus
+Unterschrift eingefügt	Allekirjoitus lisätty
+Änderungen einfügen	Lisää muutokset
+Seite bearbeitet	Sivua muokattu
+Text gesichert	Teksti tallennettu
+Zusammenführen	Yhdistä
+%d Scans zusammengeführt	Yhdistetty skannauksia: %d
+Seiten verschieben	Siirrä sivuja
+Seiten kopieren	Kopioi sivuja
+ (Teil)	 (osa)
+Zwischenspeicher leeren	Tyhjennä välimuisti
+Zwischenspeicher geleert	Välimuisti tyhjennetty
+Originalfotos entfernen	Poista alkuperäiset kuvat
+Sicherung erstellen	Luo varmuuskopio
+Sicherung erstellen (%d/%d)	Luodaan varmuuskopiota (%d/%d)
+Sicherung gespeichert	Varmuuskopio tallennettu
+Sicherung wiederherstellen	Palauta varmuuskopiosta
+ (%d schon vorhanden)	 (%d jo olemassa)
+Wiederherstellen fehlgeschlagen: %s	Palautus epäonnistui: %s
+PDF erstellen (%d/%d)	Luodaan PDF:ää (%d/%d)
+%s erstellen	Luodaan: %s
+Export fehlgeschlagen: %s	Vienti epäonnistui: %s
+%s speichern	Tallenna: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF tallennettu (salasanasuojattu, AES-256)
+%s gespeichert	Tallennettu: %s
+Bilder speichern	Tallenna kuvat
+Bilder speichern (%d/%d)	Tallennetaan kuvia (%d/%d)
+%d Bilder gespeichert	Tallennettu kuvia: %d
+Sprache erkennen	Tunnista kieli
+Kein erkannter Text zum Übersetzen	Ei tunnistettua tekstiä käännettäväksi
+Sprache nicht erkannt	Kieltä ei tunnistettu
+Der Text ist bereits auf %s	Teksti on jo kielellä: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Ladataan kielimallia (ensimmäisellä kerralla ~30 Mt)
+Übersetzen (%d/%d)	Käännös (%d/%d)
+Seite %d	Sivu %d
+Übersetzung fehlgeschlagen: %s	Käännös epäonnistui: %s
+1 Bereich unkenntlich gemacht	1 alue peitetty
+%d Bereiche unkenntlich gemacht	Peitettyjä alueita: %d
+1 Scan wiederhergestellt	1 skannaus palautettu
+%d Scans wiederhergestellt	Palautettu skannauksia: %d
+Server antwortet mit %d	Palvelin vastaa koodilla %d
+Datei unvollständig	Tiedosto on vajaa
+Nicht gefunden	Ei löytynyt
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Skannauksia puhelimessa: %d · suoraan Wi-Fin kautta, ilman pilveä
+Ausgangssprache „%s“ wird nicht unterstützt	Lähdekieltä ”%s” ei tueta
+Zielsprache „%s“ wird nicht unterstützt	Kohdekieltä ”%s” ei tueta
+QR-CODE	QR-KOODI
+AUSWEIS	HENKILÖKORTTI
+DOKUMENT	ASIAKIRJA
+BUCH	KIRJA
+VISITENKARTE	KÄYNTIKORTTI
+PASSFOTO	PASSIKUVA
+PDF	PDF
+Word	Word
+Bilder	Kuvat
+ZIP	ZIP
+Text	Teksti
+Excel	Excel
+CSV	CSV
+Kontakt	Yhteystieto
+Wie gescannt	Kuten skannattu
+Letter	Letter
+Mittel	Keskitaso
+Englisch	Englanti
+Französisch	Ranska
+Italienisch	Italia
+Spanisch	Espanja
+Portugiesisch	Portugali
+Niederländisch	Hollanti
+Polnisch	Puola
+Tschechisch	Tšekki
+Dänisch	Tanska
+Schwedisch	Ruotsi
+Norwegisch	Norja
+Finnisch	Suomi
+Ungarisch	Unkari
+Rumänisch	Romania
+Kroatisch	Kroatia
+Türkisch	Turkki
+Griechisch	Kreikka
+Russisch	Venäjä
+Ukrainisch	Ukraina
+Arabisch	Arabia
+Hebräisch	Heprea
+Persisch	Persia
+Chinesisch (vereinfacht)	Kiina (yksinkertaistettu)
+Japanisch	Japani
+Koreanisch	Korea
+Latein	Latina
+Deutsch (Fraktur)	Saksa (fraktuura)
+1 Seite	1 sivu
+%d Seiten	%d sivua
+1 Scan	1 skannaus
+%d Scans	%d skannausta
+Abbrechen	Peruuta
+Bearbeiten	Muokkaa
+Zurück	Takaisin
+Rückgängig	Kumoa
+Sichern	Tallenna
+Seite	Sivu
+Einfügen	Lisää
+Änderungen sichern?	Tallennetaanko muutokset?
+Verwerfen	Hylkää
+Schließen	Sulje
+Fertig	Valmis
+Öffnen	Avaa
+Keine	Ei mitään
+Alle	Kaikki
+Umbenennen	Nimeä uudelleen
+Mehr	Lisää
+Löschen	Poista
+Teilen	Jaa
+Speichern	Tallenna
+Drucken	Tulosta
+Kopieren	Kopioi
+Drehen	Kierrä
+Laden	Lataa
+Entfernen	Poista
+Verschieben	Siirrä
+Name	Nimi
+Aus	Pois
+Leeren	Tyhjennä
+Wiederherstellen	Palauta
+Text einfügen	Lisää tekstiä
+z. B. Name, Datum …	esim. nimi, päivämäärä …
+Kein Gesicht erkannt – bitte noch einmal	Kasvoja ei tunnistettu – yritä uudelleen
+Seite erneut scannen	Skannaa sivu uudelleen
+Fernauslöser verbunden	Kaukolaukaisin yhdistetty
+Nach dem Umblättern auslösen	Laukaise sivun kääntämisen jälkeen
+Leserichtung rechts nach links	Lukusuunta oikealta vasemmalle
+Leserichtung links nach rechts	Lukusuunta vasemmalta oikealle
+Automatisch auslösen	Automaattinen laukaisu
+Kamera wechseln	Vaihda kameraa
+Licht	Valo
+Bitte Kamerazugriff erlauben.	Salli kameran käyttö.
+Passfoto wird zugeschnitten …	Rajataan passikuvaa …
+Ohne Rückseite fertig	Valmis ilman kääntöpuolta
+Kein Code im Bild gefunden	Kuvasta ei löytynyt koodia
+Aus Galerie	Galleriasta
+QR-Code oder Barcode in den Rahmen halten	Pidä QR-koodi tai viivakoodi kehyksessä
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Kasvot soikioon · katso suoraan · vaalea tausta
+Vorderseite des Ausweises in den Rahmen	Henkilökortin etupuoli kehykseen
+Jetzt die Rückseite	Nyt kääntöpuoli
+Visitenkarte in den Rahmen legen	Aseta käyntikortti kehykseen
+Aufgeschlagenes Buch ins Bild halten	Pidä avattu kirja kuvassa
+Doppelseite erkannt	Aukeama tunnistettu
+Umblättern – löst danach automatisch aus	Käännä sivu – sitten laukaistaan automaattisesti
+Ruhig halten …	Pidä paikallaan …
+Ruhig halten – wird automatisch ausgelöst	Pidä paikallaan – laukaistaan automaattisesti
+Seite ins Bild halten	Pidä sivu kuvassa
+Seite erkannt	Sivu tunnistettu
+Intervall-Timer	Ajastin
+Serie starten	Aloita sarja
+Farbe	Väri
+Graustufen	Harmaasävy
+Schwarz-Weiß	Mustavalko
+Original	Alkuperäinen
+Automatisch	Automaattinen
+Zuschnitt nicht möglich	Rajaus ei ole mahdollinen
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Tämän sivun alkuperäinen kuva on poistettu tilan säästämiseksi. Toiminnolla ”Skannaa uudelleen” sivu voidaan kuvata uudelleen.
+Zuschnitt anpassen	Säädä rajausta
+Übernehmen	Käytä
+Einzelseite	Yksittäinen sivu
+Doppelseite	Aukeama
+Auto	Auto
+  Automatisch	  Automaattinen
+Ecken auf die Seitenränder ziehen	Vedä kulmat sivun reunoille
+Seiten ordnen	Järjestä sivut
+%d ausgewählt	%d valittu
+Filter für alle Seiten	Suodatin kaikille sivuille
+Leserichtung umkehren	Käännä lukusuunta
+Übersetzen…	Käännä…
+Scan löschen	Poista skannaus
+Scannen	Skannaa
+Import	Tuo
+Ordnen	Järjestä
+Exportieren	Vie
+Übersetzen in …	Käännä kielelle …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Käännös tehdään laitteella. Ensimmäisellä kerralla kielimalli ladataan kerran.
+Übersetzung teilen	Jaa käännös
+Scan löschen?	Poistetaanko skannaus?
+„%s“ wird endgültig gelöscht.	”%s” poistetaan pysyvästi.
+Kontakt erkannt	Yhteystieto tunnistettu
+Zu Kontakten	Yhteystietoihin
+Seiten werden verarbeitet (%d/%d)	Käsitellään sivuja (%d/%d)
+Nur diese	Vain nämä
+Wird neu verarbeitet	Käsitellään uudelleen
+Erneut	Uudelleen
+Fehlgeschlagen	Epäonnistui
+Foto nicht verarbeitet	Kuvaa ei käsitelty
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Kuvan käsittelyssä tapahtui virhe.
+Keine Auffälligkeiten	Ei huomautettavaa
+Erneut scannen	Skannaa uudelleen
+Ersetzt beide Seiten dieser Doppelseite	Korvaa tämän aukeaman molemmat sivut
+Kamera öffnen und diese Seite ersetzen	Avaa kamera ja korvaa tämä sivu
+Nach vorn	Eteenpäin
+Nach hinten	Taaksepäin
+Seite löschen	Poista sivu
+Foto entfernen	Poista kuva
+1 Seite verschoben	1 sivu siirretty
+%d Seiten verschoben	Siirretty sivuja: %d
+1 Seite kopiert	1 sivu kopioitu
+%d Seiten kopiert	Kopioitu sivuja: %d
+1 Seite löschen?	Poistetaanko 1 sivu?
+%d Seiten löschen?	Poistetaanko %d sivua?
+1 Seite prüfen	Tarkista 1 sivu
+%d Seiten prüfen	Tarkista %d sivua
+Seite löschen?	Poistetaanko sivu?
+Durchsuchbares PDF mit erkanntem Text	Haettava PDF tunnistetulla tekstillä
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Muokattava teksti Wordiin, LibreOfficeen ja Google Docsiin
+Die Seite als JPG-Bild	Sivu JPG-kuvana
+Ein JPG-Bild pro Seite (%d Dateien)	Yksi JPG-kuva sivua kohden (%d tiedostoa)
+Alle Seiten als JPG und der Text in einem Archiv	Kaikki sivut JPG-kuvina ja teksti samassa arkistossa
+Nur der erkannte Text	Vain tunnistettu teksti
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tunnistetut taulukot, yksi laskentataulukko sivua kohden
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tunnistetut taulukot CSV-muodossa (puolipiste, Exceliin)
+Visitenkarte als Kontakt (vCard)	Käyntikortti yhteystietona (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Etu- ja kääntöpuoli todellisessa koossa yhdellä sivulla – valmis tulostettavaksi
+Seitenformat	Sivukoko
+Mit Passwort schützen	Suojaa salasanalla
+AES-256-Verschlüsselung	AES-256-salaus
+Passwort	Salasana
+Mindestens 4 Zeichen	Vähintään 4 merkkiä
+Passwort wiederholen	Toista salasana
+Passwörter stimmen nicht überein	Salasanat eivät täsmää
+Seitenbilder einfügen	Lisää sivujen kuvat
+Jede Seite als Bild über ihrem Text	Jokainen sivu kuvana tekstinsä yläpuolella
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Sarakkeet tunnistetaan tekstin välien perusteella – toimii parhaiten selvästi erotetuilla sarakkeilla. Luvut kuten ”1.234,50” siirretään lukuina.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Tästä kortista ei tunnistettu yhteystietoja.
+1 ausgewählte Seite	1 valittu sivu
+%d ausgewählte Seiten	%d valittua sivua
+Mobil	Matkapuhelin
+Fax	Faksi
+Telefon	Puhelin
+%s teilen	Jaa: %s
+Scan	Skannaus
+Text teilen	Jaa teksti
+PDF teilen	Jaa PDF
+In den Papierkorb verschoben	Siirretty roskakoriin
+%d Scans in den Papierkorb verschoben	Roskakoriin siirretty skannauksia: %d
+Auswahl beenden	Lopeta valinta
+Alle auswählen	Valitse kaikki
+In Ordner verschieben	Siirrä kansioon
+Ordner	Kansiot
+Ordner umbenennen	Nimeä kansio uudelleen
+Ordner auflösen	Pura kansio
+Papierkorb (%d)	Roskakori (%d)
+Papierkorb	Roskakori
+An PC senden	Lähetä tietokoneelle
+Speicher & Sicherung	Tallennustila ja varmuuskopio
+Einstellungen	Asetukset
+Scans und Text durchsuchen	Hae skannauksista ja tekstistä
+Alle Scans durchsuchen	Hae kaikista skannauksista
+Suche löschen	Tyhjennä haku
+%d Treffer	%d osumaa
+Alle Scans	Kaikki skannaukset
+Nichts gefunden	Mitään ei löytynyt
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Mikään nimi tai tunnistettu teksti ei vastaa hakua ”%s”.
+Ordner ist leer	Kansio on tyhjä
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Siirrä skannauksia tänne: paina skannausta pitkään ja valitse ”Siirrä kansioon”.
+Noch keine Scans	Ei vielä skannauksia
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Napauta ”Skannaa” kuvataksesi sivuja,\ntai tuo kuvia galleriasta.
+Ordnername	Kansion nimi
+Neuer Ordner	Uusi kansio
+%d Scans zusammenführen?	Yhdistetäänkö %d skannausta?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Kaikki sivut liitetään skannaukseen ”%s” valintajärjestyksessä. Muut skannaukset poistuvat sen jälkeen.
+%d prüfen	Tarkista %d
+Wird verarbeitet (%d/%d)	Käsitellään (%d/%d)
+Als PDF teilen	Jaa PDF-tiedostona
+Kategorie ändern	Vaihda luokkaa
+Kein Ordner	Ei kansiota
+Neuer Ordner …	Uusi kansio …
+Kategorie	Luokka
+Download fehlgeschlagen: %s	Lataus epäonnistui: %s
+keine Verbindung	ei yhteyttä
+Sprachen der Texterkennung	Tekstintunnistuksen kielet
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Valitut kielet tunnistetaan yhdessä – valitse vain tarvittavat, jokainen lisäkieli hidastaa tunnistusta. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Puuttuvat kielet ladataan kerran (n. 2–15 Mt) ja toimivat sen jälkeen ilman verkkoa.
+Wird geladen … %d %%	Ladataan … %d %%
+Enthalten	Mukana
+Geladen · %s	Ladattu · %s
+Nicht geladen	Ei ladattu
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Valitse napauttamalla · siirrä pitämällä painettuna ja vetämällä
+Neuer Scan	Uusi skannaus
+Verschieben nach …	Siirrä kohteeseen …
+Kopieren nach …	Kopioi kohteeseen …
+Seite %d von %d	Sivu %d / %d
+Filter	Suodatin
+Zuschnitt	Rajaus
+Signieren	Allekirjoita
+Code	Koodi
+Link	Linkki
+E-Mail	Sähköposti
+Telefonnummer	Puhelinnumero
+Ort	Sijainti
+Produktcode	Tuotekoodi
+Netzwerk: %s	Verkko: %s
+Passwort: %s	Salasana: %s
+Verschlüsselung: %s	Salaus: %s
+Passwort kopieren	Kopioi salasana
+Verbinden	Yhdistä
+E-Mail schreiben	Kirjoita sähköposti
+Anrufen	Soita
+In Karten öffnen	Avaa Kartoissa
+Suche sensible Daten…	Etsitään arkaluonteisia tietoja…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Arkaluonteisia tietoja ei löytynyt. Merkitse peitettävät alueet sormella.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Löytyi – napauta valitaksesi tai poistaaksesi valinnan, merkitse lisää alueita:
+Schwarzer Balken	Musta palkki
+Verpixeln	Pikselöi
+Unkenntlich machen (%d)	Peitä (%d)
+Manuell	Manuaalinen
+Gesicht	Kasvot
+Kein WLAN	Ei Wi-Fiä
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Yhdistä puhelin ja tietokone samaan Wi-Fi-verkkoon (tai tietokone puhelimen hotspotiin). Osoite näkyy silloin tässä.
+Am PC im Browser öffnen	Avaa tietokoneen selaimessa
+QR-Code der Adresse	Osoitteen QR-koodi
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Kirjoita osoite tai skannaa QR-koodi tietokoneen kameralla. Siellä voit ladata kaikki skannaukset PDF- tai tekstimuodossa.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Vain lähiverkossa ja vain niin kauan kuin tämä näkymä on auki. Mitään ei ladata internetiin.
+Heruntergeladen	Ladattu
+App-Sperre nicht möglich	Sovelluslukitus ei ole mahdollinen
+Sprache	Kieli
+Sprache der App	Sovelluksen kieli
+Aufnahme	Kuvaus
+Doppelseiten im Dokument-Modus	Aukeamat asiakirjatilassa
+Automatisch teilen	Jaa automaattisesti
+Nie teilen	Älä koskaan jaa
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Ottaa kuvan heti, kun sivu on kuvassa paikallaan.
+Buch-Modus	Kirjatila
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Tunnistaa sivun kääntämisen ja ottaa kuvan heti, kun kirja on taas paikallaan.
+Leserichtung	Lukusuunta
+Links → rechts	Vasemmalta → oikealle
+Rechts → links	Oikealta → vasemmalle
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Oikealta vasemmalle arabian, heprean, persian ja japanin kielille: oikea sivu tulee ensin.
+Fernauslöser	Kaukolaukaisin
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Muodosta laitepari Bluetooth-kameran kaukolaukaisimen (esim. ”AB Shutter 3”) kanssa Androidin Bluetooth-asetuksissa. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Kamerassa laukaisevat sen jälkeen kaukolaukaisin ja äänenvoimakkuuspainikkeet.
+Bild	Kuva
+Standardfilter	Oletussuodatin
+Handschrift entfernen	Poista käsiala
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Poistaa sinisellä/punaisella kynällä ja lyijykynällä kirjoitetut merkinnät. Poistaa myös näillä väreillä painetun tekstin.
+Texterkennung	Tekstintunnistus
+Sprachen	Kielet
+Sicherheit & Speicher	Turvallisuus ja tallennustila
+App-Sperre	Sovelluslukitus
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Avaa lukitus avattaessa sormenjäljellä, kasvoilla tai näytön lukituksella. Sisältö ei näy sovellusnäkymässä.
+Belegung, Backup als ZIP, Wiederherstellen	Käyttö, varmuuskopio ZIP-tiedostona, palautus
+Gelöschte Scans werden nach 30 Tagen entfernt	Poistetut skannaukset poistetaan 30 päivän kuluttua
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Kaikki kuvat ja tekstit pysyvät tällä laitteella. Internetiä käytetään vain kielten kertalataukseen, kun itse käynnistät sen.
+Über	Tietoja
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Avoimen lähdekoodin komponentit: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (kaikki Apache 2.0 -lisenssillä); ML Kit (käännös, kasvojentunnistus, laitteella).
+Unterschrift zeichnen	Piirrä allekirjoitus
+Mit dem Finger unterschreiben	Allekirjoita sormella
+Unterschrift platzieren	Sijoita allekirjoitus
+Neu zeichnen	Piirrä uudelleen
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Siirrä yhdellä sormella, muuta kokoa kahdella sormella.
+Unterschrift	Allekirjoitus
+Belegt von Ultimate PDF Scanner	Ultimate PDF Scannerin käytössä
+%s frei auf dem Gerät	Vapaana laitteella: %s
+Seiten	Sivut
+Originalfotos	Alkuperäiset kuvat
+Zwischenspeicher	Välimuisti
+Platz schaffen	Vapauta tilaa
+Exportierte Dateien zum Teilen	Jakamista varten viedyt tiedostot
+Gelöschte Scans der letzten 30 Tage	Viimeisten 30 päivän aikana poistetut skannaukset
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Valmiit sivut säilyvät, mutta rajausta ei voi enää muuttaa.
+Größte Scans	Suurimmat skannaukset
+Sicherung	Varmuuskopio
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Tallenna kaikki skannaukset yhteen ZIP-tiedostoon – esim. SD-kortille, USB-tikulle tai tietokoneelle. Mitään ei ladata verkkoon.
+Papierkorb mitsichern	Sisällytä roskakori
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-varmuuskopio_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Palautettaessa lisätään vain puuttuvat skannaukset.
+Originalfotos entfernen?	Poistetaanko alkuperäiset kuvat?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Säästää %s. Sivuja ei voi myöhemmin rajata uudelleen, ”Skannaa uudelleen” on yhä mahdollinen.
+Text bearbeiten · Seite %d	Muokkaa tekstiä · sivu %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Korjaukset päivittyvät hakuun ja PDF:n tekstikerrokseen.
+Kein Text erkannt – hier eintippen	Tekstiä ei tunnistettu – kirjoita se tähän
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Poistetut skannaukset poistetaan pysyvästi %d päivän kuluttua.
+Papierkorb ist leer	Roskakori on tyhjä
+Endgültig löschen	Poista pysyvästi
+Papierkorb leeren?	Tyhjennetäänkö roskakori?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d skannausta poistetaan pysyvästi. Tätä ei voi kumota.
+Endgültig löschen?	Poistetaanko pysyvästi?
+„%s“ wird sofort gelöscht.	”%s” poistetaan heti.
+noch 1 Tag	1 päivä jäljellä
+noch %d Tage	%d päivää jäljellä
+Quittung	Kuitti
+Quittungen	Kuitit
+Rechnung	Lasku
+Rechnungen	Laskut
+Visitenkarte	Käyntikortti
+Visitenkarten	Käyntikortit
+Vertrag	Sopimus
+Verträge	Sopimukset
+Brief	Kirje
+Briefe	Kirjeet
+Ausweis	Henkilökortti
+Ausweise	Henkilökortit
+Buch	Kirja
+Bücher	Kirjat
+Passfoto	Passikuva
+Passfotos	Passikuvat
+Dokument	Asiakirja
+Dokumente	Asiakirjat
+Auflösung	Tarkkuus
+Kompression	Pakkaus
+Gering	Kevyt
+Stark	Voimakas
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi ja kevyt pakkaus tulostukseen ja arkistointiin, 150 dpi ja voimakas pakkaus sähköpostiin.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Tekee PDF-tiedostoista haettavia ja tekstistä kopioitavaa. Pois: nopeampi käsittely, PDF vain kuvana.
+Keine Seite erkannt	Sivua ei tunnistettu
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Sivun reunaa ei löytynyt – koko kuva otettiin mukaan.
+Unscharf	Epätarkka
+Das Foto ist verwackelt oder unscharf.	Kuva on tärähtänyt tai epätarkka.
+Zu dunkel	Liian tumma
+Die Seite ist schlecht ausgeleuchtet.	Sivu on huonosti valaistu.
+Text schlecht lesbar	Teksti on huonosti luettavaa
+Die Texterkennung war unsicher.	Tekstintunnistus oli epävarma.
+Kein Text erkannt	Tekstiä ei tunnistettu
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Sivulta ei löytynyt tekstiä – tyhjä sivu tai ei sivua lainkaan kuvassa?
+Hindi	Hindi
+Bengalisch	Bengali
+Urdu	Urdu
+Indonesisch	Indonesia
+Seite erkennen	Tunnista sivu
+Seite entzerren	Suorista sivu
+Finger entfernen	Poista sormet
+Schärfe prüfen	Tarkista terävyys
+Ausrichtung	Suunta
+Bild verbessern	Paranna kuvaa
+Speicherort	Tallennuspaikka
+Speicherort für Exporte	Vientien tallennuspaikka
+Jedes Mal fragen	Kysy joka kerta
+Ordner wählen …	Valitse kansio …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	”Tallenna” tallentaa PDF:t ja muut viennit suoraan tähän kansioon kysymättä joka kerta. Myös SD-kortti on mahdollinen.
+Gespeichert in „%s“	Tallennettu kansioon ”%s”
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Tallennuspaikka ei ole saatavilla. Valitse se uudelleen.
+Neu aufnehmen	Kuvaa uudelleen
+Um 90° links drehen	Kierrä 90° vasemmalle
+Seite gelöscht	Sivu poistettu
+Lange drücken: neu aufnehmen, drehen oder löschen	Paina pitkään: kuvaa uudelleen, kierrä tai poista
+Ersetzt beide Seiten	Korvaa molemmat sivut
+Ränder bereinigen	Siisti reunat
+Scan-Qualität	Skannauksen laatu
+Schnell	Nopea
+Standard	Vakio
+Genau	Tarkka
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Isolle, selkeälle tekstille kuten kirjeille ja tulosteille: pienemmät kuvat, nopein käsittely.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Kirjoille ja useimmille asiakirjoille: hyvä tunnistus normaalilla nopeudella.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Pienelle tekstille, vanhoille kirjoille, alaviitteille ja kaavoille: kameran täysi tarkkuus, hitaampi, enemmän muistia.
+BILD	KUVA
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Aseta kuva tasaisesti · ei salamaa · vältä heijastuksia
+an	päällä
+aus	pois
+Automatische Auslösung an: nach dem Umblättern	Automaattinen laukaisu päällä: sivun kääntämisen jälkeen
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automaattinen laukaisu päällä: kun sivu on paikallaan
+Automatische Auslösung aus	Automaattinen laukaisu pois
+PDF & Export	PDF ja vienti
+Speicherort für PDFs und Bilder	PDF:ien ja kuvien tallennuspaikka
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Viennin yhteydessä tätä voi muuttaa yksittäisille tiedostoille.
+Weitere Optionen …	Lisää vaihtoehtoja …
+Automatische Verbesserung	Automaattinen parannus
+Schatten und Artefakte entfernen, Schrift schärfen	Poista varjot ja häiriöt, terävöitä teksti
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Poista varjot ja häiriöt, terävöitä teksti. Voidaan kytkeä pois jokaisessa asiakirjassa erikseen.
+unkorrigiert	korjaamaton
+Maximal	Suurin
+Bildqualität	Kuvanlaatu
+volle Auflösung	täysi tarkkuus
+Briefe, Ausdrucke, große Schrift	Kirjeet, tulosteet, iso teksti
+Bücher und die meisten Dokumente (empfohlen)	Kirjat ja useimmat asiakirjat (suositus)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Pieni teksti, kaavat, vanhat kirjat – hitaampi
+Gilt auch für alle weiteren Scans.	Koskee myös kaikkia seuraavia skannauksia.
+Ändern	Muuta
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Minne ”Tallenna” tallentaa vientisi. ”Jaa” ei riipu tästä.
+Ordner und Dateiname beim Speichern wählen	Valitse kansio ja tiedostonimi tallennettaessa
+Exporte landen direkt hier	Viennit menevät suoraan tänne
+Anderen Ordner wählen …	Valitse toinen kansio …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Myös SD-kortti ja pilvikansiot, jos ne on määritetty laitteelle.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Pysyvä käyttöoikeus tähän kansioon ei ole mahdollinen.
+Sehr hohe Auflösung	Erittäin suuri tarkkuus
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	%d MP:n tarkkuudella jokaisen sivun käsittely kestää paljon kauemmin ja vaatii paljon muistia. Useimmille asiakirjoille riittää ”Vakio”. ”Suurin” kannattaa vain hyvin pienelle tekstille.
+Trotzdem verwenden	Käytä silti
+langsam	hidas
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Kaukolaukaisinta ei ole yhdistetty – muodosta laitepari Bluetooth-asetuksissa
+Mit dem Fernauslöser auslösen	Laukaise kaukolaukaisimella
+Umblättern	Sivun kääntö
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Lopettaa kuvaamisen. Jo kuvatut sivut säilyvät ja käsitellään.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Kytkee taskulampun päälle tai pois. Kiiltävä paperi kannattaa kuvata ilman valoa ja vinosti ikkunaan nähden.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Käyttää olemassa olevia kuvia uusien kuvien sijaan.
+Serie	Sarja
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Aloittaa tai pysäyttää sarjan: ajastin ottaa silloin kuvan automaattisesti muutaman sekunnin välein.
+Auslöser	Laukaisin
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Ottaa kuvan. Myös äänenvoimakkuuspainikkeet ja Bluetooth-kaukolaukaisin laukaisevat.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Lopettaa kuvaamisen ja avaa yleiskatsauksen; numero näyttää tämän kuvauskerran kuvat.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Kuinka monta pikseliä kussakin kuvassa on. Nopea (5 MP) isolle tekstille, Vakio (12 MP) lähes kaikkeen, Suurin pienelle tekstille ja kaavoille – kestää kauemmin.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Vaihda napauttamalla: pois, 3, 5 tai 10 sekuntia. Laukaisin aloittaa sitten sarjan, jossa kuva otetaan tällä välillä – kätevä kirjoille.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Ottaa kuvan vain, kun napautat laukaisinta.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Ottaa kuvan itse heti, kun sivu on ollut paikallaan 0,7 sekuntia. Kirjatilassa: jokaisen sivun kääntämisen jälkeen, kun kirja on taas paikallaan.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Ottaa kuvan Bluetooth-kaukolaukaisimella (esim. ”AB Shutter 3”). Muodosta ensin laitepari laukaisimen kanssa puhelimen Bluetooth-asetuksissa.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Antaa asiakirjalle oman nimen; sitä käytetään myös tiedostonimenä viennissä.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Käännä aukeamien lukusuunta, käännä laitteella tai poista skannaus.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Avaa kameran ja lisää tähän asiakirjaan uusia sivuja.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Ottaa galleriasta kuvia uusiksi sivuiksi; ne rajataan ja tunnistetaan kuten kamerakuvat.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Muuta järjestystä vetämällä; valitse sivuja kiertääksesi, siirtääksesi, kopioidaksesi, irrottaaksesi tai poistaaksesi ne.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Jaa, tallenna tai tulosta PDF-, Word-, kuva-, ZIP-, teksti- tai taulukkomuodossa.
+Farbe, Graustufen, Schwarz-Weiß	Väri, harmaasävy, mustavalko
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Vaihtaa tämän asiakirjan kaikki sivut. Mustavalko tuottaa pienimmät tiedostot, väri toistaa kuvat ja leimat uskollisesti.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Päällä: varjot, tahrat ja häiriöt poistetaan ja tekstistä tulee kontrastisempaa. Pois: sivut vain rajataan ja suoristetaan – valokuville, piirroksille tai kun parannus vääristää jotain.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Luo tiedoston ja antaa sen sovellukselle, esim. sähköpostille, viestisovellukselle tai pilveen.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Vie tiedoston tallennuspaikkaan – kiinteään kansioon tai valinnalla ”Kysy joka kerta” sinne, minne sen laitat.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Tulostaa Androidin tulostuspalvelun kautta; siellä voi valita myös ”Tallenna PDF-muodossa”.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Minne ”Tallenna” tallentaa tiedostot: kysy joka kerta tai aina kiinteään kansioon, myös SD-kortille tai pilvikansioon.
+Hilfe & Anleitung	Ohje ja käyttöohjeet
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Vinkki: pidä painiketta painettuna sekunnin ajan, niin näet mitä se tekee.
+Startseite	Aloitus
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Avaa kameran. Yhden kuvauskerran kaikki kuvat menevät samaan asiakirjaan.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	”Skannaa”-painikkeen yläpuolella oleva gallerian kuvake ottaa olemassa olevia kuvia; ne rajataan ja tunnistetaan kuten kamerakuvat.
+Suchen	Haku
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Löytää skannaukset nimen ja tunnistetun tekstin perusteella sivunumeron kanssa.
+Ordner und Kategorien	Kansiot ja luokat
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Kansiot ryhmittelevät skannauksia. Luokat (kirjat, kuitit …) tulevat näkyviin itsestään, kun sen tyyppisiä skannauksia on.
+Mehrere Scans	Useita skannauksia
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Paina skannausta pitkään: valitse, yhdistä, siirrä kansioon tai poista.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Poistetut skannaukset säilyvät 30 päivää roskakorissa (valikko ⋮) ja ne voi palauttaa.
+Modi	Tilat
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Valitse alhaalta: Asiakirja (yksittäiset arkit), Kirja (aukeamat jaetaan kahdeksi sivuksi), Henkilökortti (etu- ja kääntöpuoli todellisessa koossa yhdellä arkilla), Käyntikortti (yhteystieto tunnistetaan), Kuva (aidot värit, ei tekstintunnistusta), Passikuva (etukamera, 35 × 45 mm) ja QR-koodi.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Vasemmalla ylhäällä: Nopea (5 MP) isolle tekstille, Vakio (12 MP) lähes kaikkeen, Suurin pienelle tekstille ja kaavoille – hitaampi.
+Auslösung	Laukaisu
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuaalinen: laukaisimella. Auto 0,7 s: heti kun sivu on ollut paikallaan 0,7 sekuntia; kirjatilassa jokaisen sivun kääntämisen jälkeen. Bluetooth: laiteparina olevalla kaukolaukaisimella. Äänenvoimakkuuspainikkeet laukaisevat aina.
+Timer und Licht	Ajastin ja valo
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Kellokuvake ottaa kuvan 3, 5 tai 10 sekunnin välein (aloitus laukaisimella). Salama sytyttää taskulampun.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Napauta oikean alakulman pikkukuvaa: sivut käsitellään ja yleiskatsaus avautuu.
+Gute Fotos	Hyvät kuvat
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Aseta sivu tasaisesti ja tasaisesti valaistuna, pidä puhelin samansuuntaisena. Paperista eri värinen alusta auttaa rajauksessa.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Koskee asiakirjan kaikkia sivuja. Yksittäiset sivut voi asettaa toisin sivunäkymässä.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Poistaa varjot ja häiriöt ja tekee tekstistä kontrastisempaa. Pois päältä sivu vain rajataan ja suoristetaan.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Napautus avaa sivun. Pitkä painallus: kuvaa uudelleen, kierrä tai poista. Oranssilla merkityt sivut kannattaa tarkistaa (esim. epätarkat), punaiset epäonnistuivat.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Muuta järjestystä vetämällä, kierrä useita sivuja, siirrä tai kopioi ne toiseen asiakirjaan tai irrota uudeksi asiakirjaksi.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, kuvat, ZIP, teksti tai taulukko – jaa, tallenna tai tulosta.
+Mehr (⋮)	Lisää (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Käännä aukeamien lukusuunta, käännä laitteella tai poista skannaus. Ylhäällä oleva kynä vaihtaa nimen.
+Seitenansicht	Sivunäkymä
+Blättern und Zoomen	Selaaminen ja zoomaus
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Vaihda sivua pyyhkäisemällä; zoomaa kaksoisnapautuksella tai kahdella sormella.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Väri, harmaasävy tai mustavalko vain tälle sivulle esikatselun kanssa. Alla tämän sivun automaattinen parannus.
+Drehen und Zuschnitt	Kierto ja rajaus
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Kierrä 90°. Rajaa: aseta sivun kulmat uudelleen alkuperäiseen kuvaan.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Kirjoita sivulle kynällä, korostuskynällä tai tekstillä.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Tee arkaluonteiset tiedot lukukelvottomiksi – palkeilla tai pikselöimällä. Tilinumerot, korttinumerot ja kasvot ehdotetaan.
+Signieren und Text	Allekirjoitus ja teksti
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Allekirjoita lisää tallennetun allekirjoituksesi. Teksti näyttää tunnistetun tekstin korjattavaksi ja kopioitavaksi.
+Formate	Muodot
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (haettava), Word, kuvat (JPG), ZIP, teksti, Excel tai CSV; käyntikorteille myös yhteystietona.
+PDF-Optionen	PDF-asetukset
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Sivukoko, tarkkuus ja pakkaus määräävät laadun ja tiedostokoon – koko arvioidaan oikeassa yläkulmassa. Valinnaisesti salasanalla (AES-256).
+Teilen oder Speichern	Jaa vai tallenna
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Jaa lähettää tiedoston sovellukseen (sähköposti, viestit …). Tallenna vie sen tallennuspaikkaan.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	”Kysy joka kerta” avaa tallennettaessa kansion valinnan. Kiinteällä kansiolla viennit menevät sinne kysymättä – myös SD-kortille tai pilvikansioon.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Tulostaa Androidin tulostuspalvelun kautta tai tallentaa PDF-muodossa.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Kuvanlaatu, laukaisu ja aukeamien jakaminen uusille skannauksille. Kamerassa näitä voi muuttaa milloin tahansa.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Suodatin ja automaattinen parannus, joilla uudet asiakirjat alkavat.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Tekee PDF-tiedostoista haettavia. Kielet määräävät, mitkä merkit tunnistetaan.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Tallennuspaikka sekä tarkkuuden, pakkauksen ja sivukoon oletukset.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Sovelluslukitus sormenjäljellä, varmuuskopio ZIP-tiedostona ja roskakori.
+Ecken setzen	Aseta kulmat
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Vedä neljä kulmaa sivun reunoille; suurennuslasi näyttää sormen alla olevan kohdan suurennettuna.
+Einzel- oder Doppelseite	Yksittäinen sivu vai aukeama
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Valitse alhaalta, näyttääkö kuva yhden sivun vai avoimen aukeaman. Automaattinen antaa sovelluksen päättää.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Ylhäällä oleva valintamerkki käsittelee sivun uudella rajauksella.
+Werkzeuge	Työkalut
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Kynä kirjoittamiseen, korostuskynä korostamiseen, teksti kirjoitetuille muistiinpanoille. Värit ovat alla.
+Korrigieren	Korjaa
+Rückgängig nimmt den letzten Strich zurück.	Kumoa poistaa viimeisen vedon.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Kirjoittaa muutokset sivulle. Ilman tallennusta sivu pysyy muuttumattomana.
+Vorschläge	Ehdotukset
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Löydetyt tilinumerot, korttinumerot, verotunnisteet ja kasvot on merkitty – napauta poistaaksesi valinnan tai valitaksesi uudelleen.
+Eigene Bereiche	Omat alueet
+Mit dem Finger weitere Rechtecke aufziehen.	Merkitse sormella lisää suorakulmioita.
+Balken oder Pixel	Palkit vai pikselit
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Musta palkki tai pikselöinti. Alla oleva teksti poistetaan myös tekstintunnistuksesta ja PDF:stä.
+Zeichnen	Piirrä
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Allekirjoita kerran sormella – allekirjoitus tallennetaan laitteelle.
+Platzieren	Sijoita
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Siirrä yhdellä sormella, muuta kokoa kahdella ja lisää sitten.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Ylhäällä oleva kynäkuvake korvaa tallennetun allekirjoituksen.
+Text bearbeiten	Muokkaa tekstiä
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Sivun tunnistettu teksti on alhaalla ja sitä voi muuttaa. Ylhäällä on sivun kuva vertailua varten.
+Wirkung	Vaikutus
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Korjaukset päivittyvät hakuun, PDF:n tekstikerrokseen sekä Word- ja tekstivienteihin.
+Holt einen gelöschten Scan zurück.	Palauttaa poistetun skannauksen.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skannaukset poistetaan automaattisesti 30 päivän kuluttua. ”Tyhjennä” poistaa kaiken heti.
+Belegung	Käyttö
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Näyttää, kuinka paljon tilaa skannaukset, alkuperäiset kuvat, roskakori ja välimuisti vievät.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Alkuperäisten kuvien poistaminen säästää paljon tilaa; valmiit sivut säilyvät, vain rajausta ei voi enää muuttaa.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Tallenna kaikki skannaukset ZIP-tiedostona ja palauta ne tälle tai toiselle laitteelle. Mitään ei ladata verkkoon.
+Auswahl	Valinta
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Valitse asiakirjojesi kielet. Jokainen lisäkieli hidastaa tunnistusta.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Puuttuvat kielet ladataan kerran ja toimivat sen jälkeen ilman internetiä.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Yhdistä puhelin ja tietokone samaan Wi-Fi-verkkoon (tai tietokone puhelimen hotspotiin).
+Herunterladen	Lataa
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Avaa näytetty osoite tietokoneen selaimessa tai skannaa QR-koodi; siellä voit ladata kaikki skannaukset PDF- tai tekstimuodossa.
+Sicherheit	Turvallisuus
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Toimii vain lähiverkossa ja vain niin kauan kuin tämä näkymä on auki.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Kieli, kuvanlaatu, laukaisu, tekstintunnistus, tallennuspaikka, sovelluslukitus ja varmuuskopio.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Ottaa galleriasta kuvia uudeksi asiakirjaksi; ne rajataan ja tunnistetaan kuten kamerakuvat.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Avaa kameran. Yhden kuvauskerran kaikki kuvat menevät samaan asiakirjaan.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Poistaa tämän sivun asiakirjasta (vahvistuksen jälkeen).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Väri, harmaasävy tai mustavalko ja automaattinen parannus vain tälle sivulle.
+Dreht die Seite um 90° im Uhrzeigersinn.	Kiertää sivua 90° myötäpäivään.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Aseta sivun kulmat uudelleen alkuperäiseen kuvaan, jos reuna puuttuu tai taustaa näkyy.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Tee arkaluonteiset tiedot lukukelvottomiksi palkeilla tai pikseleillä; ne katoavat myös PDF:n tekstistä.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Sijoittaa tallennetun allekirjoituksesi sivulle; ensimmäisellä kerralla piirrät sen.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Näyttää sivun tunnistetun tekstin korjattavaksi ja kopioitavaksi.
+Fotografiert beim Tippen auf den Auslöser.	Ottaa kuvan, kun napautat laukaisinta.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Ottaa kuvan heti, kun sivu on ollut paikallaan 0,7 s; kirjatilassa jokaisen sivun kääntämisen jälkeen.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Ottaa kuvan laiteparina olevalla Bluetooth-kaukolaukaisimella.
+Lautstärketasten lösen immer aus.	Äänenvoimakkuuspainikkeet laukaisevat aina.
+Word erstellen, Formeln erkennen (%d/%d)	Luodaan Word-tiedostoa, tunnistetaan kaavoja (%d/%d)
+Belarussisch	Valkovenäjä
+Bulgarisch	Bulgaria
+Serbisch	Serbia
+Mazedonisch	Makedonia
+Kein Link im geteilten Text	Jaetussa tekstissä ei ole linkkiä
+Import fehlgeschlagen: %s	Tuonti epäonnistui: %s
+Link laden	Ladataan linkkiä
+Unter dem Link liegt keine PDF- oder Bilddatei.	Linkki ei johda PDF- tai kuvatiedostoon.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Vain PDF-tiedostoja ja kuvia voi tuoda.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Suojattuja PDF-tiedostoja ei voi tuoda.
+PDF-Seite %d/%d importieren	Tuodaan PDF-sivua %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Kuvaus %s s jälkeen
+Wartezeit	Odotusaika
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Kuinka kauan sivun täytyy olla paikallaan ennen automaattista kuvausta. Lyhyempi on nopeampi, pidempi antaa vähemmän tärähtäneitä kuvia.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Ottaa kuvan itse heti, kun sivu on paikallaan; odotusajan (0,2–1,5 s) säädät alapuolella. Kirjatilassa: jokaisen sivunkäännön jälkeen, kun kirja on taas paikallaan.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Lisää valokuvia, kuvakaappauksia, PDF-tiedostoja tai linkin uusina sivuina; valokuvat rajataan, kaikki tunnistetaan.
+Senden an …	Lähetä …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Minne ”Tallenna” vie viennit. ”Lähetä …” on siitä riippumaton.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Valitse alikansio, esim. ”Documents” – tallennustilan ylintä kansiota Android ei salli.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Luo tiedoston ja lähettää sen sovellukseen, esim. WhatsApp, sähköposti, Telegram tai pilvitallennus.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuaalinen: laukaisimella. Auto: heti kun sivu on paikallaan – odotusajan (0,2–1,5 s, oletus 0,7 s) säädät skannausikkunassa kytkimen alla; kirjatilassa jokaisen sivunkäännön jälkeen. Bluetooth: paritetulla kauko-laukaisimella. Äänenvoimakkuuspainikkeet ottavat aina kuvan.
+Senden an oder Speichern	Lähetä tai tallenna
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	”Lähetä …” lähettää tiedoston sovellukseen (WhatsApp, sähköposti, Telegram, pilvi …). Tallenna vie sen tallennuspaikkaan.
+Importieren	Tuo
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Lisää valokuvia, kuvakaappauksia, PDF-tiedostoja tai linkin uutena asiakirjana; valokuvat rajataan, kaikki tunnistetaan.
+Bilder aus der Galerie	Kuvat galleriasta
+Fotos und Screenshots	Valokuvat ja kuvakaappaukset
+Dateien	Tiedostot
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF-tiedostot ja kuvat, esim. Latauksista tai pilvestä
+Eine PDF- oder Bilddatei aus dem Internet	PDF- tai kuvatiedosto internetistä
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Sitten kuten skannatut sivut: tekstintunnistus, käännös ja vienti mihin tahansa muotoon.
+Link importieren	Tuo linkki
+Internetadresse	Verkko-osoite
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Ottaa kuvan, kun sivu on ollut paikallaan %s s (säädettävissä skannausikkunassa); kirjatilassa jokaisen sivunkäännön jälkeen.
+Fachwörterbuch laden	Ladataan sanastoa
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Sanasto kielelle %s tai %s puuttuu – käännetty ilman erikoistermejä
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Ei sanastotiedosto (glossary-xx.tsv.gz)
+Download nicht verfügbar	Lataus ei ole saatavilla
+Estnisch	Viro
+Irisch	Iiri
+Litauisch	Liettua
+Lettisch	Latvia
+Maltesisch	Malta
+Slowakisch	Slovakki
+Slowenisch	Sloveeni
+Ohne Fachwörterbuch	Ei sanastoa
+Alle Fachgebiete	Kaikki alat
+Fachgebiet: %s	Ala: %s
+Fachwörterbücher verwalten …	Hallitse sanastoja …
+Fachwörterbücher	Erikoissanastot
+Aus Datei importieren	Tuo tiedostosta
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Oikeuden, lääketieteen, tekniikan, talouden ja 17 muun alan termit (IATE, EU:n termipankki) säilyvät käännöksessä tarkasti. Tarvitaan lähde- ja kohdekielen sanasto, kumpikin 0,3–9 Mt.
+Einmal laden, danach offline.	Lataa kerran, sitten offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Tuo glossary-xx.tsv.gz-tiedostot ylhäällä olevalla kansiokuvakkeella.
+Fachwörterbücher für die Übersetzung	Erikoissanastot käännöksiin
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Oikeus, lääketiede, tekniikka ja muuta – 24 EU-kieltä
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Kaikki kuvat ja tekstit pysyvät tällä laitteella. Internetiä käytetään vain kielten, käännösmallien ja sanastojen kertalataukseen, kun käynnistät sen.
+Übersetzen	Käännä
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Luo laitteella dokumentista käännetyn kopion: samat sivut ja kuvat, teksti kohdekielellä omalla paikallaan. Jokainen kappale käännetään omasta kielestään. ”Alalla” sanastojen erikoistermit siirtyvät täsmälleen.
+Was nachgeladen werden kann	Mitä voi ladata
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Kaikki on vapaaehtoista ja ladataan vain napautuksesta; sen jälkeen toimii ilman internetiä:\n• Tekstintunnistuksen kielet: kukin 1–15 Mt (Asetukset › Kielet). Saksa ja englanti sisältyvät.\n• Kiina: oma tunnistusmalli, noin 17 Mt.\n• Käännösmallit: noin 30 Mt kieltä kohti, ladataan automaattisesti ensimmäisellä käännöksellä.\n• Erikoissanastot: 0,3–9 Mt kieltä kohti, kaikki 24 EU-kieltä yhteensä noin 70 Mt (Asetukset › Erikoissanastot).\nLadatut tiedostot voi poistaa milloin tahansa.
+Wozu	Mihin
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Yleiset kääntäjät eivät tunne monia erikoistermejä tai kääntävät niitä epäjohdonmukaisesti. Sanasto lisää vahvistetun termin, esim. ”Beweislast” → ”todistustaakka”.
+Quelle	Lähde
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, EU:n toimielinten termipankki, jossa on termejä 21 alalta (oikeus, terveys, tekniikka, talous, ympäristö, liikenne …). Se on saatavilla EU:n 24 virallisella kielellä.
+Was nötig ist	Mitä tarvitaan
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Yksi sanasto lähdekielelle ja yksi kohdekielelle, esim. saksa ja englanti. Yksi sanasto kieltä kohti riittää kaikkiin kielipareihin.
+Laden oder importieren	Lataa tai tuo
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Lataa nuolella (kerran, sitten offline) tai tuo tiedosto ”glossary-xx.tsv.gz” kansiokuvakkeella, esim. tietokoneelta tai SD-kortilta.
+Benutzen	Käyttö
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Valitse käännettäessä ala ylhäältä. ”Kaikki alat” käyttää vain termejä, jotka käännetään kaikkialla samoin.
+Grenzen	Rajoitukset
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Erikoistermit lisätään perusmuodossa; taivutettuja muotoja ei aina tunnisteta.
+Politik	Politiikka
+Internationale Beziehungen	Kansainväliset suhteet
+Europäische Union	Euroopan unioni
+Recht	Oikeus
+Wirtschaft	Talous
+Handel	Kauppa
+Finanzwesen	Rahoitus
+Soziales und Gesundheit	Sosiaaliset kysymykset ja terveys
+Bildung und Kommunikation	Koulutus ja viestintä
+Wissenschaft	Tiede
+Unternehmen und Wettbewerb	Yritystoiminta ja kilpailu
+Beschäftigung und Arbeitsbedingungen	Työllisyys ja työolot
+Verkehr	Liikenne
+Umwelt	Ympäristö
+Land-, Forst- und Fischereiwirtschaft	Maa-, metsä- ja kalatalous
+Agrarerzeugnisse und Lebensmittel	Elintarvikkeet
+Produktion, Technologie und Forschung	Tuotanto, teknologia ja tutkimus
+Energie	Energia
+Industrie	Teollisuus
+Geografie	Maantiede
+Internationale Organisationen	Kansainväliset järjestöt
+Wenig Licht – Lampe einschalten	Vähän valoa – sytytä lamppu
+Verarbeitung mehrfach abgebrochen	Käsittely keskeytyi toistuvasti
+Bearbeitungen gehen verloren	Muokkaukset menetetään
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Sivu luodaan uudelleen kuvasta. Peitot, allekirjoitus ja muistiinpanot on lisättävä uudelleen.
+Neu zuschneiden	Rajaa uudelleen
+Sprachdaten	Kielitiedot
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Näyttää, paljonko tilaa skannaukset, alkuperäiset kuvat, roskakori, välimuisti ja kielitiedot (tekstintunnistus, sanastot) vievät.
+Bitte warten, bis alle Seiten erkannt sind	Odota, kunnes kaikki sivut on tunnistettu
+Die Sprache „%s“ kann nicht übersetzt werden	Kieltä ”%s” ei voi kääntää
+Übersetzung in die Seiten setzen	Käännöstä sijoitetaan sivuille

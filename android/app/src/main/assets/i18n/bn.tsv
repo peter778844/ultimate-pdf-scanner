@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	অনুগ্রহ করে আগে আঙুলের ছাপ, ফেস আনলক বা স্ক্রিন লক সেট করুন।
+Dieses Gerät unterstützt keine biometrische Entsperrung.	এই ডিভাইস বায়োমেট্রিক আনলক সমর্থন করে না।
+Ultimate PDF Scanner entsperren	Ultimate PDF Scanner আনলক করুন
+Deine Scans sind geschützt	আপনার স্ক্যান সুরক্ষিত
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner লক করা আছে
+Deine Scans bleiben auf diesem Gerät.	আপনার স্ক্যান এই ডিভাইসেই থাকে।
+  Entsperren	  আনলক করুন
+Systemsprache	সিস্টেমের ভাষা
+Deutsch	জার্মান
+English	ইংরেজি
+Fotos importieren	ছবি ইমপোর্ট করুন
+Texterkennung vorbereiten	লেখা শনাক্তকরণ প্রস্তুত হচ্ছে
+Ein Foto konnte nicht verarbeitet werden: %s	একটি ছবি প্রসেস করা যায়নি: %s
+Foto laden	ছবি লোড হচ্ছে
+Foto nicht lesbar	ছবি পড়া যাচ্ছে না
+Filter anwenden	ফিল্টার প্রয়োগ হচ্ছে
+Schwärzen	আড়াল করুন
+Unterschrift einfügen	স্বাক্ষর যোগ হচ্ছে
+Unterschrift eingefügt	স্বাক্ষর যোগ হয়েছে
+Änderungen einfügen	পরিবর্তন প্রয়োগ হচ্ছে
+Seite bearbeitet	পৃষ্ঠা সম্পাদিত হয়েছে
+Text gesichert	লেখা সংরক্ষিত হয়েছে
+Zusammenführen	একত্র করুন
+%d Scans zusammengeführt	একত্র করা স্ক্যান: %d
+Seiten verschieben	পৃষ্ঠা সরানো হচ্ছে
+Seiten kopieren	পৃষ্ঠা কপি হচ্ছে
+ (Teil)	 (অংশ)
+Zwischenspeicher leeren	ক্যাশ মুছুন
+Zwischenspeicher geleert	ক্যাশ মোছা হয়েছে
+Originalfotos entfernen	মূল ছবি মুছুন
+Sicherung erstellen	ব্যাকআপ তৈরি হচ্ছে
+Sicherung erstellen (%d/%d)	ব্যাকআপ তৈরি হচ্ছে (%d/%d)
+Sicherung gespeichert	ব্যাকআপ সংরক্ষিত হয়েছে
+Sicherung wiederherstellen	ব্যাকআপ পুনরুদ্ধার হচ্ছে
+ (%d schon vorhanden)	 (আগে থেকেই আছে: %d)
+Wiederherstellen fehlgeschlagen: %s	পুনরুদ্ধার ব্যর্থ: %s
+PDF erstellen (%d/%d)	PDF তৈরি হচ্ছে (%d/%d)
+%s erstellen	%s তৈরি হচ্ছে
+Export fehlgeschlagen: %s	এক্সপোর্ট ব্যর্থ: %s
+%s speichern	%s সংরক্ষণ হচ্ছে
+PDF gespeichert (passwortgeschützt, AES-256)	PDF সংরক্ষিত (পাসওয়ার্ড-সুরক্ষিত, AES-256)
+%s gespeichert	%s সংরক্ষিত
+Bilder speichern	ছবি সংরক্ষণ হচ্ছে
+Bilder speichern (%d/%d)	ছবি সংরক্ষণ হচ্ছে (%d/%d)
+%d Bilder gespeichert	সংরক্ষিত ছবি: %d
+Sprache erkennen	ভাষা শনাক্ত হচ্ছে
+Kein erkannter Text zum Übersetzen	অনুবাদের জন্য কোনো শনাক্ত লেখা নেই
+Sprache nicht erkannt	ভাষা শনাক্ত হয়নি
+Der Text ist bereits auf %s	লেখাটি আগে থেকেই %s ভাষায়
+Sprachmodell laden (beim ersten Mal ~30 MB)	ভাষা মডেল লোড হচ্ছে (প্রথমবার ~30 MB)
+Übersetzen (%d/%d)	অনুবাদ হচ্ছে (%d/%d)
+Seite %d	পৃষ্ঠা %d
+Übersetzung fehlgeschlagen: %s	অনুবাদ ব্যর্থ: %s
+1 Bereich unkenntlich gemacht	১টি অংশ আড়াল করা হয়েছে
+%d Bereiche unkenntlich gemacht	আড়াল করা অংশ: %d
+1 Scan wiederhergestellt	১টি স্ক্যান পুনরুদ্ধার হয়েছে
+%d Scans wiederhergestellt	পুনরুদ্ধার হওয়া স্ক্যান: %d
+Server antwortet mit %d	সার্ভারের উত্তর: %d
+Datei unvollständig	ফাইল অসম্পূর্ণ
+Nicht gefunden	পাওয়া যায়নি
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	ফোনে স্ক্যান: %d · সরাসরি Wi-Fi দিয়ে, ক্লাউড ছাড়া
+Ausgangssprache „%s“ wird nicht unterstützt	উৎস ভাষা “%s” সমর্থিত নয়
+Zielsprache „%s“ wird nicht unterstützt	লক্ষ্য ভাষা “%s” সমর্থিত নয়
+QR-CODE	QR কোড
+AUSWEIS	পরিচয়পত্র
+DOKUMENT	নথি
+BUCH	বই
+VISITENKARTE	ভিজিটিং কার্ড
+PASSFOTO	পাসপোর্ট ছবি
+PDF	PDF
+Word	Word
+Bilder	ছবি
+ZIP	ZIP
+Text	লেখা
+Excel	Excel
+CSV	CSV
+Kontakt	পরিচিতি
+Wie gescannt	যেমন স্ক্যান হয়েছে
+Letter	Letter
+Mittel	মাঝারি
+Englisch	ইংরেজি
+Französisch	ফরাসি
+Italienisch	ইতালীয়
+Spanisch	স্প্যানিশ
+Portugiesisch	পর্তুগিজ
+Niederländisch	ডাচ
+Polnisch	পোলিশ
+Tschechisch	চেক
+Dänisch	ডেনিশ
+Schwedisch	সুইডিশ
+Norwegisch	নরওয়েজীয়
+Finnisch	ফিনিশ
+Ungarisch	হাঙ্গেরীয়
+Rumänisch	রোমানীয়
+Kroatisch	ক্রোয়েশীয়
+Türkisch	তুর্কি
+Griechisch	গ্রিক
+Russisch	রুশ
+Ukrainisch	ইউক্রেনীয়
+Arabisch	আরবি
+Hebräisch	হিব্রু
+Persisch	ফারসি
+Chinesisch (vereinfacht)	চীনা (সরলীকৃত)
+Japanisch	জাপানি
+Koreanisch	কোরীয়
+Latein	লাতিন
+Deutsch (Fraktur)	জার্মান (ফ্রাক্টুর)
+1 Seite	১ পৃষ্ঠা
+%d Seiten	পৃষ্ঠা: %d
+1 Scan	১টি স্ক্যান
+%d Scans	স্ক্যান: %d
+Abbrechen	বাতিল
+Bearbeiten	সম্পাদনা
+Zurück	ফিরে যান
+Rückgängig	আগের অবস্থায় ফেরান
+Sichern	সংরক্ষণ করুন
+Seite	পৃষ্ঠা
+Einfügen	যোগ করুন
+Änderungen sichern?	পরিবর্তন সংরক্ষণ করবেন?
+Verwerfen	বাদ দিন
+Schließen	বন্ধ করুন
+Fertig	সম্পন্ন
+Öffnen	খুলুন
+Keine	কোনোটিই না
+Alle	সব
+Umbenennen	নাম পরিবর্তন
+Mehr	আরও
+Löschen	মুছুন
+Teilen	শেয়ার করুন
+Speichern	সংরক্ষণ করুন
+Drucken	প্রিন্ট করুন
+Kopieren	কপি করুন
+Drehen	ঘোরান
+Laden	ডাউনলোড
+Entfernen	সরান
+Verschieben	সরিয়ে নিন
+Name	নাম
+Aus	বন্ধ
+Leeren	খালি করুন
+Wiederherstellen	পুনরুদ্ধার
+Text einfügen	লেখা যোগ করুন
+z. B. Name, Datum …	যেমন নাম, তারিখ …
+Kein Gesicht erkannt – bitte noch einmal	কোনো মুখ পাওয়া যায়নি – আবার চেষ্টা করুন
+Seite erneut scannen	পৃষ্ঠা আবার স্ক্যান করুন
+Fernauslöser verbunden	রিমোট শাটার যুক্ত
+Nach dem Umblättern auslösen	প্রতিবার পৃষ্ঠা ওল্টানোর পর ছবি তুলুন
+Leserichtung rechts nach links	পড়ার ক্রম ডান থেকে বাঁয়ে
+Leserichtung links nach rechts	পড়ার ক্রম বাঁ থেকে ডানে
+Automatisch auslösen	স্বয়ংক্রিয় ছবি
+Kamera wechseln	ক্যামেরা বদলান
+Licht	আলো
+Bitte Kamerazugriff erlauben.	অনুগ্রহ করে ক্যামেরার অনুমতি দিন।
+Passfoto wird zugeschnitten …	পাসপোর্ট ছবি কাটা হচ্ছে …
+Ohne Rückseite fertig	পেছনের দিক ছাড়া শেষ করুন
+Kein Code im Bild gefunden	ছবিতে কোনো কোড পাওয়া যায়নি
+Aus Galerie	গ্যালারি থেকে
+QR-Code oder Barcode in den Rahmen halten	QR কোড বা বারকোড ফ্রেমের মধ্যে রাখুন
+Gesicht ins Oval · gerade schauen · heller Hintergrund	মুখ ডিম্বাকৃতির মধ্যে · সোজা তাকান · হালকা পটভূমি
+Vorderseite des Ausweises in den Rahmen	পরিচয়পত্রের সামনের দিক ফ্রেমে রাখুন
+Jetzt die Rückseite	এবার পেছনের দিক
+Visitenkarte in den Rahmen legen	ভিজিটিং কার্ড ফ্রেমে রাখুন
+Aufgeschlagenes Buch ins Bild halten	খোলা বই ক্যামেরার সামনে রাখুন
+Doppelseite erkannt	দুই পৃষ্ঠা শনাক্ত হয়েছে
+Umblättern – löst danach automatisch aus	পৃষ্ঠা উল্টান – তারপর নিজে থেকেই ছবি তোলা হবে
+Ruhig halten …	স্থির রাখুন …
+Ruhig halten – wird automatisch ausgelöst	স্থির রাখুন – নিজে থেকেই ছবি তোলা হবে
+Seite ins Bild halten	পৃষ্ঠা ক্যামেরার সামনে রাখুন
+Seite erkannt	পৃষ্ঠা শনাক্ত হয়েছে
+Intervall-Timer	বিরতি টাইমার
+Serie starten	সিরিজ শুরু করুন
+Farbe	রঙিন
+Graustufen	গ্রেস্কেল
+Schwarz-Weiß	সাদা-কালো
+Original	মূল
+Automatisch	স্বয়ংক্রিয়
+Zuschnitt nicht möglich	কাটা সম্ভব নয়
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	জায়গা বাঁচাতে এই পৃষ্ঠার মূল ছবি মুছে ফেলা হয়েছে। পৃষ্ঠাটি আবার তুলতে “আবার স্ক্যান করুন” ব্যবহার করুন।
+Zuschnitt anpassen	কাটা ঠিক করুন
+Übernehmen	প্রয়োগ করুন
+Einzelseite	একক পৃষ্ঠা
+Doppelseite	দুই পৃষ্ঠা
+Auto	অটো
+  Automatisch	  স্বয়ংক্রিয়
+Ecken auf die Seitenränder ziehen	কোণগুলো পৃষ্ঠার কিনারায় টেনে আনুন
+Seiten ordnen	পৃষ্ঠা সাজান
+%d ausgewählt	নির্বাচিত: %d
+Filter für alle Seiten	সব পৃষ্ঠার জন্য ফিল্টার
+Leserichtung umkehren	পড়ার ক্রম উল্টান
+Übersetzen…	অনুবাদ…
+Scan löschen	স্ক্যান মুছুন
+Scannen	স্ক্যান করুন
+Import	ইমপোর্ট
+Ordnen	সাজান
+Exportieren	এক্সপোর্ট
+Übersetzen in …	অনুবাদ করুন …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	অনুবাদ ডিভাইসেই হয়। প্রথমবার ভাষা মডেল একবার ডাউনলোড হয়।
+Übersetzung teilen	অনুবাদ শেয়ার করুন
+Scan löschen?	স্ক্যান মুছবেন?
+„%s“ wird endgültig gelöscht.	“%s” স্থায়ীভাবে মুছে ফেলা হবে।
+Kontakt erkannt	পরিচিতি শনাক্ত হয়েছে
+Zu Kontakten	পরিচিতিতে যোগ করুন
+Seiten werden verarbeitet (%d/%d)	পৃষ্ঠা প্রসেস হচ্ছে (%d/%d)
+Nur diese	শুধু এগুলো
+Wird neu verarbeitet	আবার প্রসেস হচ্ছে
+Erneut	আবার তুলুন
+Fehlgeschlagen	ব্যর্থ
+Foto nicht verarbeitet	ছবি প্রসেস হয়নি
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	ছবি প্রসেস করার সময় একটি ত্রুটি হয়েছে।
+Keine Auffälligkeiten	কোনো সমস্যা পাওয়া যায়নি
+Erneut scannen	আবার স্ক্যান করুন
+Ersetzt beide Seiten dieser Doppelseite	এই দুই পৃষ্ঠার দুটোই বদলে দেয়
+Kamera öffnen und diese Seite ersetzen	ক্যামেরা খুলে এই পৃষ্ঠা বদলান
+Nach vorn	সামনে সরান
+Nach hinten	পেছনে সরান
+Seite löschen	পৃষ্ঠা মুছুন
+Foto entfernen	ছবি সরান
+1 Seite verschoben	১টি পৃষ্ঠা সরানো হয়েছে
+%d Seiten verschoben	সরানো পৃষ্ঠা: %d
+1 Seite kopiert	১টি পৃষ্ঠা কপি হয়েছে
+%d Seiten kopiert	কপি হওয়া পৃষ্ঠা: %d
+1 Seite löschen?	১টি পৃষ্ঠা মুছবেন?
+%d Seiten löschen?	পৃষ্ঠা মুছবেন (%d)?
+1 Seite prüfen	১টি পৃষ্ঠা যাচাই করুন
+%d Seiten prüfen	যাচাই করার পৃষ্ঠা: %d
+Seite löschen?	পৃষ্ঠা মুছবেন?
+Durchsuchbares PDF mit erkanntem Text	শনাক্ত লেখাসহ খোঁজার উপযোগী PDF
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Word, LibreOffice ও Google Docs-এর জন্য সম্পাদনযোগ্য লেখা
+Die Seite als JPG-Bild	পৃষ্ঠাটি JPG ছবি হিসেবে
+Ein JPG-Bild pro Seite (%d Dateien)	প্রতি পৃষ্ঠায় একটি JPG ছবি (ফাইল: %d)
+Alle Seiten als JPG und der Text in einem Archiv	সব পৃষ্ঠা JPG হিসেবে এবং লেখা একটি আর্কাইভে
+Nur der erkannte Text	শুধু শনাক্ত লেখা
+Erkannte Tabellen, ein Tabellenblatt pro Seite	শনাক্ত টেবিল, প্রতি পৃষ্ঠায় একটি শিট
+Erkannte Tabellen als CSV (Semikolon, für Excel)	শনাক্ত টেবিল CSV হিসেবে (সেমিকোলন, Excel-এর জন্য)
+Visitenkarte als Kontakt (vCard)	ভিজিটিং কার্ড পরিচিতি হিসেবে (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	সামনে ও পেছনের দিক আসল মাপে এক পৃষ্ঠায় – প্রিন্টের জন্য প্রস্তুত
+Seitenformat	পৃষ্ঠার মাপ
+Mit Passwort schützen	পাসওয়ার্ড দিয়ে সুরক্ষিত করুন
+AES-256-Verschlüsselung	AES-256 এনক্রিপশন
+Passwort	পাসওয়ার্ড
+Mindestens 4 Zeichen	কমপক্ষে ৪টি অক্ষর
+Passwort wiederholen	পাসওয়ার্ড আবার লিখুন
+Passwörter stimmen nicht überein	পাসওয়ার্ড মিলছে না
+Seitenbilder einfügen	পৃষ্ঠার ছবি যোগ করুন
+Jede Seite als Bild über ihrem Text	প্রতিটি পৃষ্ঠার ছবি তার লেখার ওপরে
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	লেখার ফাঁকা জায়গা দেখে কলাম চেনা হয় – স্পষ্টভাবে আলাদা কলামে সবচেয়ে ভালো কাজ করে। “1,234.50”-এর মতো সংখ্যা সংখ্যা হিসেবেই থাকে।
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	এই কার্ডে কোনো যোগাযোগের তথ্য শনাক্ত হয়নি।
+1 ausgewählte Seite	১টি পৃষ্ঠা নির্বাচিত
+%d ausgewählte Seiten	নির্বাচিত পৃষ্ঠা: %d
+Mobil	মোবাইল
+Fax	ফ্যাক্স
+Telefon	ফোন
+%s teilen	%s শেয়ার করুন
+Scan	স্ক্যান
+Text teilen	লেখা শেয়ার করুন
+PDF teilen	PDF শেয়ার করুন
+In den Papierkorb verschoben	রিসাইকেল বিনে সরানো হয়েছে
+%d Scans in den Papierkorb verschoben	রিসাইকেল বিনে সরানো স্ক্যান: %d
+Auswahl beenden	নির্বাচন শেষ করুন
+Alle auswählen	সব নির্বাচন করুন
+In Ordner verschieben	ফোল্ডারে সরান
+Ordner	ফোল্ডার
+Ordner umbenennen	ফোল্ডারের নাম বদলান
+Ordner auflösen	ফোল্ডার মুছুন
+Papierkorb (%d)	রিসাইকেল বিন (%d)
+Papierkorb	রিসাইকেল বিন
+An PC senden	PC-তে পাঠান
+Speicher & Sicherung	স্টোরেজ ও ব্যাকআপ
+Einstellungen	সেটিংস
+Scans und Text durchsuchen	স্ক্যান ও লেখা খুঁজুন
+Alle Scans durchsuchen	সব স্ক্যান খুঁজুন
+Suche löschen	খোঁজা মুছুন
+%d Treffer	ফলাফল: %d
+Alle Scans	সব স্ক্যান
+Nichts gefunden	কিছু পাওয়া যায়নি
+Weder ein Name noch ein erkannter Text passt zu „%s“.	কোনো নাম বা শনাক্ত লেখা “%s”-এর সঙ্গে মেলে না।
+Ordner ist leer	ফোল্ডার খালি
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	স্ক্যান এখানে আনুন: কোনো স্ক্যানে দীর্ঘক্ষণ চাপ দিয়ে “ফোল্ডারে সরান” বেছে নিন।
+Noch keine Scans	এখনো কোনো স্ক্যান নেই
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	পৃষ্ঠার ছবি তুলতে “স্ক্যান করুন” চাপুন,\nঅথবা গ্যালারি থেকে ছবি ইমপোর্ট করুন।
+Ordnername	ফোল্ডারের নাম
+Neuer Ordner	নতুন ফোল্ডার
+%d Scans zusammenführen?	স্ক্যান একত্র করবেন (%d)?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	সব পৃষ্ঠা নির্বাচনের ক্রমে “%s”-এর শেষে যোগ হয়। বাকি স্ক্যানগুলো তারপর সরিয়ে ফেলা হয়।
+%d prüfen	যাচাই করুন: %d
+Wird verarbeitet (%d/%d)	প্রসেস হচ্ছে (%d/%d)
+Als PDF teilen	PDF হিসেবে শেয়ার করুন
+Kategorie ändern	বিভাগ বদলান
+Kein Ordner	কোনো ফোল্ডার নেই
+Neuer Ordner …	নতুন ফোল্ডার …
+Kategorie	বিভাগ
+Download fehlgeschlagen: %s	ডাউনলোড ব্যর্থ: %s
+keine Verbindung	সংযোগ নেই
+Sprachen der Texterkennung	লেখা শনাক্তকরণের ভাষা
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	নির্বাচিত ভাষাগুলো একসঙ্গে শনাক্ত হয় – শুধু দরকারি ভাষা বেছে নিন, প্রতিটি ভাষা শনাক্তকরণ ধীর করে।
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	না থাকা ভাষাগুলো একবার ডাউনলোড হয় (প্রায় 2–15 MB) এবং তারপর অফলাইনে চলে।
+Wird geladen … %d %%	ডাউনলোড হচ্ছে … %d %%
+Enthalten	অন্তর্ভুক্ত
+Geladen · %s	ডাউনলোড হয়েছে · %s
+Nicht geladen	ডাউনলোড হয়নি
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	নির্বাচন করতে ট্যাপ করুন · সরাতে চেপে ধরে টানুন
+Neuer Scan	নতুন স্ক্যান
+Verschieben nach …	এখানে সরান …
+Kopieren nach …	এখানে কপি করুন …
+Seite %d von %d	পৃষ্ঠা %d / %d
+Filter	ফিল্টার
+Zuschnitt	কাটুন
+Signieren	স্বাক্ষর করুন
+Code	কোড
+Link	লিঙ্ক
+E-Mail	ইমেল
+Telefonnummer	ফোন নম্বর
+Ort	অবস্থান
+Produktcode	পণ্য কোড
+Netzwerk: %s	নেটওয়ার্ক: %s
+Passwort: %s	পাসওয়ার্ড: %s
+Verschlüsselung: %s	এনক্রিপশন: %s
+Passwort kopieren	পাসওয়ার্ড কপি করুন
+Verbinden	সংযোগ করুন
+E-Mail schreiben	ইমেল লিখুন
+Anrufen	কল করুন
+In Karten öffnen	মানচিত্রে খুলুন
+Suche sensible Daten…	সংবেদনশীল তথ্য খোঁজা হচ্ছে…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	সংবেদনশীল কিছু পাওয়া যায়নি। আড়াল করার অংশ আঙুল দিয়ে টেনে চিহ্নিত করুন।
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	পাওয়া গেছে – নির্বাচন/বাতিল করতে ট্যাপ করুন, আরও অংশ যোগ করতে টানুন:
+Schwarzer Balken	কালো দাগ
+Verpixeln	পিক্সেলেট
+Unkenntlich machen (%d)	আড়াল করুন (%d)
+Manuell	ম্যানুয়াল
+Gesicht	মুখ
+Kein WLAN	Wi-Fi নেই
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	ফোন ও PC একই Wi-Fi-তে যুক্ত করুন (অথবা PC-কে ফোনের হটস্পটে)। তারপর ঠিকানা এখানে দেখা যাবে।
+Am PC im Browser öffnen	PC-র ব্রাউজারে খুলুন
+QR-Code der Adresse	ঠিকানার QR কোড
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	ঠিকানা লিখুন বা PC-র ক্যামেরা দিয়ে QR কোড স্ক্যান করুন। সেখানে সব স্ক্যান PDF বা লেখা হিসেবে ডাউনলোড করা যায়।
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	শুধু স্থানীয় নেটওয়ার্কে এবং শুধু যতক্ষণ এই স্ক্রিন খোলা থাকে। ইন্টারনেটে কিছুই আপলোড হয় না।
+Heruntergeladen	ডাউনলোড হয়েছে
+App-Sperre nicht möglich	অ্যাপ লক সম্ভব নয়
+Sprache	ভাষা
+Sprache der App	অ্যাপের ভাষা
+Aufnahme	ছবি তোলা
+Doppelseiten im Dokument-Modus	নথি মোডে দুই পৃষ্ঠা
+Automatisch teilen	স্বয়ংক্রিয়ভাবে ভাগ করুন
+Nie teilen	কখনো ভাগ করবেন না
+Fotografiert, sobald die Seite ruhig im Bild liegt.	পৃষ্ঠা স্থির হলেই ছবি তোলে।
+Buch-Modus	বই মোড
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	পৃষ্ঠা ওল্টানো শনাক্ত করে এবং বই আবার স্থির হলেই ছবি তোলে।
+Leserichtung	পড়ার ক্রম
+Links → rechts	বাঁ → ডান
+Rechts → links	ডান → বাঁ
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	আরবি, হিব্রু, ফারসি ও জাপানির জন্য ডান → বাঁ: ডান পৃষ্ঠা আগে আসে।
+Fernauslöser	রিমোট শাটার
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Android-এর ব্লুটুথ সেটিংসে ব্লুটুথ ক্যামেরা রিমোট (যেমন “AB Shutter 3”) পেয়ার করুন।
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	তারপর ক্যামেরায় রিমোট ও ভলিউম বোতাম দিয়ে ছবি তোলা যায়।
+Bild	ছবি
+Standardfilter	ডিফল্ট ফিল্টার
+Handschrift entfernen	হাতের লেখা সরান
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	নীল/লাল কলম ও পেন্সিলের নোট সরায়। এই রঙের ছাপা লেখাও সরায়।
+Texterkennung	লেখা শনাক্তকরণ
+Sprachen	ভাষা
+Sicherheit & Speicher	নিরাপত্তা ও স্টোরেজ
+App-Sperre	অ্যাপ লক
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	খোলার সময় আঙুলের ছাপ, মুখ বা স্ক্রিন লক দিয়ে আনলক করুন। সাম্প্রতিক অ্যাপের তালিকায় বিষয়বস্তু লুকানো থাকে।
+Belegung, Backup als ZIP, Wiederherstellen	ব্যবহার, ZIP ব্যাকআপ, পুনরুদ্ধার
+Gelöschte Scans werden nach 30 Tagen entfernt	মুছে ফেলা স্ক্যান ৩০ দিন পরে সরিয়ে ফেলা হয়
+Offline	অফলাইন
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	সব ছবি ও লেখা এই ডিভাইসেই থাকে। ইন্টারনেট শুধু আপনার অনুরোধে ভাষা একবার ডাউনলোড করতে ব্যবহার হয়।
+Über	সম্পর্কে
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	ওপেন-সোর্স উপাদান: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (সবই Apache License 2.0); ML Kit (অনুবাদ, মুখ শনাক্তকরণ, ডিভাইসে)।
+Unterschrift zeichnen	স্বাক্ষর আঁকুন
+Mit dem Finger unterschreiben	আঙুল দিয়ে স্বাক্ষর করুন
+Unterschrift platzieren	স্বাক্ষর বসান
+Neu zeichnen	আবার আঁকুন
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	এক আঙুলে সরান, দুই আঙুলে আকার বদলান।
+Unterschrift	স্বাক্ষর
+Belegt von Ultimate PDF Scanner	UltimatePDFScanner-এর ব্যবহার
+%s frei auf dem Gerät	ডিভাইসে খালি: %s
+Seiten	পৃষ্ঠা
+Originalfotos	মূল ছবি
+Zwischenspeicher	ক্যাশ
+Platz schaffen	জায়গা খালি করুন
+Exportierte Dateien zum Teilen	শেয়ারের জন্য এক্সপোর্ট করা ফাইল
+Gelöschte Scans der letzten 30 Tage	গত ৩০ দিনে মুছে ফেলা স্ক্যান
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	তৈরি পৃষ্ঠাগুলো থেকে যায়, কিন্তু কাটা আর বদলানো যায় না।
+Größte Scans	সবচেয়ে বড় স্ক্যান
+Sicherung	ব্যাকআপ
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	সব স্ক্যান একটি ZIP ফাইলে ব্যাকআপ নিন – যেমন SD কার্ড, USB স্টিক বা PC-তে। কিছুই আপলোড হয় না।
+Papierkorb mitsichern	রিসাইকেল বিনও অন্তর্ভুক্ত করুন
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Backup_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	পুনরুদ্ধারে শুধু না থাকা স্ক্যান যোগ হয়।
+Originalfotos entfernen?	মূল ছবি মুছবেন?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	%s বাঁচবে। এরপর পৃষ্ঠা আর নতুন করে কাটা যাবে না; “আবার স্ক্যান করুন” সম্ভব থাকবে।
+Text bearbeiten · Seite %d	লেখা সম্পাদনা · পৃষ্ঠা %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	সংশোধন খোঁজা ও PDF-এর লেখার স্তরে যুক্ত হয়।
+Kein Text erkannt – hier eintippen	কোনো লেখা শনাক্ত হয়নি – এখানে লিখুন
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	মুছে ফেলা স্ক্যান %d দিন পরে স্থায়ীভাবে সরিয়ে ফেলা হয়।
+Papierkorb ist leer	রিসাইকেল বিন খালি
+Endgültig löschen	স্থায়ীভাবে মুছুন
+Papierkorb leeren?	রিসাইকেল বিন খালি করবেন?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	স্ক্যান (%d) স্থায়ীভাবে মুছে ফেলা হবে। এটি আর ফেরানো যাবে না।
+Endgültig löschen?	স্থায়ীভাবে মুছবেন?
+„%s“ wird sofort gelöscht.	“%s” এখনই মুছে ফেলা হবে।
+noch 1 Tag	আর ১ দিন বাকি
+noch %d Tage	বাকি দিন: %d
+Quittung	রসিদ
+Quittungen	রসিদ
+Rechnung	চালান
+Rechnungen	চালান
+Visitenkarte	ভিজিটিং কার্ড
+Visitenkarten	ভিজিটিং কার্ড
+Vertrag	চুক্তি
+Verträge	চুক্তি
+Brief	চিঠি
+Briefe	চিঠি
+Ausweis	পরিচয়পত্র
+Ausweise	পরিচয়পত্র
+Buch	বই
+Bücher	বই
+Passfoto	পাসপোর্ট ছবি
+Passfotos	পাসপোর্ট ছবি
+Dokument	নথি
+Dokumente	নথি
+Auflösung	রেজোলিউশন
+Kompression	কম্প্রেশন
+Gering	কম
+Stark	বেশি
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	প্রিন্ট ও সংরক্ষণের জন্য 300 dpi ও কম কম্প্রেশন, ইমেলের জন্য 150 dpi ও বেশি কম্প্রেশন।
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	PDF খোঁজার উপযোগী ও লেখা কপিযোগ্য করে। বন্ধ: দ্রুত প্রসেসিং, PDF শুধু ছবি।
+Keine Seite erkannt	কোনো পৃষ্ঠা শনাক্ত হয়নি
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	পৃষ্ঠার কিনারা পাওয়া যায়নি – পুরো ছবি ব্যবহার করা হয়েছে।
+Unscharf	ঝাপসা
+Das Foto ist verwackelt oder unscharf.	ছবি কেঁপে গেছে বা ফোকাসে নেই।
+Zu dunkel	খুব অন্ধকার
+Die Seite ist schlecht ausgeleuchtet.	পৃষ্ঠায় আলো কম।
+Text schlecht lesbar	লেখা পড়া কঠিন
+Die Texterkennung war unsicher.	লেখা শনাক্তকরণ অনিশ্চিত ছিল।
+Kein Text erkannt	কোনো লেখা শনাক্ত হয়নি
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	পৃষ্ঠায় কোনো লেখা পাওয়া যায়নি – এটি কি ফাঁকা পৃষ্ঠা, নাকি ছবিতে কোনো পৃষ্ঠাই নেই?
+Hindi	হিন্দি
+Bengalisch	বাংলা
+Urdu	উর্দু
+Indonesisch	ইন্দোনেশীয়
+Seite erkennen	পৃষ্ঠা শনাক্ত হচ্ছে
+Seite entzerren	পৃষ্ঠা সোজা করা হচ্ছে
+Finger entfernen	আঙুল সরানো হচ্ছে
+Schärfe prüfen	স্পষ্টতা যাচাই হচ্ছে
+Ausrichtung	দিক
+Bild verbessern	ছবি উন্নত করা হচ্ছে
+Speicherort	সংরক্ষণের স্থান
+Speicherort für Exporte	এক্সপোর্ট সংরক্ষণের স্থান
+Jedes Mal fragen	প্রতিবার জিজ্ঞাসা করুন
+Ordner wählen …	ফোল্ডার বেছে নিন …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	“সংরক্ষণ করুন” PDF ও অন্যান্য এক্সপোর্ট প্রতিবার জিজ্ঞাসা না করে সরাসরি এই ফোল্ডারে রাখে। SD কার্ডও চলবে।
+Gespeichert in „%s“	“%s”-এ সংরক্ষিত
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	সংরক্ষণের স্থানে পৌঁছানো যাচ্ছে না। অনুগ্রহ করে আবার বেছে নিন।
+Neu aufnehmen	আবার তুলুন
+Um 90° links drehen	৯০° বাঁয়ে ঘোরান
+Seite gelöscht	পৃষ্ঠা মুছে ফেলা হয়েছে
+Lange drücken: neu aufnehmen, drehen oder löschen	দীর্ঘক্ষণ চাপুন: আবার তুলুন, ঘোরান বা মুছুন
+Ersetzt beide Seiten	দুটি পৃষ্ঠাই প্রতিস্থাপন করে
+Ränder bereinigen	প্রান্ত পরিষ্কার করা হচ্ছে
+Scan-Qualität	স্ক্যানের মান
+Schnell	দ্রুত
+Standard	সাধারণ
+Genau	নির্ভুল
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	চিঠি ও প্রিন্টআউটের মতো বড়, স্পষ্ট লেখার জন্য: ছোট ছবি, সবচেয়ে দ্রুত প্রক্রিয়া।
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	বই ও বেশিরভাগ নথির জন্য: স্বাভাবিক গতিতে ভালো শনাক্তকরণ।
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	ছোট লেখা, পুরোনো বই, পাদটীকা ও সূত্রের জন্য: ক্যামেরার পূর্ণ রেজোলিউশন, ধীর, বেশি মেমরি।
+BILD	ছবি
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	ছবিটি সমানভাবে রাখুন · ফ্ল্যাশ নয় · প্রতিফলন এড়িয়ে চলুন
+an	চালু
+aus	বন্ধ
+Automatische Auslösung an: nach dem Umblättern	স্বয়ংক্রিয় ছবি তোলা চালু: পাতা উল্টানোর পরে
+Automatische Auslösung an: sobald die Seite ruhig liegt	স্বয়ংক্রিয় ছবি তোলা চালু: পাতা স্থির হলেই
+Automatische Auslösung aus	স্বয়ংক্রিয় ছবি তোলা বন্ধ
+PDF & Export	PDF ও এক্সপোর্ট
+Speicherort für PDFs und Bilder	PDF ও ছবির সংরক্ষণস্থান
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	এক্সপোর্টের সময় আলাদা ফাইলের জন্য এটি বদলানো যায়।
+Weitere Optionen …	আরও বিকল্প …
+Automatische Verbesserung	স্বয়ংক্রিয় উন্নতি
+Schatten und Artefakte entfernen, Schrift schärfen	ছায়া ও ত্রুটি সরান, লেখা স্পষ্ট করুন
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	ছায়া ও ত্রুটি সরান, লেখা স্পষ্ট করুন। প্রতিটি নথিতে আলাদাভাবে বন্ধ করা যায়।
+unkorrigiert	সংশোধন ছাড়া
+Maximal	সর্বোচ্চ
+Bildqualität	ছবির মান
+volle Auflösung	পূর্ণ রেজোলিউশন
+Briefe, Ausdrucke, große Schrift	চিঠি, প্রিন্টআউট, বড় অক্ষর
+Bücher und die meisten Dokumente (empfohlen)	বই ও বেশিরভাগ নথি (প্রস্তাবিত)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	ছোট অক্ষর, সূত্র, পুরনো বই – ধীর
+Gilt auch für alle weiteren Scans.	পরের সব স্ক্যানেও প্রযোজ্য।
+Ändern	পরিবর্তন
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	“সংরক্ষণ” আপনার এক্সপোর্ট কোথায় রাখে। “শেয়ার” এতে প্রভাবিত হয় না।
+Ordner und Dateiname beim Speichern wählen	সংরক্ষণের সময় ফোল্ডার ও ফাইলের নাম বাছুন
+Exporte landen direkt hier	এক্সপোর্ট সরাসরি এখানে যায়
+Anderen Ordner wählen …	অন্য ফোল্ডার বাছুন …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	ডিভাইসে সেট করা থাকলে SD কার্ড ও ক্লাউড ফোল্ডারও।
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	এই ফোল্ডারে স্থায়ী অ্যাক্সেস সম্ভব নয়।
+Sehr hohe Auflösung	খুব উচ্চ রেজোলিউশন
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	%d MP-তে প্রতিটি পৃষ্ঠা প্রসেস করতে অনেক বেশি সময় লাগে এবং অনেক মেমরি দরকার হয়। বেশিরভাগ নথির জন্য “সাধারণ” যথেষ্ট। “সর্বোচ্চ” শুধু খুব ছোট লেখার জন্য কাজে লাগে।
+Trotzdem verwenden	তবুও ব্যবহার করুন
+langsam	ধীর
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	কোনো রিমোট শাটার সংযুক্ত নেই – ব্লুটুথ সেটিংসে পেয়ার করুন
+Mit dem Fernauslöser auslösen	রিমোট শাটার দিয়ে ছবি তুলুন
+Umblättern	পাতা ওল্টানো
+Auto 0,7 s	অটো 0.7 সে.
+Bluetooth	ব্লুটুথ
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	ছবি তোলা শেষ করে। তোলা পৃষ্ঠাগুলো রাখা ও প্রসেস করা হয়।
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	টর্চ চালু বা বন্ধ করে। চকচকে কাগজে আলো ছাড়া এবং জানালার দিকে কোণাকুণি ছবি তোলা ভালো।
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	নতুন ছবির বদলে আগের ছবি নেয়।
+Serie	সিরিজ
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	সিরিজ শুরু বা বন্ধ করে: টাইমার তখন কয়েক সেকেন্ড পরপর নিজে ছবি তোলে।
+Auslöser	শাটার
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	ছবি তোলে। ভলিউম বোতাম আর ব্লুটুথ রিমোট শাটার দিয়েও ছবি তোলা যায়।
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	ছবি তোলা শেষ করে ওভারভিউ খোলে; সংখ্যাটি এবারের ছবিগুলো দেখায়।
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	প্রতিটি ছবিতে কত পিক্সেল। দ্রুত (5 MP) বড় লেখার জন্য, সাধারণ (12 MP) প্রায় সবকিছুর জন্য, সর্বোচ্চ ছোট লেখা ও সূত্রের জন্য – সময় বেশি লাগে।
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	ট্যাপ করে বদলান: বন্ধ, 3, 5 বা 10 সেকেন্ড। তারপর শাটার এই বিরতিতে ছবির সিরিজ শুরু করে – বইয়ের জন্য সুবিধাজনক।
+Fotografiert nur, wenn du auf den Auslöser tippst.	শুধু শাটারে ট্যাপ করলে ছবি তোলে।
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	পৃষ্ঠা 0.7 সেকেন্ড স্থির থাকলেই নিজে ছবি তোলে। বই মোডে: প্রতিবার পাতা ওল্টানোর পর, বই আবার স্থির হলে।
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	ব্লুটুথ রিমোট শাটার দিয়ে ছবি তোলে (যেমন “AB Shutter 3”)। আগে ফোনের ব্লুটুথ সেটিংসে রিমোটটি পেয়ার করুন।
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	নথিকে নিজস্ব নাম দেয়; এক্সপোর্টের সময় এটি ফাইলের নাম হিসেবেও ব্যবহৃত হয়।
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	জোড়া পৃষ্ঠার পড়ার ক্রম উল্টান, ডিভাইসে অনুবাদ করুন বা স্ক্যান মুছুন।
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	ক্যামেরা খুলে এই নথিতে আরও পৃষ্ঠা যোগ করে।
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	গ্যালারির ছবি অতিরিক্ত পৃষ্ঠা হিসেবে নেয়; ক্যামেরার ছবির মতোই কাটা ও শনাক্ত হয়।
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	টেনে ক্রম বদলান; পৃষ্ঠা বেছে ঘোরান, সরান, কপি করুন, আলাদা করুন বা মুছুন।
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	PDF, Word, ছবি, ZIP, টেক্সট বা টেবিল হিসেবে শেয়ার, সংরক্ষণ বা প্রিন্ট করুন।
+Farbe, Graustufen, Schwarz-Weiß	রঙিন, গ্রেস্কেল, সাদা-কালো
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	এই নথির সব পৃষ্ঠা বদলায়। সাদা-কালোতে ফাইল সবচেয়ে ছোট হয়, রঙিন ছবি ও সিল হুবহু দেখায়।
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	চালু: ছায়া, দাগ ও ত্রুটি সরানো হয় এবং লেখা বেশি স্পষ্ট হয়। বন্ধ: পৃষ্ঠা শুধু কাটা ও সোজা করা হয় – ছবি, আঁকা বা উন্নতি কিছু বিকৃত করলে।
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	ফাইল তৈরি করে কোনো অ্যাপে দেয়, যেমন ইমেল, মেসেঞ্জার বা ক্লাউড।
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	ফাইল সংরক্ষণের স্থানে রাখে – নির্দিষ্ট ফোল্ডারে বা “প্রতিবার জিজ্ঞাসা করুন” হলে যেখানে আপনি রাখবেন।
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Android প্রিন্ট সার্ভিস দিয়ে প্রিন্ট করে; সেখানে “PDF হিসেবে সংরক্ষণ”ও বেছে নেওয়া যায়।
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	“সংরক্ষণ” ফাইল কোথায় রাখে: প্রতিবার জিজ্ঞাসা অথবা সবসময় নির্দিষ্ট ফোল্ডারে, SD কার্ড বা ক্লাউড ফোল্ডারেও।
+Hilfe & Anleitung	সাহায্য ও নির্দেশিকা
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	টিপ: কোনো বোতাম এক সেকেন্ড চেপে ধরুন – সেটি কী করে দেখা যাবে।
+Startseite	হোম
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	ক্যামেরা খোলে। একবারে তোলা সব ছবি একটি নথিতে যায়।
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	“স্ক্যান করুন”-এর উপরের গ্যালারি আইকন আগের ছবি নেয়; ক্যামেরার ছবির মতোই কাটা ও শনাক্ত হয়।
+Suchen	খুঁজুন
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	নাম ও শনাক্ত করা লেখা দিয়ে স্ক্যান খোঁজে, পৃষ্ঠা নম্বরসহ।
+Ordner und Kategorien	ফোল্ডার ও বিভাগ
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	ফোল্ডার স্ক্যানগুলো একসাথে রাখে। বিভাগ (বই, রসিদ …) নিজে থেকে দেখা যায় যখন ওই ধরনের স্ক্যান থাকে।
+Mehrere Scans	একাধিক স্ক্যান
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	কোনো স্ক্যানে দীর্ঘক্ষণ চাপুন: বাছুন, একত্র করুন, ফোল্ডারে সরান বা মুছুন।
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	মোছা স্ক্যান 30 দিন রিসাইকেল বিনে (মেনু ⋮) থাকে এবং ফেরত আনা যায়।
+Modi	মোড
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	নিচে বাছুন: নথি (একক পাতা), বই (জোড়া পৃষ্ঠা দুই পৃষ্ঠায় ভাগ হয়), পরিচয়পত্র (সামনে ও পিছনে আসল মাপে এক পাতায়), ভিজিটিং কার্ড (যোগাযোগ শনাক্ত হয়), ছবি (আসল রং, লেখা শনাক্ত নয়), পাসপোর্ট ছবি (সামনের ক্যামেরা, 35 × 45 mm) ও QR কোড।
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	উপরে বাঁয়ে: দ্রুত (5 MP) বড় লেখার জন্য, সাধারণ (12 MP) প্রায় সবকিছুর জন্য, সর্বোচ্চ ছোট লেখা ও সূত্রের জন্য – ধীর।
+Auslösung	ছবি তোলার ধরন
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	ম্যানুয়াল: শাটার দিয়ে। অটো 0.7 সে.: পৃষ্ঠা 0.7 সেকেন্ড স্থির থাকলেই; বই মোডে প্রতিবার পাতা ওল্টানোর পর। ব্লুটুথ: পেয়ার করা রিমোট শাটার দিয়ে। ভলিউম বোতাম সবসময় ছবি তোলে।
+Timer und Licht	টাইমার ও আলো
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	ঘড়ির আইকন প্রতি 3, 5 বা 10 সেকেন্ডে ছবি তোলে (শাটার দিয়ে শুরু)। ফ্ল্যাশ টর্চ চালু করে।
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	নিচে ডানে থাম্বনেইলে ট্যাপ করুন: পৃষ্ঠা প্রসেস হয় এবং ওভারভিউ খোলে।
+Gute Fotos	ভালো ছবি
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	পৃষ্ঠাটি সমান করে ও সমান আলোয় রাখুন, ফোন সমান্তরাল ধরুন। কাগজ থেকে ভিন্ন রঙের নিচের তল কাটতে সাহায্য করে।
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	নথির সব পৃষ্ঠায় প্রযোজ্য। আলাদা পৃষ্ঠা পৃষ্ঠা দৃশ্যে ভিন্নভাবে সেট করা যায়।
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	ছায়া ও ত্রুটি সরায় এবং লেখা বেশি স্পষ্ট করে। বন্ধ করলে পৃষ্ঠা শুধু কাটা ও সোজা করা হয়।
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	ট্যাপ করলে পৃষ্ঠা খোলে। দীর্ঘক্ষণ চাপুন: আবার তুলুন, ঘোরান বা মুছুন। কমলা চিহ্নিত পৃষ্ঠা পরীক্ষা করুন (যেমন ঝাপসা), লালগুলো ব্যর্থ হয়েছে।
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	টেনে ক্রম বদলান, একাধিক পৃষ্ঠা ঘোরান, অন্য নথিতে সরান বা কপি করুন, অথবা নতুন নথি হিসেবে আলাদা করুন।
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, ছবি, ZIP, টেক্সট বা টেবিল – শেয়ার, সংরক্ষণ বা প্রিন্ট করুন।
+Mehr (⋮)	আরও (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	জোড়া পৃষ্ঠার পড়ার ক্রম উল্টান, ডিভাইসে অনুবাদ করুন বা স্ক্যান মুছুন। উপরের কলম নাম বদলায়।
+Seitenansicht	পৃষ্ঠা দৃশ্য
+Blättern und Zoomen	পাতা ওল্টানো ও জুম
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	পৃষ্ঠা বদলাতে সোয়াইপ করুন, জুম করতে দুবার ট্যাপ করুন বা দুই আঙুল ব্যবহার করুন।
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	শুধু এই পৃষ্ঠার জন্য রঙিন, গ্রেস্কেল বা সাদা-কালো, প্রিভিউসহ। নিচে এই পৃষ্ঠার স্বয়ংক্রিয় উন্নতি।
+Drehen und Zuschnitt	ঘোরানো ও কাটা
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	90° ঘোরান। কাটা: মূল ছবিতে পৃষ্ঠার কোণ আবার সেট করুন।
+Mit Stift, Marker oder Text auf die Seite schreiben.	কলম, হাইলাইটার বা টেক্সট দিয়ে পৃষ্ঠায় লিখুন।
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	সংবেদনশীল তথ্য অপাঠ্য করুন – বার দিয়ে বা পিক্সেল করে। অ্যাকাউন্ট নম্বর, কার্ড নম্বর ও মুখ প্রস্তাব করা হয়।
+Signieren und Text	স্বাক্ষর ও টেক্সট
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	স্বাক্ষর আপনার সংরক্ষিত স্বাক্ষর বসায়। টেক্সট শনাক্ত লেখা সংশোধন ও কপির জন্য দেখায়।
+Formate	ফরম্যাট
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (অনুসন্ধানযোগ্য), Word, ছবি (JPG), ZIP, টেক্সট, Excel বা CSV; ভিজিটিং কার্ড যোগাযোগ হিসেবেও।
+PDF-Optionen	PDF বিকল্প
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	পৃষ্ঠার মাপ, রেজোলিউশন ও কম্প্রেশন মান ও ফাইলের আকার ঠিক করে – আকার উপরে ডানে আনুমানিক দেখায়। চাইলে পাসওয়ার্ডসহ (AES-256)।
+Teilen oder Speichern	শেয়ার না সংরক্ষণ
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	শেয়ার ফাইলটি কোনো অ্যাপে পাঠায় (ইমেল, মেসেঞ্জার …)। সংরক্ষণ সেটি সংরক্ষণের স্থানে রাখে।
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	“প্রতিবার জিজ্ঞাসা করুন” সংরক্ষণের সময় ফোল্ডার বাছাই খোলে। নির্দিষ্ট ফোল্ডার থাকলে এক্সপোর্ট না জিজ্ঞেস করেই সেখানে যায় – SD কার্ড বা ক্লাউড ফোল্ডারেও।
+Druckt über den Android-Druckdienst oder speichert als PDF.	Android প্রিন্ট সার্ভিস দিয়ে প্রিন্ট করে বা PDF হিসেবে সংরক্ষণ করে।
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	নতুন স্ক্যানের জন্য ছবির মান, ছবি তোলার ধরন ও জোড়া পৃষ্ঠা ভাগ। ক্যামেরায় যেকোনো সময় বদলানো যায়।
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	নতুন নথি যে ফিল্টার ও স্বয়ংক্রিয় উন্নতি দিয়ে শুরু হয়।
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	PDF অনুসন্ধানযোগ্য করে। ভাষাগুলো ঠিক করে কোন অক্ষর শনাক্ত হবে।
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	সংরক্ষণের স্থান এবং রেজোলিউশন, কম্প্রেশন ও পৃষ্ঠার মাপের ডিফল্ট।
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	আঙুলের ছাপে অ্যাপ লক, ZIP হিসেবে ব্যাকআপ ও রিসাইকেল বিন।
+Ecken setzen	কোণ সেট করুন
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	চারটি কোণ পৃষ্ঠার কিনারায় টানুন; ম্যাগনিফায়ার আঙুলের নিচের জায়গা বড় করে দেখায়।
+Einzel- oder Doppelseite	একক না জোড়া পৃষ্ঠা
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	নিচে বাছুন ছবিতে একটি পৃষ্ঠা না খোলা জোড়া পৃষ্ঠা। স্বয়ংক্রিয় হলে অ্যাপ ঠিক করে।
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	উপরের টিক নতুন কাটা দিয়ে পৃষ্ঠা প্রসেস করে।
+Werkzeuge	টুল
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	লেখার জন্য কলম, চিহ্নিত করতে হাইলাইটার, টাইপ করা নোটের জন্য টেক্সট। রংগুলো নিচে।
+Korrigieren	সংশোধন
+Rückgängig nimmt den letzten Strich zurück.	পূর্বাবস্থা শেষ দাগটি সরায়।
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	পরিবর্তন পৃষ্ঠায় লেখে। সংরক্ষণ না করলে পৃষ্ঠা অপরিবর্তিত থাকে।
+Vorschläge	প্রস্তাব
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	পাওয়া অ্যাকাউন্ট নম্বর, কার্ড নম্বর, কর নম্বর ও মুখ চিহ্নিত – বাদ দিতে বা আবার বাছতে ট্যাপ করুন।
+Eigene Bereiche	নিজের অংশ
+Mit dem Finger weitere Rechtecke aufziehen.	আঙুল দিয়ে আরও আয়তক্ষেত্র টানুন।
+Balken oder Pixel	বার না পিক্সেল
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	কালো বার বা পিক্সেল। নিচের লেখা টেক্সট শনাক্তকরণ ও PDF থেকেও সরানো হয়।
+Zeichnen	আঁকুন
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	একবার আঙুল দিয়ে স্বাক্ষর করুন – স্বাক্ষর ডিভাইসে সংরক্ষিত হয়।
+Platzieren	বসান
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	এক আঙুলে সরান, দুই আঙুলে আকার বদলান, তারপর বসান।
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	উপরের কলম আইকন সংরক্ষিত স্বাক্ষর বদলে দেয়।
+Text bearbeiten	টেক্সট সম্পাদনা
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	পৃষ্ঠার শনাক্ত লেখা নিচে আছে এবং বদলানো যায়। উপরে তুলনার জন্য পৃষ্ঠার ছবি।
+Wirkung	প্রভাব
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	সংশোধন অনুসন্ধানে, PDF-এর টেক্সট স্তরে এবং Word ও টেক্সট এক্সপোর্টে যায়।
+Holt einen gelöschten Scan zurück.	মোছা স্ক্যান ফিরিয়ে আনে।
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	স্ক্যান 30 দিন পর নিজে থেকে মুছে যায়। “খালি করুন” সঙ্গে সঙ্গে সব মুছে দেয়।
+Belegung	ব্যবহার
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	স্ক্যান, মূল ছবি, রিসাইকেল বিন ও ক্যাশ কত জায়গা নেয় দেখায়।
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	মূল ছবি সরালে অনেক জায়গা বাঁচে; তৈরি পৃষ্ঠা থাকে, শুধু পরে কাটা বদলানো যায় না।
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	সব স্ক্যান একটি ZIP ফাইলে ব্যাকআপ নিন এবং এই বা অন্য ডিভাইসে ফেরত আনুন। কিছুই আপলোড হয় না।
+Auswahl	বাছাই
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	আপনার নথির ভাষা বাছুন। প্রতিটি বাড়তি ভাষা শনাক্তকরণ ধীর করে।
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	যে ভাষা নেই তা একবার ডাউনলোড হয়, তারপর ইন্টারনেট ছাড়াই কাজ করে।
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	ফোন ও PC একই Wi-Fi-তে যুক্ত করুন (অথবা PC ফোনের হটস্পটে)।
+Herunterladen	ডাউনলোড
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	দেখানো ঠিকানাটি PC-এর ব্রাউজারে খুলুন বা QR কোড স্ক্যান করুন; সেখানে সব স্ক্যান PDF বা টেক্সট হিসেবে ডাউনলোড করা যায়।
+Sicherheit	নিরাপত্তা
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	শুধু লোকাল নেটওয়ার্কে এবং শুধু এই স্ক্রিন খোলা থাকা পর্যন্ত কাজ করে।
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	ভাষা, ছবির মান, ছবি তোলার ধরন, টেক্সট শনাক্তকরণ, সংরক্ষণের স্থান, অ্যাপ লক ও ব্যাকআপ।
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	গ্যালারির ছবি নতুন নথি হিসেবে নেয়; ক্যামেরার ছবির মতোই কাটা ও শনাক্ত হয়।
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	ক্যামেরা খোলে। একবারে তোলা সব ছবি একটি নথিতে যায়।
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	এই পৃষ্ঠাটি নথি থেকে মোছে (জিজ্ঞাসা করার পর)।
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	শুধু এই পৃষ্ঠার জন্য রঙিন, গ্রেস্কেল বা সাদা-কালো ও স্বয়ংক্রিয় উন্নতি।
+Dreht die Seite um 90° im Uhrzeigersinn.	পৃষ্ঠাটি ঘড়ির কাঁটার দিকে 90° ঘোরায়।
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	কোনো কিনারা বাদ পড়লে বা পটভূমি চলে এলে মূল ছবিতে পৃষ্ঠার কোণ আবার সেট করুন।
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	সংবেদনশীল তথ্য বার বা পিক্সেল দিয়ে অপাঠ্য করুন; এটি PDF-এর লেখা থেকেও মুছে যায়।
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	আপনার সংরক্ষিত স্বাক্ষর পৃষ্ঠায় বসায়; প্রথমবার আপনি এটি আঁকবেন।
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	পৃষ্ঠার শনাক্ত লেখা সংশোধন ও কপির জন্য দেখায়।
+Fotografiert beim Tippen auf den Auslöser.	শাটারে ট্যাপ করলে ছবি তোলে।
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	পৃষ্ঠা 0.7 সে. স্থির থাকলেই ছবি তোলে; বই মোডে প্রতিবার পাতা ওল্টানোর পর।
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	পেয়ার করা ব্লুটুথ রিমোট শাটার দিয়ে ছবি তোলে।
+Lautstärketasten lösen immer aus.	ভলিউম বোতাম সবসময় ছবি তোলে।
+Word erstellen, Formeln erkennen (%d/%d)	Word তৈরি হচ্ছে, সূত্র শনাক্ত হচ্ছে (%d/%d)
+Belarussisch	বেলারুশীয়
+Bulgarisch	বুলগেরীয়
+Serbisch	সার্বীয়
+Mazedonisch	ম্যাসেডোনীয়
+Kein Link im geteilten Text	শেয়ার করা টেক্সটে কোনো লিংক নেই
+Import fehlgeschlagen: %s	ইমপোর্ট ব্যর্থ: %s
+Link laden	লিংক লোড হচ্ছে
+Unter dem Link liegt keine PDF- oder Bilddatei.	লিংকটি কোনো PDF বা ছবির ফাইলে যায় না।
+Nur PDF-Dateien und Bilder lassen sich importieren.	শুধু PDF ফাইল ও ছবি ইমপোর্ট করা যায়।
+Geschützte PDF-Dateien lassen sich nicht importieren.	সুরক্ষিত PDF ফাইল ইমপোর্ট করা যায় না।
+PDF-Seite %d/%d importieren	PDF পৃষ্ঠা %d/%d ইমপোর্ট হচ্ছে
+Auto %s s	অটো %s সে.
+Auslösen nach %s s	%s সে. পরে ছবি
+Wartezeit	অপেক্ষার সময়
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	স্বয়ংক্রিয় ছবির আগে পৃষ্ঠাকে কতক্ষণ স্থির থাকতে হবে। কম সময় দ্রুত, বেশি সময়ে কম ঝাপসা ছবি হয়।
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	পৃষ্ঠা স্থির হলেই নিজে ছবি তোলে; অপেক্ষার সময় (0.2–1.5 সে.) নিচে ঠিক করুন। বই মোডে: প্রতিটি পৃষ্ঠা উল্টানোর পরে, বই আবার স্থির হলেই।
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	ছবি, স্ক্রিনশট, PDF ফাইল বা একটি লিংক অতিরিক্ত পৃষ্ঠা হিসেবে যোগ করে; ছবি কাটা হয়, সবকিছু শনাক্ত হয়।
+Senden an …	পাঠান …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	„সংরক্ষণ“ আপনার এক্সপোর্ট কোথায় রাখে। „পাঠান …“ এর থেকে স্বাধীন।
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	একটি সাবফোল্ডার বেছে নিন, যেমন „Documents“ – Android স্টোরেজের সবচেয়ে উপরের ফোল্ডার অনুমতি দেয় না।
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	ফাইল তৈরি করে কোনো অ্যাপে পাঠায়, যেমন WhatsApp, ইমেল, Telegram বা ক্লাউড স্টোরেজ।
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	ম্যানুয়াল: শাটার বোতাম দিয়ে। অটো: পৃষ্ঠা স্থির হলেই – অপেক্ষার সময় (0.2–1.5 সে., ডিফল্ট 0.7 সে.) স্ক্যান উইন্ডোতে সুইচের নিচে ঠিক করুন; বই মোডে প্রতিটি পৃষ্ঠা উল্টানোর পরে। ব্লুটুথ: জোড়া রিমোট শাটার দিয়ে। ভলিউম বোতাম সবসময় ছবি তোলে।
+Senden an oder Speichern	পাঠান বা সংরক্ষণ করুন
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„পাঠান …“ ফাইলটি কোনো অ্যাপে পাঠায় (WhatsApp, ইমেল, Telegram, ক্লাউড …)। সংরক্ষণ এটিকে সংরক্ষণের স্থানে রাখে।
+Importieren	ইমপোর্ট
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	ছবি, স্ক্রিনশট, PDF ফাইল বা একটি লিংক নতুন নথি হিসেবে নেয়; ছবি কাটা হয়, সবকিছু শনাক্ত হয়।
+Bilder aus der Galerie	গ্যালারি থেকে ছবি
+Fotos und Screenshots	ছবি ও স্ক্রিনশট
+Dateien	ফাইল
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF ফাইল ও ছবি, যেমন ডাউনলোড বা ক্লাউড থেকে
+Eine PDF- oder Bilddatei aus dem Internet	ইন্টারনেট থেকে একটি PDF বা ছবির ফাইল
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	তারপর স্ক্যান করা পৃষ্ঠার মতো: টেক্সট শনাক্তকরণ, অনুবাদ ও যেকোনো ফরম্যাটে এক্সপোর্ট।
+Link importieren	লিংক ইমপোর্ট
+Internetadresse	ওয়েব ঠিকানা
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	পৃষ্ঠা %s সে. স্থির থাকলেই ছবি তোলে (স্ক্যান উইন্ডোতে পরিবর্তনযোগ্য); বই মোডে প্রতিটি পৃষ্ঠা উল্টানোর পরে।
+Fachwörterbuch laden	শব্দকোষ লোড হচ্ছে
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	%s বা %s-এর শব্দকোষ নেই – বিশেষ পরিভাষা ছাড়া অনুবাদ করা হয়েছে
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	শব্দকোষ ফাইল নয় (glossary-xx.tsv.gz)
+Download nicht verfügbar	ডাউনলোড উপলব্ধ নয়
+Estnisch	এস্তোনীয়
+Irisch	আইরিশ
+Litauisch	লিথুয়ানীয়
+Lettisch	লাটভীয়
+Maltesisch	মাল্টিজ
+Slowakisch	স্লোভাক
+Slowenisch	স্লোভেনীয়
+Ohne Fachwörterbuch	শব্দকোষ ছাড়া
+Alle Fachgebiete	সব ক্ষেত্র
+Fachgebiet: %s	ক্ষেত্র: %s
+Fachwörterbücher verwalten …	শব্দকোষ পরিচালনা …
+Fachwörterbücher	বিশেষ শব্দকোষ
+Aus Datei importieren	ফাইল থেকে আমদানি
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	আইন, চিকিৎসা, প্রযুক্তি, অর্থনীতি ও আরও ১৭টি ক্ষেত্রের পরিভাষা (IATE, ইইউ-এর পরিভাষা ডেটাবেস) অনুবাদে হুবহু রাখা হয়। উৎস ও লক্ষ্য ভাষা দুটোর শব্দকোষ লাগে, প্রতিটি 0.3–9 MB।
+Einmal laden, danach offline.	একবার লোড করুন, তারপর অফলাইন।
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	glossary-xx.tsv.gz ফাইল উপরের ফোল্ডার আইকন দিয়ে আমদানি করুন।
+Fachwörterbücher für die Übersetzung	অনুবাদের জন্য বিশেষ শব্দকোষ
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	আইন, চিকিৎসা, প্রযুক্তি ও আরও – ইইউ-এর ২৪টি ভাষা
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	সব ছবি ও লেখা এই ডিভাইসেই থাকে। ইন্টারনেট শুধু ভাষা, অনুবাদ মডেল ও শব্দকোষ একবার লোড করতে ব্যবহার হয়, যখন আপনি শুরু করেন।
+Übersetzen	অনুবাদ করুন
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	ডিভাইসেই নথির একটি অনূদিত কপি তৈরি করে: একই পৃষ্ঠা ও ছবি, লেখাটি লক্ষ্য ভাষায় নিজের জায়গায়। প্রতিটি অনুচ্ছেদ তার নিজের ভাষা থেকে অনূদিত হয়। „বিষয়ক্ষেত্র“ দিয়ে পরিভাষাকোষের বিশেষ শব্দগুলো হুবহু নেওয়া হয়।
+Was nachgeladen werden kann	কী ডাউনলোড করা যায়
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	সবকিছু ঐচ্ছিক এবং শুধু আপনি ট্যাপ করলে লোড হয়; তারপর ইন্টারনেট ছাড়া চলে:\n• লেখা শনাক্তকরণের ভাষা: প্রতিটি 1–15 MB (সেটিংস › ভাষা)। জার্মান ও ইংরেজি অন্তর্ভুক্ত।\n• চীনা: নিজস্ব শনাক্তকরণ মডেল, প্রায় 17 MB।\n• অনুবাদ মডেল: প্রতি ভাষায় প্রায় 30 MB, প্রথম অনুবাদে স্বয়ংক্রিয়ভাবে লোড হয়।\n• বিশেষ শব্দকোষ: প্রতি ভাষায় 0.3–9 MB, ইইউ-এর ২৪টি ভাষা মিলিয়ে প্রায় 70 MB (সেটিংস › বিশেষ শব্দকোষ)।\nলোড করা ফাইল যেকোনো সময় সরানো যায়।
+Wozu	কেন
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	সাধারণ অনুবাদক অনেক পরিভাষা জানে না বা অসামঞ্জস্যভাবে অনুবাদ করে। শব্দকোষ নির্ধারিত পরিভাষা বসায়, যেমন «Beweislast» → «প্রমাণের দায়»।
+Quelle	উৎস
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, ইইউ প্রতিষ্ঠানগুলোর পরিভাষা ডেটাবেস, ২১টি ক্ষেত্রের পরিভাষাসহ (আইন, স্বাস্থ্য, প্রযুক্তি, অর্থনীতি, পরিবেশ, পরিবহন …)। এটি ইইউ-এর ২৪টি সরকারি ভাষায় আছে।
+Was nötig ist	কী লাগবে
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	উৎস ও লক্ষ্য ভাষার জন্য একটি করে শব্দকোষ, যেমন জার্মান ও ইংরেজি। প্রতি ভাষায় একটি শব্দকোষ সব ভাষা-জোড়ার জন্য যথেষ্ট।
+Laden oder importieren	লোড বা আমদানি
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	তীর দিয়ে লোড করুন (একবার, তারপর অফলাইন) বা ফোল্ডার আইকন দিয়ে «glossary-xx.tsv.gz» ফাইল আমদানি করুন, যেমন কম্পিউটার বা SD কার্ড থেকে।
+Benutzen	ব্যবহার
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	অনুবাদের সময় উপরে ক্ষেত্র বেছে নিন। «সব ক্ষেত্র» শুধু সেই পরিভাষা ব্যবহার করে যার অনুবাদ সব জায়গায় একই।
+Grenzen	সীমাবদ্ধতা
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	পরিভাষা মূল রূপে বসানো হয়; পরিবর্তিত রূপ সবসময় শনাক্ত হয় না।
+Politik	রাজনীতি
+Internationale Beziehungen	আন্তর্জাতিক সম্পর্ক
+Europäische Union	ইউরোপীয় ইউনিয়ন
+Recht	আইন
+Wirtschaft	অর্থনীতি
+Handel	বাণিজ্য
+Finanzwesen	অর্থায়ন
+Soziales und Gesundheit	সামাজিক বিষয় ও স্বাস্থ্য
+Bildung und Kommunikation	শিক্ষা ও যোগাযোগ
+Wissenschaft	বিজ্ঞান
+Unternehmen und Wettbewerb	ব্যবসা ও প্রতিযোগিতা
+Beschäftigung und Arbeitsbedingungen	কর্মসংস্থান ও কাজের পরিবেশ
+Verkehr	পরিবহন
+Umwelt	পরিবেশ
+Land-, Forst- und Fischereiwirtschaft	কৃষি, বনায়ন ও মৎস্য
+Agrarerzeugnisse und Lebensmittel	কৃষি-খাদ্য পণ্য
+Produktion, Technologie und Forschung	উৎপাদন, প্রযুক্তি ও গবেষণা
+Energie	জ্বালানি
+Industrie	শিল্প
+Geografie	ভূগোল
+Internationale Organisationen	আন্তর্জাতিক সংস্থা
+Wenig Licht – Lampe einschalten	আলো কম – বাতি চালু করুন
+Verarbeitung mehrfach abgebrochen	প্রক্রিয়াকরণ বারবার বাধাগ্রস্ত হয়েছে
+Bearbeitungen gehen verloren	সম্পাদনা হারিয়ে যাবে
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	ছবি থেকে পৃষ্ঠাটি নতুন করে তৈরি হয়। আড়াল, স্বাক্ষর ও নোট আবার যোগ করতে হবে।
+Neu zuschneiden	আবার ক্রপ করুন
+Sprachdaten	ভাষার ডেটা
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	স্ক্যান, মূল ছবি, ট্র্যাশ, ক্যাশ ও ভাষার ডেটা (লেখা শনাক্তকরণ, শব্দকোষ) কত জায়গা নেয় তা দেখায়।
+Bitte warten, bis alle Seiten erkannt sind	সব পৃষ্ঠা শনাক্ত না হওয়া পর্যন্ত অপেক্ষা করুন
+Die Sprache „%s“ kann nicht übersetzt werden	„%s“ ভাষা অনুবাদ করা যায় না
+Übersetzung in die Seiten setzen	পৃষ্ঠাগুলিতে অনুবাদ বসানো হচ্ছে

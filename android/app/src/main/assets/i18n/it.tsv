@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Configura prima l’impronta digitale, lo sblocco con il volto o un blocco schermo.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Questo dispositivo non supporta lo sblocco biometrico.
+Ultimate PDF Scanner entsperren	Sblocca Ultimate PDF Scanner
+Deine Scans sind geschützt	Le tue scansioni sono protette
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner è bloccato
+Deine Scans bleiben auf diesem Gerät.	Le tue scansioni restano su questo dispositivo.
+  Entsperren	  Sblocca
+Systemsprache	Lingua di sistema
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importa foto
+Texterkennung vorbereiten	Preparazione del riconoscimento testo
+Ein Foto konnte nicht verarbeitet werden: %s	Impossibile elaborare una foto: %s
+Foto laden	Carica foto
+Foto nicht lesbar	Foto illeggibile
+Filter anwenden	Applica filtro
+Schwärzen	Oscura
+Unterschrift einfügen	Inserisci firma
+Unterschrift eingefügt	Firma inserita
+Änderungen einfügen	Inserisci modifiche
+Seite bearbeitet	Pagina modificata
+Text gesichert	Testo salvato
+Zusammenführen	Unisci
+%d Scans zusammengeführt	%d scansioni unite
+Seiten verschieben	Sposta pagine
+Seiten kopieren	Copia pagine
+ (Teil)	 (parte)
+Zwischenspeicher leeren	Svuota cache
+Zwischenspeicher geleert	Cache svuotata
+Originalfotos entfernen	Rimuovi foto originali
+Sicherung erstellen	Crea backup
+Sicherung erstellen (%d/%d)	Crea backup (%d/%d)
+Sicherung gespeichert	Backup salvato
+Sicherung wiederherstellen	Ripristina backup
+ (%d schon vorhanden)	 (%d già presenti)
+Wiederherstellen fehlgeschlagen: %s	Ripristino non riuscito: %s
+PDF erstellen (%d/%d)	Crea PDF (%d/%d)
+%s erstellen	Crea %s
+Export fehlgeschlagen: %s	Esportazione non riuscita: %s
+%s speichern	Salva %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF salvato (protetto da password, AES-256)
+%s gespeichert	%s salvato
+Bilder speichern	Salva immagini
+Bilder speichern (%d/%d)	Salva immagini (%d/%d)
+%d Bilder gespeichert	%d immagini salvate
+Sprache erkennen	Rileva lingua
+Kein erkannter Text zum Übersetzen	Nessun testo riconosciuto da tradurre
+Sprache nicht erkannt	Lingua non riconosciuta
+Der Text ist bereits auf %s	Il testo è già in %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Caricamento modello linguistico (la prima volta ~30 MB)
+Übersetzen (%d/%d)	Traduci (%d/%d)
+Seite %d	Pagina %d
+Übersetzung fehlgeschlagen: %s	Traduzione non riuscita: %s
+1 Bereich unkenntlich gemacht	1 area oscurata
+%d Bereiche unkenntlich gemacht	%d aree oscurate
+1 Scan wiederhergestellt	1 scansione ripristinata
+%d Scans wiederhergestellt	%d scansioni ripristinate
+Server antwortet mit %d	Il server risponde con %d
+Datei unvollständig	File incompleto
+Nicht gefunden	Non trovato
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	%d scansioni sul telefono · direttamente via Wi-Fi, senza cloud
+Ausgangssprache „%s“ wird nicht unterstützt	La lingua di origine «%s» non è supportata
+Zielsprache „%s“ wird nicht unterstützt	La lingua di destinazione «%s» non è supportata
+QR-CODE	CODICE QR
+AUSWEIS	DOCUMENTO D’IDENTITÀ
+DOKUMENT	DOCUMENTO
+BUCH	LIBRO
+VISITENKARTE	BIGLIETTO DA VISITA
+PASSFOTO	FOTOTESSERA
+PDF	PDF
+Word	Word
+Bilder	Immagini
+ZIP	ZIP
+Text	Testo
+Excel	Excel
+CSV	CSV
+Kontakt	Contatto
+Wie gescannt	Come scansionato
+Letter	Letter
+Mittel	Media
+Englisch	Inglese
+Französisch	Francese
+Italienisch	Italiano
+Spanisch	Spagnolo
+Portugiesisch	Portoghese
+Niederländisch	Olandese
+Polnisch	Polacco
+Tschechisch	Ceco
+Dänisch	Danese
+Schwedisch	Svedese
+Norwegisch	Norvegese
+Finnisch	Finlandese
+Ungarisch	Ungherese
+Rumänisch	Rumeno
+Kroatisch	Croato
+Türkisch	Turco
+Griechisch	Greco
+Russisch	Russo
+Ukrainisch	Ucraino
+Arabisch	Arabo
+Hebräisch	Ebraico
+Persisch	Persiano
+Chinesisch (vereinfacht)	Cinese (semplificato)
+Japanisch	Giapponese
+Koreanisch	Coreano
+Latein	Latino
+Deutsch (Fraktur)	Tedesco (Fraktur)
+1 Seite	1 pagina
+%d Seiten	%d pagine
+1 Scan	1 scansione
+%d Scans	%d scansioni
+Abbrechen	Annulla
+Bearbeiten	Modifica
+Zurück	Indietro
+Rückgängig	Annulla ultima azione
+Sichern	Salva
+Seite	Pagina
+Einfügen	Inserisci
+Änderungen sichern?	Salvare le modifiche?
+Verwerfen	Scarta
+Schließen	Chiudi
+Fertig	Fine
+Öffnen	Apri
+Keine	Nessuna
+Alle	Tutte
+Umbenennen	Rinomina
+Mehr	Altro
+Löschen	Elimina
+Teilen	Condividi
+Speichern	Salva
+Drucken	Stampa
+Kopieren	Copia
+Drehen	Ruota
+Laden	Scarica
+Entfernen	Rimuovi
+Verschieben	Sposta
+Name	Nome
+Aus	Disattivato
+Leeren	Svuota
+Wiederherstellen	Ripristina
+Text einfügen	Inserisci testo
+z. B. Name, Datum …	ad es. nome, data …
+Kein Gesicht erkannt – bitte noch einmal	Nessun volto riconosciuto – riprova
+Seite erneut scannen	Scansiona di nuovo la pagina
+Fernauslöser verbunden	Telecomando collegato
+Nach dem Umblättern auslösen	Scatta dopo aver girato pagina
+Leserichtung rechts nach links	Lettura da destra a sinistra
+Leserichtung links nach rechts	Lettura da sinistra a destra
+Automatisch auslösen	Scatto automatico
+Kamera wechseln	Cambia fotocamera
+Licht	Luce
+Bitte Kamerazugriff erlauben.	Consenti l’accesso alla fotocamera.
+Passfoto wird zugeschnitten …	Ritaglio della fototessera …
+Ohne Rückseite fertig	Fine senza retro
+Kein Code im Bild gefunden	Nessun codice trovato nell’immagine
+Aus Galerie	Dalla galleria
+QR-Code oder Barcode in den Rahmen halten	Inquadra il codice QR o il codice a barre nella cornice
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Volto nell’ovale · guarda dritto · sfondo chiaro
+Vorderseite des Ausweises in den Rahmen	Fronte del documento nella cornice
+Jetzt die Rückseite	Ora il retro
+Visitenkarte in den Rahmen legen	Metti il biglietto da visita nella cornice
+Aufgeschlagenes Buch ins Bild halten	Inquadra il libro aperto
+Doppelseite erkannt	Doppia pagina rilevata
+Umblättern – löst danach automatisch aus	Gira pagina – poi scatta automaticamente
+Ruhig halten …	Tieni fermo …
+Ruhig halten – wird automatisch ausgelöst	Tieni fermo – scatto automatico
+Seite ins Bild halten	Inquadra la pagina
+Seite erkannt	Pagina rilevata
+Intervall-Timer	Timer a intervalli
+Serie starten	Avvia serie
+Farbe	Colore
+Graustufen	Scala di grigi
+Schwarz-Weiß	Bianco e nero
+Original	Originale
+Automatisch	Automatico
+Zuschnitt nicht möglich	Ritaglio non possibile
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	La foto originale di questa pagina è stata rimossa per risparmiare spazio. Con «Scansiona di nuovo» puoi riacquisire la pagina.
+Zuschnitt anpassen	Regola ritaglio
+Übernehmen	Applica
+Einzelseite	Pagina singola
+Doppelseite	Doppia pagina
+Auto	Auto
+  Automatisch	  Automatico
+Ecken auf die Seitenränder ziehen	Trascina gli angoli sui bordi della pagina
+Seiten ordnen	Ordina pagine
+%d ausgewählt	%d selezionate
+Filter für alle Seiten	Filtro per tutte le pagine
+Leserichtung umkehren	Inverti ordine di lettura
+Übersetzen…	Traduci…
+Scan löschen	Elimina scansione
+Scannen	Scansiona
+Import	Importa
+Ordnen	Ordina
+Exportieren	Esporta
+Übersetzen in …	Traduci in …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	La traduzione avviene sul dispositivo. La prima volta il modello linguistico viene scaricato una sola volta.
+Übersetzung teilen	Condividi traduzione
+Scan löschen?	Eliminare la scansione?
+„%s“ wird endgültig gelöscht.	«%s» verrà eliminato definitivamente.
+Kontakt erkannt	Contatto riconosciuto
+Zu Kontakten	Ai contatti
+Seiten werden verarbeitet (%d/%d)	Elaborazione pagine (%d/%d)
+Nur diese	Solo queste
+Wird neu verarbeitet	In rielaborazione
+Erneut	Di nuovo
+Fehlgeschlagen	Non riuscito
+Foto nicht verarbeitet	Foto non elaborata
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Si è verificato un errore durante l’elaborazione dell’immagine.
+Keine Auffälligkeiten	Nessuna anomalia
+Erneut scannen	Scansiona di nuovo
+Ersetzt beide Seiten dieser Doppelseite	Sostituisce entrambe le pagine di questa doppia pagina
+Kamera öffnen und diese Seite ersetzen	Apri la fotocamera e sostituisci questa pagina
+Nach vorn	Avanti
+Nach hinten	Indietro
+Seite löschen	Elimina pagina
+Foto entfernen	Rimuovi foto
+1 Seite verschoben	1 pagina spostata
+%d Seiten verschoben	%d pagine spostate
+1 Seite kopiert	1 pagina copiata
+%d Seiten kopiert	%d pagine copiate
+1 Seite löschen?	Eliminare 1 pagina?
+%d Seiten löschen?	Eliminare %d pagine?
+1 Seite prüfen	Controlla 1 pagina
+%d Seiten prüfen	Controlla %d pagine
+Seite löschen?	Eliminare la pagina?
+Durchsuchbares PDF mit erkanntem Text	PDF ricercabile con testo riconosciuto
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Testo modificabile per Word, LibreOffice e Google Docs
+Die Seite als JPG-Bild	La pagina come immagine JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Un’immagine JPG per pagina (%d file)
+Alle Seiten als JPG und der Text in einem Archiv	Tutte le pagine in JPG e il testo in un archivio
+Nur der erkannte Text	Solo il testo riconosciuto
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tabelle riconosciute, un foglio per pagina
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tabelle riconosciute in CSV (punto e virgola, per Excel)
+Visitenkarte als Kontakt (vCard)	Biglietto da visita come contatto (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Fronte e retro a grandezza reale su una pagina – pronto da stampare
+Seitenformat	Formato pagina
+Mit Passwort schützen	Proteggi con password
+AES-256-Verschlüsselung	Crittografia AES-256
+Passwort	Password
+Mindestens 4 Zeichen	Almeno 4 caratteri
+Passwort wiederholen	Ripeti password
+Passwörter stimmen nicht überein	Le password non coincidono
+Seitenbilder einfügen	Inserisci immagini delle pagine
+Jede Seite als Bild über ihrem Text	Ogni pagina come immagine sopra il suo testo
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Le colonne vengono riconosciute dagli spazi nel testo; funziona meglio con colonne ben separate. Numeri come «1.234,50» vengono importati come numeri.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Su questo biglietto non sono stati riconosciuti dati di contatto.
+1 ausgewählte Seite	1 pagina selezionata
+%d ausgewählte Seiten	%d pagine selezionate
+Mobil	Cellulare
+Fax	Fax
+Telefon	Telefono
+%s teilen	Condividi %s
+Scan	Scansione
+Text teilen	Condividi testo
+PDF teilen	Condividi PDF
+In den Papierkorb verschoben	Spostato nel cestino
+%d Scans in den Papierkorb verschoben	%d scansioni spostate nel cestino
+Auswahl beenden	Termina selezione
+Alle auswählen	Seleziona tutto
+In Ordner verschieben	Sposta in cartella
+Ordner	Cartelle
+Ordner umbenennen	Rinomina cartella
+Ordner auflösen	Sciogli cartella
+Papierkorb (%d)	Cestino (%d)
+Papierkorb	Cestino
+An PC senden	Invia al PC
+Speicher & Sicherung	Archiviazione e backup
+Einstellungen	Impostazioni
+Scans und Text durchsuchen	Cerca in scansioni e testo
+Alle Scans durchsuchen	Cerca in tutte le scansioni
+Suche löschen	Cancella ricerca
+%d Treffer	%d risultati
+Alle Scans	Tutte le scansioni
+Nichts gefunden	Nessun risultato
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Né un nome né un testo riconosciuto corrisponde a «%s».
+Ordner ist leer	La cartella è vuota
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Sposta qui le scansioni: tieni premuta una scansione e scegli «Sposta in cartella».
+Noch keine Scans	Ancora nessuna scansione
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Tocca «Scansiona» per fotografare le pagine,\noppure importa foto dalla galleria.
+Ordnername	Nome cartella
+Neuer Ordner	Nuova cartella
+%d Scans zusammenführen?	Unire %d scansioni?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Tutte le pagine vengono aggiunte a «%s» nell’ordine di selezione. Le altre scansioni vengono poi eliminate.
+%d prüfen	Controlla %d
+Wird verarbeitet (%d/%d)	In elaborazione (%d/%d)
+Als PDF teilen	Condividi come PDF
+Kategorie ändern	Cambia categoria
+Kein Ordner	Nessuna cartella
+Neuer Ordner …	Nuova cartella …
+Kategorie	Categoria
+Download fehlgeschlagen: %s	Download non riuscito: %s
+keine Verbindung	nessuna connessione
+Sprachen der Texterkennung	Lingue del riconoscimento testo
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Le lingue scelte vengono riconosciute insieme; scegli solo quelle necessarie, ognuna in più rallenta il riconoscimento. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Le lingue mancanti vengono scaricate una sola volta (circa 2–15 MB) e poi funzionano offline.
+Wird geladen … %d %%	Download … %d %%
+Enthalten	Incluso
+Geladen · %s	Scaricato · %s
+Nicht geladen	Non scaricato
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Tocca per selezionare · tieni premuto e trascina per spostare
+Neuer Scan	Nuova scansione
+Verschieben nach …	Sposta in …
+Kopieren nach …	Copia in …
+Seite %d von %d	Pagina %d di %d
+Filter	Filtro
+Zuschnitt	Ritaglio
+Signieren	Firma
+Code	Codice
+Link	Link
+E-Mail	E-mail
+Telefonnummer	Numero di telefono
+Ort	Luogo
+Produktcode	Codice prodotto
+Netzwerk: %s	Rete: %s
+Passwort: %s	Password: %s
+Verschlüsselung: %s	Crittografia: %s
+Passwort kopieren	Copia password
+Verbinden	Connetti
+E-Mail schreiben	Scrivi e-mail
+Anrufen	Chiama
+In Karten öffnen	Apri in Mappe
+Suche sensible Daten…	Ricerca di dati sensibili…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Nessun dato sensibile trovato. Trascina con il dito le aree da oscurare.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Trovati – tocca per selezionare o deselezionare, trascina altre aree:
+Schwarzer Balken	Barra nera
+Verpixeln	Pixela
+Unkenntlich machen (%d)	Oscura (%d)
+Manuell	Manuale
+Gesicht	Volto
+Kein WLAN	Nessun Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Collega telefono e PC alla stessa rete Wi-Fi (o il PC all’hotspot del telefono). L’indirizzo apparirà qui.
+Am PC im Browser öffnen	Apri nel browser del PC
+QR-Code der Adresse	Codice QR dell’indirizzo
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Digita l’indirizzo o scansiona il codice QR con la fotocamera del PC. Lì puoi scaricare tutte le scansioni in PDF o testo.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Solo nella rete locale e solo finché questa schermata è aperta. Niente viene caricato su Internet.
+Heruntergeladen	Scaricato
+App-Sperre nicht möglich	Blocco app non disponibile
+Sprache	Lingua
+Sprache der App	Lingua dell’app
+Aufnahme	Acquisizione
+Doppelseiten im Dokument-Modus	Doppie pagine in modalità documento
+Automatisch teilen	Dividi automaticamente
+Nie teilen	Non dividere mai
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Scatta non appena la pagina è ferma nell’inquadratura.
+Buch-Modus	Modalità libro
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Riconosce quando giri pagina e scatta non appena il libro è di nuovo fermo.
+Leserichtung	Direzione di lettura
+Links → rechts	Sinistra → destra
+Rechts → links	Destra → sinistra
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Destra → sinistra per arabo, ebraico, persiano e giapponese: la pagina destra viene prima.
+Fernauslöser	Telecomando
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Abbina il telecomando Bluetooth per fotocamera (ad es. «AB Shutter 3») nelle impostazioni Bluetooth di Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Nella fotocamera scattano poi il telecomando e i tasti del volume.
+Bild	Immagine
+Standardfilter	Filtro predefinito
+Handschrift entfernen	Rimuovi scrittura a mano
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Rimuove appunti a penna blu/rossa e a matita. Rimuove anche la stampa in questi colori.
+Texterkennung	Riconoscimento testo
+Sprachen	Lingue
+Sicherheit & Speicher	Sicurezza e archiviazione
+App-Sperre	Blocco app
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Sblocca all’apertura con impronta, volto o blocco schermo. I contenuti non appaiono nelle app recenti.
+Belegung, Backup als ZIP, Wiederherstellen	Spazio, backup in ZIP, ripristino
+Gelöschte Scans werden nach 30 Tagen entfernt	Le scansioni eliminate vengono rimosse dopo 30 giorni
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Tutte le foto e i testi restano su questo dispositivo. Internet viene usato solo per scaricare una volta le lingue, quando lo avvii tu.
+Über	Informazioni
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Componenti open source: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (tutti con licenza Apache 2.0); ML Kit (traduzione, rilevamento volti, sul dispositivo).
+Unterschrift zeichnen	Disegna firma
+Mit dem Finger unterschreiben	Firma con il dito
+Unterschrift platzieren	Posiziona firma
+Neu zeichnen	Ridisegna
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Sposta con un dito, cambia dimensione con due dita.
+Unterschrift	Firma
+Belegt von Ultimate PDF Scanner	Occupato da Ultimate PDF Scanner
+%s frei auf dem Gerät	%s liberi sul dispositivo
+Seiten	Pagine
+Originalfotos	Foto originali
+Zwischenspeicher	Cache
+Platz schaffen	Libera spazio
+Exportierte Dateien zum Teilen	File esportati per la condivisione
+Gelöschte Scans der letzten 30 Tage	Scansioni eliminate negli ultimi 30 giorni
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Le pagine finite restano; il ritaglio non si può più modificare in seguito.
+Größte Scans	Scansioni più grandi
+Sicherung	Backup
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Salva tutte le scansioni in un file ZIP, ad es. su una scheda SD, una chiavetta USB o il PC. Niente viene caricato.
+Papierkorb mitsichern	Includi il cestino
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Backup_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Il ripristino aggiunge solo le scansioni mancanti.
+Originalfotos entfernen?	Rimuovere le foto originali?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Risparmia %s. Le pagine non potranno più essere ritagliate di nuovo; «Scansiona di nuovo» resta possibile.
+Text bearbeiten · Seite %d	Modifica testo · pagina %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Le correzioni vengono usate nella ricerca e nel livello di testo del PDF.
+Kein Text erkannt – hier eintippen	Nessun testo riconosciuto – digitalo qui
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Le scansioni eliminate vengono rimosse definitivamente dopo %d giorni.
+Papierkorb ist leer	Il cestino è vuoto
+Endgültig löschen	Elimina definitivamente
+Papierkorb leeren?	Svuotare il cestino?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d scansioni verranno eliminate definitivamente. L’operazione non è annullabile.
+Endgültig löschen?	Eliminare definitivamente?
+„%s“ wird sofort gelöscht.	«%s» verrà eliminato subito.
+noch 1 Tag	ancora 1 giorno
+noch %d Tage	ancora %d giorni
+Quittung	Ricevuta
+Quittungen	Ricevute
+Rechnung	Fattura
+Rechnungen	Fatture
+Visitenkarte	Biglietto da visita
+Visitenkarten	Biglietti da visita
+Vertrag	Contratto
+Verträge	Contratti
+Brief	Lettera
+Briefe	Lettere
+Ausweis	Documento d’identità
+Ausweise	Documenti d’identità
+Buch	Libro
+Bücher	Libri
+Passfoto	Fototessera
+Passfotos	Fototessere
+Dokument	Documento
+Dokumente	Documenti
+Auflösung	Risoluzione
+Kompression	Compressione
+Gering	Bassa
+Stark	Alta
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi e bassa compressione per stampa e archivio, 150 dpi e alta compressione per e-mail.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Rende i PDF ricercabili e il testo copiabile. Disattivato: elaborazione più veloce, PDF solo come immagine.
+Keine Seite erkannt	Nessuna pagina rilevata
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Il bordo della pagina non è stato trovato – è stata usata l’intera foto.
+Unscharf	Sfocata
+Das Foto ist verwackelt oder unscharf.	La foto è mossa o sfocata.
+Zu dunkel	Troppo scura
+Die Seite ist schlecht ausgeleuchtet.	La pagina è illuminata male.
+Text schlecht lesbar	Testo poco leggibile
+Die Texterkennung war unsicher.	Il riconoscimento del testo era incerto.
+Kein Text erkannt	Nessun testo riconosciuto
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Nella pagina non è stato trovato testo: una pagina vuota o nessuna pagina nell’immagine?
+Hindi	Hindi
+Bengalisch	Bengalese
+Urdu	Urdu
+Indonesisch	Indonesiano
+Seite erkennen	Rileva pagina
+Seite entzerren	Raddrizza pagina
+Finger entfernen	Rimuovi dita
+Schärfe prüfen	Controlla nitidezza
+Ausrichtung	Orientamento
+Bild verbessern	Migliora immagine
+Speicherort	Posizione di salvataggio
+Speicherort für Exporte	Posizione di salvataggio per le esportazioni
+Jedes Mal fragen	Chiedi ogni volta
+Ordner wählen …	Scegli cartella …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	«Salva» mette PDF e altre esportazioni direttamente in questa cartella, senza chiedere ogni volta. È possibile anche una scheda SD.
+Gespeichert in „%s“	Salvato in «%s»
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	La posizione di salvataggio non è raggiungibile. Sceglila di nuovo.
+Neu aufnehmen	Riacquisisci
+Um 90° links drehen	Ruota di 90° a sinistra
+Seite gelöscht	Pagina eliminata
+Lange drücken: neu aufnehmen, drehen oder löschen	Tieni premuto: riacquisisci, ruota o elimina
+Ersetzt beide Seiten	Sostituisce entrambe le pagine
+Ränder bereinigen	Pulisci bordi
+Scan-Qualität	Qualità di scansione
+Schnell	Veloce
+Standard	Standard
+Genau	Precisa
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Per scrittura grande e chiara come lettere e stampe: foto più piccole, elaborazione più veloce.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Per libri e la maggior parte dei documenti: buon riconoscimento a velocità normale.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Per caratteri piccoli, libri antichi, note e formule: piena risoluzione della fotocamera, più lento, più memoria.
+BILD	IMMAGINE
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Appoggia l’immagine piatta · senza flash · evita i riflessi
+an	attivo
+aus	disattivo
+Automatische Auslösung an: nach dem Umblättern	Scatto automatico attivo: dopo aver girato pagina
+Automatische Auslösung an: sobald die Seite ruhig liegt	Scatto automatico attivo: quando la pagina è ferma
+Automatische Auslösung aus	Scatto automatico disattivato
+PDF & Export	PDF ed esportazione
+Speicherort für PDFs und Bilder	Posizione di salvataggio per PDF e immagini
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Durante l’esportazione si può cambiare per i singoli file.
+Weitere Optionen …	Altre opzioni …
+Automatische Verbesserung	Miglioramento automatico
+Schatten und Artefakte entfernen, Schrift schärfen	Rimuovi ombre e artefatti, rendi il testo più nitido
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Rimuovi ombre e artefatti, rendi il testo più nitido. Disattivabile in ogni documento.
+unkorrigiert	non corretto
+Maximal	Massima
+Bildqualität	Qualità immagine
+volle Auflösung	risoluzione piena
+Briefe, Ausdrucke, große Schrift	Lettere, stampe, caratteri grandi
+Bücher und die meisten Dokumente (empfohlen)	Libri e la maggior parte dei documenti (consigliato)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Caratteri piccoli, formule, libri antichi – più lento
+Gilt auch für alle weiteren Scans.	Vale anche per tutte le scansioni successive.
+Ändern	Modifica
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Dove «Salva» mette le tue esportazioni. «Condividi» non ne è influenzato.
+Ordner und Dateiname beim Speichern wählen	Scegli cartella e nome file al salvataggio
+Exporte landen direkt hier	Le esportazioni finiscono direttamente qui
+Anderen Ordner wählen …	Scegli un’altra cartella …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Anche scheda SD e cartelle cloud, se configurate sul dispositivo.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Non è possibile un accesso permanente a questa cartella.
+Sehr hohe Auflösung	Risoluzione molto alta
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Con %d MP l’elaborazione di ogni pagina richiede molto più tempo e molta memoria. «Standard» basta per la maggior parte dei documenti. «Massima» conviene solo per caratteri molto piccoli.
+Trotzdem verwenden	Usa comunque
+langsam	lento
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Nessun telecomando collegato – abbinalo nelle impostazioni Bluetooth
+Mit dem Fernauslöser auslösen	Scatta con il telecomando
+Umblättern	Gira pagina
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Termina l’acquisizione. Le pagine già fotografate vengono conservate ed elaborate.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Accende o spegne la torcia. Con carta lucida è meglio fotografare senza luce e in diagonale rispetto alla finestra.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Usa foto esistenti invece di nuovi scatti.
+Serie	Serie
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Avvia o ferma la serie: il timer scatta automaticamente una foto ogni pochi secondi.
+Auslöser	Pulsante di scatto
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Scatta una foto. Anche i tasti del volume e un telecomando Bluetooth scattano.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Termina l’acquisizione e apre la panoramica; il numero indica le foto di questa acquisizione.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Quanti pixel ha ogni foto. Veloce (5 MP) per caratteri grandi, Standard (12 MP) per quasi tutto, Massima per caratteri piccoli e formule – richiede più tempo.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Tocca per cambiare: disattivato, 3, 5 o 10 secondi. Il pulsante di scatto avvia poi una serie con una foto a quell’intervallo – comodo per i libri.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Scatta solo quando tocchi il pulsante di scatto.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Scatta da solo non appena la pagina resta ferma 0,7 secondi. In modalità libro: dopo ogni pagina girata, quando il libro è di nuovo fermo.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Scatta con un telecomando Bluetooth (ad es. «AB Shutter 3»). Abbina prima il telecomando nelle impostazioni Bluetooth del telefono.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Dà al documento un nome proprio; viene usato anche come nome file all’esportazione.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Inverti l’ordine di lettura delle doppie pagine, traduci sul dispositivo o elimina la scansione.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Apre la fotocamera e aggiunge altre pagine a questo documento.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Aggiunge foto dalla galleria come altre pagine; vengono ritagliate e riconosciute come le foto della fotocamera.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Cambia l’ordine trascinando; seleziona pagine per ruotarle, spostarle, copiarle, estrarle o eliminarle.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Condividi, salva o stampa come PDF, Word, immagini, ZIP, testo o tabella.
+Farbe, Graustufen, Schwarz-Weiß	Colore, scala di grigi, bianco e nero
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Cambia tutte le pagine di questo documento. Il bianco e nero dà i file più piccoli, il colore riproduce fedelmente illustrazioni e timbri.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Attivo: ombre, macchie e artefatti vengono rimossi e il testo diventa più contrastato. Disattivo: le pagine vengono solo ritagliate e raddrizzate – per foto, disegni o se il miglioramento altera qualcosa.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Crea il file e lo passa a un’app, ad es. e-mail, messaggistica o cloud.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Mette il file nella posizione di salvataggio – nella cartella fissa o, con «Chiedi ogni volta», dove lo metti tu.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Stampa tramite il servizio di stampa Android; lì puoi anche scegliere «Salva come PDF».
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Dove «Salva» mette i file: chiedi ogni volta o sempre in una cartella fissa, anche su scheda SD o in una cartella cloud.
+Hilfe & Anleitung	Aiuto e istruzioni
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Suggerimento: tieni premuto un pulsante per un secondo per vedere cosa fa.
+Startseite	Home
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Apre la fotocamera. Tutte le foto di un’acquisizione finiscono in un unico documento.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	L’icona della galleria sopra «Scansiona» importa foto esistenti; vengono ritagliate e riconosciute come le foto della fotocamera.
+Suchen	Cerca
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Trova le scansioni per nome e per testo riconosciuto, con il numero di pagina.
+Ordner und Kategorien	Cartelle e categorie
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Le cartelle raggruppano le scansioni. Le categorie (libri, ricevute …) compaiono da sole appena ci sono scansioni di quel tipo.
+Mehrere Scans	Più scansioni
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Tieni premuta una scansione: seleziona, unisci, sposta in una cartella o elimina.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Le scansioni eliminate restano 30 giorni nel cestino (menu ⋮) e si possono ripristinare.
+Modi	Modalità
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Scegli in basso: Documento (fogli singoli), Libro (le doppie pagine vengono divise in due), Documento d’identità (fronte e retro a grandezza reale su un foglio), Biglietto da visita (il contatto viene riconosciuto), Immagine (colori fedeli, senza riconoscimento testo), Fototessera (fotocamera frontale, 35 × 45 mm) e codice QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	In alto a sinistra: Veloce (5 MP) per caratteri grandi, Standard (12 MP) per quasi tutto, Massima per caratteri piccoli e formule – più lento.
+Auslösung	Scatto
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuale: con il pulsante di scatto. Auto 0,7 s: appena la pagina resta ferma 0,7 secondi; in modalità libro dopo ogni pagina girata. Bluetooth: con un telecomando abbinato. I tasti del volume scattano sempre.
+Timer und Licht	Timer e luce
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	L’icona dell’orologio scatta una foto ogni 3, 5 o 10 secondi (avvio con il pulsante di scatto). Il flash accende la torcia.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Tocca la miniatura in basso a destra: le pagine vengono elaborate e si apre la panoramica.
+Gute Fotos	Foto ben riuscite
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Appoggia la pagina piatta e illuminata in modo uniforme, tieni il telefono parallelo. Uno sfondo di colore diverso dalla carta aiuta il ritaglio.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Vale per tutte le pagine del documento. Le singole pagine si possono impostare diversamente nella vista pagina.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Rimuove ombre e artefatti e rende il testo più contrastato. Se disattivato, la pagina viene solo ritagliata e raddrizzata.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Toccare apre la pagina. Tenere premuto: riacquisisci, ruota o elimina. Le pagine segnate in arancione vanno controllate (ad es. sfocate), quelle rosse non sono riuscite.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Cambia l’ordine trascinando, ruota più pagine, spostale o copiale in un altro documento oppure estraile come nuovo documento.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, immagini, ZIP, testo o tabella – condividi, salva o stampa.
+Mehr (⋮)	Altro (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Inverti l’ordine di lettura delle doppie pagine, traduci sul dispositivo o elimina la scansione. La matita in alto cambia il nome.
+Seitenansicht	Vista pagina
+Blättern und Zoomen	Sfogliare e zoom
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Scorri per cambiare pagina; tocca due volte o usa due dita per ingrandire.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Colore, scala di grigi o bianco e nero solo per questa pagina, con anteprima. Sotto, il miglioramento automatico di questa pagina.
+Drehen und Zuschnitt	Ruota e ritaglia
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Ruota di 90°. Ritaglia: reimposta gli angoli della pagina sulla foto originale.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Scrivi sulla pagina con penna, evidenziatore o testo.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Rendi illeggibili i dati sensibili – con barre o pixelati. Vengono proposti numeri di conto, di carta e volti.
+Signieren und Text	Firma e testo
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Firma inserisce la tua firma salvata. Testo mostra il testo riconosciuto da correggere e copiare.
+Formate	Formati
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (ricercabile), Word, immagini (JPG), ZIP, testo, Excel o CSV; per i biglietti da visita anche come contatto.
+PDF-Optionen	Opzioni PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Formato pagina, risoluzione e compressione determinano qualità e dimensione del file – la dimensione è stimata in alto a destra. Facoltativamente con password (AES-256).
+Teilen oder Speichern	Condividere o salvare
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Condividi invia il file a un’app (e-mail, messaggistica …). Salva lo mette nella posizione di salvataggio.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	«Chiedi ogni volta» apre la scelta della cartella al salvataggio. Con una cartella fissa le esportazioni vanno lì senza domande – anche su scheda SD o in una cartella cloud.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Stampa tramite il servizio di stampa Android o salva come PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Qualità immagine, scatto e divisione delle doppie pagine per le nuove scansioni. Nella fotocamera si può cambiare in qualsiasi momento.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtro e miglioramento automatico con cui iniziano i nuovi documenti.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Rende i PDF ricercabili. Le lingue determinano quali caratteri vengono riconosciuti.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Posizione di salvataggio e valori predefiniti per risoluzione, compressione e formato pagina.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Blocco con impronta digitale, backup in ZIP e cestino.
+Ecken setzen	Imposta angoli
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Trascina i quattro angoli sui bordi della pagina; la lente mostra ingrandito il punto sotto il dito.
+Einzel- oder Doppelseite	Pagina singola o doppia
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Scegli in basso se la foto mostra una pagina o una doppia pagina aperta. Automatico lascia decidere all’app.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Il segno di spunta in alto elabora la pagina con il nuovo ritaglio.
+Werkzeuge	Strumenti
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Penna per scrivere, evidenziatore per marcare, testo per note digitate. I colori sono sotto.
+Korrigieren	Correggi
+Rückgängig nimmt den letzten Strich zurück.	Annulla rimuove l’ultimo tratto.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Scrive le modifiche nella pagina. Senza salvare la pagina resta invariata.
+Vorschläge	Suggerimenti
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	I numeri di conto, di carta, fiscali e i volti trovati sono contrassegnati – tocca per deselezionarli o riselezionarli.
+Eigene Bereiche	Aree proprie
+Mit dem Finger weitere Rechtecke aufziehen.	Traccia altri rettangoli con il dito.
+Balken oder Pixel	Barre o pixel
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Barra nera o pixelatura. Il testo sottostante viene rimosso anche dal riconoscimento testo e dal PDF.
+Zeichnen	Disegna
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Firma una volta con il dito – la firma viene salvata sul dispositivo.
+Platzieren	Posiziona
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Sposta con un dito, ridimensiona con due dita, poi inserisci.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	L’icona della matita in alto sostituisce la firma salvata.
+Text bearbeiten	Modifica testo
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Il testo riconosciuto della pagina è in basso e si può modificare. In alto l’immagine della pagina per il confronto.
+Wirkung	Effetto
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Le correzioni entrano nella ricerca, nel livello di testo del PDF e nelle esportazioni Word e testo.
+Holt einen gelöschten Scan zurück.	Recupera una scansione eliminata.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Le scansioni vengono rimosse automaticamente dopo 30 giorni. «Svuota» elimina subito tutto.
+Belegung	Spazio occupato
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Mostra quanto spazio occupano scansioni, foto originali, cestino e cache.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Rimuovere le foto originali libera molto spazio; le pagine finite restano, solo il ritaglio non è più modificabile.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Salva tutte le scansioni in un file ZIP e ripristinale su questo o un altro dispositivo. Niente viene caricato.
+Auswahl	Selezione
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Scegli le lingue dei tuoi documenti. Ogni lingua in più rallenta il riconoscimento.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Le lingue mancanti vengono scaricate una volta e poi funzionano senza Internet.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Collega telefono e PC alla stessa rete Wi-Fi (o il PC all’hotspot del telefono).
+Herunterladen	Scarica
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Apri l’indirizzo mostrato nel browser del PC o scansiona il codice QR; lì puoi scaricare tutte le scansioni in PDF o testo.
+Sicherheit	Sicurezza
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Funziona solo nella rete locale e solo finché questa schermata è aperta.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Lingua, qualità immagine, scatto, riconoscimento testo, posizione di salvataggio, blocco app e backup.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Importa foto dalla galleria come nuovo documento; vengono ritagliate e riconosciute come le foto della fotocamera.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Apre la fotocamera. Tutte le foto di un’acquisizione finiscono in un unico documento.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Elimina questa pagina dal documento (con conferma).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Colore, scala di grigi o bianco e nero e il miglioramento automatico solo per questa pagina.
+Dreht die Seite um 90° im Uhrzeigersinn.	Ruota la pagina di 90° in senso orario.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Reimposta gli angoli della pagina sulla foto originale se manca un bordo o compare lo sfondo.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Rendi illeggibili i dati sensibili con barre o pixel; spariscono anche dal testo del PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Posiziona la tua firma salvata sulla pagina; la prima volta la disegni.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Mostra il testo riconosciuto della pagina da correggere e copiare.
+Fotografiert beim Tippen auf den Auslöser.	Scatta quando tocchi il pulsante di scatto.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Scatta appena la pagina resta ferma 0,7 s; in modalità libro dopo ogni pagina girata.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Scatta con un telecomando Bluetooth abbinato.
+Lautstärketasten lösen immer aus.	I tasti del volume scattano sempre.
+Word erstellen, Formeln erkennen (%d/%d)	Creazione del Word, riconoscimento delle formule (%d/%d)
+Belarussisch	Bielorusso
+Bulgarisch	Bulgaro
+Serbisch	Serbo
+Mazedonisch	Macedone
+Kein Link im geteilten Text	Nessun link nel testo condiviso
+Import fehlgeschlagen: %s	Importazione non riuscita: %s
+Link laden	Caricamento del link
+Unter dem Link liegt keine PDF- oder Bilddatei.	Il link non porta a un file PDF o immagine.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Si possono importare solo file PDF e immagini.
+Geschützte PDF-Dateien lassen sich nicht importieren.	I file PDF protetti non possono essere importati.
+PDF-Seite %d/%d importieren	Importazione pagina PDF %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Scatta dopo %s s
+Wartezeit	Attesa
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Per quanto tempo la pagina deve restare ferma prima dello scatto automatico. Più breve è più veloce, più lungo dà meno foto mosse.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Scatta da solo appena la pagina è ferma; imposta l’attesa (0,2–1,5 s) qui sotto. In modalità libro: dopo ogni voltata di pagina, appena il libro è di nuovo fermo.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Aggiunge foto, screenshot, file PDF o un link come ulteriori pagine; le foto vengono ritagliate, tutto viene riconosciuto.
+Senden an …	Invia a …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Dove «Salva» mette le tue esportazioni. «Invia a …» è indipendente.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Scegli una sottocartella, ad es. «Documents»: Android non consente la cartella principale della memoria.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Crea il file e lo invia a un’app, ad es. WhatsApp, e-mail, Telegram o un cloud.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuale: con il pulsante di scatto. Auto: appena la pagina è ferma – l’attesa (0,2–1,5 s, predefinita 0,7 s) si imposta nella finestra di scansione sotto l’interruttore; in modalità libro dopo ogni voltata di pagina. Bluetooth: con un telecomando abbinato. I tasti del volume scattano sempre.
+Senden an oder Speichern	Invia a o salva
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	«Invia a …» invia il file a un’app (WhatsApp, e-mail, Telegram, cloud …). Salva lo mette nella posizione di salvataggio.
+Importieren	Importa
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Aggiunge foto, screenshot, file PDF o un link come nuovo documento; le foto vengono ritagliate, tutto viene riconosciuto.
+Bilder aus der Galerie	Immagini dalla galleria
+Fotos und Screenshots	Foto e screenshot
+Dateien	File
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	File PDF e immagini, ad es. da Download o dal cloud
+Eine PDF- oder Bilddatei aus dem Internet	Un file PDF o immagine da Internet
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Poi come pagine scansionate: riconoscimento del testo, traduzione ed esportazione in qualsiasi formato.
+Link importieren	Importa link
+Internetadresse	Indirizzo web
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Scatta appena la pagina è ferma per %s s (regolabile nella finestra di scansione); in modalità libro dopo ogni voltata di pagina.
+Fachwörterbuch laden	Caricamento del glossario
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Manca il glossario per %s o %s – tradotto senza termini tecnici
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Non è un file di glossario (glossary-xx.tsv.gz)
+Download nicht verfügbar	Download non disponibile
+Estnisch	Estone
+Irisch	Irlandese
+Litauisch	Lituano
+Lettisch	Lettone
+Maltesisch	Maltese
+Slowakisch	Slovacco
+Slowenisch	Sloveno
+Ohne Fachwörterbuch	Senza glossario
+Alle Fachgebiete	Tutti i settori
+Fachgebiet: %s	Settore: %s
+Fachwörterbücher verwalten …	Gestisci glossari …
+Fachwörterbücher	Glossari
+Aus Datei importieren	Importa da file
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	I termini tecnici di diritto, medicina, tecnica, economia e altri 17 settori (IATE, la banca dati terminologica dell’UE) vengono mantenuti esattamente nella traduzione. Serve il glossario della lingua di partenza e quello della lingua di arrivo, 0,3–9 MB ciascuno.
+Einmal laden, danach offline.	Scarica una volta, poi offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importa i file glossary-xx.tsv.gz con l’icona della cartella in alto.
+Fachwörterbücher für die Übersetzung	Glossari per la traduzione
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Diritto, medicina, tecnica e altro – 24 lingue dell’UE
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Tutte le foto e i testi restano su questo dispositivo. Internet serve solo per scaricare una volta lingue, modelli di traduzione e glossari, quando lo avvii tu.
+Übersetzen	Traduci
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Crea sul dispositivo una copia tradotta del documento: stesse pagine e immagini, il testo nella lingua di destinazione al suo posto. Ogni paragrafo viene tradotto dalla propria lingua. Con «Settore», i termini tecnici dei glossari vengono mantenuti esattamente.
+Was nachgeladen werden kann	Cosa si può scaricare
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Tutto è facoltativo e viene scaricato solo quando lo tocchi; poi funziona senza internet:\n• Lingue del riconoscimento testo: 1–15 MB ciascuna (Impostazioni › Lingue). Tedesco e inglese sono inclusi.\n• Cinese: un modello di riconoscimento proprio, circa 17 MB.\n• Modelli di traduzione: circa 30 MB per lingua, scaricati automaticamente alla prima traduzione.\n• Glossari: 0,3–9 MB per lingua, circa 70 MB per tutte le 24 lingue dell’UE (Impostazioni › Glossari).\nI file scaricati si possono rimuovere in qualsiasi momento.
+Wozu	A cosa serve
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	I traduttori generici non conoscono molti termini tecnici o li traducono in modo incoerente. Un glossario inserisce il termine stabilito, ad es. «Beweislast» → «onere della prova».
+Quelle	Fonte
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, la banca dati terminologica delle istituzioni dell’UE, con termini di 21 settori (diritto, salute, tecnica, economia, ambiente, trasporti …). Esiste per le 24 lingue ufficiali dell’UE.
+Was nötig ist	Cosa serve
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Un glossario per la lingua di partenza e uno per quella di arrivo, ad es. tedesco e inglese. Un glossario per lingua basta per tutte le coppie di lingue.
+Laden oder importieren	Scaricare o importare
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Scarica con la freccia (una volta, poi offline) o importa un file «glossary-xx.tsv.gz» con l’icona della cartella, ad es. da un PC o da una scheda SD.
+Benutzen	Uso
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Durante la traduzione scegli il settore in alto. «Tutti i settori» usa solo i termini tradotti ovunque allo stesso modo.
+Grenzen	Limiti
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	I termini tecnici vengono inseriti nella forma base; le forme flesse non sempre vengono riconosciute.
+Politik	Politica
+Internationale Beziehungen	Relazioni internazionali
+Europäische Union	Unione europea
+Recht	Diritto
+Wirtschaft	Economia
+Handel	Scambi economici e commerciali
+Finanzwesen	Finanze
+Soziales und Gesundheit	Questioni sociali e salute
+Bildung und Kommunikation	Istruzione e comunicazione
+Wissenschaft	Scienze
+Unternehmen und Wettbewerb	Impresa e concorrenza
+Beschäftigung und Arbeitsbedingungen	Occupazione e lavoro
+Verkehr	Trasporti
+Umwelt	Ambiente
+Land-, Forst- und Fischereiwirtschaft	Agricoltura, silvicoltura e pesca
+Agrarerzeugnisse und Lebensmittel	Agroalimentare
+Produktion, Technologie und Forschung	Produzione, tecnologia e ricerca
+Energie	Energia
+Industrie	Industria
+Geografie	Geografia
+Internationale Organisationen	Organizzazioni internazionali
+Wenig Licht – Lampe einschalten	Poca luce – accendi la torcia
+Verarbeitung mehrfach abgebrochen	L’elaborazione è stata interrotta più volte
+Bearbeitungen gehen verloren	Le modifiche andranno perse
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	La pagina viene ricreata dalla foto. Oscuramenti, firma e note andranno aggiunti di nuovo.
+Neu zuschneiden	Ritaglia di nuovo
+Sprachdaten	Dati linguistici
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Mostra quanto spazio occupano scansioni, foto originali, cestino, cache e dati linguistici (riconoscimento testo, glossari).
+Bitte warten, bis alle Seiten erkannt sind	Attendi che tutte le pagine siano riconosciute
+Die Sprache „%s“ kann nicht übersetzt werden	La lingua «%s» non può essere tradotta
+Übersetzung in die Seiten setzen	Inserimento della traduzione nelle pagine

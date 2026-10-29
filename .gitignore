@@ -1,0 +1,17 @@
+models/
+output/
+testdata/
+# build output
+build/
+.gradle/
+.kotlin/
+local.properties
+android/tools/gradle-*
+__pycache__/
+*.pyc
+.idea/
+*.iml
+tools/gradle-*
+*.traineddata
+*.onnx
+glossary_src/

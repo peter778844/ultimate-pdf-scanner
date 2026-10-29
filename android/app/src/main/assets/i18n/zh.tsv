@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	请先设置指纹、面部解锁或屏幕锁定。
+Dieses Gerät unterstützt keine biometrische Entsperrung.	此设备不支持生物识别解锁。
+Ultimate PDF Scanner entsperren	解锁 Ultimate PDF Scanner
+Deine Scans sind geschützt	您的扫描件受到保护
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner 已锁定
+Deine Scans bleiben auf diesem Gerät.	您的扫描件保留在此设备上。
+  Entsperren	  解锁
+Systemsprache	系统语言
+Deutsch	德语
+English	英语
+Fotos importieren	导入照片
+Texterkennung vorbereiten	正在准备文字识别
+Ein Foto konnte nicht verarbeitet werden: %s	无法处理一张照片：%s
+Foto laden	正在加载照片
+Foto nicht lesbar	照片无法读取
+Filter anwenden	正在应用滤镜
+Schwärzen	遮盖
+Unterschrift einfügen	正在添加签名
+Unterschrift eingefügt	已添加签名
+Änderungen einfügen	正在应用更改
+Seite bearbeitet	页面已编辑
+Text gesichert	文本已保存
+Zusammenführen	合并
+%d Scans zusammengeführt	已合并 %d 份扫描件
+Seiten verschieben	正在移动页面
+Seiten kopieren	正在复制页面
+ (Teil)	（部分）
+Zwischenspeicher leeren	清除缓存
+Zwischenspeicher geleert	缓存已清除
+Originalfotos entfernen	删除原始照片
+Sicherung erstellen	正在创建备份
+Sicherung erstellen (%d/%d)	正在创建备份（%d/%d）
+Sicherung gespeichert	备份已保存
+Sicherung wiederherstellen	正在恢复备份
+ (%d schon vorhanden)	（%d 份已存在）
+Wiederherstellen fehlgeschlagen: %s	恢复失败：%s
+PDF erstellen (%d/%d)	正在创建 PDF（%d/%d）
+%s erstellen	正在创建 %s
+Export fehlgeschlagen: %s	导出失败：%s
+%s speichern	正在保存 %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF 已保存（密码保护，AES-256）
+%s gespeichert	%s 已保存
+Bilder speichern	正在保存图片
+Bilder speichern (%d/%d)	正在保存图片（%d/%d）
+%d Bilder gespeichert	已保存 %d 张图片
+Sprache erkennen	正在检测语言
+Kein erkannter Text zum Übersetzen	没有可翻译的识别文本
+Sprache nicht erkannt	无法识别语言
+Der Text ist bereits auf %s	文本已经是%s
+Sprachmodell laden (beim ersten Mal ~30 MB)	正在加载语言模型（首次约 30 MB）
+Übersetzen (%d/%d)	正在翻译（%d/%d）
+Seite %d	第 %d 页
+Übersetzung fehlgeschlagen: %s	翻译失败：%s
+1 Bereich unkenntlich gemacht	已遮盖 1 个区域
+%d Bereiche unkenntlich gemacht	已遮盖 %d 个区域
+1 Scan wiederhergestellt	已恢复 1 份扫描件
+%d Scans wiederhergestellt	已恢复 %d 份扫描件
+Server antwortet mit %d	服务器返回 %d
+Datei unvollständig	文件不完整
+Nicht gefunden	未找到
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	手机上有 %d 份扫描件 · 直接通过 Wi-Fi 传输，无需云端
+Ausgangssprache „%s“ wird nicht unterstützt	不支持源语言“%s”
+Zielsprache „%s“ wird nicht unterstützt	不支持目标语言“%s”
+QR-CODE	二维码
+AUSWEIS	身份证件
+DOKUMENT	文档
+BUCH	书籍
+VISITENKARTE	名片
+PASSFOTO	证件照
+PDF	PDF
+Word	Word
+Bilder	图片
+ZIP	ZIP
+Text	文本
+Excel	Excel
+CSV	CSV
+Kontakt	联系人
+Wie gescannt	按扫描原样
+Letter	Letter
+Mittel	中
+Englisch	英语
+Französisch	法语
+Italienisch	意大利语
+Spanisch	西班牙语
+Portugiesisch	葡萄牙语
+Niederländisch	荷兰语
+Polnisch	波兰语
+Tschechisch	捷克语
+Dänisch	丹麦语
+Schwedisch	瑞典语
+Norwegisch	挪威语
+Finnisch	芬兰语
+Ungarisch	匈牙利语
+Rumänisch	罗马尼亚语
+Kroatisch	克罗地亚语
+Türkisch	土耳其语
+Griechisch	希腊语
+Russisch	俄语
+Ukrainisch	乌克兰语
+Arabisch	阿拉伯语
+Hebräisch	希伯来语
+Persisch	波斯语
+Chinesisch (vereinfacht)	中文（简体）
+Japanisch	日语
+Koreanisch	韩语
+Latein	拉丁语
+Deutsch (Fraktur)	德语（尖角体）
+1 Seite	1 页
+%d Seiten	%d 页
+1 Scan	1 份扫描件
+%d Scans	%d 份扫描件
+Abbrechen	取消
+Bearbeiten	编辑
+Zurück	返回
+Rückgängig	撤销
+Sichern	保存
+Seite	页面
+Einfügen	插入
+Änderungen sichern?	保存更改？
+Verwerfen	放弃
+Schließen	关闭
+Fertig	完成
+Öffnen	打开
+Keine	不选
+Alle	全选
+Umbenennen	重命名
+Mehr	更多
+Löschen	删除
+Teilen	分享
+Speichern	保存
+Drucken	打印
+Kopieren	复制
+Drehen	旋转
+Laden	下载
+Entfernen	移除
+Verschieben	移动
+Name	名称
+Aus	关
+Leeren	清空
+Wiederherstellen	恢复
+Text einfügen	添加文字
+z. B. Name, Datum …	例如：姓名、日期…
+Kein Gesicht erkannt – bitte noch einmal	未检测到人脸，请重试
+Seite erneut scannen	重新扫描页面
+Fernauslöser verbunden	遥控快门已连接
+Nach dem Umblättern auslösen	每次翻页后自动拍摄
+Leserichtung rechts nach links	阅读顺序：从右到左
+Leserichtung links nach rechts	阅读顺序：从左到右
+Automatisch auslösen	自动拍摄
+Kamera wechseln	切换摄像头
+Licht	补光灯
+Bitte Kamerazugriff erlauben.	请允许访问相机。
+Passfoto wird zugeschnitten …	正在裁剪证件照…
+Ohne Rückseite fertig	不拍背面，完成
+Kein Code im Bild gefunden	图片中未找到代码
+Aus Galerie	从相册选择
+QR-Code oder Barcode in den Rahmen halten	将二维码或条形码置于框内
+Gesicht ins Oval · gerade schauen · heller Hintergrund	脸部置于椭圆内 · 正视前方 · 浅色背景
+Vorderseite des Ausweises in den Rahmen	将身份证件正面置于框内
+Jetzt die Rückseite	现在拍背面
+Visitenkarte in den Rahmen legen	将名片放入框内
+Aufgeschlagenes Buch ins Bild halten	将打开的书放入画面
+Doppelseite erkannt	已识别跨页
+Umblättern – löst danach automatisch aus	请翻页，之后将自动拍摄
+Ruhig halten …	请保持不动…
+Ruhig halten – wird automatisch ausgelöst	请保持不动，将自动拍摄
+Seite ins Bild halten	将页面放入画面
+Seite erkannt	已识别页面
+Intervall-Timer	间隔定时器
+Serie starten	开始连拍
+Farbe	彩色
+Graustufen	灰度
+Schwarz-Weiß	黑白
+Original	原图
+Automatisch	自动
+Zuschnitt nicht möglich	无法裁剪
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	为节省空间，此页的原始照片已被删除。请使用“重新扫描”重新拍摄此页。
+Zuschnitt anpassen	调整裁剪
+Übernehmen	应用
+Einzelseite	单页
+Doppelseite	跨页
+Auto	自动
+  Automatisch	  自动
+Ecken auf die Seitenränder ziehen	将四角拖到页面边缘
+Seiten ordnen	整理页面
+%d ausgewählt	已选 %d 项
+Filter für alle Seiten	应用于所有页面的滤镜
+Leserichtung umkehren	反转阅读顺序
+Übersetzen…	翻译…
+Scan löschen	删除扫描件
+Scannen	扫描
+Import	导入
+Ordnen	整理
+Exportieren	导出
+Übersetzen in …	翻译为…
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	翻译在设备上进行。首次使用时会下载一次语言模型。
+Übersetzung teilen	分享译文
+Scan löschen?	删除扫描件？
+„%s“ wird endgültig gelöscht.	“%s”将被永久删除。
+Kontakt erkannt	已识别联系人
+Zu Kontakten	添加到通讯录
+Seiten werden verarbeitet (%d/%d)	正在处理页面（%d/%d）
+Nur diese	仅显示这些
+Wird neu verarbeitet	正在重新处理
+Erneut	重拍
+Fehlgeschlagen	失败
+Foto nicht verarbeitet	照片未处理
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	图像处理时出错。
+Keine Auffälligkeiten	未发现问题
+Erneut scannen	重新扫描
+Ersetzt beide Seiten dieser Doppelseite	替换此跨页的两页
+Kamera öffnen und diese Seite ersetzen	打开相机并替换此页
+Nach vorn	前移
+Nach hinten	后移
+Seite löschen	删除页面
+Foto entfernen	移除照片
+1 Seite verschoben	已移动 1 页
+%d Seiten verschoben	已移动 %d 页
+1 Seite kopiert	已复制 1 页
+%d Seiten kopiert	已复制 %d 页
+1 Seite löschen?	删除 1 页？
+%d Seiten löschen?	删除 %d 页？
+1 Seite prüfen	请检查 1 页
+%d Seiten prüfen	请检查 %d 页
+Seite löschen?	删除页面？
+Durchsuchbares PDF mit erkanntem Text	带识别文本的可搜索 PDF
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	可编辑文本，适用于 Word、LibreOffice 和 Google 文档
+Die Seite als JPG-Bild	将页面保存为 JPG 图片
+Ein JPG-Bild pro Seite (%d Dateien)	每页一张 JPG 图片（%d 个文件）
+Alle Seiten als JPG und der Text in einem Archiv	所有页面的 JPG 和文本打包为一个压缩文件
+Nur der erkannte Text	仅识别出的文本
+Erkannte Tabellen, ein Tabellenblatt pro Seite	识别出的表格，每页一个工作表
+Erkannte Tabellen als CSV (Semikolon, für Excel)	识别出的表格，CSV 格式（分号分隔，适用于 Excel）
+Visitenkarte als Kontakt (vCard)	名片导出为联系人（vCard）
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	正反面按实际尺寸排在一页上，可直接打印
+Seitenformat	页面尺寸
+Mit Passwort schützen	使用密码保护
+AES-256-Verschlüsselung	AES-256 加密
+Passwort	密码
+Mindestens 4 Zeichen	至少 4 个字符
+Passwort wiederholen	再次输入密码
+Passwörter stimmen nicht überein	两次输入的密码不一致
+Seitenbilder einfügen	包含页面图片
+Jede Seite als Bild über ihrem Text	每页图片置于其文本上方
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	根据文本中的间距识别列，列之间分隔清楚时效果最好。“1,234.50”之类的数字会作为数字保留。
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	这张名片上未识别出联系方式。
+1 ausgewählte Seite	已选 1 页
+%d ausgewählte Seiten	已选 %d 页
+Mobil	手机
+Fax	传真
+Telefon	电话
+%s teilen	分享 %s
+Scan	扫描件
+Text teilen	分享文本
+PDF teilen	分享 PDF
+In den Papierkorb verschoben	已移至回收站
+%d Scans in den Papierkorb verschoben	已将 %d 份扫描件移至回收站
+Auswahl beenden	退出选择
+Alle auswählen	全选
+In Ordner verschieben	移至文件夹
+Ordner	文件夹
+Ordner umbenennen	重命名文件夹
+Ordner auflösen	删除文件夹
+Papierkorb (%d)	回收站（%d）
+Papierkorb	回收站
+An PC senden	发送到电脑
+Speicher & Sicherung	存储与备份
+Einstellungen	设置
+Scans und Text durchsuchen	搜索扫描件和文本
+Alle Scans durchsuchen	搜索所有扫描件
+Suche löschen	清除搜索
+%d Treffer	%d 个结果
+Alle Scans	所有扫描件
+Nichts gefunden	未找到结果
+Weder ein Name noch ein erkannter Text passt zu „%s“.	没有名称或识别文本与“%s”匹配。
+Ordner ist leer	文件夹为空
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	将扫描件移到这里：长按扫描件并选择“移至文件夹”。
+Noch keine Scans	还没有扫描件
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	点按“扫描”拍摄页面，\n或从相册导入照片。
+Ordnername	文件夹名称
+Neuer Ordner	新建文件夹
+%d Scans zusammenführen?	合并 %d 份扫描件？
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	所有页面将按选择顺序追加到“%s”。其他扫描件随后会被移除。
+%d prüfen	%d 项待检查
+Wird verarbeitet (%d/%d)	正在处理（%d/%d）
+Als PDF teilen	以 PDF 分享
+Kategorie ändern	更改类别
+Kein Ordner	无文件夹
+Neuer Ordner …	新建文件夹…
+Kategorie	类别
+Download fehlgeschlagen: %s	下载失败：%s
+keine Verbindung	无网络连接
+Sprachen der Texterkennung	文字识别语言
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	所选语言会一起识别，请只选择需要的语言，每多一种都会降低识别速度。
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	缺少的语言只需下载一次（约 2–15 MB），之后可离线使用。
+Wird geladen … %d %%	正在下载… %d %%
+Enthalten	已内置
+Geladen · %s	已下载 · %s
+Nicht geladen	未下载
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	点按以选择 · 按住并拖动以移动
+Neuer Scan	新建扫描件
+Verschieben nach …	移至…
+Kopieren nach …	复制到…
+Seite %d von %d	第 %d 页，共 %d 页
+Filter	滤镜
+Zuschnitt	裁剪
+Signieren	签名
+Code	代码
+Link	链接
+E-Mail	电子邮件
+Telefonnummer	电话号码
+Ort	位置
+Produktcode	商品码
+Netzwerk: %s	网络：%s
+Passwort: %s	密码：%s
+Verschlüsselung: %s	加密方式：%s
+Passwort kopieren	复制密码
+Verbinden	连接
+E-Mail schreiben	写邮件
+Anrufen	拨打
+In Karten öffnen	在地图中打开
+Suche sensible Daten…	正在查找敏感信息…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	未发现敏感信息。用手指拖动以标记需要遮盖的区域。
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	已找到：点按以选择或取消，拖动以添加更多区域：
+Schwarzer Balken	黑条
+Verpixeln	马赛克
+Unkenntlich machen (%d)	遮盖（%d）
+Manuell	手动
+Gesicht	人脸
+Kein WLAN	没有 Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	请将手机和电脑连接到同一 Wi-Fi（或让电脑连接手机热点），地址随后会显示在这里。
+Am PC im Browser öffnen	在电脑浏览器中打开
+QR-Code der Adresse	地址的二维码
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	输入地址或用电脑摄像头扫描二维码，即可下载所有扫描件的 PDF 或文本。
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	仅限本地网络，且仅在此页面打开时可用。不会上传到互联网。
+Heruntergeladen	已下载
+App-Sperre nicht möglich	无法启用应用锁
+Sprache	语言
+Sprache der App	应用语言
+Aufnahme	拍摄
+Doppelseiten im Dokument-Modus	文档模式下的跨页
+Automatisch teilen	自动拆分
+Nie teilen	从不拆分
+Fotografiert, sobald die Seite ruhig im Bild liegt.	页面在画面中稳定后自动拍摄。
+Buch-Modus	书籍模式
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	识别翻页，书本再次稳定后自动拍摄。
+Leserichtung	阅读顺序
+Links → rechts	从左到右
+Rechts → links	从右到左
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	从右到左适用于阿拉伯语、希伯来语、波斯语和日语：右页在前。
+Fernauslöser	遥控快门
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	在 Android 蓝牙设置中配对蓝牙相机遥控器（例如“AB Shutter 3”）。
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	之后在相机中可用遥控器和音量键拍照。
+Bild	图像
+Standardfilter	默认滤镜
+Handschrift entfernen	去除手写
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	去除蓝色/红色笔迹和铅笔痕迹，也会去除这些颜色的印刷内容。
+Texterkennung	文字识别
+Sprachen	语言
+Sicherheit & Speicher	安全与存储
+App-Sperre	应用锁
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	打开时使用指纹、面部或屏幕锁解锁。内容在最近任务中隐藏。
+Belegung, Backup als ZIP, Wiederherstellen	占用空间、ZIP 备份、恢复
+Gelöschte Scans werden nach 30 Tagen entfernt	已删除的扫描件 30 天后清除
+Offline	离线
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	所有照片和文本都保留在此设备上。仅在您要求时联网一次下载语言。
+Über	关于
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	开源组件：OpenCV、Tesseract OCR、PdfBox-Android、ZXing（均为 Apache 2.0 许可）；ML Kit（翻译、人脸检测，在设备上运行）。
+Unterschrift zeichnen	绘制签名
+Mit dem Finger unterschreiben	用手指签名
+Unterschrift platzieren	放置签名
+Neu zeichnen	重新绘制
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	单指移动，双指调整大小。
+Unterschrift	签名
+Belegt von Ultimate PDF Scanner	Ultimate PDF Scanner 已用空间
+%s frei auf dem Gerät	设备可用空间 %s
+Seiten	页面
+Originalfotos	原始照片
+Zwischenspeicher	缓存
+Platz schaffen	释放空间
+Exportierte Dateien zum Teilen	为分享而导出的文件
+Gelöschte Scans der letzten 30 Tage	最近 30 天删除的扫描件
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	已完成的页面会保留，但之后无法再更改裁剪。
+Größte Scans	最大的扫描件
+Sicherung	备份
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	将所有扫描件备份为一个 ZIP 文件，例如存到 SD 卡、U 盘或电脑。不会上传。
+Papierkorb mitsichern	包括回收站
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-备份_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	恢复时只添加缺少的扫描件。
+Originalfotos entfernen?	删除原始照片？
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	可节省 %s。之后页面无法再重新裁剪，但仍可“重新扫描”。
+Text bearbeiten · Seite %d	编辑文本 · 第 %d 页
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	更正内容会进入搜索和 PDF 文本层。
+Kein Text erkannt – hier eintippen	未识别到文字，请在此输入
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	已删除的扫描件将在 %d 天后永久清除。
+Papierkorb ist leer	回收站为空
+Endgültig löschen	永久删除
+Papierkorb leeren?	清空回收站？
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	将永久删除 %d 份扫描件，此操作无法撤销。
+Endgültig löschen?	永久删除？
+„%s“ wird sofort gelöscht.	“%s”将立即删除。
+noch 1 Tag	剩余 1 天
+noch %d Tage	剩余 %d 天
+Quittung	收据
+Quittungen	收据
+Rechnung	发票
+Rechnungen	发票
+Visitenkarte	名片
+Visitenkarten	名片
+Vertrag	合同
+Verträge	合同
+Brief	信函
+Briefe	信函
+Ausweis	身份证件
+Ausweise	身份证件
+Buch	书籍
+Bücher	书籍
+Passfoto	证件照
+Passfotos	证件照
+Dokument	文档
+Dokumente	文档
+Auflösung	分辨率
+Kompression	压缩
+Gering	低
+Stark	高
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	打印和存档用 300 dpi 低压缩，发邮件用 150 dpi 高压缩。
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	使 PDF 可搜索、文本可复制。关闭：处理更快，PDF 仅为图片。
+Keine Seite erkannt	未检测到页面
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	未找到页面边缘，已使用整张照片。
+Unscharf	模糊
+Das Foto ist verwackelt oder unscharf.	照片抖动或未对焦。
+Zu dunkel	太暗
+Die Seite ist schlecht ausgeleuchtet.	页面光线不足。
+Text schlecht lesbar	文字难以辨认
+Die Texterkennung war unsicher.	文字识别不确定。
+Kein Text erkannt	未识别到文字
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	页面上未找到文字：是空白页，还是画面中根本没有页面？
+Hindi	印地语
+Bengalisch	孟加拉语
+Urdu	乌尔都语
+Indonesisch	印度尼西亚语
+Seite erkennen	正在检测页面
+Seite entzerren	正在展平页面
+Finger entfernen	正在去除手指
+Schärfe prüfen	正在检查清晰度
+Ausrichtung	方向
+Bild verbessern	正在增强图像
+Speicherort	存储位置
+Speicherort für Exporte	导出文件的存储位置
+Jedes Mal fragen	每次询问
+Ordner wählen …	选择文件夹…
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	“保存”会将 PDF 和其他导出文件直接放入此文件夹，无需每次询问。也可以选择 SD 卡。
+Gespeichert in „%s“	已保存到“%s”
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	无法访问存储位置，请重新选择。
+Neu aufnehmen	重新拍摄
+Um 90° links drehen	向左旋转 90°
+Seite gelöscht	页面已删除
+Lange drücken: neu aufnehmen, drehen oder löschen	长按：重新拍摄、旋转或删除
+Ersetzt beide Seiten	替换两页
+Ränder bereinigen	清理边缘
+Scan-Qualität	扫描质量
+Schnell	快速
+Standard	标准
+Genau	精确
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	适合字迹大而清晰的文本，如信件和打印件：照片更小，处理最快。
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	适合书籍和大多数文档：识别效果好，速度正常。
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	适合小字、旧书、脚注和公式：相机全分辨率，较慢，占用更多内存。
+BILD	图片
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	将图片平放 · 不用闪光灯 · 避免反光
+an	开
+aus	关
+Automatische Auslösung an: nach dem Umblättern	自动拍摄已开启：翻页后拍摄
+Automatische Auslösung an: sobald die Seite ruhig liegt	自动拍摄已开启：页面稳定后拍摄
+Automatische Auslösung aus	自动拍摄已关闭
+PDF & Export	PDF 与导出
+Speicherort für PDFs und Bilder	PDF 和图片的保存位置
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	导出时可针对单个文件更改。
+Weitere Optionen …	更多选项 …
+Automatische Verbesserung	自动增强
+Schatten und Artefakte entfernen, Schrift schärfen	去除阴影和伪影，使文字更清晰
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	去除阴影和伪影，使文字更清晰。可为每个文档单独关闭。
+unkorrigiert	未校正
+Maximal	最高
+Bildqualität	图像质量
+volle Auflösung	全分辨率
+Briefe, Ausdrucke, große Schrift	信件、打印件、大字
+Bücher und die meisten Dokumente (empfohlen)	书籍和大多数文档（推荐）
+Kleingedrucktes, Formeln, alte Bücher – langsamer	小字、公式、旧书 – 较慢
+Gilt auch für alle weiteren Scans.	也适用于之后的所有扫描。
+Ändern	更改
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	“保存”将导出文件放在哪里。“分享”不受影响。
+Ordner und Dateiname beim Speichern wählen	保存时选择文件夹和文件名
+Exporte landen direkt hier	导出文件直接存放在这里
+Anderen Ordner wählen …	选择其他文件夹 …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	也可以是 SD 卡和云文件夹（如已在设备上设置）。
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	无法持久访问此文件夹。
+Sehr hohe Auflösung	分辨率非常高
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	使用 %d MP 时，每页的处理时间会明显变长，并占用大量内存。大多数文档使用“标准”就足够了。“最高”只适合非常小的字。
+Trotzdem verwenden	仍然使用
+langsam	慢
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	未连接遥控快门 – 请在蓝牙设置中配对
+Mit dem Fernauslöser auslösen	用遥控快门拍摄
+Umblättern	翻页
+Auto 0,7 s	自动 0.7 秒
+Bluetooth	蓝牙
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	结束拍摄。已拍摄的页面会保留并处理。
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	打开或关闭手电筒。拍摄光面纸时，最好不开灯并与窗户成一定角度。
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	使用已有照片，而不是重新拍摄。
+Serie	连拍
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	开始或停止连拍：计时器会每隔几秒自动拍一张。
+Auslöser	快门
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	拍一张照片。音量键和蓝牙遥控快门也可以拍摄。
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	结束拍摄并打开概览；数字表示本次拍摄的照片数。
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	每张照片的像素数。快速（5 MP）适合大字，标准（12 MP）几乎适合所有情况，最高适合小字和公式 – 耗时更长。
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	点按切换：关闭、3、5 或 10 秒。之后快门会按此间隔开始连拍 – 适合拍书。
+Fotografiert nur, wenn du auf den Auslöser tippst.	仅在您点按快门时拍摄。
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	页面在画面中静止 0.7 秒后自动拍摄。书籍模式：每次翻页后，书本重新静止时拍摄。
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	使用蓝牙遥控快门拍摄（例如“AB Shutter 3”）。请先在手机的蓝牙设置中配对遥控器。
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	为文档设置名称；导出时也用作文件名。
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	反转跨页的阅读顺序、在设备上翻译或删除扫描件。
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	打开相机，向此文档添加更多页面。
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	将图库中的照片作为更多页面；它们会像相机照片一样被裁剪和识别。
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	拖动以更改顺序；选择页面以旋转、移动、复制、拆分或删除。
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	以 PDF、Word、图片、ZIP、文本或表格形式分享、保存或打印。
+Farbe, Graustufen, Schwarz-Weiß	彩色、灰度、黑白
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	切换此文档的所有页面。黑白生成的文件最小，彩色能忠实还原插图和印章。
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	开：去除阴影、污渍和伪影，文字对比度更高。关：页面仅裁剪和校正 – 适用于照片、绘图或增强效果造成失真时。
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	创建文件并交给其他应用，例如电子邮件、聊天软件或云存储。
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	将文件放到存储位置 – 固定文件夹，或在“每次询问”时放到您选择的位置。
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	通过 Android 打印服务打印；也可在其中选择“另存为 PDF”。
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	“保存”将文件放到哪里：每次询问，或始终放到固定文件夹，也可以是 SD 卡或云文件夹。
+Hilfe & Anleitung	帮助与说明
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	提示：按住按钮一秒钟，即可查看它的作用。
+Startseite	首页
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	打开相机。一次拍摄的所有照片都放入同一个文档。
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	“扫描”上方的图库图标可导入已有照片；它们会像相机照片一样被裁剪和识别。
+Suchen	搜索
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	按名称和识别出的文字查找扫描件，并显示页码。
+Ordner und Kategorien	文件夹和分类
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	文件夹用于归类扫描件。只要有某类扫描件，分类（书籍、收据 …）就会自动出现。
+Mehrere Scans	多个扫描件
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	长按扫描件：选择、合并、移动到文件夹或删除。
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	已删除的扫描件会在回收站（菜单 ⋮）中保留 30 天，可以恢复。
+Modi	模式
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	在底部选择：文档（单张纸）、书籍（跨页拆分为两页）、证件（正反面按原尺寸放在一张纸上）、名片（识别联系人）、图片（色彩真实，不识别文字）、证件照（前置摄像头，35 × 45 mm）和二维码。
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	左上角：快速（5 MP）适合大字，标准（12 MP）几乎适合所有情况，最高适合小字和公式 – 较慢。
+Auslösung	拍摄方式
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	手动：按快门。自动 0.7 秒：页面静止 0.7 秒后拍摄；书籍模式下每次翻页后拍摄。蓝牙：使用已配对的遥控快门。音量键始终可以拍摄。
+Timer und Licht	计时器和灯光
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	时钟图标每 3、5 或 10 秒拍一张（用快门开始）。闪光灯可打开手电筒。
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	点按右下角的缩略图：页面开始处理并打开概览。
+Gute Fotos	拍好照片
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	将页面平放并均匀照明，手机保持平行。与纸张颜色有明显区别的背景有助于裁剪。
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	适用于文档的所有页面。单独页面可在页面视图中另行设置。
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	去除阴影和伪影，使文字对比度更高。关闭后页面仅裁剪和校正。
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	点按打开页面。长按：重拍、旋转或删除。标为橙色的页面需要检查（例如模糊），红色的处理失败。
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	拖动以更改顺序，旋转多页，移动或复制到其他文档，或拆分为新文档。
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF、Word、图片、ZIP、文本或表格 – 分享、保存或打印。
+Mehr (⋮)	更多（⋮）
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	反转跨页的阅读顺序、在设备上翻译或删除扫描件。顶部的铅笔可更改名称。
+Seitenansicht	页面视图
+Blättern und Zoomen	翻页和缩放
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	滑动切换页面，双击或用两指缩放。
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	仅为此页面设置彩色、灰度或黑白，带预览。下方是此页面的自动增强。
+Drehen und Zuschnitt	旋转和裁剪
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	旋转 90°。裁剪：在原始照片上重新设置页面四角。
+Mit Stift, Marker oder Text auf die Seite schreiben.	用笔、荧光笔或文字在页面上书写。
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	遮盖敏感数据 – 使用黑条或马赛克。会自动建议账号、卡号和人脸。
+Signieren und Text	签名和文字
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	签名会插入您保存的签名。文字显示识别出的文字，可修改和复制。
+Formate	格式
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF（可搜索）、Word、图片（JPG）、ZIP、文本、Excel 或 CSV；名片还可导出为联系人。
+PDF-Optionen	PDF 选项
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	页面尺寸、分辨率和压缩决定质量和文件大小 – 右上角会估算大小。可选密码保护（AES-256）。
+Teilen oder Speichern	分享或保存
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	分享会把文件发送给应用（电子邮件、聊天软件 …）。保存会把文件放到存储位置。
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	“每次询问”会在保存时打开文件夹选择。设置固定文件夹后，导出文件会直接存放到那里 – 也可以是 SD 卡或云文件夹。
+Druckt über den Android-Druckdienst oder speichert als PDF.	通过 Android 打印服务打印或另存为 PDF。
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	新扫描件的图像质量、拍摄方式和跨页拆分。可随时在相机中更改。
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	新文档默认使用的滤镜和自动增强。
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	使 PDF 可搜索。语言决定识别哪些字符。
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	存储位置以及分辨率、压缩和页面尺寸的默认值。
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	指纹应用锁、ZIP 备份和回收站。
+Ecken setzen	设置四角
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	将四个角拖到页面边缘；放大镜会放大手指下方的位置。
+Einzel- oder Doppelseite	单页或双页
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	在底部选择照片是一页还是打开的跨页。“自动”由应用决定。
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	顶部的对勾会按新的裁剪处理页面。
+Werkzeuge	工具
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	笔用于书写，荧光笔用于标记，文字用于输入笔记。颜色在下方。
+Korrigieren	修改
+Rückgängig nimmt den letzten Strich zurück.	撤销会去掉最后一笔。
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	将修改写入页面。不保存则页面保持不变。
+Vorschläge	建议
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	已标记找到的账号、卡号、税号和人脸 – 点按可取消或重新选择。
+Eigene Bereiche	自定区域
+Mit dem Finger weitere Rechtecke aufziehen.	用手指拖出更多矩形。
+Balken oder Pixel	黑条或马赛克
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	黑条或马赛克。下方的文字也会从文字识别和 PDF 中删除。
+Zeichnen	绘制
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	用手指签一次名 – 签名会保存在设备上。
+Platzieren	放置
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	单指移动，双指调整大小，然后插入。
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	顶部的铅笔图标可替换已保存的签名。
+Text bearbeiten	编辑文字
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	页面识别出的文字在下方，可以修改。上方是页面图像，便于对照。
+Wirkung	作用
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	修改会用于搜索、PDF 的文字层以及 Word 和文本导出。
+Holt einen gelöschten Scan zurück.	恢复已删除的扫描件。
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	扫描件会在 30 天后自动删除。“清空”会立即删除全部。
+Belegung	占用
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	显示扫描件、原始照片、回收站和缓存占用的空间。
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	删除原始照片可节省大量空间；成品页面保留，只是之后无法再更改裁剪。
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	将所有扫描件备份为 ZIP 文件，并在本设备或其他设备上恢复。不会上传任何内容。
+Auswahl	选择
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	选择文档使用的语言。每多一种语言，识别就会更慢。
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	缺少的语言只需下载一次，之后无需联网即可使用。
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	让手机和电脑连接同一个 Wi-Fi（或让电脑连接手机热点）。
+Herunterladen	下载
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	在电脑浏览器中打开显示的地址或扫描二维码；在那里可以将所有扫描件下载为 PDF 或文本。
+Sicherheit	安全
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	仅在局域网内且仅在此页面打开时有效。
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	语言、图像质量、拍摄方式、文字识别、存储位置、应用锁和备份。
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	将图库中的照片作为新文档；它们会像相机照片一样被裁剪和识别。
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	打开相机。一次拍摄的所有照片都放入同一个文档。
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	从文档中删除此页（会先确认）。
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	仅为此页面设置彩色、灰度或黑白以及自动增强。
+Dreht die Seite um 90° im Uhrzeigersinn.	将页面顺时针旋转 90°。
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	如果缺少边缘或包含背景，可在原始照片上重新设置页面四角。
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	用黑条或马赛克遮盖敏感数据；它们也会从 PDF 文字中消失。
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	将您保存的签名放到页面上；第一次需要先绘制。
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	显示页面识别出的文字，可修改和复制。
+Fotografiert beim Tippen auf den Auslöser.	点按快门时拍摄。
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	页面在画面中静止 0.7 秒后拍摄；书籍模式下每次翻页后拍摄。
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	使用已配对的蓝牙遥控快门拍摄。
+Lautstärketasten lösen immer aus.	音量键始终可以拍摄。
+Word erstellen, Formeln erkennen (%d/%d)	正在创建 Word，识别公式 (%d/%d)
+Belarussisch	白俄罗斯语
+Bulgarisch	保加利亚语
+Serbisch	塞尔维亚语
+Mazedonisch	马其顿语
+Kein Link im geteilten Text	分享的文本中没有链接
+Import fehlgeschlagen: %s	导入失败：%s
+Link laden	正在加载链接
+Unter dem Link liegt keine PDF- oder Bilddatei.	该链接指向的不是 PDF 或图片文件。
+Nur PDF-Dateien und Bilder lassen sich importieren.	只能导入 PDF 文件和图片。
+Geschützte PDF-Dateien lassen sich nicht importieren.	受保护的 PDF 文件无法导入。
+PDF-Seite %d/%d importieren	正在导入 PDF 第 %d/%d 页
+Auto %s s	自动 %s 秒
+Auslösen nach %s s	%s 秒后拍摄
+Wartezeit	等待时间
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	自动拍摄前页面需要保持静止的时间。越短越快，越长模糊的照片越少。
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	页面一静止就自动拍照；等待时间（0.2–1.5 秒）在下方设置。书本模式：每次翻页后，书本再次静止时拍摄。
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	将照片、截图、PDF 文件或链接添加为更多页面；照片会被裁剪，所有内容都会被识别。
+Senden an …	发送到 …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	「保存」将导出文件放在哪里。「发送到 …」与此无关。
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	请选择一个子文件夹，例如「Documents」——Android 不允许使用存储的根文件夹。
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	创建文件并发送到应用，例如 WhatsApp、电子邮件、Telegram 或云存储。
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	手动：用快门按钮。自动：页面一静止就拍——等待时间（0.2–1.5 秒，默认 0.7 秒）在扫描窗口的开关下方设置；书本模式下每次翻页后拍摄。蓝牙：用已配对的遥控快门。音量键始终可以拍照。
+Senden an oder Speichern	发送或保存
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	「发送到 …」将文件发送到应用（WhatsApp、电子邮件、Telegram、云 …）。「保存」将其放到保存位置。
+Importieren	导入
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	将照片、截图、PDF 文件或链接导入为新文档；照片会被裁剪，所有内容都会被识别。
+Bilder aus der Galerie	相册中的图片
+Fotos und Screenshots	照片和截图
+Dateien	文件
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF 文件和图片，例如来自下载或云端
+Eine PDF- oder Bilddatei aus dem Internet	来自互联网的 PDF 或图片文件
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	之后与扫描页面相同：文字识别、翻译并导出为任意格式。
+Link importieren	导入链接
+Internetadresse	网址
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	页面静止 %s 秒后拍摄（可在扫描窗口中调整）；书本模式下每次翻页后拍摄。
+Fachwörterbuch laden	正在加载术语表
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	缺少 %s 或 %s 的术语表 – 已在不使用专业术语的情况下翻译
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	不是术语表文件 (glossary-xx.tsv.gz)
+Download nicht verfügbar	无法下载
+Estnisch	爱沙尼亚语
+Irisch	爱尔兰语
+Litauisch	立陶宛语
+Lettisch	拉脱维亚语
+Maltesisch	马耳他语
+Slowakisch	斯洛伐克语
+Slowenisch	斯洛文尼亚语
+Ohne Fachwörterbuch	不使用术语表
+Alle Fachgebiete	所有领域
+Fachgebiet: %s	领域：%s
+Fachwörterbücher verwalten …	管理术语表 …
+Fachwörterbücher	专业术语表
+Aus Datei importieren	从文件导入
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	法律、医学、技术、经济等21个领域的专业术语（IATE，欧盟术语数据库）在翻译时会被准确保留。需要源语言和目标语言的术语表，每个 0.3–9 MB。
+Einmal laden, danach offline.	下载一次，之后离线使用。
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	使用上方的文件夹图标导入 glossary-xx.tsv.gz 文件。
+Fachwörterbücher für die Übersetzung	翻译用专业术语表
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	法律、医学、技术等 – 欧盟24种语言
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	所有照片和文本都保留在此设备上。只有在你启动时，才会联网一次性下载语言、翻译模型和术语表。
+Übersetzen	翻译
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	在设备上创建文档的翻译副本：页面和图片不变，文字以目标语言出现在原来的位置。每个段落都从其自身的语言翻译。选择“领域”后，术语表中的专业术语将被准确沿用。
+Was nachgeladen werden kann	可以下载的内容
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	一切均为可选，只在你点击时下载；之后无需联网即可使用：\n• 文字识别语言：每种 1–15 MB（设置 › 语言）。已内置德语和英语。\n• 中文：独立的识别模型，约 17 MB。\n• 翻译模型：每种语言约 30 MB，首次翻译时自动下载。\n• 专业术语表：每种语言 0.3–9 MB，欧盟全部24种语言共约 70 MB（设置 › 专业术语表）。\n已下载的文件可随时删除。
+Wozu	用途
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	通用翻译器不认识许多专业术语，或翻译不一致。术语表会插入规定的术语，例如“Beweislast”→“举证责任”。
+Quelle	来源
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE 是欧盟机构的术语数据库，收录21个领域（法律、卫生、技术、经济、环境、交通 …）的术语，适用于欧盟24种官方语言。
+Was nötig ist	所需内容
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	源语言和目标语言各一个术语表，例如德语和英语。每种语言一个术语表即可用于所有语言组合。
+Laden oder importieren	下载或导入
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	点击箭头下载（一次，之后离线），或用文件夹图标从电脑或 SD 卡等导入“glossary-xx.tsv.gz”文件。
+Benutzen	使用方法
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	翻译时在上方选择领域。“所有领域”只使用在各处译法相同的术语。
+Grenzen	限制
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	术语以基本形式插入；变形形式不一定能被识别。
+Politik	政治
+Internationale Beziehungen	国际关系
+Europäische Union	欧洲联盟
+Recht	法律
+Wirtschaft	经济
+Handel	贸易
+Finanzwesen	金融
+Soziales und Gesundheit	社会问题与卫生
+Bildung und Kommunikation	教育与传播
+Wissenschaft	科学
+Unternehmen und Wettbewerb	企业与竞争
+Beschäftigung und Arbeitsbedingungen	就业与劳动条件
+Verkehr	交通运输
+Umwelt	环境
+Land-, Forst- und Fischereiwirtschaft	农业、林业和渔业
+Agrarerzeugnisse und Lebensmittel	农业食品
+Produktion, Technologie und Forschung	生产、技术与研究
+Energie	能源
+Industrie	工业
+Geografie	地理
+Internationale Organisationen	国际组织
+Wenig Licht – Lampe einschalten	光线不足 – 打开手电筒
+Verarbeitung mehrfach abgebrochen	处理多次中断
+Bearbeitungen gehen verloren	编辑内容将丢失
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	页面将根据照片重新生成。涂黑、签名和备注需要重新添加。
+Neu zuschneiden	重新裁剪
+Sprachdaten	语言数据
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	显示扫描件、原始照片、回收站、缓存和语言数据(文字识别、术语表)占用的空间。
+Bitte warten, bis alle Seiten erkannt sind	请等待所有页面识别完成
+Die Sprache „%s“ kann nicht übersetzt werden	无法翻译语言“%s”
+Übersetzung in die Seiten setzen	正在将译文放入页面

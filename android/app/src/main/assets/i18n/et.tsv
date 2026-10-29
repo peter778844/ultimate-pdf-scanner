@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Seadistage esmalt sõrmejälg, näoga avamine või ekraanilukk.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	See seade ei toeta biomeetrilist avamist.
+Ultimate PDF Scanner entsperren	Ava Ultimate PDF Scanner
+Deine Scans sind geschützt	Teie skannid on kaitstud
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner on lukus
+Deine Scans bleiben auf diesem Gerät.	Teie skannid jäävad sellesse seadmesse.
+  Entsperren	  Ava lukk
+Systemsprache	Süsteemi keel
+Deutsch	Deutsch
+English	English
+Fotos importieren	Impordi fotod
+Texterkennung vorbereiten	Tekstituvastuse ettevalmistamine
+Ein Foto konnte nicht verarbeitet werden: %s	Fotot ei õnnestunud töödelda: %s
+Foto laden	Laadi foto
+Foto nicht lesbar	Foto pole loetav
+Filter anwenden	Rakenda filter
+Schwärzen	Varja
+Unterschrift einfügen	Lisa allkiri
+Unterschrift eingefügt	Allkiri lisatud
+Änderungen einfügen	Lisa muudatused
+Seite bearbeitet	Lehte muudeti
+Text gesichert	Tekst salvestatud
+Zusammenführen	Ühenda
+%d Scans zusammengeführt	Ühendatud skanne: %d
+Seiten verschieben	Teisalda lehed
+Seiten kopieren	Kopeeri lehed
+ (Teil)	 (osa)
+Zwischenspeicher leeren	Tühjenda vahemälu
+Zwischenspeicher geleert	Vahemälu tühjendatud
+Originalfotos entfernen	Eemalda originaalfotod
+Sicherung erstellen	Loo varukoopia
+Sicherung erstellen (%d/%d)	Varukoopia loomine (%d/%d)
+Sicherung gespeichert	Varukoopia salvestatud
+Sicherung wiederherstellen	Taasta varukoopiast
+ (%d schon vorhanden)	 (%d juba olemas)
+Wiederherstellen fehlgeschlagen: %s	Taastamine ebaõnnestus: %s
+PDF erstellen (%d/%d)	PDF-i loomine (%d/%d)
+%s erstellen	Loomine: %s
+Export fehlgeschlagen: %s	Eksportimine ebaõnnestus: %s
+%s speichern	Salvesta: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF salvestatud (parooliga kaitstud, AES-256)
+%s gespeichert	Salvestatud: %s
+Bilder speichern	Salvesta pildid
+Bilder speichern (%d/%d)	Piltide salvestamine (%d/%d)
+%d Bilder gespeichert	Salvestatud pilte: %d
+Sprache erkennen	Tuvasta keel
+Kein erkannter Text zum Übersetzen	Tõlkimiseks pole tuvastatud teksti
+Sprache nicht erkannt	Keelt ei tuvastatud
+Der Text ist bereits auf %s	Tekst on juba keeles: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Keelemudeli laadimine (esimesel korral ~30 MB)
+Übersetzen (%d/%d)	Tõlkimine (%d/%d)
+Seite %d	Leht %d
+Übersetzung fehlgeschlagen: %s	Tõlkimine ebaõnnestus: %s
+1 Bereich unkenntlich gemacht	1 ala varjatud
+%d Bereiche unkenntlich gemacht	Varjatud alasid: %d
+1 Scan wiederhergestellt	1 skann taastatud
+%d Scans wiederhergestellt	Taastatud skanne: %d
+Server antwortet mit %d	Server vastab koodiga %d
+Datei unvollständig	Fail on puudulik
+Nicht gefunden	Ei leitud
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Skanne telefonis: %d · otse WiFi kaudu, ilma pilveta
+Ausgangssprache „%s“ wird nicht unterstützt	Lähtekeelt „%s“ ei toetata
+Zielsprache „%s“ wird nicht unterstützt	Sihtkeelt „%s“ ei toetata
+QR-CODE	QR-KOOD
+AUSWEIS	ISIKUTUNNISTUS
+DOKUMENT	DOKUMENT
+BUCH	RAAMAT
+VISITENKARTE	VISIITKAART
+PASSFOTO	DOKUMENDIFOTO
+PDF	PDF
+Word	Word
+Bilder	Pildid
+ZIP	ZIP
+Text	Tekst
+Excel	Excel
+CSV	CSV
+Kontakt	Kontakt
+Wie gescannt	Nagu skannitud
+Letter	Letter
+Mittel	Keskmine
+Englisch	Inglise
+Französisch	Prantsuse
+Italienisch	Itaalia
+Spanisch	Hispaania
+Portugiesisch	Portugali
+Niederländisch	Hollandi
+Polnisch	Poola
+Tschechisch	Tšehhi
+Dänisch	Taani
+Schwedisch	Rootsi
+Norwegisch	Norra
+Finnisch	Soome
+Ungarisch	Ungari
+Rumänisch	Rumeenia
+Kroatisch	Horvaadi
+Türkisch	Türgi
+Griechisch	Kreeka
+Russisch	Vene
+Ukrainisch	Ukraina
+Arabisch	Araabia
+Hebräisch	Heebrea
+Persisch	Pärsia
+Chinesisch (vereinfacht)	Hiina (lihtsustatud)
+Japanisch	Jaapani
+Koreanisch	Korea
+Latein	Ladina
+Deutsch (Fraktur)	Saksa (fraktuur)
+1 Seite	1 leht
+%d Seiten	%d lehte
+1 Scan	1 skann
+%d Scans	%d skanni
+Abbrechen	Tühista
+Bearbeiten	Muuda
+Zurück	Tagasi
+Rückgängig	Võta tagasi
+Sichern	Salvesta
+Seite	Leht
+Einfügen	Lisa
+Änderungen sichern?	Kas salvestada muudatused?
+Verwerfen	Loobu
+Schließen	Sulge
+Fertig	Valmis
+Öffnen	Ava
+Keine	Mitte ühtegi
+Alle	Kõik
+Umbenennen	Nimeta ümber
+Mehr	Rohkem
+Löschen	Kustuta
+Teilen	Jaga
+Speichern	Salvesta
+Drucken	Prindi
+Kopieren	Kopeeri
+Drehen	Pööra
+Laden	Laadi alla
+Entfernen	Eemalda
+Verschieben	Teisalda
+Name	Nimi
+Aus	Väljas
+Leeren	Tühjenda
+Wiederherstellen	Taasta
+Text einfügen	Lisa tekst
+z. B. Name, Datum …	nt nimi, kuupäev …
+Kein Gesicht erkannt – bitte noch einmal	Nägu ei tuvastatud – proovige uuesti
+Seite erneut scannen	Skanni leht uuesti
+Fernauslöser verbunden	Kaugpäästik ühendatud
+Nach dem Umblättern auslösen	Pildista pärast lehe pööramist
+Leserichtung rechts nach links	Lugemissuund paremalt vasakule
+Leserichtung links nach rechts	Lugemissuund vasakult paremale
+Automatisch auslösen	Automaatne pildistamine
+Kamera wechseln	Vaheta kaamerat
+Licht	Valgus
+Bitte Kamerazugriff erlauben.	Lubage juurdepääs kaamerale.
+Passfoto wird zugeschnitten …	Dokumendifoto kärpimine …
+Ohne Rückseite fertig	Valmis ilma tagaküljeta
+Kein Code im Bild gefunden	Pildil koodi ei leitud
+Aus Galerie	Galeriist
+QR-Code oder Barcode in den Rahmen halten	Hoidke QR-koodi või ribakoodi raami sees
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Nägu ovaali · vaadake otse · hele taust
+Vorderseite des Ausweises in den Rahmen	Isikutunnistuse esikülg raami
+Jetzt die Rückseite	Nüüd tagakülg
+Visitenkarte in den Rahmen legen	Asetage visiitkaart raami
+Aufgeschlagenes Buch ins Bild halten	Hoidke avatud raamatut kaadris
+Doppelseite erkannt	Kaksikleht tuvastatud
+Umblättern – löst danach automatisch aus	Pöörake lehte – seejärel pildistatakse automaatselt
+Ruhig halten …	Hoidke paigal …
+Ruhig halten – wird automatisch ausgelöst	Hoidke paigal – pildistatakse automaatselt
+Seite ins Bild halten	Hoidke lehte kaadris
+Seite erkannt	Leht tuvastatud
+Intervall-Timer	Intervalltaimer
+Serie starten	Alusta seeriat
+Farbe	Värviline
+Graustufen	Halltoonid
+Schwarz-Weiß	Mustvalge
+Original	Originaal
+Automatisch	Automaatne
+Zuschnitt nicht möglich	Kärpimine pole võimalik
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Selle lehe originaalfoto eemaldati ruumi säästmiseks. Valikuga „Skanni uuesti“ saab lehe uuesti pildistada.
+Zuschnitt anpassen	Kohanda kärpimist
+Übernehmen	Rakenda
+Einzelseite	Üksikleht
+Doppelseite	Kaksikleht
+Auto	Auto
+  Automatisch	  Automaatne
+Ecken auf die Seitenränder ziehen	Lohistage nurgad lehe servadele
+Seiten ordnen	Korralda lehed
+%d ausgewählt	Valitud: %d
+Filter für alle Seiten	Filter kõigile lehtedele
+Leserichtung umkehren	Pööra lugemissuund ümber
+Übersetzen…	Tõlgi…
+Scan löschen	Kustuta skann
+Scannen	Skanni
+Import	Import
+Ordnen	Korralda
+Exportieren	Ekspordi
+Übersetzen in …	Tõlgi keelde …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Tõlkimine toimub seadmes. Esimesel korral laaditakse keelemudel ühe korra alla.
+Übersetzung teilen	Jaga tõlget
+Scan löschen?	Kas kustutada skann?
+„%s“ wird endgültig gelöscht.	„%s“ kustutatakse jäädavalt.
+Kontakt erkannt	Kontakt tuvastatud
+Zu Kontakten	Kontaktidesse
+Seiten werden verarbeitet (%d/%d)	Lehtede töötlemine (%d/%d)
+Nur diese	Ainult need
+Wird neu verarbeitet	Töödeldakse uuesti
+Erneut	Uuesti
+Fehlgeschlagen	Ebaõnnestus
+Foto nicht verarbeitet	Fotot ei töödeldud
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Pildi töötlemisel tekkis viga.
+Keine Auffälligkeiten	Märkusi pole
+Erneut scannen	Skanni uuesti
+Ersetzt beide Seiten dieser Doppelseite	Asendab selle kaksiklehe mõlemad lehed
+Kamera öffnen und diese Seite ersetzen	Ava kaamera ja asenda see leht
+Nach vorn	Ettepoole
+Nach hinten	Tahapoole
+Seite löschen	Kustuta leht
+Foto entfernen	Eemalda foto
+1 Seite verschoben	1 leht teisaldatud
+%d Seiten verschoben	Teisaldatud lehti: %d
+1 Seite kopiert	1 leht kopeeritud
+%d Seiten kopiert	Kopeeritud lehti: %d
+1 Seite löschen?	Kas kustutada 1 leht?
+%d Seiten löschen?	Kas kustutada %d lehte?
+1 Seite prüfen	Kontrolli 1 lehte
+%d Seiten prüfen	Kontrolli %d lehte
+Seite löschen?	Kas kustutada leht?
+Durchsuchbares PDF mit erkanntem Text	Otsitav PDF tuvastatud tekstiga
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Muudetav tekst Wordi, LibreOffice’i ja Google Docsi jaoks
+Die Seite als JPG-Bild	Leht JPG-pildina
+Ein JPG-Bild pro Seite (%d Dateien)	Üks JPG-pilt lehe kohta (%d faili)
+Alle Seiten als JPG und der Text in einem Archiv	Kõik lehed JPG-na ja tekst ühes arhiivis
+Nur der erkannte Text	Ainult tuvastatud tekst
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tuvastatud tabelid, üks tööleht lehe kohta
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tuvastatud tabelid CSV-na (semikoolon, Exceli jaoks)
+Visitenkarte als Kontakt (vCard)	Visiitkaart kontaktina (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Esi- ja tagakülg tegelikus suuruses ühel lehel – printimiseks valmis
+Seitenformat	Lehe formaat
+Mit Passwort schützen	Kaitse parooliga
+AES-256-Verschlüsselung	AES-256 krüptimine
+Passwort	Parool
+Mindestens 4 Zeichen	Vähemalt 4 märki
+Passwort wiederholen	Korrake parooli
+Passwörter stimmen nicht überein	Paroolid ei ühti
+Seitenbilder einfügen	Lisa lehtede pildid
+Jede Seite als Bild über ihrem Text	Iga leht pildina oma teksti kohal
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Veerud tuvastatakse teksti vahede järgi – kõige paremini toimib selgelt eraldatud veergudega. Arvud nagu „1.234,50“ võetakse üle arvudena.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Sellelt kaardilt kontaktandmeid ei tuvastatud.
+1 ausgewählte Seite	1 valitud leht
+%d ausgewählte Seiten	%d valitud lehte
+Mobil	Mobiil
+Fax	Faks
+Telefon	Telefon
+%s teilen	Jaga: %s
+Scan	Skann
+Text teilen	Jaga teksti
+PDF teilen	Jaga PDF-i
+In den Papierkorb verschoben	Teisaldatud prügikasti
+%d Scans in den Papierkorb verschoben	Prügikasti teisaldatud skanne: %d
+Auswahl beenden	Lõpeta valimine
+Alle auswählen	Vali kõik
+In Ordner verschieben	Teisalda kausta
+Ordner	Kaustad
+Ordner umbenennen	Nimeta kaust ümber
+Ordner auflösen	Saada kaust laiali
+Papierkorb (%d)	Prügikast (%d)
+Papierkorb	Prügikast
+An PC senden	Saada arvutisse
+Speicher & Sicherung	Salvestusruum ja varukoopia
+Einstellungen	Seaded
+Scans und Text durchsuchen	Otsi skannidest ja tekstist
+Alle Scans durchsuchen	Otsi kõigist skannidest
+Suche löschen	Tühjenda otsing
+%d Treffer	%d tulemust
+Alle Scans	Kõik skannid
+Nichts gefunden	Midagi ei leitud
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Ükski nimi ega tuvastatud tekst ei vasta päringule „%s“.
+Ordner ist leer	Kaust on tühi
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Teisaldage skannid siia: vajutage skannil pikalt ja valige „Teisalda kausta“.
+Noch keine Scans	Skanne veel pole
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Lehtede pildistamiseks puudutage „Skanni“,\nvõi importige fotod galeriist.
+Ordnername	Kausta nimi
+Neuer Ordner	Uus kaust
+%d Scans zusammenführen?	Kas ühendada %d skanni?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Kõik lehed lisatakse valiku järjekorras skannile „%s“. Ülejäänud skannid kaovad seejärel.
+%d prüfen	Kontrolli %d
+Wird verarbeitet (%d/%d)	Töötlemine (%d/%d)
+Als PDF teilen	Jaga PDF-ina
+Kategorie ändern	Muuda kategooriat
+Kein Ordner	Kaustata
+Neuer Ordner …	Uus kaust …
+Kategorie	Kategooria
+Download fehlgeschlagen: %s	Allalaadimine ebaõnnestus: %s
+keine Verbindung	ühendus puudub
+Sprachen der Texterkennung	Tekstituvastuse keeled
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Valitud keeli tuvastatakse koos – valige ainult vajalikud, iga lisakeel aeglustab tuvastamist. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Puuduvad keeled laaditakse alla üks kord (umbes 2–15 MB) ja töötavad seejärel võrguühenduseta.
+Wird geladen … %d %%	Allalaadimine … %d %%
+Enthalten	Kaasas
+Geladen · %s	Alla laaditud · %s
+Nicht geladen	Pole alla laaditud
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Puudutage valimiseks · hoidke ja lohistage teisaldamiseks
+Neuer Scan	Uus skann
+Verschieben nach …	Teisalda …
+Kopieren nach …	Kopeeri …
+Seite %d von %d	Leht %d / %d
+Filter	Filter
+Zuschnitt	Kärpimine
+Signieren	Allkirjasta
+Code	Kood
+Link	Link
+E-Mail	E-post
+Telefonnummer	Telefoninumber
+Ort	Asukoht
+Produktcode	Tootekood
+Netzwerk: %s	Võrk: %s
+Passwort: %s	Parool: %s
+Verschlüsselung: %s	Krüptimine: %s
+Passwort kopieren	Kopeeri parool
+Verbinden	Ühenda
+E-Mail schreiben	Kirjuta e-kiri
+Anrufen	Helista
+In Karten öffnen	Ava kaartides
+Suche sensible Daten…	Tundlike andmete otsimine…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Tundlikke andmeid ei leitud. Märkige sõrmega alad, mida varjata.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Leitud – puudutage valimiseks või tühistamiseks, märkige veel alasid:
+Schwarzer Balken	Must riba
+Verpixeln	Pikselda
+Unkenntlich machen (%d)	Varja (%d)
+Manuell	Käsitsi
+Gesicht	Nägu
+Kein WLAN	WiFi puudub
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Ühendage telefon ja arvuti samasse WiFi-võrku (või arvuti telefoni kuumkohaga). Seejärel kuvatakse siin aadress.
+Am PC im Browser öffnen	Ava arvuti brauseris
+QR-Code der Adresse	Aadressi QR-kood
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Sisestage aadress või skannige QR-kood arvuti kaameraga. Seal saate kõik skannid alla laadida PDF-i või tekstina.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Ainult kohtvõrgus ja ainult seni, kuni see kuva on avatud. Midagi ei laadita internetti üles.
+Heruntergeladen	Alla laaditud
+App-Sperre nicht möglich	Rakenduse lukk pole võimalik
+Sprache	Keel
+Sprache der App	Rakenduse keel
+Aufnahme	Pildistamine
+Doppelseiten im Dokument-Modus	Kaksiklehed dokumendirežiimis
+Automatisch teilen	Jaga automaatselt
+Nie teilen	Ära kunagi jaga
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Pildistab kohe, kui leht on kaadris paigal.
+Buch-Modus	Raamaturežiim
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Tuvastab lehe pööramise ja pildistab, kui raamat on taas paigal.
+Leserichtung	Lugemissuund
+Links → rechts	Vasakult → paremale
+Rechts → links	Paremalt → vasakule
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Paremalt vasakule araabia, heebrea, pärsia ja jaapani keele jaoks: esimesena tuleb parem leht.
+Fernauslöser	Kaugpäästik
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Siduge Bluetoothi kaamera kaugpäästik (nt „AB Shutter 3“) Androidi Bluetoothi seadetes. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Kaameras pildistavad siis kaugpäästik ja helitugevusnupud.
+Bild	Pilt
+Standardfilter	Vaikefilter
+Handschrift entfernen	Eemalda käekiri
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Eemaldab sinise/punase pastaka ja pliiatsi märkmed. Eemaldab ka nendes värvides trüki.
+Texterkennung	Tekstituvastus
+Sprachen	Keeled
+Sicherheit & Speicher	Turvalisus ja salvestusruum
+App-Sperre	Rakenduse lukk
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Avamisel ava sõrmejälje, näo või ekraanilukuga. Sisu ei kuvata rakenduste ülevaates.
+Belegung, Backup als ZIP, Wiederherstellen	Kasutus, varukoopia ZIP-ina, taastamine
+Gelöschte Scans werden nach 30 Tagen entfernt	Kustutatud skannid eemaldatakse 30 päeva pärast
+Offline	Võrguühenduseta
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Kõik fotod ja tekstid jäävad sellesse seadmesse. Internetti kasutatakse ainult keelte ühekordseks allalaadimiseks, kui te selle käivitate.
+Über	Teave
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Avatud lähtekoodiga komponendid: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (kõik Apache 2.0 litsentsiga); ML Kit (tõlge, näotuvastus, seadmes).
+Unterschrift zeichnen	Joonista allkiri
+Mit dem Finger unterschreiben	Allkirjastage sõrmega
+Unterschrift platzieren	Paiguta allkiri
+Neu zeichnen	Joonista uuesti
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Liigutage ühe sõrmega, muutke suurust kahe sõrmega.
+Unterschrift	Allkiri
+Belegt von Ultimate PDF Scanner	Ultimate PDF Scanneri kasutuses
+%s frei auf dem Gerät	Seadmes vaba: %s
+Seiten	Lehed
+Originalfotos	Originaalfotod
+Zwischenspeicher	Vahemälu
+Platz schaffen	Vabasta ruumi
+Exportierte Dateien zum Teilen	Jagamiseks eksporditud failid
+Gelöschte Scans der letzten 30 Tage	Viimase 30 päeva kustutatud skannid
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Valmis lehed jäävad alles, kuid kärpimist ei saa hiljem muuta.
+Größte Scans	Suurimad skannid
+Sicherung	Varukoopia
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Salvestage kõik skannid ühte ZIP-faili – nt SD-kaardile, USB-mälupulgale või arvutisse. Midagi ei laadita üles.
+Papierkorb mitsichern	Kaasa prügikast
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-varukoopia_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Taastamisel lisatakse ainult puuduvad skannid.
+Originalfotos entfernen?	Kas eemaldada originaalfotod?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Säästab %s. Lehti ei saa hiljem uuesti kärpida, „Skanni uuesti“ jääb võimalikuks.
+Text bearbeiten · Seite %d	Muuda teksti · leht %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Parandused lähevad otsingusse ja PDF-i tekstikihti.
+Kein Text erkannt – hier eintippen	Teksti ei tuvastatud – sisestage see siia
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Kustutatud skannid eemaldatakse jäädavalt %d päeva pärast.
+Papierkorb ist leer	Prügikast on tühi
+Endgültig löschen	Kustuta jäädavalt
+Papierkorb leeren?	Kas tühjendada prügikast?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d skanni kustutatakse jäädavalt. Seda ei saa tagasi võtta.
+Endgültig löschen?	Kas kustutada jäädavalt?
+„%s“ wird sofort gelöscht.	„%s“ kustutatakse kohe.
+noch 1 Tag	veel 1 päev
+noch %d Tage	veel %d päeva
+Quittung	Kviitung
+Quittungen	Kviitungid
+Rechnung	Arve
+Rechnungen	Arved
+Visitenkarte	Visiitkaart
+Visitenkarten	Visiitkaardid
+Vertrag	Leping
+Verträge	Lepingud
+Brief	Kiri
+Briefe	Kirjad
+Ausweis	Isikutunnistus
+Ausweise	Isikutunnistused
+Buch	Raamat
+Bücher	Raamatud
+Passfoto	Dokumendifoto
+Passfotos	Dokumendifotod
+Dokument	Dokument
+Dokumente	Dokumendid
+Auflösung	Eraldusvõime
+Kompression	Tihendus
+Gering	Madal
+Stark	Tugev
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi ja madal tihendus printimiseks ja arhiiviks, 150 dpi ja tugev tihendus e-posti jaoks.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Muudab PDF-id otsitavaks ja teksti kopeeritavaks. Väljas: kiirem töötlus, PDF ainult pildina.
+Keine Seite erkannt	Lehte ei tuvastatud
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Lehe serva ei leitud – kasutati kogu fotot.
+Unscharf	Udune
+Das Foto ist verwackelt oder unscharf.	Foto on liikunud või udune.
+Zu dunkel	Liiga tume
+Die Seite ist schlecht ausgeleuchtet.	Leht on halvasti valgustatud.
+Text schlecht lesbar	Tekst on halvasti loetav
+Die Texterkennung war unsicher.	Tekstituvastus oli ebakindel.
+Kein Text erkannt	Teksti ei tuvastatud
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Lehelt ei leitud teksti – tühi leht või pole kaadris üldse lehte?
+Hindi	Hindi
+Bengalisch	Bengali
+Urdu	Urdu
+Indonesisch	Indoneesia
+Seite erkennen	Tuvasta leht
+Seite entzerren	Sirgesta leht
+Finger entfernen	Eemalda sõrmed
+Schärfe prüfen	Kontrolli teravust
+Ausrichtung	Suund
+Bild verbessern	Paranda pilti
+Speicherort	Salvestuskoht
+Speicherort für Exporte	Eksportide salvestuskoht
+Jedes Mal fragen	Küsi iga kord
+Ordner wählen …	Vali kaust …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	„Salvesta“ paneb PDF-id ja muud ekspordid otse sellesse kausta, ilma iga kord küsimata. Võimalik on ka SD-kaart.
+Gespeichert in „%s“	Salvestatud kausta „%s“
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Salvestuskoht pole kättesaadav. Valige see uuesti.
+Neu aufnehmen	Pildista uuesti
+Um 90° links drehen	Pööra 90° vasakule
+Seite gelöscht	Leht kustutatud
+Lange drücken: neu aufnehmen, drehen oder löschen	Vajutage pikalt: pildista uuesti, pööra või kustuta
+Ersetzt beide Seiten	Asendab mõlemad lehed
+Ränder bereinigen	Puhasta servad
+Scan-Qualität	Skannimise kvaliteet
+Schnell	Kiire
+Standard	Standardne
+Genau	Täpne
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Suure ja selge kirja jaoks nagu kirjad ja väljatrükid: väiksemad fotod, kiireim töötlus.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Raamatute ja enamiku dokumentide jaoks: hea tuvastus tavalise kiirusega.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Peenkirja, vanade raamatute, joonealuste märkuste ja valemite jaoks: kaamera täiseraldusvõime, aeglasem, rohkem mälu.
+BILD	PILT
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Asetage pilt tasaselt · ilma välguta · vältige peegeldusi
+an	sees
+aus	väljas
+Automatische Auslösung an: nach dem Umblättern	Automaatne pildistamine sees: pärast lehe pööramist
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automaatne pildistamine sees: kui leht on paigal
+Automatische Auslösung aus	Automaatne pildistamine väljas
+PDF & Export	PDF ja eksport
+Speicherort für PDFs und Bilder	PDF-ide ja piltide salvestuskoht
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Eksportimisel saab seda üksikute failide jaoks muuta.
+Weitere Optionen …	Rohkem valikuid …
+Automatische Verbesserung	Automaatne parandamine
+Schatten und Artefakte entfernen, Schrift schärfen	Eemalda varjud ja artefaktid, teravda kirja
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Eemalda varjud ja artefaktid, teravda kirja. Saab igas dokumendis eraldi välja lülitada.
+unkorrigiert	parandamata
+Maximal	Maksimaalne
+Bildqualität	Pildi kvaliteet
+volle Auflösung	täiseraldusvõime
+Briefe, Ausdrucke, große Schrift	Kirjad, väljatrükid, suur kiri
+Bücher und die meisten Dokumente (empfohlen)	Raamatud ja enamik dokumente (soovitatav)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Peenkiri, valemid, vanad raamatud – aeglasem
+Gilt auch für alle weiteren Scans.	Kehtib ka kõigi järgmiste skannide kohta.
+Ändern	Muuda
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Kuhu „Salvesta“ teie ekspordid paneb. „Jaga“ sellest ei sõltu.
+Ordner und Dateiname beim Speichern wählen	Vali salvestamisel kaust ja failinimi
+Exporte landen direkt hier	Ekspordid lähevad otse siia
+Anderen Ordner wählen …	Vali teine kaust …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Ka SD-kaart ja pilvekaustad, kui need on seadmes seadistatud.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Püsiv juurdepääs sellele kaustale pole võimalik.
+Sehr hohe Auflösung	Väga kõrge eraldusvõime
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	%d MP juures kestab iga lehe töötlemine palju kauem ja vajab palju mälu. Enamiku dokumentide jaoks piisab „Standardne“. „Maksimaalne“ tasub end ära ainult väga peene kirja puhul.
+Trotzdem verwenden	Kasuta siiski
+langsam	aeglane
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Kaugpäästikut pole ühendatud – siduge see Bluetoothi seadetes
+Mit dem Fernauslöser auslösen	Pildista kaugpäästikuga
+Umblättern	Lehe pööramine
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Lõpetab pildistamise. Juba pildistatud lehed jäävad alles ja töödeldakse.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Lülitab taskulambi sisse või välja. Läikivat paberit on parem pildistada ilma valguseta ja akna suhtes viltu.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Kasutab olemasolevaid fotosid uute võtete asemel.
+Serie	Seeria
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Alustab või peatab seeria: taimer pildistab siis automaatselt iga paari sekundi järel.
+Auslöser	Päästik
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Teeb foto. Pildistavad ka helitugevusnupud ja Bluetoothi kaugpäästik.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Lõpetab pildistamise ja avab ülevaate; number näitab selle pildistamise fotosid.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Mitu pikslit igal fotol on. Kiire (5 MP) suure kirja jaoks, Standardne (12 MP) peaaegu kõige jaoks, Maksimaalne peenkirja ja valemite jaoks – võtab kauem aega.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Puudutage vahetamiseks: väljas, 3, 5 või 10 sekundit. Päästik alustab siis seeriat, kus foto tehakse selle intervalliga – mugav raamatute jaoks.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Pildistab ainult siis, kui puudutate päästikut.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Pildistab ise, kui leht on 0,7 sekundit paigal. Raamaturežiimis: pärast iga lehe pööramist, kui raamat on taas paigal.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Pildistab Bluetoothi kaugpäästikuga (nt „AB Shutter 3“). Siduge päästik esmalt telefoni Bluetoothi seadetes.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Annab dokumendile oma nime; seda kasutatakse ka eksportimisel failinimena.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Pööra kaksiklehtede lugemissuund ümber, tõlgi seadmes või kustuta skann.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Avab kaamera ja lisab sellele dokumendile uusi lehti.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Võtab galerii fotod uute lehtedena; need kärbitakse ja tuvastatakse nagu kaamerafotod.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Muutke järjekorda lohistades; valige lehed nende pööramiseks, teisaldamiseks, kopeerimiseks, eraldamiseks või kustutamiseks.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Jaga, salvesta või prindi PDF-i, Wordi, piltide, ZIP-i, teksti või tabelina.
+Farbe, Graustufen, Schwarz-Weiß	Värviline, halltoonid, mustvalge
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Muudab kõik selle dokumendi lehed. Mustvalge annab kõige väiksemad failid, värviline edastab illustratsioonid ja templid täpselt.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Sees: varjud, plekid ja artefaktid eemaldatakse ning kiri muutub kontrastsemaks. Väljas: lehti ainult kärbitakse ja sirgestatakse – fotode, jooniste jaoks või kui parandamine midagi moonutab.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Loob faili ja annab selle rakendusele, nt e-postile, sõnumirakendusele või pilve.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Paneb faili salvestuskohta – püsikausta või valiku „Küsi iga kord“ korral sinna, kuhu te selle panete.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Prindib Androidi prinditeenuse kaudu; seal saab valida ka „Salvesta PDF-ina“.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Kuhu „Salvesta“ failid paneb: küsi iga kord või alati püsikausta, ka SD-kaardile või pilvekausta.
+Hilfe & Anleitung	Abi ja juhend
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Nõuanne: hoidke nuppu üks sekund all, et näha, mida see teeb.
+Startseite	Avaleht
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Avab kaamera. Ühe pildistamise kõik fotod lähevad ühte ühisesse dokumenti.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Galeriiikoon nupu „Skanni“ kohal võtab olemasolevad fotod; need kärbitakse ja tuvastatakse nagu kaamerafotod.
+Suchen	Otsing
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Leiab skannid nime ja tuvastatud teksti järgi koos lehenumbriga.
+Ordner und Kategorien	Kaustad ja kategooriad
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Kaustad rühmitavad skanne. Kategooriad (raamatud, kviitungid …) ilmuvad ise, kui seda tüüpi skanne on.
+Mehrere Scans	Mitu skanni
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Vajutage skannil pikalt: vali, ühenda, teisalda kausta või kustuta.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Kustutatud skannid jäävad 30 päevaks prügikasti (menüü ⋮) ja neid saab taastada.
+Modi	Režiimid
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Valige all: Dokument (üksikud lehed), Raamat (kaksiklehed jagatakse kaheks), Isikutunnistus (esi- ja tagakülg tegelikus suuruses ühel lehel), Visiitkaart (kontakt tuvastatakse), Pilt (truud värvid, ilma tekstituvastuseta), Dokumendifoto (esikaamera, 35 × 45 mm) ja QR-kood.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Üleval vasakul: Kiire (5 MP) suure kirja jaoks, Standardne (12 MP) peaaegu kõige jaoks, Maksimaalne peenkirja ja valemite jaoks – aeglasem.
+Auslösung	Pildistamine
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Käsitsi: päästikuga. Auto 0,7 s: kui leht on 0,7 sekundit paigal; raamaturežiimis pärast iga lehe pööramist. Bluetooth: seotud kaugpäästikuga. Helitugevusnupud pildistavad alati.
+Timer und Licht	Taimer ja valgus
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Kellaikoon pildistab iga 3, 5 või 10 sekundi järel (alustamine päästikuga). Välk lülitab taskulambi sisse.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Puudutage pisipilti all paremal: lehed töödeldakse ja avaneb ülevaade.
+Gute Fotos	Head fotod
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Asetage leht tasaselt ja ühtlaselt valgustatuna, hoidke telefoni paralleelselt. Paberist erineva värviga alus aitab kärpimisel.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Kehtib dokumendi kõigile lehtedele. Üksikuid lehti saab lehevaates teisiti seadistada.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Eemaldab varjud ja artefaktid ning muudab kirja kontrastsemaks. Väljalülitatuna leht ainult kärbitakse ja sirgestatakse.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Puudutus avab lehe. Pikk vajutus: pildista uuesti, pööra või kustuta. Oranžilt märgitud lehti tuleks kontrollida (nt udused), punased ebaõnnestusid.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Muutke järjekorda lohistades, pöörake mitut lehte, teisaldage või kopeerige need teise dokumenti või eraldage uue dokumendina.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, pildid, ZIP, tekst või tabel – jaga, salvesta või prindi.
+Mehr (⋮)	Rohkem (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Pööra kaksiklehtede lugemissuund ümber, tõlgi seadmes või kustuta skann. Ülemine pliiats muudab nime.
+Seitenansicht	Lehevaade
+Blättern und Zoomen	Lehitsemine ja suumimine
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Pühkige lehe vahetamiseks; topeltpuudutage või kasutage suumimiseks kahte sõrme.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Värviline, halltoonid või mustvalge ainult sellele lehele, eelvaatega. Allpool selle lehe automaatne parandamine.
+Drehen und Zuschnitt	Pööramine ja kärpimine
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Pööra 90°. Kärbi: määrake lehe nurgad originaalfotol uuesti.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Kirjutage lehele pastaka, markeri või tekstiga.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Muutke tundlikud andmed loetamatuks – ribade või pikseldamisega. Pakutakse kontonumbreid, kaardinumbreid ja nägusid.
+Signieren und Text	Allkiri ja tekst
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	„Allkirjasta“ lisab teie salvestatud allkirja. „Tekst“ näitab tuvastatud teksti parandamiseks ja kopeerimiseks.
+Formate	Vormingud
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (otsitav), Word, pildid (JPG), ZIP, tekst, Excel või CSV; visiitkaartide puhul ka kontaktina.
+PDF-Optionen	PDF-i valikud
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Lehe formaat, eraldusvõime ja tihendus määravad kvaliteedi ja faili suuruse – suurust hinnatakse üleval paremal. Soovi korral parooliga (AES-256).
+Teilen oder Speichern	Jagada või salvestada
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	„Jaga“ saadab faili rakendusse (e-post, sõnumid …). „Salvesta“ paneb selle salvestuskohta.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	„Küsi iga kord“ avab salvestamisel kausta valiku. Püsikaustaga lähevad ekspordid sinna küsimata – ka SD-kaardile või pilvekausta.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Prindib Androidi prinditeenuse kaudu või salvestab PDF-ina.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Pildi kvaliteet, pildistamine ja kaksiklehtede jagamine uute skannide jaoks. Kaameras saab seda igal ajal muuta.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filter ja automaatne parandamine, millega uued dokumendid algavad.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Muudab PDF-id otsitavaks. Keeled määravad, milliseid märke tuvastatakse.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Salvestuskoht ning eraldusvõime, tihenduse ja lehe formaadi vaikeväärtused.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Rakenduse lukk sõrmejäljega, varukoopia ZIP-ina ja prügikast.
+Ecken setzen	Määra nurgad
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Lohistage neli nurka lehe servadele; luup näitab sõrme all olevat kohta suurendatult.
+Einzel- oder Doppelseite	Üksik- või kaksikleht
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Valige all, kas fotol on üks leht või avatud kaksikleht. „Automaatne“ laseb rakendusel otsustada.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Ülemine linnuke töötleb lehe uue kärpega.
+Werkzeuge	Tööriistad
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Pastakas kirjutamiseks, marker esiletõstmiseks, tekst trükitud märkmete jaoks. Värvid on allpool.
+Korrigieren	Paranda
+Rückgängig nimmt den letzten Strich zurück.	„Võta tagasi“ eemaldab viimase joone.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Kirjutab muudatused lehele. Salvestamata jääb leht muutmata.
+Vorschläge	Soovitused
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Leitud kontonumbrid, kaardinumbrid, maksunumbrid ja näod on märgitud – puudutage valiku tühistamiseks või uuesti valimiseks.
+Eigene Bereiche	Omad alad
+Mit dem Finger weitere Rechtecke aufziehen.	Märkige sõrmega veel ristkülikuid.
+Balken oder Pixel	Ribad või pikslid
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Must riba või pikseldamine. Selle all olev tekst eemaldatakse ka tekstituvastusest ja PDF-ist.
+Zeichnen	Joonista
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Allkirjastage üks kord sõrmega – allkiri salvestatakse seadmesse.
+Platzieren	Paiguta
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Liigutage ühe sõrmega, muutke suurust kahe sõrmega, seejärel lisage.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Ülemine pliiatsiikoon asendab salvestatud allkirja.
+Text bearbeiten	Muuda teksti
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Lehe tuvastatud tekst on all ja seda saab muuta. Üleval on võrdluseks lehe pilt.
+Wirkung	Mõju
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Parandused lähevad otsingusse, PDF-i tekstikihti ning Wordi ja teksti ekspordi.
+Holt einen gelöschten Scan zurück.	Toob kustutatud skanni tagasi.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skannid eemaldatakse 30 päeva pärast automaatselt. „Tühjenda“ kustutab kõik kohe.
+Belegung	Kasutus
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Näitab, kui palju ruumi võtavad skannid, originaalfotod, prügikast ja vahemälu.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Originaalfotode eemaldamine säästab palju ruumi; valmis lehed jäävad, ainult kärpimist ei saa hiljem muuta.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Salvestage kõik skannid ZIP-failina ja taastage need selles või teises seadmes. Midagi ei laadita üles.
+Auswahl	Valik
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Valige oma dokumentide keeled. Iga lisakeel aeglustab tuvastamist.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Puuduvad keeled laaditakse alla üks kord ja töötavad seejärel ilma internetita.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Ühendage telefon ja arvuti samasse WiFi-võrku (või arvuti telefoni kuumkohaga).
+Herunterladen	Laadi alla
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Avage kuvatud aadress arvuti brauseris või skannige QR-kood; seal saab kõik skannid alla laadida PDF-i või tekstina.
+Sicherheit	Turvalisus
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Töötab ainult kohtvõrgus ja ainult seni, kuni see kuva on avatud.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Keel, pildi kvaliteet, pildistamine, tekstituvastus, salvestuskoht, rakenduse lukk ja varukoopia.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Võtab galerii fotod uue dokumendina; need kärbitakse ja tuvastatakse nagu kaamerafotod.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Avab kaamera. Ühe pildistamise kõik fotod lähevad ühte ühisesse dokumenti.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Kustutab selle lehe dokumendist (pärast kinnitust).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Värviline, halltoonid või mustvalge ja automaatne parandamine ainult sellele lehele.
+Dreht die Seite um 90° im Uhrzeigersinn.	Pöörab lehte 90° päripäeva.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Määrake lehe nurgad originaalfotol uuesti, kui serv puudub või taust paistab.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Muutke tundlikud andmed ribade või pikslitega loetamatuks; need kaovad ka PDF-i tekstist.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Paigutab teie salvestatud allkirja lehele; esimesel korral te selle joonistate.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Näitab lehe tuvastatud teksti parandamiseks ja kopeerimiseks.
+Fotografiert beim Tippen auf den Auslöser.	Pildistab, kui puudutate päästikut.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Pildistab, kui leht on 0,7 s paigal; raamaturežiimis pärast iga lehe pööramist.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Pildistab seotud Bluetoothi kaugpäästikuga.
+Lautstärketasten lösen immer aus.	Helitugevusnupud pildistavad alati.
+Word erstellen, Formeln erkennen (%d/%d)	Wordi loomine, valemite tuvastamine (%d/%d)
+Belarussisch	Valgevene
+Bulgarisch	Bulgaaria
+Serbisch	Serbia
+Mazedonisch	Makedoonia
+Kein Link im geteilten Text	Jagatud tekstis pole linki
+Import fehlgeschlagen: %s	Importimine ebaõnnestus: %s
+Link laden	Lingi laadimine
+Unter dem Link liegt keine PDF- oder Bilddatei.	Link ei vii PDF- ega pildifailini.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Importida saab ainult PDF-faile ja pilte.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Kaitstud PDF-faile ei saa importida.
+PDF-Seite %d/%d importieren	PDF-lehe %d/%d importimine
+Auto %s s	Auto %s s
+Auslösen nach %s s	Pildista %s s pärast
+Wartezeit	Ooteaeg
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Kui kaua peab leht enne automaatset pildistamist paigal olema. Lühem on kiirem, pikem annab vähem uduseid fotosid.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Pildistab ise, kui leht on paigal; ooteaja (0,2–1,5 s) seadistad allpool. Raamaturežiimis: pärast iga lehepööret, kui raamat on taas paigal.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Lisab fotod, ekraanipildid, PDF-failid või lingi täiendavate lehtedena; fotod kärbitakse, kõik tuvastatakse.
+Senden an …	Saada …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Kuhu „Salvesta“ ekspordid paneb. „Saada …“ ei sõltu sellest.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Vali alamkaust, nt „Documents“ – salvestusruumi ülemist kausta Android ei luba.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Loob faili ja saadab selle rakendusse, nt WhatsApp, e-post, Telegram või pilvesalvestus.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Käsitsi: päästikuga. Auto: kui leht on paigal – ooteaja (0,2–1,5 s, vaikimisi 0,7 s) seadistad skannimisaknas lüliti all; raamaturežiimis pärast iga lehepööret. Bluetooth: seotud kaugpäästikuga. Helitugevusnupud pildistavad alati.
+Senden an oder Speichern	Saada või salvesta
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Saada …“ saadab faili rakendusse (WhatsApp, e-post, Telegram, pilv …). Salvesta paneb selle salvestuskohta.
+Importieren	Impordi
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Võtab fotod, ekraanipildid, PDF-failid või lingi uue dokumendina; fotod kärbitakse, kõik tuvastatakse.
+Bilder aus der Galerie	Pildid galeriist
+Fotos und Screenshots	Fotod ja ekraanipildid
+Dateien	Failid
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF-failid ja pildid, nt allalaadimistest või pilvest
+Eine PDF- oder Bilddatei aus dem Internet	PDF- või pildifail internetist
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Seejärel nagu skannitud lehed: tekstituvastus, tõlge ja eksport mis tahes vormingusse.
+Link importieren	Impordi link
+Internetadresse	Veebiaadress
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Pildistab, kui leht on %s s paigal (seadistatav skannimisaknas); raamaturežiimis pärast iga lehepööret.
+Fachwörterbuch laden	Sõnastiku laadimine
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Sõnastik keele %s või %s jaoks puudub – tõlgitud ilma oskussõnadeta
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Pole sõnastikufail (glossary-xx.tsv.gz)
+Download nicht verfügbar	Allalaadimine pole saadaval
+Estnisch	Eesti
+Irisch	Iiri
+Litauisch	Leedu
+Lettisch	Läti
+Maltesisch	Malta
+Slowakisch	Slovaki
+Slowenisch	Sloveeni
+Ohne Fachwörterbuch	Sõnastikuta
+Alle Fachgebiete	Kõik valdkonnad
+Fachgebiet: %s	Valdkond: %s
+Fachwörterbücher verwalten …	Halda sõnastikke …
+Fachwörterbücher	Erialasõnastikud
+Aus Datei importieren	Impordi failist
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Õiguse, meditsiini, tehnika, majanduse ja 17 muu valdkonna oskussõnad (IATE, ELi terminibaas) võetakse tõlkimisel üle täpselt. Vaja on lähte- ja sihtkeele sõnastikku, kumbki 0,3–9 MB.
+Einmal laden, danach offline.	Laadi üks kord, siis võrguühenduseta.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Impordi failid glossary-xx.tsv.gz ülal oleva kausta ikooniga.
+Fachwörterbücher für die Übersetzung	Erialasõnastikud tõlkimiseks
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Õigus, meditsiin, tehnika ja muu – 24 ELi keelt
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Kõik fotod ja tekstid jäävad sellesse seadmesse. Internetti kasutatakse ainult keelte, tõlkemudelite ja sõnastike ühekordseks allalaadimiseks, kui sa selle käivitad.
+Übersetzen	Tõlgi
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Loob seadmes dokumendist tõlgitud koopia: samad leheküljed ja pildid, tekst sihtkeeles oma kohal. Iga lõik tõlgitakse tema enda keelest. „Valdkonnaga“ võetakse oskussõnastike erialaterminid üle täpselt.
+Was nachgeladen werden kann	Mida saab alla laadida
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Kõik on vabatahtlik ja laaditakse alla ainult puudutusega; seejärel töötab ilma internetita:\n• Tekstituvastuse keeled: igaüks 1–15 MB (Seaded › Keeled). Saksa ja inglise keel on kaasas.\n• Hiina: oma tuvastusmudel, umbes 17 MB.\n• Tõlkemudelid: umbes 30 MB keele kohta, laaditakse automaatselt esimesel tõlkimisel.\n• Erialasõnastikud: 0,3–9 MB keele kohta, kõik 24 ELi keelt kokku umbes 70 MB (Seaded › Erialasõnastikud).\nAllalaaditud faile saab igal ajal eemaldada.
+Wozu	Milleks
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Üldised tõlkijad ei tunne paljusid oskussõnu või tõlgivad neid ebaühtlaselt. Sõnastik lisab kehtestatud termini, nt „Beweislast“ → „tõendamiskoormis“.
+Quelle	Allikas
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, ELi institutsioonide terminibaas, mille terminid on 21 valdkonnast (õigus, tervis, tehnika, majandus, keskkond, transport …). See on olemas ELi 24 ametlikus keeles.
+Was nötig ist	Mida on vaja
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Üks sõnastik lähtekeele ja üks sihtkeele jaoks, nt saksa ja inglise keel. Üks sõnastik keele kohta sobib kõigile keelepaaridele.
+Laden oder importieren	Laadi alla või impordi
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Laadi noolega (üks kord, siis võrguühenduseta) või impordi kausta ikooniga fail „glossary-xx.tsv.gz“, nt arvutist või SD-kaardilt.
+Benutzen	Kasutamine
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Tõlkimisel vali ülal valdkond. „Kõik valdkonnad“ kasutab ainult termineid, mis tõlgitakse kõikjal ühtemoodi.
+Grenzen	Piirangud
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Oskussõnad lisatakse algvormis; käänatud vorme ei tunta alati ära.
+Politik	Poliitika
+Internationale Beziehungen	Rahvusvahelised suhted
+Europäische Union	Euroopa Liit
+Recht	Õigus
+Wirtschaft	Majandus
+Handel	Kaubandus
+Finanzwesen	Rahandus
+Soziales und Gesundheit	Sotsiaalküsimused ja tervis
+Bildung und Kommunikation	Haridus ja kommunikatsioon
+Wissenschaft	Teadus
+Unternehmen und Wettbewerb	Ettevõtlus ja konkurents
+Beschäftigung und Arbeitsbedingungen	Tööhõive ja töötingimused
+Verkehr	Transport
+Umwelt	Keskkond
+Land-, Forst- und Fischereiwirtschaft	Põllumajandus, metsandus ja kalandus
+Agrarerzeugnisse und Lebensmittel	Põllumajanduslikud toiduained
+Produktion, Technologie und Forschung	Tootmine, tehnoloogia ja teadusuuringud
+Energie	Energeetika
+Industrie	Tööstus
+Geografie	Geograafia
+Internationale Organisationen	Rahvusvahelised organisatsioonid
+Wenig Licht – Lampe einschalten	Vähe valgust – lülita lamp sisse
+Verarbeitung mehrfach abgebrochen	Töötlemine katkes korduvalt
+Bearbeitungen gehen verloren	Muudatused lähevad kaotsi
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Lehekülg luuakse fotost uuesti. Varjamised, allkiri ja märkmed tuleb uuesti lisada.
+Neu zuschneiden	Kärbi uuesti
+Sprachdaten	Keeleandmed
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Näitab, kui palju ruumi võtavad skannid, originaalfotod, prügikast, vahemälu ja keeleandmed (tekstituvastus, sõnastikud).
+Bitte warten, bis alle Seiten erkannt sind	Oodake, kuni kõik leheküljed on tuvastatud
+Die Sprache „%s“ kann nicht übersetzt werden	Keelt „%s“ ei saa tõlkida
+Übersetzung in die Seiten setzen	Tõlke paigutamine lehekülgedele

@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	يُرجى أولاً إعداد بصمة الإصبع أو فتح القفل بالوجه أو قفل الشاشة.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	هذا الجهاز لا يدعم فتح القفل بالقياسات الحيوية.
+Ultimate PDF Scanner entsperren	فتح قفل Ultimate PDF Scanner
+Deine Scans sind geschützt	مسوحاتك محمية
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner مقفل
+Deine Scans bleiben auf diesem Gerät.	تبقى مسوحاتك على هذا الجهاز.
+  Entsperren	  فتح القفل
+Systemsprache	لغة النظام
+Deutsch	الألمانية
+English	الإنجليزية
+Fotos importieren	استيراد الصور
+Texterkennung vorbereiten	جارٍ تجهيز التعرف على النص
+Ein Foto konnte nicht verarbeitet werden: %s	تعذّرت معالجة صورة: %s
+Foto laden	جارٍ تحميل الصورة
+Foto nicht lesbar	الصورة غير قابلة للقراءة
+Filter anwenden	جارٍ تطبيق الفلتر
+Schwärzen	إخفاء البيانات
+Unterschrift einfügen	جارٍ إدراج التوقيع
+Unterschrift eingefügt	تم إدراج التوقيع
+Änderungen einfügen	جارٍ تطبيق التغييرات
+Seite bearbeitet	تم تعديل الصفحة
+Text gesichert	تم حفظ النص
+Zusammenführen	دمج
+%d Scans zusammengeführt	عدد المسوحات المدمجة: %d
+Seiten verschieben	جارٍ نقل الصفحات
+Seiten kopieren	جارٍ نسخ الصفحات
+ (Teil)	 (جزء)
+Zwischenspeicher leeren	مسح ذاكرة التخزين المؤقت
+Zwischenspeicher geleert	تم مسح ذاكرة التخزين المؤقت
+Originalfotos entfernen	حذف الصور الأصلية
+Sicherung erstellen	جارٍ إنشاء نسخة احتياطية
+Sicherung erstellen (%d/%d)	جارٍ إنشاء نسخة احتياطية (%d/%d)
+Sicherung gespeichert	تم حفظ النسخة الاحتياطية
+Sicherung wiederherstellen	جارٍ استعادة النسخة الاحتياطية
+ (%d schon vorhanden)	 (موجود مسبقاً: %d)
+Wiederherstellen fehlgeschlagen: %s	فشلت الاستعادة: %s
+PDF erstellen (%d/%d)	جارٍ إنشاء PDF ‏(%d/%d)
+%s erstellen	جارٍ إنشاء %s
+Export fehlgeschlagen: %s	فشل التصدير: %s
+%s speichern	جارٍ حفظ %s
+PDF gespeichert (passwortgeschützt, AES-256)	تم حفظ PDF (محمي بكلمة مرور، AES-256)
+%s gespeichert	تم حفظ %s
+Bilder speichern	جارٍ حفظ الصور
+Bilder speichern (%d/%d)	جارٍ حفظ الصور (%d/%d)
+%d Bilder gespeichert	عدد الصور المحفوظة: %d
+Sprache erkennen	جارٍ اكتشاف اللغة
+Kein erkannter Text zum Übersetzen	لا يوجد نص معروف للترجمة
+Sprache nicht erkannt	لم يتم التعرف على اللغة
+Der Text ist bereits auf %s	النص مكتوب بالفعل بـ%s
+Sprachmodell laden (beim ersten Mal ~30 MB)	جارٍ تحميل نموذج اللغة (~30 ميغابايت في المرة الأولى)
+Übersetzen (%d/%d)	جارٍ الترجمة (%d/%d)
+Seite %d	صفحة %d
+Übersetzung fehlgeschlagen: %s	فشلت الترجمة: %s
+1 Bereich unkenntlich gemacht	تم إخفاء منطقة واحدة
+%d Bereiche unkenntlich gemacht	عدد المناطق المخفية: %d
+1 Scan wiederhergestellt	تمت استعادة مسح واحد
+%d Scans wiederhergestellt	عدد المسوحات المستعادة: %d
+Server antwortet mit %d	ردّ الخادم: %d
+Datei unvollständig	الملف غير مكتمل
+Nicht gefunden	غير موجود
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	عدد المسوحات على الهاتف: %d · مباشرة عبر Wi-Fi دون سحابة
+Ausgangssprache „%s“ wird nicht unterstützt	لغة المصدر «%s» غير مدعومة
+Zielsprache „%s“ wird nicht unterstützt	اللغة الهدف «%s» غير مدعومة
+QR-CODE	رمز QR
+AUSWEIS	بطاقة هوية
+DOKUMENT	مستند
+BUCH	كتاب
+VISITENKARTE	بطاقة أعمال
+PASSFOTO	صورة جواز سفر
+PDF	PDF
+Word	Word
+Bilder	صور
+ZIP	ZIP
+Text	نص
+Excel	Excel
+CSV	CSV
+Kontakt	جهة اتصال
+Wie gescannt	كما تم مسحه
+Letter	Letter
+Mittel	متوسطة
+Englisch	الإنجليزية
+Französisch	الفرنسية
+Italienisch	الإيطالية
+Spanisch	الإسبانية
+Portugiesisch	البرتغالية
+Niederländisch	الهولندية
+Polnisch	البولندية
+Tschechisch	التشيكية
+Dänisch	الدنماركية
+Schwedisch	السويدية
+Norwegisch	النرويجية
+Finnisch	الفنلندية
+Ungarisch	المجرية
+Rumänisch	الرومانية
+Kroatisch	الكرواتية
+Türkisch	التركية
+Griechisch	اليونانية
+Russisch	الروسية
+Ukrainisch	الأوكرانية
+Arabisch	العربية
+Hebräisch	العبرية
+Persisch	الفارسية
+Chinesisch (vereinfacht)	الصينية (المبسطة)
+Japanisch	اليابانية
+Koreanisch	الكورية
+Latein	اللاتينية
+Deutsch (Fraktur)	الألمانية (فراكتور)
+1 Seite	صفحة واحدة
+%d Seiten	عدد الصفحات: %d
+1 Scan	مسح واحد
+%d Scans	عدد المسوحات: %d
+Abbrechen	إلغاء
+Bearbeiten	تعديل
+Zurück	رجوع
+Rückgängig	تراجع
+Sichern	حفظ
+Seite	صفحة
+Einfügen	إدراج
+Änderungen sichern?	حفظ التغييرات؟
+Verwerfen	تجاهل
+Schließen	إغلاق
+Fertig	تم
+Öffnen	فتح
+Keine	لا شيء
+Alle	الكل
+Umbenennen	إعادة تسمية
+Mehr	المزيد
+Löschen	حذف
+Teilen	مشاركة
+Speichern	حفظ
+Drucken	طباعة
+Kopieren	نسخ
+Drehen	تدوير
+Laden	تنزيل
+Entfernen	إزالة
+Verschieben	نقل
+Name	الاسم
+Aus	إيقاف
+Leeren	إفراغ
+Wiederherstellen	استعادة
+Text einfügen	إضافة نص
+z. B. Name, Datum …	مثلاً: الاسم، التاريخ …
+Kein Gesicht erkannt – bitte noch einmal	لم يتم العثور على وجه – حاول مرة أخرى
+Seite erneut scannen	إعادة مسح الصفحة
+Fernauslöser verbunden	زر التصوير عن بُعد متصل
+Nach dem Umblättern auslösen	التقاط بعد كل قلب للصفحة
+Leserichtung rechts nach links	ترتيب القراءة من اليمين إلى اليسار
+Leserichtung links nach rechts	ترتيب القراءة من اليسار إلى اليمين
+Automatisch auslösen	التقاط تلقائي
+Kamera wechseln	تبديل الكاميرا
+Licht	الإضاءة
+Bitte Kamerazugriff erlauben.	يُرجى السماح بالوصول إلى الكاميرا.
+Passfoto wird zugeschnitten …	جارٍ قص صورة جواز السفر …
+Ohne Rückseite fertig	إنهاء دون الوجه الخلفي
+Kein Code im Bild gefunden	لم يتم العثور على رمز في الصورة
+Aus Galerie	من المعرض
+QR-Code oder Barcode in den Rahmen halten	ضع رمز QR أو الباركود داخل الإطار
+Gesicht ins Oval · gerade schauen · heller Hintergrund	الوجه داخل الشكل البيضاوي · انظر للأمام · خلفية فاتحة
+Vorderseite des Ausweises in den Rahmen	الوجه الأمامي لبطاقة الهوية داخل الإطار
+Jetzt die Rückseite	الآن الوجه الخلفي
+Visitenkarte in den Rahmen legen	ضع بطاقة الأعمال داخل الإطار
+Aufgeschlagenes Buch ins Bild halten	اجعل الكتاب المفتوح ظاهراً في الصورة
+Doppelseite erkannt	تم اكتشاف صفحتين متقابلتين
+Umblättern – löst danach automatisch aus	اقلب الصفحة – سيتم الالتقاط تلقائياً بعدها
+Ruhig halten …	ثبّت الهاتف …
+Ruhig halten – wird automatisch ausgelöst	ثبّت الهاتف – التقاط تلقائي
+Seite ins Bild halten	اجعل الصفحة ظاهرة في الصورة
+Seite erkannt	تم اكتشاف الصفحة
+Intervall-Timer	مؤقت الفاصل الزمني
+Serie starten	بدء السلسلة
+Farbe	ألوان
+Graustufen	تدرج رمادي
+Schwarz-Weiß	أبيض وأسود
+Original	الأصل
+Automatisch	تلقائي
+Zuschnitt nicht möglich	القص غير ممكن
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	تم حذف الصورة الأصلية لهذه الصفحة لتوفير المساحة. استخدم «إعادة المسح» لالتقاط الصفحة من جديد.
+Zuschnitt anpassen	ضبط القص
+Übernehmen	تطبيق
+Einzelseite	صفحة واحدة
+Doppelseite	صفحتان متقابلتان
+Auto	تلقائي
+  Automatisch	  تلقائي
+Ecken auf die Seitenränder ziehen	اسحب الزوايا إلى حواف الصفحة
+Seiten ordnen	ترتيب الصفحات
+%d ausgewählt	المحدد: %d
+Filter für alle Seiten	فلتر لكل الصفحات
+Leserichtung umkehren	عكس ترتيب القراءة
+Übersetzen…	ترجمة…
+Scan löschen	حذف المسح
+Scannen	مسح ضوئي
+Import	استيراد
+Ordnen	ترتيب
+Exportieren	تصدير
+Übersetzen in …	ترجمة إلى …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	تتم الترجمة على الجهاز. يُنزَّل نموذج اللغة مرة واحدة عند الاستخدام الأول.
+Übersetzung teilen	مشاركة الترجمة
+Scan löschen?	حذف المسح؟
+„%s“ wird endgültig gelöscht.	سيتم حذف «%s» نهائياً.
+Kontakt erkannt	تم التعرف على جهة اتصال
+Zu Kontakten	إضافة إلى جهات الاتصال
+Seiten werden verarbeitet (%d/%d)	جارٍ معالجة الصفحات (%d/%d)
+Nur diese	هذه فقط
+Wird neu verarbeitet	جارٍ إعادة المعالجة
+Erneut	إعادة الالتقاط
+Fehlgeschlagen	فشل
+Foto nicht verarbeitet	لم تتم معالجة الصورة
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	حدث خطأ أثناء معالجة الصورة.
+Keine Auffälligkeiten	لم يتم العثور على مشكلات
+Erneut scannen	إعادة المسح
+Ersetzt beide Seiten dieser Doppelseite	يستبدل الصفحتين المتقابلتين معاً
+Kamera öffnen und diese Seite ersetzen	فتح الكاميرا واستبدال هذه الصفحة
+Nach vorn	نقل للأمام
+Nach hinten	نقل للخلف
+Seite löschen	حذف الصفحة
+Foto entfernen	إزالة الصورة
+1 Seite verschoben	تم نقل صفحة واحدة
+%d Seiten verschoben	عدد الصفحات المنقولة: %d
+1 Seite kopiert	تم نسخ صفحة واحدة
+%d Seiten kopiert	عدد الصفحات المنسوخة: %d
+1 Seite löschen?	حذف صفحة واحدة؟
+%d Seiten löschen?	حذف الصفحات (%d)؟
+1 Seite prüfen	راجع صفحة واحدة
+%d Seiten prüfen	صفحات للمراجعة: %d
+Seite löschen?	حذف الصفحة؟
+Durchsuchbares PDF mit erkanntem Text	PDF قابل للبحث مع النص المعروف
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	نص قابل للتعديل لبرامج Word وLibreOffice وGoogle Docs
+Die Seite als JPG-Bild	الصفحة كصورة JPG
+Ein JPG-Bild pro Seite (%d Dateien)	صورة JPG لكل صفحة (عدد الملفات: %d)
+Alle Seiten als JPG und der Text in einem Archiv	كل الصفحات بصيغة JPG والنص في أرشيف واحد
+Nur der erkannte Text	النص المعروف فقط
+Erkannte Tabellen, ein Tabellenblatt pro Seite	الجداول المعروفة، ورقة لكل صفحة
+Erkannte Tabellen als CSV (Semikolon, für Excel)	الجداول المعروفة بصيغة CSV (فاصلة منقوطة، لـExcel)
+Visitenkarte als Kontakt (vCard)	بطاقة الأعمال كجهة اتصال (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	الوجهان بالحجم الحقيقي على صفحة واحدة – جاهز للطباعة
+Seitenformat	حجم الصفحة
+Mit Passwort schützen	الحماية بكلمة مرور
+AES-256-Verschlüsselung	تشفير AES-256
+Passwort	كلمة المرور
+Mindestens 4 Zeichen	4 أحرف على الأقل
+Passwort wiederholen	تكرار كلمة المرور
+Passwörter stimmen nicht überein	كلمتا المرور غير متطابقتين
+Seitenbilder einfügen	تضمين صور الصفحات
+Jede Seite als Bild über ihrem Text	صورة كل صفحة فوق نصها
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	يتم التعرف على الأعمدة من المسافات في النص – يعمل بشكل أفضل مع أعمدة منفصلة بوضوح. الأرقام مثل «1,234.50» تبقى أرقاماً.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	لم يتم التعرف على بيانات اتصال في هذه البطاقة.
+1 ausgewählte Seite	صفحة واحدة محددة
+%d ausgewählte Seiten	الصفحات المحددة: %d
+Mobil	الجوال
+Fax	فاكس
+Telefon	الهاتف
+%s teilen	مشاركة %s
+Scan	مسح
+Text teilen	مشاركة النص
+PDF teilen	مشاركة PDF
+In den Papierkorb verschoben	تم النقل إلى سلة المهملات
+%d Scans in den Papierkorb verschoben	عدد المسوحات المنقولة إلى سلة المهملات: %d
+Auswahl beenden	إنهاء التحديد
+Alle auswählen	تحديد الكل
+In Ordner verschieben	نقل إلى مجلد
+Ordner	المجلدات
+Ordner umbenennen	إعادة تسمية المجلد
+Ordner auflösen	حذف المجلد
+Papierkorb (%d)	سلة المهملات (%d)
+Papierkorb	سلة المهملات
+An PC senden	إرسال إلى الكمبيوتر
+Speicher & Sicherung	التخزين والنسخ الاحتياطي
+Einstellungen	الإعدادات
+Scans und Text durchsuchen	البحث في المسوحات والنصوص
+Alle Scans durchsuchen	البحث في كل المسوحات
+Suche löschen	مسح البحث
+%d Treffer	عدد النتائج: %d
+Alle Scans	كل المسوحات
+Nichts gefunden	لم يتم العثور على شيء
+Weder ein Name noch ein erkannter Text passt zu „%s“.	لا يطابق أي اسم أو نص معروف «%s».
+Ordner ist leer	المجلد فارغ
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	انقل المسوحات إلى هنا: اضغط مطولاً على مسح واختر «نقل إلى مجلد».
+Noch keine Scans	لا توجد مسوحات بعد
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	اضغط «مسح ضوئي» لتصوير الصفحات،\nأو استورد صوراً من المعرض.
+Ordnername	اسم المجلد
+Neuer Ordner	مجلد جديد
+%d Scans zusammenführen?	دمج المسوحات (%d)؟
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	تُضاف كل الصفحات إلى «%s» بترتيب التحديد. ثم تُزال المسوحات الأخرى.
+%d prüfen	للمراجعة: %d
+Wird verarbeitet (%d/%d)	جارٍ المعالجة (%d/%d)
+Als PDF teilen	مشاركة كـPDF
+Kategorie ändern	تغيير الفئة
+Kein Ordner	بدون مجلد
+Neuer Ordner …	مجلد جديد …
+Kategorie	الفئة
+Download fehlgeschlagen: %s	فشل التنزيل: %s
+keine Verbindung	لا يوجد اتصال
+Sprachen der Texterkennung	لغات التعرف على النص
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	تُعرَف اللغات المختارة معاً – اختر الضرورية فقط، فكل لغة إضافية تبطئ التعرف.
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	تُنزَّل اللغات الناقصة مرة واحدة (نحو 2–15 ميغابايت) ثم تعمل دون اتصال.
+Wird geladen … %d %%	جارٍ التنزيل … %d %%
+Enthalten	مضمّنة
+Geladen · %s	تم التنزيل · %s
+Nicht geladen	غير منزّلة
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	اضغط للتحديد · اضغط مطولاً واسحب للنقل
+Neuer Scan	مسح جديد
+Verschieben nach …	نقل إلى …
+Kopieren nach …	نسخ إلى …
+Seite %d von %d	صفحة %d من %d
+Filter	فلتر
+Zuschnitt	قص
+Signieren	توقيع
+Code	رمز
+Link	رابط
+E-Mail	بريد إلكتروني
+Telefonnummer	رقم الهاتف
+Ort	الموقع
+Produktcode	رمز المنتج
+Netzwerk: %s	الشبكة: %s
+Passwort: %s	كلمة المرور: %s
+Verschlüsselung: %s	التشفير: %s
+Passwort kopieren	نسخ كلمة المرور
+Verbinden	اتصال
+E-Mail schreiben	كتابة بريد إلكتروني
+Anrufen	اتصال هاتفي
+In Karten öffnen	فتح في الخرائط
+Suche sensible Daten…	جارٍ البحث عن بيانات حساسة…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	لم يتم العثور على شيء حساس. اسحب بإصبعك لتحديد المناطق المراد إخفاؤها.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	تم العثور عليها – اضغط للتحديد أو الإلغاء، واسحب لإضافة مناطق:
+Schwarzer Balken	شريط أسود
+Verpixeln	تشويش بالبكسلات
+Unkenntlich machen (%d)	إخفاء (%d)
+Manuell	يدوي
+Gesicht	وجه
+Kein WLAN	لا توجد شبكة Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	اربط الهاتف والكمبيوتر بشبكة Wi-Fi نفسها (أو الكمبيوتر بنقطة اتصال الهاتف). سيظهر العنوان هنا بعد ذلك.
+Am PC im Browser öffnen	افتح في متصفح الكمبيوتر
+QR-Code der Adresse	رمز QR للعنوان
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	اكتب العنوان أو امسح رمز QR بكاميرا الكمبيوتر. يمكن هناك تنزيل كل المسوحات بصيغة PDF أو نص.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	داخل الشبكة المحلية فقط وطالما بقيت هذه الشاشة مفتوحة. لا يُرفع أي شيء إلى الإنترنت.
+Heruntergeladen	تم التنزيل
+App-Sperre nicht möglich	قفل التطبيق غير ممكن
+Sprache	اللغة
+Sprache der App	لغة التطبيق
+Aufnahme	التصوير
+Doppelseiten im Dokument-Modus	الصفحات المتقابلة في وضع المستند
+Automatisch teilen	التقسيم تلقائياً
+Nie teilen	عدم التقسيم أبداً
+Fotografiert, sobald die Seite ruhig im Bild liegt.	يلتقط الصورة فور ثبات الصفحة في الإطار.
+Buch-Modus	وضع الكتاب
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	يكتشف قلب الصفحة ويلتقط فور ثبات الكتاب مجدداً.
+Leserichtung	ترتيب القراءة
+Links → rechts	يسار ← يمين
+Rechts → links	يمين ← يسار
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	من اليمين إلى اليسار للعربية والعبرية والفارسية واليابانية: الصفحة اليمنى أولاً.
+Fernauslöser	زر التصوير عن بُعد
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	اقرن زر تصوير بلوتوث (مثل «AB Shutter 3») في إعدادات بلوتوث في Android.
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	بعدها يلتقط الزر وأزرار الصوت الصورة في الكاميرا.
+Bild	الصورة
+Standardfilter	الفلتر الافتراضي
+Handschrift entfernen	إزالة الكتابة اليدوية
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	يزيل ملاحظات القلم الأزرق/الأحمر والرصاص. ويزيل أيضاً الطباعة بهذه الألوان.
+Texterkennung	التعرف على النص
+Sprachen	اللغات
+Sicherheit & Speicher	الأمان والتخزين
+App-Sperre	قفل التطبيق
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	فتح القفل بالبصمة أو الوجه أو قفل الشاشة عند الفتح. يُخفى المحتوى في قائمة التطبيقات الأخيرة.
+Belegung, Backup als ZIP, Wiederherstellen	المساحة المستخدمة، نسخ احتياطي ZIP، الاستعادة
+Gelöschte Scans werden nach 30 Tagen entfernt	تُزال المسوحات المحذوفة بعد 30 يوماً
+Offline	دون اتصال
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	تبقى كل الصور والنصوص على هذا الجهاز. يُستخدم الإنترنت فقط لتنزيل اللغات مرة واحدة عند طلبك.
+Über	حول
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	مكونات مفتوحة المصدر: OpenCV وTesseract OCR وPdfBox-Android وZXing (جميعها برخصة Apache 2.0)؛ ML Kit (الترجمة واكتشاف الوجوه على الجهاز).
+Unterschrift zeichnen	رسم التوقيع
+Mit dem Finger unterschreiben	وقّع بإصبعك
+Unterschrift platzieren	وضع التوقيع
+Neu zeichnen	إعادة الرسم
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	حرّك بإصبع واحد، وغيّر الحجم بإصبعين.
+Unterschrift	التوقيع
+Belegt von Ultimate PDF Scanner	المساحة التي يستخدمها Ultimate PDF Scanner
+%s frei auf dem Gerät	المساحة الحرة على الجهاز: %s
+Seiten	الصفحات
+Originalfotos	الصور الأصلية
+Zwischenspeicher	ذاكرة التخزين المؤقت
+Platz schaffen	توفير مساحة
+Exportierte Dateien zum Teilen	ملفات مُصدّرة للمشاركة
+Gelöschte Scans der letzten 30 Tage	المسوحات المحذوفة خلال آخر 30 يوماً
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	تبقى الصفحات الجاهزة، لكن لا يمكن تغيير القص بعد ذلك.
+Größte Scans	أكبر المسوحات
+Sicherung	النسخ الاحتياطي
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	انسخ كل المسوحات احتياطياً في ملف ZIP واحد – مثلاً على بطاقة SD أو ذاكرة USB أو الكمبيوتر. لا يُرفع أي شيء.
+Papierkorb mitsichern	تضمين سلة المهملات
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Backup_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	تضيف الاستعادة المسوحات الناقصة فقط.
+Originalfotos entfernen?	حذف الصور الأصلية؟
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	يوفر %s. لن يمكن قص الصفحات من جديد؛ تبقى «إعادة المسح» ممكنة.
+Text bearbeiten · Seite %d	تعديل النص · صفحة %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	تدخل التصحيحات في البحث وفي طبقة النص في PDF.
+Kein Text erkannt – hier eintippen	لم يتم التعرف على نص – اكتب هنا
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	تُحذف المسوحات المحذوفة نهائياً بعد %d يوماً.
+Papierkorb ist leer	سلة المهملات فارغة
+Endgültig löschen	حذف نهائي
+Papierkorb leeren?	إفراغ سلة المهملات؟
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	سيتم حذف المسوحات (%d) نهائياً. لا يمكن التراجع عن ذلك.
+Endgültig löschen?	حذف نهائي؟
+„%s“ wird sofort gelöscht.	سيتم حذف «%s» فوراً.
+noch 1 Tag	يتبقى يوم واحد
+noch %d Tage	الأيام المتبقية: %d
+Quittung	إيصال
+Quittungen	إيصالات
+Rechnung	فاتورة
+Rechnungen	فواتير
+Visitenkarte	بطاقة أعمال
+Visitenkarten	بطاقات أعمال
+Vertrag	عقد
+Verträge	عقود
+Brief	رسالة
+Briefe	رسائل
+Ausweis	بطاقة هوية
+Ausweise	بطاقات هوية
+Buch	كتاب
+Bücher	كتب
+Passfoto	صورة جواز سفر
+Passfotos	صور جواز سفر
+Dokument	مستند
+Dokumente	مستندات
+Auflösung	الدقة
+Kompression	الضغط
+Gering	منخفض
+Stark	مرتفع
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi مع ضغط منخفض للطباعة والأرشفة، و150 dpi مع ضغط مرتفع للبريد الإلكتروني.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	يجعل ملفات PDF قابلة للبحث والنص قابلاً للنسخ. عند الإيقاف: معالجة أسرع وPDF كصورة فقط.
+Keine Seite erkannt	لم يتم اكتشاف صفحة
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	لم يتم العثور على حافة الصفحة – تم استخدام الصورة كاملة.
+Unscharf	غير واضحة
+Das Foto ist verwackelt oder unscharf.	الصورة مهتزة أو خارج التركيز.
+Zu dunkel	مظلمة جداً
+Die Seite ist schlecht ausgeleuchtet.	إضاءة الصفحة ضعيفة.
+Text schlecht lesbar	النص صعب القراءة
+Die Texterkennung war unsicher.	كان التعرف على النص غير مؤكد.
+Kein Text erkannt	لم يتم التعرف على نص
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	لم يتم العثور على نص في الصفحة – هل هي صفحة فارغة أم لا توجد صفحة في الصورة أصلاً؟
+Hindi	الهندية
+Bengalisch	البنغالية
+Urdu	الأردية
+Indonesisch	الإندونيسية
+Seite erkennen	جارٍ اكتشاف الصفحة
+Seite entzerren	جارٍ تسوية الصفحة
+Finger entfernen	جارٍ إزالة الأصابع
+Schärfe prüfen	جارٍ فحص الوضوح
+Ausrichtung	الاتجاه
+Bild verbessern	جارٍ تحسين الصورة
+Speicherort	موقع الحفظ
+Speicherort für Exporte	موقع حفظ الملفات المُصدّرة
+Jedes Mal fragen	السؤال في كل مرة
+Ordner wählen …	اختيار مجلد …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	يضع «حفظ» ملفات PDF والملفات المُصدّرة الأخرى مباشرة في هذا المجلد دون السؤال في كل مرة. يمكن استخدام بطاقة SD أيضاً.
+Gespeichert in „%s“	تم الحفظ في «%s»
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	تعذّر الوصول إلى موقع الحفظ. يُرجى اختياره من جديد.
+Neu aufnehmen	إعادة الالتقاط
+Um 90° links drehen	تدوير 90° لليسار
+Seite gelöscht	تم حذف الصفحة
+Lange drücken: neu aufnehmen, drehen oder löschen	اضغط مطولًا: إعادة الالتقاط أو التدوير أو الحذف
+Ersetzt beide Seiten	يستبدل الصفحتين
+Ränder bereinigen	تنظيف الحواف
+Scan-Qualität	جودة المسح
+Schnell	سريع
+Standard	قياسي
+Genau	دقيق
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	للخط الكبير والواضح مثل الرسائل والمطبوعات: صور أصغر ومعالجة أسرع.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	للكتب ومعظم المستندات: تعرّف جيد بسرعة عادية.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	للخط الصغير والكتب القديمة والحواشي والمعادلات: دقة الكاميرا الكاملة، أبطأ، ذاكرة أكثر.
+BILD	صورة
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	ضع الصورة مسطحة · بدون فلاش · تجنب الانعكاسات
+an	تشغيل
+aus	إيقاف
+Automatische Auslösung an: nach dem Umblättern	الالتقاط التلقائي مفعّل: بعد قلب الصفحة
+Automatische Auslösung an: sobald die Seite ruhig liegt	الالتقاط التلقائي مفعّل: عندما تثبت الصفحة
+Automatische Auslösung aus	الالتقاط التلقائي متوقف
+PDF & Export	PDF والتصدير
+Speicherort für PDFs und Bilder	موقع حفظ ملفات PDF والصور
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	يمكن تغيير ذلك لكل ملف عند التصدير.
+Weitere Optionen …	خيارات أخرى …
+Automatische Verbesserung	تحسين تلقائي
+Schatten und Artefakte entfernen, Schrift schärfen	إزالة الظلال والتشوهات وتوضيح النص
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	إزالة الظلال والتشوهات وتوضيح النص. يمكن إيقافه لكل مستند على حدة.
+unkorrigiert	دون تصحيح
+Maximal	أقصى
+Bildqualität	جودة الصورة
+volle Auflösung	الدقة الكاملة
+Briefe, Ausdrucke, große Schrift	رسائل ومطبوعات وخط كبير
+Bücher und die meisten Dokumente (empfohlen)	الكتب ومعظم المستندات (موصى به)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	خط صغير ومعادلات وكتب قديمة – أبطأ
+Gilt auch für alle weiteren Scans.	ينطبق أيضًا على جميع عمليات المسح التالية.
+Ändern	تغيير
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	المكان الذي يضع فيه «حفظ» ملفات التصدير. لا يتأثر «مشاركة» بذلك.
+Ordner und Dateiname beim Speichern wählen	اختيار المجلد واسم الملف عند الحفظ
+Exporte landen direkt hier	تُحفظ ملفات التصدير هنا مباشرة
+Anderen Ordner wählen …	اختيار مجلد آخر …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	وكذلك بطاقة SD ومجلدات السحابة إذا كانت مُعدّة على الجهاز.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	لا يمكن الوصول الدائم إلى هذا المجلد.
+Sehr hohe Auflösung	دقة عالية جدًا
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	بدقة %d ميغابكسل تستغرق معالجة كل صفحة وقتًا أطول بكثير وتحتاج إلى ذاكرة كبيرة. «قياسي» يكفي لمعظم المستندات. «أقصى» مفيد فقط للخط الصغير جدًا.
+Trotzdem verwenden	استخدام رغم ذلك
+langsam	بطيء
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	لا يوجد زر تصوير عن بُعد متصل – قم بإقرانه في إعدادات البلوتوث
+Mit dem Fernauslöser auslösen	التصوير بزر التحكم عن بُعد
+Umblättern	قلب الصفحة
+Auto 0,7 s	تلقائي 0.7 ث
+Bluetooth	بلوتوث
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	ينهي التصوير. تُحفظ الصفحات الملتقطة وتُعالج.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	يشغّل المصباح أو يطفئه. مع الورق اللامع يُفضّل التصوير بدون ضوء وبزاوية مائلة عن النافذة.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	يستخدم صورًا موجودة بدلًا من التقاط صور جديدة.
+Serie	سلسلة
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	يبدأ السلسلة أو يوقفها: يلتقط المؤقت صورة تلقائيًا كل بضع ثوانٍ.
+Auslöser	زر الالتقاط
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	يلتقط صورة. أزرار الصوت وزر البلوتوث عن بُعد يلتقطان أيضًا.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	ينهي التصوير ويفتح النظرة العامة؛ الرقم يبيّن صور هذه الجلسة.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	عدد البكسلات في كل صورة. سريع (5 ميغابكسل) للخط الكبير، قياسي (12 ميغابكسل) لكل شيء تقريبًا، أقصى للخط الصغير والمعادلات – يستغرق وقتًا أطول.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	النقر يبدّل: إيقاف، 3 أو 5 أو 10 ثوانٍ. بعد ذلك يبدأ زر الالتقاط سلسلة بصورة كل هذه المدة – مفيد للكتب.
+Fotografiert nur, wenn du auf den Auslöser tippst.	يلتقط فقط عند النقر على زر الالتقاط.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	يلتقط تلقائيًا بمجرد أن تبقى الصفحة ثابتة 0.7 ثانية في الصورة. في وضع الكتاب: بعد كل قلب صفحة عندما يعود الكتاب ثابتًا.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	يلتقط بزر بلوتوث عن بُعد (مثل «AB Shutter 3»). قم أولًا بإقران الزر في إعدادات البلوتوث في الهاتف.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	يعطي المستند اسمًا خاصًا؛ ويُستخدم أيضًا كاسم للملف عند التصدير.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	عكس اتجاه قراءة الصفحات المزدوجة، أو الترجمة على الجهاز، أو حذف المسح.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	يفتح الكاميرا ويضيف صفحات أخرى إلى هذا المستند.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	يضيف صورًا من المعرض كصفحات إضافية؛ تُقص وتُتعرّف مثل صور الكاميرا.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	غيّر الترتيب بالسحب؛ حدّد صفحات لتدويرها أو نقلها أو نسخها أو فصلها أو حذفها.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	المشاركة أو الحفظ أو الطباعة بصيغة PDF أو Word أو صور أو ZIP أو نص أو جدول.
+Farbe, Graustufen, Schwarz-Weiß	ألوان، تدرج رمادي، أبيض وأسود
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	يغيّر كل صفحات هذا المستند. الأبيض والأسود يعطي أصغر الملفات، والألوان تعرض الصور والأختام بدقة.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	تشغيل: تُزال الظلال والبقع والتشوهات ويصبح النص أوضح تباينًا. إيقاف: تُقص الصفحات وتُقوّم فقط – للصور والرسومات أو عندما يغيّر التحسين شيئًا.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	ينشئ الملف ويسلّمه إلى تطبيق، مثل البريد أو المراسلة أو السحابة.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	يضع الملف في موقع الحفظ – في المجلد الثابت أو، مع «السؤال في كل مرة»، حيث تضعه أنت.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	يطبع عبر خدمة الطباعة في أندرويد؛ ويمكن هناك أيضًا اختيار «حفظ كملف PDF».
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	أين يضع «حفظ» الملفات: السؤال في كل مرة أو دائمًا في مجلد ثابت، أيضًا على بطاقة SD أو في مجلد سحابي.
+Hilfe & Anleitung	المساعدة والإرشادات
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	نصيحة: اضغط مطولًا على أي زر لمدة ثانية لترى وظيفته.
+Startseite	الصفحة الرئيسية
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	يفتح الكاميرا. كل صور جلسة التصوير تذهب إلى مستند واحد مشترك.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	رمز المعرض فوق «مسح ضوئي» يأخذ صورًا موجودة؛ تُقص وتُتعرّف مثل صور الكاميرا.
+Suchen	بحث
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	يجد المسوحات بالاسم وبالنص المتعرَّف عليه، مع رقم الصفحة.
+Ordner und Kategorien	المجلدات والفئات
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	المجلدات تجمع المسوحات. تظهر الفئات (كتب، إيصالات …) تلقائيًا بمجرد وجود مسوحات من هذا النوع.
+Mehrere Scans	عدة مسوحات
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	اضغط مطولًا على مسح: تحديد، دمج، نقل إلى مجلد أو حذف.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	تبقى المسوحات المحذوفة 30 يومًا في سلة المهملات (القائمة ⋮) ويمكن استعادتها.
+Modi	الأوضاع
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	اختر في الأسفل: مستند (أوراق منفردة)، كتاب (تُقسم الصفحات المزدوجة إلى صفحتين)، بطاقة هوية (الوجه والظهر بالحجم الأصلي على ورقة واحدة)، بطاقة عمل (يُتعرّف على جهة الاتصال)، صورة (ألوان حقيقية بدون تعرّف على النص)، صورة جواز سفر (الكاميرا الأمامية، 35 × 45 مم) ورمز QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	أعلى اليسار: سريع (5 ميغابكسل) للخط الكبير، قياسي (12 ميغابكسل) لكل شيء تقريبًا، أقصى للخط الصغير والمعادلات – أبطأ.
+Auslösung	طريقة الالتقاط
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	يدوي: بزر الالتقاط. تلقائي 0.7 ث: بمجرد أن تبقى الصفحة ثابتة 0.7 ثانية؛ في وضع الكتاب بعد كل قلب صفحة. بلوتوث: بزر عن بُعد مقترن. أزرار الصوت تلتقط دائمًا.
+Timer und Licht	المؤقت والضوء
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	رمز الساعة يلتقط صورة كل 3 أو 5 أو 10 ثوانٍ (البدء بزر الالتقاط). الفلاش يشغّل المصباح.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	انقر على الصورة المصغرة في أسفل اليمين: تُعالج الصفحات وتُفتح النظرة العامة.
+Gute Fotos	صور جيدة
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	ضع الصفحة مسطحة بإضاءة متساوية وأمسك الهاتف موازيًا. خلفية يختلف لونها عن الورق تساعد على القص.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	ينطبق على كل صفحات المستند. يمكن ضبط صفحات منفردة بشكل مختلف في عرض الصفحة.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	يزيل الظلال والتشوهات ويجعل النص أوضح. عند إيقافه تُقص الصفحة وتُقوّم فقط.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	النقر يفتح الصفحة. الضغط المطوّل: إعادة الالتقاط أو التدوير أو الحذف. الصفحات المعلّمة بالبرتقالي يجب فحصها (مثلًا غير واضحة)، والحمراء فشلت.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	غيّر الترتيب بالسحب، ودوّر عدة صفحات، وانقلها أو انسخها إلى مستند آخر، أو افصلها كمستند جديد.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF أو Word أو صور أو ZIP أو نص أو جدول – مشاركة أو حفظ أو طباعة.
+Mehr (⋮)	المزيد (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	عكس اتجاه قراءة الصفحات المزدوجة، أو الترجمة على الجهاز، أو حذف المسح. القلم في الأعلى يغيّر الاسم.
+Seitenansicht	عرض الصفحة
+Blättern und Zoomen	التصفح والتكبير
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	اسحب لتغيير الصفحة، وانقر مرتين أو استخدم إصبعين للتكبير.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	ألوان أو تدرج رمادي أو أبيض وأسود لهذه الصفحة فقط، مع معاينة. وتحتها التحسين التلقائي لهذه الصفحة.
+Drehen und Zuschnitt	التدوير والقص
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	تدوير بمقدار 90°. القص: تعيين زوايا الصفحة من جديد في الصورة الأصلية.
+Mit Stift, Marker oder Text auf die Seite schreiben.	الكتابة على الصفحة بالقلم أو قلم التمييز أو النص.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	إخفاء البيانات الحساسة – بأشرطة أو بالتشويش. تُقترح أرقام الحسابات وأرقام البطاقات والوجوه.
+Signieren und Text	التوقيع والنص
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	التوقيع يُدرج توقيعك المحفوظ. النص يعرض النص المتعرَّف عليه للتصحيح والنسخ.
+Formate	الصيغ
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (قابل للبحث)، Word، صور (JPG)، ZIP، نص، Excel أو CSV؛ ولبطاقات العمل أيضًا كجهة اتصال.
+PDF-Optionen	خيارات PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	حجم الصفحة والدقة والضغط تحدد الجودة وحجم الملف – يُقدَّر الحجم في أعلى اليمين. اختياريًا بكلمة مرور (AES-256).
+Teilen oder Speichern	المشاركة أو الحفظ
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	المشاركة ترسل الملف إلى تطبيق (البريد، المراسلة …). الحفظ يضعه في موقع الحفظ.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	«السؤال في كل مرة» يفتح اختيار المجلد عند الحفظ. مع مجلد ثابت تذهب الملفات المصدّرة إليه دون سؤال – أيضًا على بطاقة SD أو في مجلد سحابي.
+Druckt über den Android-Druckdienst oder speichert als PDF.	يطبع عبر خدمة الطباعة في أندرويد أو يحفظ كملف PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	جودة الصورة وطريقة الالتقاط وتقسيم الصفحات المزدوجة للمسوحات الجديدة. يمكن تغييرها في الكاميرا في أي وقت.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	الفلتر والتحسين التلقائي اللذان تبدأ بهما المستندات الجديدة.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	يجعل ملفات PDF قابلة للبحث. تحدد اللغات أي الحروف يُتعرَّف عليها.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	موقع الحفظ والقيم الافتراضية للدقة والضغط وحجم الصفحة.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	قفل التطبيق ببصمة الإصبع، والنسخ الاحتياطي بصيغة ZIP، وسلة المهملات.
+Ecken setzen	تعيين الزوايا
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	اسحب الزوايا الأربع إلى حواف الصفحة؛ العدسة المكبرة تُظهر الموضع تحت إصبعك مكبَّرًا.
+Einzel- oder Doppelseite	صفحة واحدة أو مزدوجة
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	اختر في الأسفل هل تُظهر الصورة صفحة واحدة أم صفحتين مفتوحتين. «تلقائي» يترك القرار للتطبيق.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	علامة الصح في الأعلى تعالج الصفحة بالقص الجديد.
+Werkzeuge	الأدوات
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	القلم للكتابة، وقلم التمييز للتظليل، والنص للملاحظات المكتوبة. الألوان في الأسفل.
+Korrigieren	تصحيح
+Rückgängig nimmt den letzten Strich zurück.	التراجع يزيل آخر خط.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	يكتب التغييرات في الصفحة. بدون حفظ تبقى الصفحة كما هي.
+Vorschläge	اقتراحات
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	أرقام الحسابات والبطاقات والأرقام الضريبية والوجوه التي عُثر عليها معلّمة – انقر لإلغاء تحديدها أو تحديدها مجددًا.
+Eigene Bereiche	مناطق خاصة
+Mit dem Finger weitere Rechtecke aufziehen.	ارسم مستطيلات إضافية بإصبعك.
+Balken oder Pixel	أشرطة أو بكسلات
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	شريط أسود أو تشويش بالبكسلات. يُزال النص تحتها أيضًا من التعرف على النص ومن ملف PDF.
+Zeichnen	رسم
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	وقّع مرة واحدة بإصبعك – يُحفظ التوقيع على الجهاز.
+Platzieren	وضع
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	حرّك بإصبع واحد، وغيّر الحجم بإصبعين، ثم أدرِج.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	رمز القلم في الأعلى يستبدل التوقيع المحفوظ.
+Text bearbeiten	تحرير النص
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	النص المتعرَّف عليه من الصفحة في الأسفل ويمكن تغييره. وفي الأعلى صورة الصفحة للمقارنة.
+Wirkung	التأثير
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	تدخل التصحيحات في البحث وفي طبقة النص في PDF وفي تصدير Word والنص.
+Holt einen gelöschten Scan zurück.	يعيد مسحًا محذوفًا.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	تُحذف المسوحات تلقائيًا بعد 30 يومًا. «إفراغ» يحذف كل شيء فورًا.
+Belegung	الاستخدام
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	يعرض المساحة التي تشغلها المسوحات والصور الأصلية وسلة المهملات وذاكرة التخزين المؤقت.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	حذف الصور الأصلية يوفر مساحة كبيرة؛ تبقى الصفحات الجاهزة، لكن لا يمكن تغيير القص بعد ذلك.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	نسخ احتياطي لكل المسوحات في ملف ZIP واستعادتها على هذا الجهاز أو جهاز آخر. لا يُرفع أي شيء.
+Auswahl	الاختيار
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	اختر لغات مستنداتك. كل لغة إضافية تجعل التعرف أبطأ.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	تُنزَّل اللغات الناقصة مرة واحدة ثم تعمل بدون إنترنت.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	صِل الهاتف والكمبيوتر بشبكة Wi-Fi نفسها (أو صِل الكمبيوتر بنقطة اتصال الهاتف).
+Herunterladen	تنزيل
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	افتح العنوان المعروض في متصفح الكمبيوتر أو امسح رمز QR؛ هناك يمكن تنزيل كل المسوحات بصيغة PDF أو نص.
+Sicherheit	الأمان
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	يعمل فقط في الشبكة المحلية وفقط ما دامت هذه الشاشة مفتوحة.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	اللغة، جودة الصورة، طريقة الالتقاط، التعرف على النص، موقع الحفظ، قفل التطبيق والنسخ الاحتياطي.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	يأخذ صورًا من المعرض كمستند جديد؛ تُقص وتُتعرّف مثل صور الكاميرا.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	يفتح الكاميرا. كل صور جلسة التصوير تذهب إلى مستند واحد مشترك.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	يحذف هذه الصفحة من المستند (بعد التأكيد).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	ألوان أو تدرج رمادي أو أبيض وأسود والتحسين التلقائي لهذه الصفحة فقط.
+Dreht die Seite um 90° im Uhrzeigersinn.	يدوّر الصفحة 90° باتجاه عقارب الساعة.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	عيّن زوايا الصفحة من جديد في الصورة الأصلية إذا كانت حافة ناقصة أو ظهرت الخلفية.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	إخفاء البيانات الحساسة بأشرطة أو بكسلات؛ وتختفي أيضًا من نص ملف PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	يضع توقيعك المحفوظ على الصفحة؛ في المرة الأولى ترسمه.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	يعرض النص المتعرَّف عليه من الصفحة للتصحيح والنسخ.
+Fotografiert beim Tippen auf den Auslöser.	يلتقط عند النقر على زر الالتقاط.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	يلتقط بمجرد أن تبقى الصفحة ثابتة 0.7 ث في الصورة؛ في وضع الكتاب بعد كل قلب صفحة.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	يلتقط بزر بلوتوث عن بُعد مقترن.
+Lautstärketasten lösen immer aus.	أزرار الصوت تلتقط دائمًا.
+Word erstellen, Formeln erkennen (%d/%d)	إنشاء ملف Word والتعرّف على الصيغ (%d/%d)
+Belarussisch	البيلاروسية
+Bulgarisch	البلغارية
+Serbisch	الصربية
+Mazedonisch	المقدونية
+Kein Link im geteilten Text	لا يوجد رابط في النص المشارَك
+Import fehlgeschlagen: %s	فشل الاستيراد: %s
+Link laden	جارٍ تحميل الرابط
+Unter dem Link liegt keine PDF- oder Bilddatei.	الرابط لا يؤدي إلى ملف PDF أو صورة.
+Nur PDF-Dateien und Bilder lassen sich importieren.	يمكن استيراد ملفات PDF والصور فقط.
+Geschützte PDF-Dateien lassen sich nicht importieren.	لا يمكن استيراد ملفات PDF المحمية.
+PDF-Seite %d/%d importieren	استيراد صفحة PDF %d/%d
+Auto %s s	تلقائي %s ث
+Auslösen nach %s s	التقاط بعد %s ث
+Wartezeit	وقت الانتظار
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	المدة التي يجب أن تبقى فيها الصفحة ثابتة قبل الالتقاط التلقائي. الأقصر أسرع، والأطول يعطي صورًا أقل اهتزازًا.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	يلتقط الصورة تلقائيًا بمجرد ثبات الصفحة؛ اضبط وقت الانتظار (0.2–1.5 ث) في الأسفل. في وضع الكتاب: بعد كل قلب صفحة، بمجرد أن يثبت الكتاب مجددًا.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	يضيف صورًا ولقطات شاشة وملفات PDF أو رابطًا كصفحات إضافية؛ تُقص الصور ويُتعرف على كل شيء.
+Senden an …	إرسال إلى …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	أين يضع «حفظ» ملفات التصدير. «إرسال إلى …» مستقل عن ذلك.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	اختر مجلدًا فرعيًا، مثل «Documents» – لا يسمح Android بالمجلد الرئيسي للتخزين.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	ينشئ الملف ويرسله إلى تطبيق، مثل WhatsApp أو البريد الإلكتروني أو Telegram أو التخزين السحابي.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	يدوي: بزر الالتقاط. تلقائي: بمجرد ثبات الصفحة – تضبط وقت الانتظار (0.2–1.5 ث، الافتراضي 0.7 ث) في نافذة المسح أسفل المفتاح؛ في وضع الكتاب بعد كل قلب صفحة. بلوتوث: بمُشغّل عن بُعد مقترن. أزرار الصوت تلتقط دائمًا.
+Senden an oder Speichern	إرسال أو حفظ
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	«إرسال إلى …» يرسل الملف إلى تطبيق (WhatsApp، البريد، Telegram، السحابة …). «حفظ» يضعه في موقع الحفظ.
+Importieren	استيراد
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	يأخذ صورًا ولقطات شاشة وملفات PDF أو رابطًا كمستند جديد؛ تُقص الصور ويُتعرف على كل شيء.
+Bilder aus der Galerie	صور من المعرض
+Fotos und Screenshots	صور ولقطات شاشة
+Dateien	ملفات
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	ملفات PDF وصور، مثلًا من التنزيلات أو السحابة
+Eine PDF- oder Bilddatei aus dem Internet	ملف PDF أو صورة من الإنترنت
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	ثم كالصفحات الممسوحة: التعرف على النص والترجمة والتصدير إلى أي صيغة.
+Link importieren	استيراد رابط
+Internetadresse	عنوان الويب
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	يلتقط بمجرد ثبات الصفحة لمدة %s ث (قابل للضبط في نافذة المسح)؛ في وضع الكتاب بعد كل قلب صفحة.
+Fachwörterbuch laden	جارٍ تحميل المسرد
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	مسرد %s أو %s غير موجود – تُرجم دون مصطلحات متخصصة
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	ليس ملف مسرد (glossary-xx.tsv.gz)
+Download nicht verfügbar	التنزيل غير متاح
+Estnisch	الإستونية
+Irisch	الأيرلندية
+Litauisch	الليتوانية
+Lettisch	اللاتفية
+Maltesisch	المالطية
+Slowakisch	السلوفاكية
+Slowenisch	السلوفينية
+Ohne Fachwörterbuch	دون مسرد
+Alle Fachgebiete	كل المجالات
+Fachgebiet: %s	المجال: %s
+Fachwörterbücher verwalten …	إدارة المسارد …
+Fachwörterbücher	المسارد المتخصصة
+Aus Datei importieren	استيراد من ملف
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	تُنقل المصطلحات المتخصصة في القانون والطب والتقنية والاقتصاد و17 مجالًا آخر (IATE، قاعدة مصطلحات الاتحاد الأوروبي) بدقة عند الترجمة. يلزم مسرد اللغة المصدر واللغة الهدف، كلٌّ منهما 0.3–9 ميغابايت.
+Einmal laden, danach offline.	نزّله مرة واحدة، ثم دون إنترنت.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	استورد ملفات glossary-xx.tsv.gz بأيقونة المجلد في الأعلى.
+Fachwörterbücher für die Übersetzung	مسارد متخصصة للترجمة
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	القانون والطب والتقنية وغيرها – 24 لغة أوروبية
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	تبقى كل الصور والنصوص على هذا الجهاز. يُستخدم الإنترنت فقط لتنزيل اللغات ونماذج الترجمة والمسارد مرة واحدة، عندما تبدأ ذلك.
+Übersetzen	ترجمة
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	ينشئ على الجهاز نسخة مترجمة من المستند: الصفحات والصور نفسها، والنص باللغة الهدف في مكانه. تُترجم كل فقرة من لغتها الخاصة. مع „المجال“ تُعتمد المصطلحات المتخصصة من المعاجم المتخصصة كما هي تمامًا.
+Was nachgeladen werden kann	ما الذي يمكن تنزيله
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	كل شيء اختياري ولا يُنزَّل إلا عند النقر؛ بعدها يعمل دون إنترنت:\n• لغات التعرف على النص: 1–15 ميغابايت لكل لغة (الإعدادات › اللغات). الألمانية والإنجليزية مضمّنتان.\n• الصينية: نموذج تعرّف خاص، نحو 17 ميغابايت.\n• نماذج الترجمة: نحو 30 ميغابايت لكل لغة، تُنزَّل تلقائيًا عند أول ترجمة.\n• المسارد المتخصصة: 0.3–9 ميغابايت لكل لغة، نحو 70 ميغابايت لكل لغات الاتحاد الأوروبي الـ24 (الإعدادات › المسارد المتخصصة).\nيمكن حذف الملفات المنزّلة في أي وقت.
+Wozu	لماذا
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	لا يعرف المترجمون العامون كثيرًا من المصطلحات المتخصصة أو يترجمونها بشكل غير متسق. يُدرج المسرد المصطلح المعتمد، مثل «Beweislast» ← «عبء الإثبات».
+Quelle	المصدر
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE، قاعدة مصطلحات مؤسسات الاتحاد الأوروبي، بمصطلحات من 21 مجالًا (القانون، الصحة، التقنية، الاقتصاد، البيئة، النقل …). وهي متاحة للغات الاتحاد الأوروبي الرسمية الـ24.
+Was nötig ist	ما المطلوب
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	مسرد للغة المصدر وآخر للغة الهدف، مثل الألمانية والإنجليزية. مسرد واحد لكل لغة يكفي لكل أزواج اللغات.
+Laden oder importieren	تنزيل أو استيراد
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	نزّل بالسهم (مرة واحدة، ثم دون إنترنت) أو استورد ملف «glossary-xx.tsv.gz» بأيقونة المجلد، مثلًا من حاسوب أو بطاقة SD.
+Benutzen	الاستخدام
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	عند الترجمة اختر المجال في الأعلى. «كل المجالات» يستخدم فقط المصطلحات التي تُترجم بالطريقة نفسها في كل مكان.
+Grenzen	الحدود
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	تُدرج المصطلحات بصيغتها الأساسية؛ ولا تُتعرَّف الصيغ المصرّفة دائمًا.
+Politik	السياسة
+Internationale Beziehungen	العلاقات الدولية
+Europäische Union	الاتحاد الأوروبي
+Recht	القانون
+Wirtschaft	الاقتصاد
+Handel	التجارة
+Finanzwesen	المالية
+Soziales und Gesundheit	الشؤون الاجتماعية والصحة
+Bildung und Kommunikation	التعليم والاتصال
+Wissenschaft	العلوم
+Unternehmen und Wettbewerb	الأعمال والمنافسة
+Beschäftigung und Arbeitsbedingungen	التوظيف وظروف العمل
+Verkehr	النقل
+Umwelt	البيئة
+Land-, Forst- und Fischereiwirtschaft	الزراعة والغابات ومصايد الأسماك
+Agrarerzeugnisse und Lebensmittel	المنتجات الغذائية الزراعية
+Produktion, Technologie und Forschung	الإنتاج والتقنية والبحث
+Energie	الطاقة
+Industrie	الصناعة
+Geografie	الجغرافيا
+Internationale Organisationen	المنظمات الدولية
+Wenig Licht – Lampe einschalten	إضاءة ضعيفة – شغّل المصباح
+Verarbeitung mehrfach abgebrochen	توقفت المعالجة عدة مرات
+Bearbeitungen gehen verloren	ستفقد التعديلات
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	تُنشأ الصفحة من جديد من الصورة. يجب إضافة الحجب والتوقيع والملاحظات مرة أخرى.
+Neu zuschneiden	قص من جديد
+Sprachdaten	بيانات اللغات
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	يعرض المساحة التي تشغلها المسوحات والصور الأصلية وسلة المحذوفات والذاكرة المؤقتة وبيانات اللغات (التعرف على النص، المسارد).
+Bitte warten, bis alle Seiten erkannt sind	يرجى الانتظار حتى يتم التعرف على جميع الصفحات
+Die Sprache „%s“ kann nicht übersetzt werden	لا يمكن ترجمة اللغة „%s“
+Übersetzung in die Seiten setzen	إدراج الترجمة في الصفحات

@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Konfigurer først fingeravtrykk, ansiktsopplåsing eller skjermlås.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Denne enheten støtter ikke biometrisk opplåsing.
+Ultimate PDF Scanner entsperren	Lås opp Ultimate PDF Scanner
+Deine Scans sind geschützt	Skanningene dine er beskyttet
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner er låst
+Deine Scans bleiben auf diesem Gerät.	Skanningene dine blir på denne enheten.
+  Entsperren	  Lås opp
+Systemsprache	Systemspråk
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importer bilder
+Texterkennung vorbereiten	Forbereder tekstgjenkjenning
+Ein Foto konnte nicht verarbeitet werden: %s	Et bilde kunne ikke behandles: %s
+Foto laden	Last inn bilde
+Foto nicht lesbar	Bildet kan ikke leses
+Filter anwenden	Bruk filter
+Schwärzen	Sladd
+Unterschrift einfügen	Sett inn signatur
+Unterschrift eingefügt	Signatur satt inn
+Änderungen einfügen	Sett inn endringer
+Seite bearbeitet	Side redigert
+Text gesichert	Tekst lagret
+Zusammenführen	Slå sammen
+%d Scans zusammengeführt	%d skanninger slått sammen
+Seiten verschieben	Flytt sider
+Seiten kopieren	Kopier sider
+ (Teil)	 (del)
+Zwischenspeicher leeren	Tøm hurtigbuffer
+Zwischenspeicher geleert	Hurtigbuffer tømt
+Originalfotos entfernen	Fjern originalbilder
+Sicherung erstellen	Lag sikkerhetskopi
+Sicherung erstellen (%d/%d)	Lager sikkerhetskopi (%d/%d)
+Sicherung gespeichert	Sikkerhetskopi lagret
+Sicherung wiederherstellen	Gjenopprett sikkerhetskopi
+ (%d schon vorhanden)	 (%d finnes allerede)
+Wiederherstellen fehlgeschlagen: %s	Gjenoppretting mislyktes: %s
+PDF erstellen (%d/%d)	Lager PDF (%d/%d)
+%s erstellen	Lager %s
+Export fehlgeschlagen: %s	Eksport mislyktes: %s
+%s speichern	Lagre %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF lagret (passordbeskyttet, AES-256)
+%s gespeichert	%s lagret
+Bilder speichern	Lagre bilder
+Bilder speichern (%d/%d)	Lagrer bilder (%d/%d)
+%d Bilder gespeichert	%d bilder lagret
+Sprache erkennen	Gjenkjenn språk
+Kein erkannter Text zum Übersetzen	Ingen gjenkjent tekst å oversette
+Sprache nicht erkannt	Språket ble ikke gjenkjent
+Der Text ist bereits auf %s	Teksten er allerede på %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Laster inn språkmodell (første gang ~30 MB)
+Übersetzen (%d/%d)	Oversetter (%d/%d)
+Seite %d	Side %d
+Übersetzung fehlgeschlagen: %s	Oversettelsen mislyktes: %s
+1 Bereich unkenntlich gemacht	1 område sladdet
+%d Bereiche unkenntlich gemacht	%d områder sladdet
+1 Scan wiederhergestellt	1 skanning gjenopprettet
+%d Scans wiederhergestellt	%d skanninger gjenopprettet
+Server antwortet mit %d	Serveren svarer med %d
+Datei unvollständig	Filen er ufullstendig
+Nicht gefunden	Ikke funnet
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	%d skanninger på mobilen · direkte via wifi, uten sky
+Ausgangssprache „%s“ wird nicht unterstützt	Kildespråket «%s» støttes ikke
+Zielsprache „%s“ wird nicht unterstützt	Målspråket «%s» støttes ikke
+QR-CODE	QR-KODE
+AUSWEIS	ID-KORT
+DOKUMENT	DOKUMENT
+BUCH	BOK
+VISITENKARTE	VISITTKORT
+PASSFOTO	PASSBILDE
+PDF	PDF
+Word	Word
+Bilder	Bilder
+ZIP	ZIP
+Text	Tekst
+Excel	Excel
+CSV	CSV
+Kontakt	Kontakt
+Wie gescannt	Som skannet
+Letter	Letter
+Mittel	Middels
+Englisch	Engelsk
+Französisch	Fransk
+Italienisch	Italiensk
+Spanisch	Spansk
+Portugiesisch	Portugisisk
+Niederländisch	Nederlandsk
+Polnisch	Polsk
+Tschechisch	Tsjekkisk
+Dänisch	Dansk
+Schwedisch	Svensk
+Norwegisch	Norsk
+Finnisch	Finsk
+Ungarisch	Ungarsk
+Rumänisch	Rumensk
+Kroatisch	Kroatisk
+Türkisch	Tyrkisk
+Griechisch	Gresk
+Russisch	Russisk
+Ukrainisch	Ukrainsk
+Arabisch	Arabisk
+Hebräisch	Hebraisk
+Persisch	Persisk
+Chinesisch (vereinfacht)	Kinesisk (forenklet)
+Japanisch	Japansk
+Koreanisch	Koreansk
+Latein	Latin
+Deutsch (Fraktur)	Tysk (fraktur)
+1 Seite	1 side
+%d Seiten	%d sider
+1 Scan	1 skanning
+%d Scans	%d skanninger
+Abbrechen	Avbryt
+Bearbeiten	Rediger
+Zurück	Tilbake
+Rückgängig	Angre
+Sichern	Lagre
+Seite	Side
+Einfügen	Sett inn
+Änderungen sichern?	Lagre endringene?
+Verwerfen	Forkast
+Schließen	Lukk
+Fertig	Ferdig
+Öffnen	Åpne
+Keine	Ingen
+Alle	Alle
+Umbenennen	Gi nytt navn
+Mehr	Mer
+Löschen	Slett
+Teilen	Del
+Speichern	Lagre
+Drucken	Skriv ut
+Kopieren	Kopier
+Drehen	Roter
+Laden	Last ned
+Entfernen	Fjern
+Verschieben	Flytt
+Name	Navn
+Aus	Av
+Leeren	Tøm
+Wiederherstellen	Gjenopprett
+Text einfügen	Sett inn tekst
+z. B. Name, Datum …	f.eks. navn, dato …
+Kein Gesicht erkannt – bitte noch einmal	Ingen ansikt gjenkjent – prøv igjen
+Seite erneut scannen	Skann siden på nytt
+Fernauslöser verbunden	Fjernutløser tilkoblet
+Nach dem Umblättern auslösen	Utløs etter at siden er bladd om
+Leserichtung rechts nach links	Leseretning fra høyre mot venstre
+Leserichtung links nach rechts	Leseretning fra venstre mot høyre
+Automatisch auslösen	Automatisk utløsning
+Kamera wechseln	Bytt kamera
+Licht	Lys
+Bitte Kamerazugriff erlauben.	Gi tilgang til kameraet.
+Passfoto wird zugeschnitten …	Passbildet beskjæres …
+Ohne Rückseite fertig	Ferdig uten bakside
+Kein Code im Bild gefunden	Ingen kode funnet i bildet
+Aus Galerie	Fra galleriet
+QR-Code oder Barcode in den Rahmen halten	Hold QR-koden eller strekkoden i rammen
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Ansiktet i ovalen · se rett frem · lys bakgrunn
+Vorderseite des Ausweises in den Rahmen	ID-kortets forside i rammen
+Jetzt die Rückseite	Nå baksiden
+Visitenkarte in den Rahmen legen	Legg visittkortet i rammen
+Aufgeschlagenes Buch ins Bild halten	Hold den oppslåtte boken i bildet
+Doppelseite erkannt	Oppslag gjenkjent
+Umblättern – löst danach automatisch aus	Bla om – deretter utløses automatisk
+Ruhig halten …	Hold i ro …
+Ruhig halten – wird automatisch ausgelöst	Hold i ro – utløses automatisk
+Seite ins Bild halten	Hold siden i bildet
+Seite erkannt	Side gjenkjent
+Intervall-Timer	Intervalltimer
+Serie starten	Start serie
+Farbe	Farge
+Graustufen	Gråtoner
+Schwarz-Weiß	Svart-hvitt
+Original	Original
+Automatisch	Automatisk
+Zuschnitt nicht möglich	Beskjæring ikke mulig
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Originalbildet av denne siden er fjernet for å spare plass. Med «Skann på nytt» kan siden tas opp igjen.
+Zuschnitt anpassen	Juster beskjæring
+Übernehmen	Bruk
+Einzelseite	Enkeltside
+Doppelseite	Oppslag
+Auto	Auto
+  Automatisch	  Automatisk
+Ecken auf die Seitenränder ziehen	Dra hjørnene til sidekantene
+Seiten ordnen	Ordne sider
+%d ausgewählt	%d valgt
+Filter für alle Seiten	Filter for alle sider
+Leserichtung umkehren	Snu leseretningen
+Übersetzen…	Oversett…
+Scan löschen	Slett skanning
+Scannen	Skann
+Import	Importer
+Ordnen	Ordne
+Exportieren	Eksporter
+Übersetzen in …	Oversett til …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Oversettelsen skjer på enheten. Første gang lastes språkmodellen ned én gang.
+Übersetzung teilen	Del oversettelse
+Scan löschen?	Slette skanningen?
+„%s“ wird endgültig gelöscht.	«%s» slettes permanent.
+Kontakt erkannt	Kontakt gjenkjent
+Zu Kontakten	Til kontakter
+Seiten werden verarbeitet (%d/%d)	Behandler sider (%d/%d)
+Nur diese	Bare disse
+Wird neu verarbeitet	Behandles på nytt
+Erneut	Igjen
+Fehlgeschlagen	Mislyktes
+Foto nicht verarbeitet	Bildet er ikke behandlet
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Det oppstod en feil under bildebehandlingen.
+Keine Auffälligkeiten	Ingen merknader
+Erneut scannen	Skann på nytt
+Ersetzt beide Seiten dieser Doppelseite	Erstatter begge sidene i dette oppslaget
+Kamera öffnen und diese Seite ersetzen	Åpne kameraet og erstatt denne siden
+Nach vorn	Frem
+Nach hinten	Tilbake
+Seite löschen	Slett side
+Foto entfernen	Fjern bilde
+1 Seite verschoben	1 side flyttet
+%d Seiten verschoben	%d sider flyttet
+1 Seite kopiert	1 side kopiert
+%d Seiten kopiert	%d sider kopiert
+1 Seite löschen?	Slette 1 side?
+%d Seiten löschen?	Slette %d sider?
+1 Seite prüfen	Kontroller 1 side
+%d Seiten prüfen	Kontroller %d sider
+Seite löschen?	Slette siden?
+Durchsuchbares PDF mit erkanntem Text	Søkbar PDF med gjenkjent tekst
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Redigerbar tekst for Word, LibreOffice og Google Docs
+Die Seite als JPG-Bild	Siden som JPG-bilde
+Ein JPG-Bild pro Seite (%d Dateien)	Ett JPG-bilde per side (%d filer)
+Alle Seiten als JPG und der Text in einem Archiv	Alle sider som JPG og teksten i ett arkiv
+Nur der erkannte Text	Bare den gjenkjente teksten
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Gjenkjente tabeller, ett regneark per side
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Gjenkjente tabeller som CSV (semikolon, for Excel)
+Visitenkarte als Kontakt (vCard)	Visittkort som kontakt (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	For- og bakside i originalstørrelse på én side – klar til utskrift
+Seitenformat	Sideformat
+Mit Passwort schützen	Beskytt med passord
+AES-256-Verschlüsselung	AES-256-kryptering
+Passwort	Passord
+Mindestens 4 Zeichen	Minst 4 tegn
+Passwort wiederholen	Gjenta passordet
+Passwörter stimmen nicht überein	Passordene stemmer ikke overens
+Seitenbilder einfügen	Sett inn sidebilder
+Jede Seite als Bild über ihrem Text	Hver side som bilde over teksten sin
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Kolonner gjenkjennes ut fra mellomrommene i teksten – det fungerer best med tydelig adskilte kolonner. Tall som «1.234,50» overføres som tall.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Ingen kontaktopplysninger ble gjenkjent på dette kortet.
+1 ausgewählte Seite	1 valgt side
+%d ausgewählte Seiten	%d valgte sider
+Mobil	Mobil
+Fax	Faks
+Telefon	Telefon
+%s teilen	Del %s
+Scan	Skanning
+Text teilen	Del tekst
+PDF teilen	Del PDF
+In den Papierkorb verschoben	Flyttet til papirkurven
+%d Scans in den Papierkorb verschoben	%d skanninger flyttet til papirkurven
+Auswahl beenden	Avslutt valg
+Alle auswählen	Velg alle
+In Ordner verschieben	Flytt til mappe
+Ordner	Mapper
+Ordner umbenennen	Gi mappen nytt navn
+Ordner auflösen	Løs opp mappen
+Papierkorb (%d)	Papirkurv (%d)
+Papierkorb	Papirkurv
+An PC senden	Send til PC
+Speicher & Sicherung	Lagring og sikkerhetskopi
+Einstellungen	Innstillinger
+Scans und Text durchsuchen	Søk i skanninger og tekst
+Alle Scans durchsuchen	Søk i alle skanninger
+Suche löschen	Tøm søket
+%d Treffer	%d treff
+Alle Scans	Alle skanninger
+Nichts gefunden	Ingenting funnet
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Verken et navn eller en gjenkjent tekst passer til «%s».
+Ordner ist leer	Mappen er tom
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Flytt skanninger hit: trykk lenge på en skanning og velg «Flytt til mappe».
+Noch keine Scans	Ingen skanninger ennå
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Trykk på «Skann» for å fotografere sider,\neller importer bilder fra galleriet.
+Ordnername	Mappenavn
+Neuer Ordner	Ny mappe
+%d Scans zusammenführen?	Slå sammen %d skanninger?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Alle sider legges til «%s» i valgt rekkefølge. De andre skanningene forsvinner deretter.
+%d prüfen	Kontroller %d
+Wird verarbeitet (%d/%d)	Behandles (%d/%d)
+Als PDF teilen	Del som PDF
+Kategorie ändern	Endre kategori
+Kein Ordner	Ingen mappe
+Neuer Ordner …	Ny mappe …
+Kategorie	Kategori
+Download fehlgeschlagen: %s	Nedlastingen mislyktes: %s
+keine Verbindung	ingen tilkobling
+Sprachen der Texterkennung	Språk for tekstgjenkjenning
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Valgte språk gjenkjennes sammen – velg bare de som trengs, hvert ekstra språk gjør gjenkjenningen tregere. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Manglende språk lastes ned én gang (ca. 2–15 MB) og fungerer deretter uten nett.
+Wird geladen … %d %%	Laster ned … %d %%
+Enthalten	Inkludert
+Geladen · %s	Lastet ned · %s
+Nicht geladen	Ikke lastet ned
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Trykk for å velge · hold og dra for å flytte
+Neuer Scan	Ny skanning
+Verschieben nach …	Flytt til …
+Kopieren nach …	Kopier til …
+Seite %d von %d	Side %d av %d
+Filter	Filter
+Zuschnitt	Beskjæring
+Signieren	Signer
+Code	Kode
+Link	Lenke
+E-Mail	E-post
+Telefonnummer	Telefonnummer
+Ort	Sted
+Produktcode	Produktkode
+Netzwerk: %s	Nettverk: %s
+Passwort: %s	Passord: %s
+Verschlüsselung: %s	Kryptering: %s
+Passwort kopieren	Kopier passord
+Verbinden	Koble til
+E-Mail schreiben	Skriv e-post
+Anrufen	Ring
+In Karten öffnen	Åpne i Kart
+Suche sensible Daten…	Søker etter sensitive data…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Ingenting sensitivt funnet. Dra områder som skal sladdes, med fingeren.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Funnet – trykk for å velge eller fjerne, dra flere områder:
+Schwarzer Balken	Svart felt
+Verpixeln	Pikseler
+Unkenntlich machen (%d)	Sladd (%d)
+Manuell	Manuelt
+Gesicht	Ansikt
+Kein WLAN	Ingen wifi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Koble mobil og PC til samme wifi (eller PC-en til mobilens wifi-sone). Adressen vises da her.
+Am PC im Browser öffnen	Åpne i PC-ens nettleser
+QR-Code der Adresse	QR-kode for adressen
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Skriv inn adressen eller skann QR-koden med PC-ens kamera. Der kan du laste ned alle skanninger som PDF eller tekst.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Bare i det lokale nettverket og bare mens denne skjermen er åpen. Ingenting lastes opp til internett.
+Heruntergeladen	Lastet ned
+App-Sperre nicht möglich	Applås ikke mulig
+Sprache	Språk
+Sprache der App	Appens språk
+Aufnahme	Opptak
+Doppelseiten im Dokument-Modus	Oppslag i dokumentmodus
+Automatisch teilen	Del automatisk
+Nie teilen	Del aldri
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Fotograferer så snart siden ligger stille i bildet.
+Buch-Modus	Bokmodus
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Gjenkjenner sidebladingen og fotograferer så snart boken ligger stille igjen.
+Leserichtung	Leseretning
+Links → rechts	Venstre → høyre
+Rechts → links	Høyre → venstre
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Høyre → venstre for arabisk, hebraisk, persisk og japansk: den høyre siden kommer først.
+Fernauslöser	Fjernutløser
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Koble til en Bluetooth-fjernutløser for kamera (f.eks. «AB Shutter 3») i Androids Bluetooth-innstillinger. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	I kameraet utløser deretter fjernutløseren og volumknappene.
+Bild	Bilde
+Standardfilter	Standardfilter
+Handschrift entfernen	Fjern håndskrift
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Fjerner notater med blå/rød penn og blyant. Fjerner også trykk i disse fargene.
+Texterkennung	Tekstgjenkjenning
+Sprachen	Språk
+Sicherheit & Speicher	Sikkerhet og lagring
+App-Sperre	Applås
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Lås opp ved åpning med fingeravtrykk, ansikt eller skjermlås. Innholdet vises ikke i appoversikten.
+Belegung, Backup als ZIP, Wiederherstellen	Bruk, sikkerhetskopi som ZIP, gjenoppretting
+Gelöschte Scans werden nach 30 Tagen entfernt	Slettede skanninger fjernes etter 30 dager
+Offline	Uten nett
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Alle bilder og tekster blir på denne enheten. Internett brukes bare til å laste ned språk én gang, når du selv starter det.
+Über	Om
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Komponenter med åpen kildekode: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (alle Apache-lisens 2.0); ML Kit (oversettelse, ansiktsgjenkjenning, på enheten).
+Unterschrift zeichnen	Tegn signatur
+Mit dem Finger unterschreiben	Signer med fingeren
+Unterschrift platzieren	Plasser signatur
+Neu zeichnen	Tegn på nytt
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Flytt med én finger, endre størrelse med to fingre.
+Unterschrift	Signatur
+Belegt von Ultimate PDF Scanner	Brukt av Ultimate PDF Scanner
+%s frei auf dem Gerät	%s ledig på enheten
+Seiten	Sider
+Originalfotos	Originalbilder
+Zwischenspeicher	Hurtigbuffer
+Platz schaffen	Frigjør plass
+Exportierte Dateien zum Teilen	Eksporterte filer til deling
+Gelöschte Scans der letzten 30 Tage	Slettede skanninger fra de siste 30 dagene
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	De ferdige sidene beholdes, men beskjæringen kan ikke endres i etterkant.
+Größte Scans	Største skanninger
+Sicherung	Sikkerhetskopi
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Lagre alle skanninger som én ZIP-fil – f.eks. på et SD-kort, en minnepenn eller PC-en. Ingenting lastes opp.
+Papierkorb mitsichern	Ta med papirkurven
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-sikkerhetskopi_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Ved gjenoppretting legges bare skanninger som mangler, til.
+Originalfotos entfernen?	Fjerne originalbildene?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Sparer %s. Sidene kan deretter ikke beskjæres på nytt, «Skann på nytt» er fortsatt mulig.
+Text bearbeiten · Seite %d	Rediger tekst · side %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Rettelser brukes i søket og i PDF-ens tekstlag.
+Kein Text erkannt – hier eintippen	Ingen tekst gjenkjent – skriv den inn her
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Slettede skanninger fjernes permanent etter %d dager.
+Papierkorb ist leer	Papirkurven er tom
+Endgültig löschen	Slett permanent
+Papierkorb leeren?	Tømme papirkurven?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d skanninger slettes permanent. Dette kan ikke angres.
+Endgültig löschen?	Slette permanent?
+„%s“ wird sofort gelöscht.	«%s» slettes umiddelbart.
+noch 1 Tag	1 dag igjen
+noch %d Tage	%d dager igjen
+Quittung	Kvittering
+Quittungen	Kvitteringer
+Rechnung	Faktura
+Rechnungen	Fakturaer
+Visitenkarte	Visittkort
+Visitenkarten	Visittkort
+Vertrag	Kontrakt
+Verträge	Kontrakter
+Brief	Brev
+Briefe	Brev
+Ausweis	ID-kort
+Ausweise	ID-kort
+Buch	Bok
+Bücher	Bøker
+Passfoto	Passbilde
+Passfotos	Passbilder
+Dokument	Dokument
+Dokumente	Dokumenter
+Auflösung	Oppløsning
+Kompression	Komprimering
+Gering	Lav
+Stark	Sterk
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi og lav komprimering for utskrift og arkiv, 150 dpi og sterk komprimering for e-post.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Gjør PDF-er søkbare og teksten kopierbar. Av: raskere behandling, PDF bare som bilde.
+Keine Seite erkannt	Ingen side gjenkjent
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Sidekanten ble ikke funnet – hele bildet ble brukt.
+Unscharf	Uskarpt
+Das Foto ist verwackelt oder unscharf.	Bildet er rystet eller uskarpt.
+Zu dunkel	For mørkt
+Die Seite ist schlecht ausgeleuchtet.	Siden er dårlig opplyst.
+Text schlecht lesbar	Teksten er vanskelig å lese
+Die Texterkennung war unsicher.	Tekstgjenkjenningen var usikker.
+Kein Text erkannt	Ingen tekst gjenkjent
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Ingen tekst ble funnet på siden – en tom side, eller ingen side i bildet i det hele tatt?
+Hindi	Hindi
+Bengalisch	Bengali
+Urdu	Urdu
+Indonesisch	Indonesisk
+Seite erkennen	Gjenkjenn side
+Seite entzerren	Rett ut siden
+Finger entfernen	Fjern fingre
+Schärfe prüfen	Kontroller skarphet
+Ausrichtung	Retning
+Bild verbessern	Forbedre bilde
+Speicherort	Lagringssted
+Speicherort für Exporte	Lagringssted for eksporter
+Jedes Mal fragen	Spør hver gang
+Ordner wählen …	Velg mappe …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	«Lagre» legger PDF-er og andre eksporter direkte i denne mappen, uten å spørre hver gang. Et SD-kort er også mulig.
+Gespeichert in „%s“	Lagret i «%s»
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Lagringsstedet er ikke tilgjengelig. Velg det på nytt.
+Neu aufnehmen	Ta opp igjen
+Um 90° links drehen	Roter 90° mot venstre
+Seite gelöscht	Side slettet
+Lange drücken: neu aufnehmen, drehen oder löschen	Trykk lenge: ta opp igjen, roter eller slett
+Ersetzt beide Seiten	Erstatter begge sidene
+Ränder bereinigen	Rydd kanter
+Scan-Qualität	Skannekvalitet
+Schnell	Rask
+Standard	Standard
+Genau	Nøyaktig
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	For stor, tydelig skrift som brev og utskrifter: mindre bilder, raskest behandling.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	For bøker og de fleste dokumenter: god gjenkjenning med normal hastighet.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	For liten skrift, gamle bøker, fotnoter og formler: kameraets fulle oppløsning, tregere, mer minne.
+BILD	BILDE
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Legg bildet flatt · ingen blits · unngå gjenskinn
+an	på
+aus	av
+Automatische Auslösung an: nach dem Umblättern	Automatisk utløsning på: etter at siden er bladd om
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automatisk utløsning på: så snart siden ligger stille
+Automatische Auslösung aus	Automatisk utløsning av
+PDF & Export	PDF og eksport
+Speicherort für PDFs und Bilder	Lagringssted for PDF-er og bilder
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Ved eksport kan dette endres for enkeltfiler.
+Weitere Optionen …	Flere alternativer …
+Automatische Verbesserung	Automatisk forbedring
+Schatten und Artefakte entfernen, Schrift schärfen	Fjern skygger og artefakter, gjør skriften skarpere
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Fjern skygger og artefakter, gjør skriften skarpere. Kan slås av i hvert dokument.
+unkorrigiert	ukorrigert
+Maximal	Maksimal
+Bildqualität	Bildekvalitet
+volle Auflösung	full oppløsning
+Briefe, Ausdrucke, große Schrift	Brev, utskrifter, stor skrift
+Bücher und die meisten Dokumente (empfohlen)	Bøker og de fleste dokumenter (anbefalt)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Liten skrift, formler, gamle bøker – tregere
+Gilt auch für alle weiteren Scans.	Gjelder også for alle senere skanninger.
+Ändern	Endre
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Hvor «Lagre» legger eksportene dine. «Del» påvirkes ikke.
+Ordner und Dateiname beim Speichern wählen	Velg mappe og filnavn ved lagring
+Exporte landen direkt hier	Eksporter havner direkte her
+Anderen Ordner wählen …	Velg en annen mappe …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Også SD-kort og skymapper, hvis de er satt opp på enheten.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Varig tilgang til denne mappen er ikke mulig.
+Sehr hohe Auflösung	Svært høy oppløsning
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Med %d MP tar behandlingen av hver side betydelig lengre tid og krever mye minne. «Standard» holder for de fleste dokumenter. «Maksimal» lønner seg bare for svært liten skrift.
+Trotzdem verwenden	Bruk likevel
+langsam	tregt
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Ingen fjernutløser tilkoblet – koble den til i Bluetooth-innstillingene
+Mit dem Fernauslöser auslösen	Utløs med fjernutløseren
+Umblättern	Sidebla
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Avslutter opptaket. Sider som allerede er fotografert, beholdes og behandles.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Slår lommelykten av eller på. Blankt papir fotograferes best uten lys og skrått i forhold til vinduet.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Bruker eksisterende bilder i stedet for nye opptak.
+Serie	Serie
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Starter eller stopper serien: timeren tar da automatisk et bilde med noen sekunders mellomrom.
+Auslöser	Utløser
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Tar et bilde. Volumknappene og en Bluetooth-fjernutløser utløser også.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Avslutter opptaket og åpner oversikten; tallet viser bildene fra dette opptaket.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Hvor mange piksler hvert bilde har. Rask (5 MP) for stor skrift, Standard (12 MP) for nesten alt, Maksimal for liten skrift og formler – tar lengre tid.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Trykk for å bytte: av, 3, 5 eller 10 sekunder. Utløseren starter deretter en serie med et bilde med dette intervallet – praktisk for bøker.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Fotograferer bare når du trykker på utløseren.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fotograferer selv så snart siden har ligget stille i 0,7 sekunder. I bokmodus: etter hver sidebla, så snart boken ligger stille igjen.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Fotograferer med en Bluetooth-fjernutløser (f.eks. «AB Shutter 3»). Koble først utløseren til i mobilens Bluetooth-innstillinger.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Gir dokumentet et eget navn; det brukes også som filnavn ved eksport.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Snu leseretningen for oppslag, oversett på enheten eller slett skanningen.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Åpner kameraet og legger til flere sider i dette dokumentet.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Henter bilder fra galleriet som nye sider; de beskjæres og gjenkjennes som kamerabilder.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Endre rekkefølgen ved å dra; velg sider for å rotere, flytte, kopiere, skille ut eller slette dem.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Del, lagre eller skriv ut som PDF, Word, bilder, ZIP, tekst eller tabell.
+Farbe, Graustufen, Schwarz-Weiß	Farge, gråtoner, svart-hvitt
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Endrer alle sidene i dette dokumentet. Svart-hvitt gir de minste filene, farge gjengir illustrasjoner og stempler naturtro.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	På: skygger, flekker og artefakter fjernes, og skriften får mer kontrast. Av: sidene bare beskjæres og rettes ut – for bilder, tegninger eller når forbedringen forvrenger noe.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Lager filen og gir den videre til en app, f.eks. e-post, meldinger eller sky.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Legger filen på lagringsstedet – i den faste mappen eller, med «Spør hver gang», der du legger den.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Skriver ut via Androids utskriftstjeneste; der kan du også velge «Lagre som PDF».
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Hvor «Lagre» legger filene: spør hver gang eller alltid i en fast mappe, også på SD-kort eller i en skymappe.
+Hilfe & Anleitung	Hjelp og veiledning
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Tips: hold inne en knapp i ett sekund for å se hva den gjør.
+Startseite	Start
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Åpner kameraet. Alle bilder fra ett opptak havner i ett felles dokument.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Galleriikonet over «Skann» henter eksisterende bilder; de beskjæres og gjenkjennes som kamerabilder.
+Suchen	Søk
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Finner skanninger etter navn og gjenkjent tekst, med sidetall.
+Ordner und Kategorien	Mapper og kategorier
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Mapper samler skanninger. Kategoriene (bøker, kvitteringer …) vises automatisk så snart det finnes skanninger av den typen.
+Mehrere Scans	Flere skanninger
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Trykk lenge på en skanning: velg, slå sammen, flytt til mappe eller slett.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Slettede skanninger ligger 30 dager i papirkurven (meny ⋮) og kan gjenopprettes.
+Modi	Moduser
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Velg nederst: Dokument (enkeltark), Bok (oppslag deles i to sider), ID-kort (for- og bakside i originalstørrelse på ett ark), Visittkort (kontakten gjenkjennes), Bilde (naturtro farger, uten tekstgjenkjenning), Passbilde (frontkamera, 35 × 45 mm) og QR-kode.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Øverst til venstre: Rask (5 MP) for stor skrift, Standard (12 MP) for nesten alt, Maksimal for liten skrift og formler – tregere.
+Auslösung	Utløsning
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuelt: med utløseren. Auto 0,7 s: så snart siden har ligget stille i 0,7 sekunder; i bokmodus etter hver sidebla. Bluetooth: med en tilkoblet fjernutløser. Volumknappene utløser alltid.
+Timer und Licht	Timer og lys
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Klokkeikonet tar et bilde hvert 3., 5. eller 10. sekund (start med utløseren). Blitsen slår på lommelykten.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Trykk på miniatyren nederst til høyre: sidene behandles, og oversikten åpnes.
+Gute Fotos	Gode bilder
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Legg siden flatt og jevnt opplyst, hold mobilen parallelt. Et underlag som skiller seg ut i farge fra papiret, hjelper ved beskjæringen.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Gjelder for alle sider i dokumentet. Enkeltsider kan stilles inn annerledes i sidevisningen.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Fjerner skygger og artefakter og gir skriften mer kontrast. Slått av blir siden bare beskåret og rettet ut.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Trykk åpner siden. Langt trykk: ta opp igjen, roter eller slett. Oransjemerkede sider bør kontrolleres (f.eks. uskarpe), røde har mislyktes.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Endre rekkefølgen ved å dra, roter flere sider, flytt eller kopier dem til et annet dokument, eller skill dem ut som nytt dokument.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, bilder, ZIP, tekst eller tabell – del, lagre eller skriv ut.
+Mehr (⋮)	Mer (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Snu leseretningen for oppslag, oversett på enheten eller slett skanningen. Blyanten øverst endrer navnet.
+Seitenansicht	Sidevisning
+Blättern und Zoomen	Bla og zoome
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Sveip for å bytte side; dobbelttrykk eller bruk to fingre for å zoome.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Farge, gråtoner eller svart-hvitt bare for denne siden, med forhåndsvisning. Nedenfor den automatiske forbedringen for denne siden.
+Drehen und Zuschnitt	Roter og beskjær
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Roter 90°. Beskjær: sett sidens hjørner på nytt i originalbildet.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Skriv på siden med penn, merkepenn eller tekst.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Gjør sensitive data uleselige – med felt eller pikselert. Kontonumre, kortnumre og ansikter foreslås.
+Signieren und Text	Signatur og tekst
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Signer setter inn den lagrede signaturen din. Tekst viser den gjenkjente teksten for retting og kopiering.
+Formate	Formater
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (søkbar), Word, bilder (JPG), ZIP, tekst, Excel eller CSV; for visittkort også som kontakt.
+PDF-Optionen	PDF-alternativer
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Sideformat, oppløsning og komprimering bestemmer kvalitet og filstørrelse – størrelsen anslås øverst til høyre. Valgfritt med passord (AES-256).
+Teilen oder Speichern	Dele eller lagre
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Del sender filen til en app (e-post, meldinger …). Lagre legger den på lagringsstedet.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	«Spør hver gang» åpner mappevalget ved lagring. Med en fast mappe havner eksporter der uten spørsmål – også på SD-kort eller i en skymappe.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Skriver ut via Androids utskriftstjeneste eller lagrer som PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Bildekvalitet, utløsning og deling av oppslag for nye skanninger. I kameraet kan det endres når som helst.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filter og automatisk forbedring som nye dokumenter starter med.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Gjør PDF-er søkbare. Språkene bestemmer hvilke tegn som gjenkjennes.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Lagringssted og standardverdier for oppløsning, komprimering og sideformat.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Applås med fingeravtrykk, sikkerhetskopi som ZIP og papirkurven.
+Ecken setzen	Sett hjørner
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Dra de fire hjørnene til sidekantene; forstørrelsesglasset viser stedet under fingeren forstørret.
+Einzel- oder Doppelseite	Enkeltside eller oppslag
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Velg nederst om bildet viser én side eller et oppslått oppslag. Automatisk lar appen bestemme.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Haken øverst behandler siden med den nye beskjæringen.
+Werkzeuge	Verktøy
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Penn for å skrive, merkepenn for å markere, tekst for skrevne notater. Fargene står nedenfor.
+Korrigieren	Rett
+Rückgängig nimmt den letzten Strich zurück.	Angre fjerner det siste strøket.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Skriver endringene inn i siden. Uten å lagre forblir siden uendret.
+Vorschläge	Forslag
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Funne kontonumre, kortnumre, skattenumre og ansikter er merket – trykk for å fjerne eller velge på nytt.
+Eigene Bereiche	Egne områder
+Mit dem Finger weitere Rechtecke aufziehen.	Dra flere rektangler med fingeren.
+Balken oder Pixel	Felt eller piksler
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Svart felt eller pikselering. Teksten under fjernes også fra tekstgjenkjenningen og fra PDF-en.
+Zeichnen	Tegn
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Signer én gang med fingeren – signaturen lagres på enheten.
+Platzieren	Plasser
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Flytt med én finger, endre størrelse med to, og sett deretter inn.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Blyantikonet øverst erstatter den lagrede signaturen.
+Text bearbeiten	Rediger tekst
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Sidens gjenkjente tekst står nederst og kan endres. Øverst sidebildet til sammenligning.
+Wirkung	Virkning
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Rettelser brukes i søket, i PDF-ens tekstlag og i Word- og teksteksporter.
+Holt einen gelöschten Scan zurück.	Henter tilbake en slettet skanning.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skanninger fjernes automatisk etter 30 dager. «Tøm» sletter alt med en gang.
+Belegung	Bruk
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Viser hvor mye plass skanninger, originalbilder, papirkurven og hurtigbufferen tar.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Å fjerne originalbildene sparer mye plass; de ferdige sidene beholdes, bare beskjæringen kan ikke lenger endres.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Lagre alle skanninger som ZIP-fil og gjenopprett dem på denne eller en annen enhet. Ingenting lastes opp.
+Auswahl	Utvalg
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Velg språkene i dokumentene dine. Hvert ekstra språk gjør gjenkjenningen tregere.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Manglende språk lastes ned én gang og fungerer deretter uten internett.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Koble mobil og PC til samme wifi (eller PC-en til mobilens wifi-sone).
+Herunterladen	Last ned
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Åpne den viste adressen i PC-ens nettleser eller skann QR-koden; der kan du laste ned alle skanninger som PDF eller tekst.
+Sicherheit	Sikkerhet
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Fungerer bare i det lokale nettverket og bare mens denne skjermen er åpen.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Språk, bildekvalitet, utløsning, tekstgjenkjenning, lagringssted, applås og sikkerhetskopi.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Henter bilder fra galleriet som nytt dokument; de beskjæres og gjenkjennes som kamerabilder.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Åpner kameraet. Alle bilder fra ett opptak havner i ett felles dokument.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Sletter denne siden fra dokumentet (etter bekreftelse).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Farge, gråtoner eller svart-hvitt og den automatiske forbedringen bare for denne siden.
+Dreht die Seite um 90° im Uhrzeigersinn.	Roterer siden 90° med klokken.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Sett sidens hjørner på nytt i originalbildet hvis en kant mangler eller bakgrunnen er med.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Gjør sensitive data uleselige med felt eller piksler; de forsvinner også fra PDF-ens tekst.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Plasserer den lagrede signaturen din på siden; første gang tegner du den.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Viser sidens gjenkjente tekst for retting og kopiering.
+Fotografiert beim Tippen auf den Auslöser.	Fotograferer når du trykker på utløseren.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Fotograferer så snart siden har ligget stille i 0,7 s; i bokmodus etter hver sidebla.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Fotograferer med en tilkoblet Bluetooth-fjernutløser.
+Lautstärketasten lösen immer aus.	Volumknappene utløser alltid.
+Word erstellen, Formeln erkennen (%d/%d)	Lager Word, gjenkjenner formler (%d/%d)
+Belarussisch	Belarusisk
+Bulgarisch	Bulgarsk
+Serbisch	Serbisk
+Mazedonisch	Makedonsk
+Kein Link im geteilten Text	Ingen lenke i den delte teksten
+Import fehlgeschlagen: %s	Importen mislyktes: %s
+Link laden	Laster inn lenke
+Unter dem Link liegt keine PDF- oder Bilddatei.	Lenken fører ikke til en PDF- eller bildefil.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Bare PDF-filer og bilder kan importeres.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Beskyttede PDF-filer kan ikke importeres.
+PDF-Seite %d/%d importieren	Importerer PDF-side %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Utløs etter %s s
+Wartezeit	Ventetid
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Hvor lenge siden må ligge stille før det automatiske bildet. Kortere går raskere, lengre gir færre uskarpe bilder.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Tar bildet selv så snart siden ligger stille; ventetiden (0,2–1,5 s) stiller du inn nedenfor. I bokmodus: etter hver sidevending, så snart boken ligger stille igjen.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Legger til bilder, skjermbilder, PDF-filer eller en lenke som flere sider; bilder beskjæres, alt gjenkjennes.
+Senden an …	Send til …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Hvor «Lagre» legger eksportene dine. «Send til …» er uavhengig av dette.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Velg en undermappe, f.eks. «Documents» – Android tillater ikke den øverste mappen i lagringen.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Lager filen og sender den til en app, f.eks. WhatsApp, e-post, Telegram eller en skylagring.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuell: med utløseren. Auto: så snart siden ligger stille – ventetiden (0,2–1,5 s, standard 0,7 s) stiller du inn i skannevinduet under bryteren; i bokmodus etter hver sidevending. Bluetooth: med en paret fjernutløser. Volumknappene utløser alltid.
+Senden an oder Speichern	Send til eller lagre
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	«Send til …» sender filen til en app (WhatsApp, e-post, Telegram, sky …). Lagre legger den på lagringsstedet.
+Importieren	Importer
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Legger til bilder, skjermbilder, PDF-filer eller en lenke som nytt dokument; bilder beskjæres, alt gjenkjennes.
+Bilder aus der Galerie	Bilder fra galleriet
+Fotos und Screenshots	Bilder og skjermbilder
+Dateien	Filer
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF-filer og bilder, f.eks. fra Nedlastinger eller skyen
+Eine PDF- oder Bilddatei aus dem Internet	En PDF- eller bildefil fra internett
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Deretter som skannede sider: tekstgjenkjenning, oversettelse og eksport til alle formater.
+Link importieren	Importer lenke
+Internetadresse	Nettadresse
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Utløser så snart siden ligger stille i %s s (kan stilles inn i skannevinduet); i bokmodus etter hver sidevending.
+Fachwörterbuch laden	Laster inn ordliste
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Ordliste for %s eller %s mangler – oversatt uten fagtermer
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Ikke en ordlistefil (glossary-xx.tsv.gz)
+Download nicht verfügbar	Nedlasting ikke tilgjengelig
+Estnisch	Estisk
+Irisch	Irsk
+Litauisch	Litauisk
+Lettisch	Latvisk
+Maltesisch	Maltesisk
+Slowakisch	Slovakisk
+Slowenisch	Slovensk
+Ohne Fachwörterbuch	Uten ordliste
+Alle Fachgebiete	Alle fagområder
+Fachgebiet: %s	Fagområde: %s
+Fachwörterbücher verwalten …	Administrer ordlister …
+Fachwörterbücher	Fagordbøker
+Aus Datei importieren	Importer fra fil
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Fagtermer fra jus, medisin, teknikk, økonomi og 17 andre fagområder (IATE, EUs termdatabase) beholdes nøyaktig ved oversettelse. Du trenger ordboken for kilde- og målspråket, hver 0,3–9 MB.
+Einmal laden, danach offline.	Last ned én gang, deretter frakoblet.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importer filer glossary-xx.tsv.gz med mappeikonet øverst.
+Fachwörterbücher für die Übersetzung	Fagordbøker for oversettelse
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Jus, medisin, teknikk og mer – 24 EU-språk
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Alle bilder og tekster blir på denne enheten. Internett brukes bare til å laste ned språk, oversettelsesmodeller og fagordbøker én gang, når du starter det.
+Übersetzen	Oversett
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Lager en oversatt kopi av dokumentet på enheten: samme sider og bilder, teksten på målspråket på sin plass. Hvert avsnitt oversettes fra sitt eget språk. Med «Fagområde» overtas fagtermer fra ordlistene nøyaktig.
+Was nachgeladen werden kann	Hva som kan lastes ned
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Alt er frivillig og lastes bare ned når du trykker; deretter virker det uten internett:\n• Språk for tekstgjenkjenning: hver 1–15 MB (Innstillinger › Språk). Tysk og engelsk er inkludert.\n• Kinesisk: en egen gjenkjenningsmodell, ca. 17 MB.\n• Oversettelsesmodeller: ca. 30 MB per språk, lastes ned automatisk ved første oversettelse.\n• Fagordbøker: 0,3–9 MB per språk, ca. 70 MB for alle 24 EU-språk (Innstillinger › Fagordbøker).\nNedlastede filer kan fjernes når som helst.
+Wozu	Hvorfor
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Generelle oversettere kjenner ikke mange fagtermer eller oversetter dem ulikt. En ordbok setter inn den fastsatte termen, f.eks. «Beweislast» → «bevisbyrde».
+Quelle	Kilde
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, EU-institusjonenes termdatabase, med termer fra 21 fagområder (jus, helse, teknikk, økonomi, miljø, transport …). Den finnes for EUs 24 offisielle språk.
+Was nötig ist	Hva som trengs
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Én ordbok for kildespråket og én for målspråket, f.eks. tysk og engelsk. Én ordbok per språk dekker alle språkpar.
+Laden oder importieren	Last ned eller importer
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Last ned med pilen (én gang, deretter frakoblet) eller importer en fil «glossary-xx.tsv.gz» med mappeikonet, f.eks. fra en PC eller et SD-kort.
+Benutzen	Bruk
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Velg fagområde øverst når du oversetter. «Alle fagområder» bruker bare termer som oversettes likt overalt.
+Grenzen	Begrensninger
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Fagtermer settes inn i grunnform; bøyde former gjenkjennes ikke alltid.
+Politik	Politikk
+Internationale Beziehungen	Internasjonale forbindelser
+Europäische Union	Den europeiske union
+Recht	Jus
+Wirtschaft	Økonomi
+Handel	Handel
+Finanzwesen	Finans
+Soziales und Gesundheit	Sosiale spørsmål og helse
+Bildung und Kommunikation	Utdanning og kommunikasjon
+Wissenschaft	Vitenskap
+Unternehmen und Wettbewerb	Næringsliv og konkurranse
+Beschäftigung und Arbeitsbedingungen	Sysselsetting og arbeidsvilkår
+Verkehr	Transport
+Umwelt	Miljø
+Land-, Forst- und Fischereiwirtschaft	Landbruk, skogbruk og fiskeri
+Agrarerzeugnisse und Lebensmittel	Landbruksnæringsmidler
+Produktion, Technologie und Forschung	Produksjon, teknologi og forskning
+Energie	Energi
+Industrie	Industri
+Geografie	Geografi
+Internationale Organisationen	Internasjonale organisasjoner
+Wenig Licht – Lampe einschalten	Lite lys – slå på lampen
+Verarbeitung mehrfach abgebrochen	Behandlingen ble avbrutt flere ganger
+Bearbeitungen gehen verloren	Endringer går tapt
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Siden lages på nytt fra bildet. Sladding, signatur og notater må legges til på nytt.
+Neu zuschneiden	Beskjær igjen
+Sprachdaten	Språkdata
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Viser hvor mye plass skanninger, originalbilder, papirkurv, hurtigbuffer og språkdata (tekstgjenkjenning, ordbøker) tar.
+Bitte warten, bis alle Seiten erkannt sind	Vent til alle sidene er gjenkjent
+Die Sprache „%s“ kann nicht übersetzt werden	Språket «%s» kan ikke oversettes
+Übersetzung in die Seiten setzen	Setter oversettelsen inn i sidene

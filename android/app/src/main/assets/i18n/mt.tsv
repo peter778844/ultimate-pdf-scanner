@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	L-ewwel issettja marka tas-saba', ftuħ bil-wiċċ jew qfil tal-iskrin.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Dan l-apparat ma jappoġġjax il-ftuħ bijometriku.
+Ultimate PDF Scanner entsperren	Iftaħ Ultimate PDF Scanner
+Deine Scans sind geschützt	L-iskenjar tiegħek huma protetti
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner huwa msakkar
+Deine Scans bleiben auf diesem Gerät.	L-iskenjar tiegħek jibqgħu fuq dan l-apparat.
+  Entsperren	  Iftaħ
+Systemsprache	Lingwa tas-sistema
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importa ritratti
+Texterkennung vorbereiten	Qed nipprepara r-rikonoxximent tat-test
+Ein Foto konnte nicht verarbeitet werden: %s	L-immaġni ma setgħetx tiġi pproċessata: %s
+Foto laden	Qed tillowdja l-immaġni
+Foto nicht lesbar	L-immaġni ma tinqarax
+Filter anwenden	Applika filtru
+Schwärzen	Aħbi
+Unterschrift einfügen	Daħħal firma
+Unterschrift eingefügt	Firma mdaħħla
+Änderungen einfügen	Daħħal il-bidliet
+Seite bearbeitet	Paġna editjata
+Text gesichert	Test issejvjat
+Zusammenführen	Għaqqad
+%d Scans zusammengeführt	Skenjar magħqud: %d
+Seiten verschieben	Mexxi l-paġni
+Seiten kopieren	Ikkopja l-paġni
+ (Teil)	 (parti)
+Zwischenspeicher leeren	Battal il-cache
+Zwischenspeicher geleert	Cache imbattal
+Originalfotos entfernen	Neħħi r-ritratti oriġinali
+Sicherung erstellen	Oħloq backup
+Sicherung erstellen (%d/%d)	Qed jinħoloq backup (%d/%d)
+Sicherung gespeichert	Backup issejvjat
+Sicherung wiederherstellen	Irrestawra backup
+ (%d schon vorhanden)	 (%d diġà jeżistu)
+Wiederherstellen fehlgeschlagen: %s	Ir-restawr falla: %s
+PDF erstellen (%d/%d)	Qed jinħoloq PDF (%d/%d)
+%s erstellen	Qed jinħoloq: %s
+Export fehlgeschlagen: %s	L-esportazzjoni falliet: %s
+%s speichern	Qed jissejvja: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF issejvjat (protett b'password, AES-256)
+%s gespeichert	Issejvjat: %s
+Bilder speichern	Issejvja l-immaġnijiet
+Bilder speichern (%d/%d)	Qed jissejvjaw l-immaġnijiet (%d/%d)
+%d Bilder gespeichert	Immaġnijiet issejvjati: %d
+Sprache erkennen	Qed tiġi rikonoxxuta l-lingwa
+Kein erkannter Text zum Übersetzen	M'hemm l-ebda test rikonoxxut x'jiġi tradott
+Sprache nicht erkannt	Il-lingwa ma ġietx rikonoxxuta
+Der Text ist bereits auf %s	It-test diġà huwa bil-%s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Qed jillowdja l-mudell tal-lingwa (l-ewwel darba ~30 MB)
+Übersetzen (%d/%d)	Traduzzjoni (%d/%d)
+Seite %d	Paġna %d
+Übersetzung fehlgeschlagen: %s	It-traduzzjoni falliet: %s
+1 Bereich unkenntlich gemacht	Żona waħda moħbija
+%d Bereiche unkenntlich gemacht	Żoni moħbija: %d
+1 Scan wiederhergestellt	Skenjar wieħed irrestawrat
+%d Scans wiederhergestellt	Skenjar irrestawrati: %d
+Server antwortet mit %d	Is-server iwieġeb b'%d
+Datei unvollständig	Fajl mhux komplut
+Nicht gefunden	Ma nstabx
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Skenjar fuq il-mowbajl: %d · direttament permezz ta' Wi-Fi, mingħajr cloud
+Ausgangssprache „%s“ wird nicht unterstützt	Il-lingwa tas-sors „%s“ mhix appoġġjata
+Zielsprache „%s“ wird nicht unterstützt	Il-lingwa tal-mira „%s“ mhix appoġġjata
+QR-CODE	KODIĊI QR
+AUSWEIS	KARTA TAL-IDENTITÀ
+DOKUMENT	DOKUMENT
+BUCH	KTIEB
+VISITENKARTE	BIGLIETT TAN-NEGOZJU
+PASSFOTO	RITRATT TAL-PASSAPORT
+PDF	PDF
+Word	Word
+Bilder	Immaġnijiet
+ZIP	ZIP
+Text	Test
+Excel	Excel
+CSV	CSV
+Kontakt	Kuntatt
+Wie gescannt	Kif skenjat
+Letter	Letter
+Mittel	Medju
+Englisch	Ingliż
+Französisch	Franċiż
+Italienisch	Taljan
+Spanisch	Spanjol
+Portugiesisch	Portugiż
+Niederländisch	Olandiż
+Polnisch	Pollakk
+Tschechisch	Ċek
+Dänisch	Daniż
+Schwedisch	Żvediż
+Norwegisch	Norveġiż
+Finnisch	Finlandiż
+Ungarisch	Ungeriż
+Rumänisch	Rumen
+Kroatisch	Kroat
+Türkisch	Tork
+Griechisch	Grieg
+Russisch	Russu
+Ukrainisch	Ukren
+Arabisch	Għarbi
+Hebräisch	Ebrajk
+Persisch	Persjan
+Chinesisch (vereinfacht)	Ċiniż (simplifikat)
+Japanisch	Ġappuniż
+Koreanisch	Korean
+Latein	Latin
+Deutsch (Fraktur)	Ġermaniż (Fraktur)
+1 Seite	Paġna waħda
+%d Seiten	%d paġni
+1 Scan	Skenjar wieħed
+%d Scans	%d skenjar
+Abbrechen	Ikkanċella
+Bearbeiten	Editja
+Zurück	Lura
+Rückgängig	Neħħi l-aħħar azzjoni
+Sichern	Issejvja
+Seite	Paġna
+Einfügen	Daħħal
+Änderungen sichern?	Issejvja l-bidliet?
+Verwerfen	Armi
+Schließen	Agħlaq
+Fertig	Lest
+Öffnen	Iftaħ
+Keine	Xejn
+Alle	Kollha
+Umbenennen	Ibdel l-isem
+Mehr	Aktar
+Löschen	Ħassar
+Teilen	Aqsam
+Speichern	Issejvja
+Drucken	Ipprintja
+Kopieren	Ikkopja
+Drehen	Dawwar
+Laden	Niżżel
+Entfernen	Neħħi
+Verschieben	Mexxi
+Name	Isem
+Aus	Mitfi
+Leeren	Battal
+Wiederherstellen	Irrestawra
+Text einfügen	Daħħal test
+z. B. Name, Datum …	eż. isem, data …
+Kein Gesicht erkannt – bitte noch einmal	L-ebda wiċċ ma ġie rikonoxxut – erġa' pprova
+Seite erneut scannen	Erġa' skenja l-paġna
+Fernauslöser verbunden	Xutter remot imqabbad
+Nach dem Umblättern auslösen	Ħu r-ritratt wara li tqaleb paġna
+Leserichtung rechts nach links	Direzzjoni tal-qari mil-lemin għax-xellug
+Leserichtung links nach rechts	Direzzjoni tal-qari mix-xellug għal-lemin
+Automatisch auslösen	Ritratt awtomatiku
+Kamera wechseln	Ibdel il-kamera
+Licht	Dawl
+Bitte Kamerazugriff erlauben.	Ippermetti l-aċċess għall-kamera.
+Passfoto wird zugeschnitten …	Ir-ritratt tal-passaport qed jinqata' …
+Ohne Rückseite fertig	Lest mingħajr in-naħa ta' wara
+Kein Code im Bild gefunden	Ma nstab l-ebda kodiċi fl-immaġni
+Aus Galerie	Mill-gallerija
+QR-Code oder Barcode in den Rahmen halten	Żomm il-kodiċi QR jew il-barcode ġewwa l-qafas
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Il-wiċċ fl-ovali · ħares dritt · sfond ċar
+Vorderseite des Ausweises in den Rahmen	In-naħa ta' quddiem tal-karta tal-identità fil-qafas
+Jetzt die Rückseite	Issa n-naħa ta' wara
+Visitenkarte in den Rahmen legen	Poġġi l-biljett tan-negozju fil-qafas
+Aufgeschlagenes Buch ins Bild halten	Żomm il-ktieb miftuħ fil-vista
+Doppelseite erkannt	Paġna doppja rikonoxxuta
+Umblättern – löst danach automatisch aus	Aqleb il-paġna – ir-ritratt jittieħed awtomatikament
+Ruhig halten …	Żomm fermu …
+Ruhig halten – wird automatisch ausgelöst	Żomm fermu – ir-ritratt jittieħed awtomatikament
+Seite ins Bild halten	Żomm il-paġna fil-vista
+Seite erkannt	Paġna rikonoxxuta
+Intervall-Timer	Timer b'intervall
+Serie starten	Ibda serje
+Farbe	Kulur
+Graustufen	Skala griża
+Schwarz-Weiß	Iswed u abjad
+Original	Oriġinali
+Automatisch	Awtomatiku
+Zuschnitt nicht möglich	Ma jistax jinqata'
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Ir-ritratt oriġinali ta' din il-paġna tneħħa biex jiffranka l-ispazju. B'„Erġa' skenja“ tista' terġa' tieħu l-paġna.
+Zuschnitt anpassen	Ikkoreġi l-qtugħ
+Übernehmen	Applika
+Einzelseite	Paġna waħda
+Doppelseite	Paġna doppja
+Auto	Awto
+  Automatisch	  Awtomatiku
+Ecken auf die Seitenränder ziehen	Iġbed il-kantunieri lejn it-truf tal-paġna
+Seiten ordnen	Irranġa l-paġni
+%d ausgewählt	%d magħżula
+Filter für alle Seiten	Filtru għall-paġni kollha
+Leserichtung umkehren	Aqleb id-direzzjoni tal-qari
+Übersetzen…	Ittraduċi…
+Scan löschen	Ħassar l-iskenjar
+Scannen	Skenja
+Import	Importa
+Ordnen	Irranġa
+Exportieren	Esporta
+Übersetzen in …	Ittraduċi għal …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	It-traduzzjoni ssir fuq l-apparat. L-ewwel darba l-mudell tal-lingwa jitniżżel darba waħda.
+Übersetzung teilen	Aqsam it-traduzzjoni
+Scan löschen?	Tħassar l-iskenjar?
+„%s“ wird endgültig gelöscht.	„%s“ se jitħassar għal dejjem.
+Kontakt erkannt	Kuntatt rikonoxxut
+Zu Kontakten	Għall-kuntatti
+Seiten werden verarbeitet (%d/%d)	Qed jiġu pproċessati l-paġni (%d/%d)
+Nur diese	Dawn biss
+Wird neu verarbeitet	Ipproċessat mill-ġdid
+Erneut	Erġa'
+Fehlgeschlagen	Falla
+Foto nicht verarbeitet	Immaġni mhux ipproċessata
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Kien hemm żball waqt l-ipproċessar tal-immaġni.
+Keine Auffälligkeiten	L-ebda nota
+Erneut scannen	Erġa' skenja
+Ersetzt beide Seiten dieser Doppelseite	Jissostitwixxi ż-żewġ paġni ta' din il-paġna doppja
+Kamera öffnen und diese Seite ersetzen	Iftaħ il-kamera u ssostitwixxi din il-paġna
+Nach vorn	'Il quddiem
+Nach hinten	Lura
+Seite löschen	Ħassar il-paġna
+Foto entfernen	Neħħi l-immaġni
+1 Seite verschoben	Paġna waħda mċaqalqa
+%d Seiten verschoben	Paġni mċaqalqa: %d
+1 Seite kopiert	Paġna waħda kkupjata
+%d Seiten kopiert	Paġni kkupjati: %d
+1 Seite löschen?	Tħassar paġna waħda?
+%d Seiten löschen?	Tħassar %d paġni?
+1 Seite prüfen	Iċċekkja paġna waħda
+%d Seiten prüfen	Iċċekkja %d paġni
+Seite löschen?	Tħassar il-paġna?
+Durchsuchbares PDF mit erkanntem Text	PDF li jista' jitfittex b'test rikonoxxut
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Test editjabbli għal Word, LibreOffice u Google Docs
+Die Seite als JPG-Bild	Il-paġna bħala immaġni JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Immaġni JPG waħda għal kull paġna (%d fajls)
+Alle Seiten als JPG und der Text in einem Archiv	Il-paġni kollha bħala JPG u t-test f'arkivju wieħed
+Nur der erkannte Text	It-test rikonoxxut biss
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tabelli rikonoxxuti, worksheet waħda għal kull paġna
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tabelli rikonoxxuti bħala CSV (semikolon, għal Excel)
+Visitenkarte als Kontakt (vCard)	Biljett tan-negozju bħala kuntatt (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Quddiem u wara f'daqs reali fuq paġna waħda – lest għall-ipprintjar
+Seitenformat	Format tal-paġna
+Mit Passwort schützen	Ipproteġi b'password
+AES-256-Verschlüsselung	Kriptaġġ AES-256
+Passwort	Password
+Mindestens 4 Zeichen	Mill-inqas 4 karattri
+Passwort wiederholen	Irrepeti l-password
+Passwörter stimmen nicht überein	Il-passwords ma jaqblux
+Seitenbilder einfügen	Daħħal l-immaġnijiet tal-paġni
+Jede Seite als Bild über ihrem Text	Kull paġna bħala immaġni fuq it-test
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Il-kolonni jiġu rikonoxxuti mill-ispazji fit-test – jaħdem l-aħjar b'kolonni separati b'mod ċar. Numri bħal „1.234,50“ jittieħdu bħala numri.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Ma ġiet rikonoxxuta l-ebda informazzjoni ta' kuntatt fuq din il-karta.
+1 ausgewählte Seite	Paġna waħda magħżula
+%d ausgewählte Seiten	%d paġni magħżula
+Mobil	Mowbajl
+Fax	Fax
+Telefon	Telefon
+%s teilen	Aqsam: %s
+Scan	Skenjar
+Text teilen	Aqsam it-test
+PDF teilen	Aqsam il-PDF
+In den Papierkorb verschoben	Imċaqlaq għall-iskart
+%d Scans in den Papierkorb verschoben	Skenjar imċaqalqa għall-iskart: %d
+Auswahl beenden	Temm l-għażla
+Alle auswählen	Agħżel kollox
+In Ordner verschieben	Mexxi għal folder
+Ordner	Folders
+Ordner umbenennen	Ibdel l-isem tal-folder
+Ordner auflösen	Xolji l-folder
+Papierkorb (%d)	Skart (%d)
+Papierkorb	Skart
+An PC senden	Ibgħat lill-kompjuter
+Speicher & Sicherung	Ħażna u backup
+Einstellungen	Settings
+Scans und Text durchsuchen	Fittex fl-iskenjar u fit-test
+Alle Scans durchsuchen	Fittex fl-iskenjar kollha
+Suche löschen	Battal it-tfittxija
+%d Treffer	%d riżultati
+Alle Scans	L-iskenjar kollha
+Nichts gefunden	Ma nstab xejn
+Weder ein Name noch ein erkannter Text passt zu „%s“.	La isem u lanqas test rikonoxxut ma jaqblu ma' „%s“.
+Ordner ist leer	Il-folder huwa vojt
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Mexxi l-iskenjar hawn: żomm subgħajk fuq skenjar u agħżel „Mexxi għal folder“.
+Noch keine Scans	Għad m'hemmx skenjar
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Agħfas „Skenja“ biex tieħu ritratti tal-paġni,\njew importa ritratti mill-gallerija.
+Ordnername	Isem il-folder
+Neuer Ordner	Folder ġdid
+%d Scans zusammenführen?	Tgħaqqad %d skenjar?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Il-paġni kollha jiżdiedu ma' „%s“ fl-ordni tal-għażla. L-iskenjar l-oħra mbagħad jisparixxu.
+%d prüfen	Iċċekkja %d
+Wird verarbeitet (%d/%d)	Qed jiġi pproċessat (%d/%d)
+Als PDF teilen	Aqsam bħala PDF
+Kategorie ändern	Ibdel il-kategorija
+Kein Ordner	L-ebda folder
+Neuer Ordner …	Folder ġdid …
+Kategorie	Kategorija
+Download fehlgeschlagen: %s	It-tniżżil falla: %s
+keine Verbindung	l-ebda konnessjoni
+Sprachen der Texterkennung	Lingwi tar-rikonoxximent tat-test
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Il-lingwi magħżula jiġu rikonoxxuti flimkien – agħżel biss dawk meħtieġa, kull lingwa żejda tnaqqas il-veloċità tar-rikonoxximent. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Il-lingwi neqsin jitniżżlu darba waħda (madwar 2–15 MB) u wara jaħdmu offline.
+Wird geladen … %d %%	Qed jitniżżel … %d %%
+Enthalten	Inkluż
+Geladen · %s	Imniżżel · %s
+Nicht geladen	Mhux imniżżel
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Agħfas biex tagħżel · żomm u kaxkar biex tmexxi
+Neuer Scan	Skenjar ġdid
+Verschieben nach …	Mexxi għal …
+Kopieren nach …	Ikkopja għal …
+Seite %d von %d	Paġna %d minn %d
+Filter	Filtru
+Zuschnitt	Qtugħ
+Signieren	Iffirma
+Code	Kodiċi
+Link	Link
+E-Mail	Email
+Telefonnummer	Numru tat-telefon
+Ort	Post
+Produktcode	Numru tal-oġġett
+Netzwerk: %s	Netwerk: %s
+Passwort: %s	Password: %s
+Verschlüsselung: %s	Kriptaġġ: %s
+Passwort kopieren	Ikkopja l-password
+Verbinden	Qabbad
+E-Mail schreiben	Ikteb email
+Anrufen	Ċempel
+In Karten öffnen	Iftaħ f'Maps
+Suche sensible Daten…	Qed jitfittxu data sensittiva…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Ma nstab xejn sensittiv. Kaxkar subgħajk fuq żoni li għandhom jinħbew.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Instab – agħfas biex tagħżel jew tneħħi l-għażla, kaxkar aktar żoni:
+Schwarzer Balken	Strixxa sewda
+Verpixeln	Pikselizza
+Unkenntlich machen (%d)	Aħbi (%d)
+Manuell	Manwali
+Gesicht	Wiċċ
+Kein WLAN	L-ebda Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Qabbad il-mowbajl u l-kompjuter mal-istess Wi-Fi (jew il-kompjuter mal-hotspot tal-mowbajl). L-indirizz imbagħad jidher hawn.
+Am PC im Browser öffnen	Iftaħ fil-browser tal-kompjuter
+QR-Code der Adresse	Kodiċi QR tal-indirizz
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Daħħal l-indirizz jew skenja l-kodiċi QR bil-kamera tal-kompjuter. Hemmhekk tista' tniżżel l-iskenjar kollha bħala PDF jew test.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Fin-netwerk lokali biss u biss sakemm dan l-iskrin ikun miftuħ. Xejn ma jintbagħat fuq l-internet.
+Heruntergeladen	Imniżżel
+App-Sperre nicht möglich	Il-qfil tal-app mhux possibbli
+Sprache	Lingwa
+Sprache der App	Lingwa tal-app
+Aufnahme	Ritratti
+Doppelseiten im Dokument-Modus	Paġni doppji fil-modalità dokument
+Automatisch teilen	Aqsam awtomatikament
+Nie teilen	Qatt ma taqsam
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Jieħu r-ritratt hekk kif il-paġna tkun ferma fil-vista.
+Buch-Modus	Modalità ktieb
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Jirrikonoxxi meta tinqaleb paġna u jieħu r-ritratt hekk kif il-ktieb jerġa' jkun fermu.
+Leserichtung	Direzzjoni tal-qari
+Links → rechts	Xellug → lemin
+Rechts → links	Lemin → xellug
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Lemin → xellug għall-Għarbi, Ebrajk, Persjan u Ġappuniż: il-paġna tal-lemin tiġi l-ewwel.
+Fernauslöser	Xutter remot
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Qabbad xutter Bluetooth tal-kamera (eż. „AB Shutter 3“) fis-settings tal-Bluetooth ta' Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Fil-kamera mbagħad jieħdu r-ritratt hu u l-buttuni tal-volum.
+Bild	Immaġni
+Standardfilter	Filtru awtomatiku
+Handschrift entfernen	Neħħi l-kitba bl-idejn
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Ineħħi noti b'pinna blu/ħamra u lapes. Ineħħi wkoll stampar f'dawn il-kuluri.
+Texterkennung	Rikonoxximent tat-test
+Sprachen	Lingwi
+Sicherheit & Speicher	Sigurtà u ħażna
+App-Sperre	Qfil tal-app
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Iftaħ fil-bidu b'marka tas-saba', wiċċ jew qfil tal-iskrin. Il-kontenut ma jidhirx fil-ħarsa ġenerali tal-apps.
+Belegung, Backup als ZIP, Wiederherstellen	Użu, backup bħala ZIP, restawr
+Gelöschte Scans werden nach 30 Tagen entfernt	L-iskenjar imħassra jitneħħew wara 30 jum
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	L-immaġnijiet u t-testi kollha jibqgħu fuq dan l-apparat. L-internet jintuża biss biex jitniżżlu lingwi darba waħda, jekk ikollok.
+Über	Dwar l-app
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Komponenti open source: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (kollha Apache License 2.0); ML Kit (traduzzjoni, rikonoxximent tal-wiċċ, fuq l-apparat).
+Unterschrift zeichnen	Iġbed firma
+Mit dem Finger unterschreiben	Iffirma b'subgħajk
+Unterschrift platzieren	Poġġi l-firma
+Neu zeichnen	Erġa' iġbed
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Mexxi b'saba' wieħed, ibdel id-daqs b'żewġ subgħajn.
+Unterschrift	Firma
+Belegt von Ultimate PDF Scanner	Użat minn Ultimate PDF Scanner
+%s frei auf dem Gerät	%s liberu fuq l-apparat
+Seiten	Paġni
+Originalfotos	Ritratti oriġinali
+Zwischenspeicher	Cache
+Platz schaffen	Illibera l-ispazju
+Exportierte Dateien zum Teilen	Fajls esportati għall-qsim
+Gelöschte Scans der letzten 30 Tage	Skenjar imħassra tal-aħħar 30 jum
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Il-paġni lesti jibqgħu, iżda l-qtugħ ma jistax jinbidel wara.
+Größte Scans	L-akbar skenjar
+Sicherung	Backup
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Issejvja l-iskenjar kollha f'fajl ZIP wieħed – eż. fuq karta SD, USB stick jew kompjuter. Xejn ma jintbagħat fuq l-internet.
+Papierkorb mitsichern	Inkludi l-iskart
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-backup_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Waqt ir-restawr jiżdiedu biss l-iskenjar neqsin.
+Originalfotos entfernen?	Tneħħi r-ritratti oriġinali?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Jiffranka %s. Il-paġni ma jkunux jistgħu jerġgħu jinqatgħu, „Erġa' skenja“ jibqa' possibbli.
+Text bearbeiten · Seite %d	Editja t-test · paġna %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Il-korrezzjonijiet jidħlu fit-tfittxija u fis-saff tat-test tal-PDF.
+Kein Text erkannt – hier eintippen	L-ebda test rikonoxxut – iktbu hawn
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	L-iskenjar imħassra jitneħħew għal dejjem wara %d jum.
+Papierkorb ist leer	L-iskart huwa vojt
+Endgültig löschen	Ħassar għal dejjem
+Papierkorb leeren?	Tbattal l-iskart?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d skenjar se jitħassru għal dejjem. Dan ma jistax jitreġġa' lura.
+Endgültig löschen?	Tħassar għal dejjem?
+„%s“ wird sofort gelöscht.	„%s“ se jitħassar minnufih.
+noch 1 Tag	Fadal jum wieħed
+noch %d Tage	Fadal %d jum
+Quittung	Irċevuta
+Quittungen	Irċevuti
+Rechnung	Fattura
+Rechnungen	Fatturi
+Visitenkarte	Biljett tan-negozju
+Visitenkarten	Biljetti tan-negozju
+Vertrag	Kuntratt
+Verträge	Kuntratti
+Brief	Ittra
+Briefe	Ittri
+Ausweis	Karta tal-identità
+Ausweise	Karti tal-identità
+Buch	Ktieb
+Bücher	Kotba
+Passfoto	Ritratt tal-passaport
+Passfotos	Ritratti tal-passaport
+Dokument	Dokument
+Dokumente	Dokumenti
+Auflösung	Riżoluzzjoni
+Kompression	Kompressjoni
+Gering	Baxxa
+Stark	Għolja
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi u kompressjoni baxxa għall-ipprintjar u l-arkivjar, 150 dpi u kompressjoni għolja għall-email.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Jagħmel il-PDFs jistgħu jitfittxu u t-test jista' jiġi kkupjat. Mitfi: ipproċessar aktar mgħaġġel, PDF bħala immaġni biss.
+Keine Seite erkannt	L-ebda paġna rikonoxxuta
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	It-tarf tal-paġna ma nstabx – intuża r-ritratt kollu.
+Unscharf	Mċajpar
+Das Foto ist verwackelt oder unscharf.	Ir-ritratt huwa mċaqlaq jew mċajpar.
+Zu dunkel	Skur wisq
+Die Seite ist schlecht ausgeleuchtet.	Il-paġna hija mdawla ħażin.
+Text schlecht lesbar	It-test jinqara b'diffikultà
+Die Texterkennung war unsicher.	Ir-rikonoxximent tat-test ma kienx ċert.
+Kein Text erkannt	L-ebda test rikonoxxut
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Ma nstab l-ebda test fuq il-paġna – paġna vojta jew l-ebda paġna fir-ritratt?
+Hindi	Ħindi
+Bengalisch	Bengali
+Urdu	Urdu
+Indonesisch	Indoneżjan
+Seite erkennen	Irrikonoxxi l-paġna
+Seite entzerren	Iddrittja l-paġna
+Finger entfernen	Neħħi s-swaba'
+Schärfe prüfen	Iċċekkja l-preċiżjoni
+Ausrichtung	Orjentazzjoni
+Bild verbessern	Tejjeb l-immaġni
+Speicherort	Post tal-ħażna
+Speicherort für Exporte	Post tal-ħażna għall-esportazzjoni
+Jedes Mal fragen	Staqsi kull darba
+Ordner wählen …	Agħżel folder …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	„Issejvja“ jpoġġi l-PDFs u esportazzjonijiet oħra direttament f'dan il-folder mingħajr ma jistaqsi kull darba. Tista' tuża wkoll karta SD.
+Gespeichert in „%s“	Issejvjat f'„%s“
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Il-post tal-ħażna mhux aċċessibbli. Erġa' agħżlu.
+Neu aufnehmen	Erġa' ħu
+Um 90° links drehen	Dawwar 90° lejn ix-xellug
+Seite gelöscht	Paġna mħassra
+Lange drücken: neu aufnehmen, drehen oder löschen	Żomm: erġa' ħu, dawwar jew ħassar
+Ersetzt beide Seiten	Jissostitwixxi ż-żewġ paġni
+Ränder bereinigen	Naddaf it-truf
+Scan-Qualität	Kwalità tal-iskenjar
+Schnell	Mgħaġġla
+Standard	Standard
+Genau	Preċiża
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Għal tipa kbira u ċara bħal ittri u stampar: immaġnijiet iżgħar, l-aktar ipproċessar mgħaġġel.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Għal kotba u ħafna dokumenti: rikonoxximent tajjeb b'veloċità normali.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Għal tipa żgħira, kotba qodma, noti f'qiegħ il-paġna u formuli: riżoluzzjoni sħiħa tal-kamera, aktar bil-mod, aktar memorja.
+BILD	RITRATT
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Poġġi r-ritratt ċatt · mingħajr flash · evita r-riflessi
+an	mixgħul
+aus	mitfi
+Automatische Auslösung an: nach dem Umblättern	Ritratt awtomatiku mixgħul: wara li tqaleb paġna
+Automatische Auslösung an: sobald die Seite ruhig liegt	Ritratt awtomatiku mixgħul: hekk kif il-paġna tkun ferma
+Automatische Auslösung aus	Ritratt awtomatiku mitfi
+PDF & Export	PDF u esportazzjoni
+Speicherort für PDFs und Bilder	Post tal-ħażna għal PDFs u immaġnijiet
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Waqt l-esportazzjoni dan jista' jinbidel għal fajls individwali.
+Weitere Optionen …	Aktar għażliet …
+Automatische Verbesserung	Titjib awtomatiku
+Schatten und Artefakte entfernen, Schrift schärfen	Neħħi d-dellijiet u d-difetti, ippreċiża t-tipa
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Neħħi d-dellijiet u d-difetti, ippreċiża t-tipa. Jista' jintefa għal kull dokument.
+unkorrigiert	mhux ikkoreġut
+Maximal	Massimu
+Bildqualität	Kwalità tal-immaġni
+volle Auflösung	riżoluzzjoni sħiħa
+Briefe, Ausdrucke, große Schrift	Ittri, stampar, tipa kbira
+Bücher und die meisten Dokumente (empfohlen)	Kotba u ħafna dokumenti (rakkomandat)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Tipa żgħira, formuli, kotba qodma – aktar bil-mod
+Gilt auch für alle weiteren Scans.	Japplika wkoll għall-iskenjar kollha li jmiss.
+Ändern	Ibdel
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Fejn „Issejvja“ jpoġġi l-esportazzjonijiet tiegħek. „Aqsam“ mhux affettwat.
+Ordner und Dateiname beim Speichern wählen	Agħżel folder u isem tal-fajl meta tissejvja
+Exporte landen direkt hier	L-esportazzjonijiet imorru direttament hawn
+Anderen Ordner wählen …	Agħżel folder ieħor …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Ukoll karti SD u folders tal-cloud, jekk huma installati fuq l-apparat.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	L-aċċess permanenti għal dan il-folder mhux possibbli.
+Sehr hohe Auflösung	Riżoluzzjoni għolja ħafna
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	B'%d MP l-ipproċessar ta' kull paġna jieħu ħafna aktar żmien u jeħtieġ ħafna memorja. „Standard“ huwa biżżejjed għal ħafna dokumenti. „Massimu“ jiswa biss għal tipa żgħira ħafna.
+Trotzdem verwenden	Uża xorta
+langsam	bil-mod
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	L-ebda xutter remot imqabbad – qabbdu fis-settings tal-Bluetooth
+Mit dem Fernauslöser auslösen	Ħu r-ritratt bix-xutter remot
+Umblättern	Tqallib tal-paġni
+Auto 0,7 s	Awto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Itemm ir-ritratti. Il-paġni diġà meħuda jibqgħu u jiġu pproċessati.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Jixgħel jew jitfi t-torċa. Il-karta tleqq l-aħjar tittieħed mingħajr dawl u b'angolu mit-tieqa.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Juża ritratti eżistenti minflok ritratti ġodda.
+Serie	Serje
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Jibda jew iwaqqaf is-serje: it-timer imbagħad jieħu ritratt awtomatikament kull ftit sekondi.
+Auslöser	Xutter
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Jieħu ritratt. Il-buttuni tal-volum u xutter Bluetooth jieħdu ritratt ukoll.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Itemm ir-ritratti u jiftaħ il-ħarsa ġenerali; in-numru juri r-ritratti ta' din is-sessjoni.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Kemm pixels għandu kull ritratt. Mgħaġġla (5 MP) għal tipa kbira, Standard (12 MP) għal kważi kollox, Massimu għal tipa żgħira u formuli – jieħu aktar żmien.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Agħfas biex tibdel: mitfi, 3, 5 jew 10 sekondi. Ix-xutter imbagħad jibda serje b'ritratt f'dan l-intervall – utli għall-kotba.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Jieħu ritratt biss meta tagħfas ix-xutter.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Jieħu ritratt waħdu hekk kif il-paġna tkun ferma għal 0,7 sekondi. Fil-modalità ktieb: wara kull tqallib ta' paġna, hekk kif il-ktieb jerġa' jkun fermu.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Jieħu ritratt b'xutter Bluetooth (eż. „AB Shutter 3“). L-ewwel qabbad ix-xutter fis-settings tal-Bluetooth tal-mowbajl.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Jagħti lid-dokument isem tiegħu; jintuża wkoll bħala isem il-fajl waqt l-esportazzjoni.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Aqleb id-direzzjoni tal-qari tal-paġni doppji, ittraduċi fuq l-apparat jew ħassar l-iskenjar.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Jiftaħ il-kamera u jżid aktar paġni ma' dan id-dokument.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Jieħu ritratti mill-gallerija bħala paġni ġodda; jinqatgħu u jiġu rikonoxxuti bħal ritratti tal-kamera.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Ibdel l-ordni billi tkaxkar; agħżel paġni biex iddawwarhom, tmexxihom, tikkopjahom, tisseparahom jew tħassarhom.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Aqsam, issejvja jew ipprintja bħala PDF, Word, immaġnijiet, ZIP, test jew tabella.
+Farbe, Graustufen, Schwarz-Weiß	Kulur, skala griża, iswed u abjad
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Jibdel il-paġni kollha ta' dan id-dokument. Iswed u abjad jagħti l-iżgħar fajls, il-kulur jirriproduċi r-ritratti u t-timbri fedelment.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Mixgħul: id-dellijiet, it-tebgħat u d-difetti jitneħħew u t-tipa ssir aktar preċiża. Mitfi: il-paġni jinqatgħu u jiddrittjaw biss – għal ritratti, tpinġijiet jew meta t-titjib ifixkel xi ħaġa.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Joħloq il-fajl u jgħaddih lil app, eż. email, messaġġier jew cloud.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Ipoġġi l-fajl fil-post tal-ħażna – f'folder fiss jew, b'„Staqsi kull darba“, fejn tpoġġih int.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Jipprintja bis-servizz tal-ipprintjar ta' Android; hemmhekk tista' tagħżel ukoll „Issejvja bħala PDF“.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Fejn „Issejvja“ jpoġġi l-fajls: staqsi kull darba jew dejjem f'folder fiss, ukoll fuq karta SD jew f'folder tal-cloud.
+Hilfe & Anleitung	Għajnuna u gwida
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Ħjiel: żomm buttuna għal sekonda biex tara x'tagħmel.
+Startseite	Bidu
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Jiftaħ il-kamera. Ir-ritratti kollha ta' sessjoni waħda jidħlu f'dokument wieħed komuni.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	L-ikona tal-gallerija fuq „Skenja“ tieħu ritratti eżistenti; jinqatgħu u jiġu rikonoxxuti bħal ritratti tal-kamera.
+Suchen	Fittex
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Isib l-iskenjar skont l-isem u t-test rikonoxxut, bin-numru tal-paġna.
+Ordner und Kategorien	Folders u kategoriji
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Il-folders jorganizzaw l-iskenjar. Il-kategoriji (kotba, irċevuti …) jidhru awtomatikament hekk kif jeżistu skenjar ta' dak it-tip.
+Mehrere Scans	Diversi skenjar
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Żomm subgħajk fuq skenjar: agħżel, għaqqad, mexxi għal folder jew ħassar.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	L-iskenjar imħassra jibqgħu fl-iskart (menu ⋮) għal 30 jum u jistgħu jiġu rrestawrati.
+Modi	Modalitajiet
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Agħżel isfel: Dokument (folji individwali), Ktieb (il-paġni doppji jinqasmu f'żewġ paġni), Karta tal-identità (quddiem u wara f'daqs reali fuq folja waħda), Biljett tan-negozju (il-kuntatt jiġi rikonoxxut), Ritratt (kuluri fedeli, mingħajr rikonoxximent tat-test), Ritratt tal-passaport (kamera ta' quddiem, 35 × 45 mm) u kodiċi QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Fuq ix-xellug: Mgħaġġla (5 MP) għal tipa kbira, Standard (12 MP) għal kważi kollox, Massimu għal tipa żgħira u formuli – aktar bil-mod.
+Auslösung	Ritratti
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manwali: bix-xutter. Awto 0,7 s: hekk kif il-paġna tkun ferma għal 0,7 sekondi; fil-modalità ktieb wara kull tqallib ta' paġna. Bluetooth: b'xutter imqabbad. Il-buttuni tal-volum dejjem jieħdu ritratt.
+Timer und Licht	Timer u dawl
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	L-ikona tal-arloġġ tieħu ritratt kull 3, 5 jew 10 sekondi (tibda bix-xutter). Il-flash jixgħel it-torċa.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Agħfas il-miniatura isfel fuq il-lemin: il-paġni jiġu pproċessati u tiftaħ il-ħarsa ġenerali.
+Gute Fotos	Ritratti tajbin
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Poġġi l-paġna ċatta u mdawla b'mod uniformi, żomm il-mowbajl parallel. Sfond b'kulur differenti mill-karta jgħin fil-qtugħ.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Japplika għall-paġni kollha tad-dokument. Il-paġni individwali jistgħu jiġu ssettjati differenti fil-vista tal-paġna.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Ineħħi d-dellijiet u d-difetti u jagħmel it-tipa aktar preċiża. Meta jkun mitfi l-paġna tinqata' u tiddrittja biss.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Agħfas biex tiftaħ il-paġna. Żomm: erġa' ħu, dawwar jew ħassar. Il-paġni mmarkati bl-oranġjo għandhom jiġu ċċekkjati (eż. imċajpra), dawk ħomor fallew.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Ibdel l-ordni billi tkaxkar, dawwar diversi paġni, mexxihom jew ikkopjahom f'dokument ieħor, jew isseparahom bħala dokument ġdid.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, immaġnijiet, ZIP, test jew tabella – aqsam, issejvja jew ipprintja.
+Mehr (⋮)	Aktar (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Aqleb id-direzzjoni tal-qari tal-paġni doppji, ittraduċi fuq l-apparat jew ħassar l-iskenjar. Il-lapes fuq jibdel l-isem.
+Seitenansicht	Vista tal-paġna
+Blättern und Zoomen	Ibbrawżja u żum
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Iżlaq biex tibdel il-paġna; agħfas darbtejn jew uża żewġ subgħajn biex tagħmel żum.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Kulur, skala griża jew iswed u abjad għal din il-paġna biss, bi previżjoni. Taħtha hemm it-titjib awtomatiku ta' din il-paġna.
+Drehen und Zuschnitt	Dawwar u aqta'
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Dawwar b'90°. Aqta': erġa' poġġi l-kantunieri tal-paġna fuq ir-ritratt oriġinali.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Ikteb fuq il-paġna b'pinna, highlighter jew test.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Agħmel id-data sensittiva illeġibbli – bi strixxi jew pikselizzata. In-numri tal-kont, in-numri tal-karti u l-uċuħ jiġu proposti.
+Signieren und Text	Firma u test
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Iffirma jdaħħal il-firma ssejvjata tiegħek. Test juri t-test rikonoxxut biex tikkoreġih u tikkopjah.
+Formate	Formati
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (jista' jitfittex), Word, immaġnijiet (JPG), ZIP, test, Excel jew CSV; għall-biljetti tan-negozju wkoll bħala kuntatt.
+PDF-Optionen	Għażliet tal-PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Il-format tal-paġna, ir-riżoluzzjoni u l-kompressjoni jiddeterminaw il-kwalità u d-daqs tal-fajl – id-daqs jiġi stmat fuq il-lemin. Mhux obbligatorju b'password (AES-256).
+Teilen oder Speichern	Aqsam jew issejvja
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Aqsam jibgħat il-fajl lil app (email, messaġġier …). Issejvja jpoġġih fil-post tal-ħażna.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	„Staqsi kull darba“ jiftaħ l-għażla tal-folder meta tissejvja. B'folder fiss l-esportazzjonijiet imorru hemm mingħajr mistoqsija – ukoll fuq karta SD jew f'folder tal-cloud.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Jipprintja bis-servizz tal-ipprintjar ta' Android jew jissejvja bħala PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Kwalità tal-immaġni, ritratti u qsim tal-paġni doppji għal skenjar ġodda. Fil-kamera dawn jistgħu jinbidlu f'kull ħin.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtru u titjib awtomatiku li bihom jibdew dokumenti ġodda.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Jagħmel il-PDFs jistgħu jitfittxu. Il-lingwi jiddeterminaw liema karattri jiġu rikonoxxuti.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Post tal-ħażna u valuri awtomatiċi għar-riżoluzzjoni, il-kompressjoni u l-format tal-paġna.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Qfil tal-app b'marka tas-saba', backup bħala ZIP u l-iskart.
+Ecken setzen	Poġġi l-kantunieri
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Iġbed l-erba' kantunieri lejn it-truf tal-paġna; il-lenti turi l-post taħt subgħajk ikkabbar.
+Einzel- oder Doppelseite	Paġna waħda jew doppja
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Agħżel isfel jekk ir-ritratt juri paġna waħda jew ktieb miftuħ. Awtomatiku jħalli lill-app tiddeċiedi.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Il-marka ta' kontroll fuq tipproċessa l-paġna bil-qtugħ il-ġdid.
+Werkzeuge	Għodod
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Pinna biex tikteb, highlighter biex timmarka, test għal noti ttajpjati. Il-kuluri huma isfel.
+Korrigieren	Ikkoreġi
+Rückgängig nimmt den letzten Strich zurück.	Neħħi l-aħħar azzjoni jneħħi l-aħħar linja.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Jikteb il-bidliet fil-paġna. Mingħajr ma tissejvja l-paġna tibqa' l-istess.
+Vorschläge	Proposti
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	In-numri tal-kont, in-numri tal-karti, in-numri tal-identità u l-uċuħ misjuba huma mmarkati – agħfas biex tneħħi l-għażla jew terġa' tagħżel.
+Eigene Bereiche	Żoni tiegħek
+Mit dem Finger weitere Rechtecke aufziehen.	Iġbed aktar rettangoli b'subgħajk.
+Balken oder Pixel	Strixxi jew pixels
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Strixxa sewda jew pikselizzazzjoni. It-test taħtha jitneħħa wkoll mir-rikonoxximent tat-test u mill-PDF.
+Zeichnen	Iġbed
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Iffirma darba waħda b'subgħajk – il-firma tiġi ssejvjata fuq l-apparat.
+Platzieren	Poġġi
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Mexxi b'saba' wieħed, ibdel id-daqs b'żewġ subgħajn u mbagħad daħħal.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	L-ikona tal-lapes fuq tissostitwixxi l-firma ssejvjata.
+Text bearbeiten	Editja t-test
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	It-test rikonoxxut tal-paġna jinsab isfel u jista' jiġi editjat. Fuq hemm l-immaġni tal-paġna għat-tqabbil.
+Wirkung	Effett
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Il-korrezzjonijiet jidħlu fit-tfittxija, fis-saff tat-test tal-PDF u fl-esportazzjoni lejn Word u test.
+Holt einen gelöschten Scan zurück.	Iġib lura skenjar imħassar.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	L-iskenjar jitneħħew awtomatikament wara 30 jum. „Battal“ iħassar kollox minnufih.
+Belegung	Użu
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Juri kemm spazju jieħdu l-iskenjar, ir-ritratti oriġinali, l-iskart u l-cache.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	It-tneħħija tar-ritratti oriġinali tiffranka ħafna spazju; il-paġni lesti jibqgħu, il-qtugħ biss ma jibqax jista' jinbidel.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Issejvja l-iskenjar kollha bħala fajl ZIP u rrestawrahom fuq dan l-apparat jew fuq ieħor. Xejn ma jintbagħat fuq l-internet.
+Auswahl	Għażla
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Agħżel il-lingwi tad-dokumenti tiegħek. Kull lingwa żejda tnaqqas il-veloċità tar-rikonoxximent.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Il-lingwi neqsin jitniżżlu darba waħda u wara jaħdmu offline.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Qabbad il-mowbajl u l-kompjuter mal-istess Wi-Fi (jew il-kompjuter mal-hotspot tal-mowbajl).
+Herunterladen	Niżżel
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Iftaħ l-indirizz muri fil-browser tal-kompjuter jew skenja l-kodiċi QR; hemmhekk tista' tniżżel l-iskenjar kollha bħala PDF jew test.
+Sicherheit	Sigurtà
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Jaħdem biss fin-netwerk lokali u biss sakemm dan l-iskrin ikun miftuħ.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Lingwa, kwalità tal-immaġni, ritratti, rikonoxximent tat-test, post tal-ħażna, qfil tal-app u backup.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Jieħu ritratti mill-gallerija bħala dokument ġdid; jinqatgħu u jiġu rikonoxxuti bħal ritratti tal-kamera.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Jiftaħ il-kamera. Ir-ritratti kollha ta' sessjoni waħda jidħlu f'dokument wieħed komuni.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Iħassar din il-paġna mid-dokument (wara konferma).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Kulur, skala griża jew iswed u abjad u t-titjib awtomatiku għal din il-paġna biss.
+Dreht die Seite um 90° im Uhrzeigersinn.	Idawwar il-paġna b'90° lejn il-lemin.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Erġa' poġġi l-kantunieri tal-paġna fuq ir-ritratt oriġinali jekk jonqos xi tarf jew jidher l-isfond.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Agħmel id-data sensittiva illeġibbli bi strixxi jew pixels; tisparixxi wkoll mit-test tal-PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Ipoġġi l-firma ssejvjata tiegħek fuq il-paġna; l-ewwel darba tiġbidha.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Juri t-test rikonoxxut tal-paġna biex tikkoreġih u tikkopjah.
+Fotografiert beim Tippen auf den Auslöser.	Jieħu ritratt meta tagħfas ix-xutter.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Jieħu ritratt hekk kif il-paġna tkun ferma għal 0,7 s; fil-modalità ktieb wara kull tqallib ta' paġna.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Jieħu ritratt b'xutter Bluetooth imqabbad.
+Lautstärketasten lösen immer aus.	Il-buttuni tal-volum dejjem jieħdu ritratt.
+Word erstellen, Formeln erkennen (%d/%d)	Qed jinħoloq il-Word, qed jingħarfu l-formuli (%d/%d)
+Belarussisch	Belarussu
+Bulgarisch	Bulgaru
+Serbisch	Serb
+Mazedonisch	Maċedonjan
+Kein Link im geteilten Text	M’hemm l-ebda link fit-test kondiviż
+Import fehlgeschlagen: %s	L-importazzjoni falliet: %s
+Link laden	Qed jitgħabba l-link
+Unter dem Link liegt keine PDF- oder Bilddatei.	Il-link ma jwassalx għal fajl PDF jew stampa.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Jistgħu jiġu importati biss fajls PDF u stampi.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Fajls PDF protetti ma jistgħux jiġu importati.
+PDF-Seite %d/%d importieren	Qed tiġi importata l-paġna PDF %d/%d
+Auto %s s	Awto %s s
+Auslösen nach %s s	Ritratt wara %s s
+Wartezeit	Ħin ta’ stennija
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Kemm il-paġna trid tibqa’ wieqfa qabel ir-ritratt awtomatiku. Iqsar huwa aktar mgħaġġel, itwal jagħti inqas ritratti mċajpra.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Jieħu r-ritratt waħdu hekk kif il-paġna tkun wieqfa; il-ħin ta’ stennija (0,2–1,5 s) issettjah hawn taħt. Fil-modalità ktieb: wara kull qlib ta’ paġna, hekk kif il-ktieb jerġa’ jkun wieqaf.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Iżid ritratti, screenshots, fajls PDF jew link bħala paġni oħra; ir-ritratti jinqatgħu, kollox jingħaraf.
+Senden an …	Ibgħat lil …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Fejn „Issejvja“ ipoġġi l-esportazzjonijiet. „Ibgħat lil …“ huwa indipendenti minn dan.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Agħżel subfolder, eż. „Documents“ – Android ma jippermettix il-folder ewlieni tal-ħażna.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Joħloq il-fajl u jibagħtu lil app, eż. WhatsApp, email, Telegram jew ħażna cloud.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manwali: bil-buttuna tar-ritratt. Awto: hekk kif il-paġna tkun wieqfa – il-ħin ta’ stennija (0,2–1,5 s, default 0,7 s) issettjah fit-tieqa tal-iskennjar taħt is-swiċċ; fil-modalità ktieb wara kull qlib ta’ paġna. Bluetooth: b’kontroll remot imqabbad. Il-buttuni tal-volum dejjem jieħdu ritratt.
+Senden an oder Speichern	Ibgħat jew issejvja
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Ibgħat lil …“ jibgħat il-fajl lil app (WhatsApp, email, Telegram, cloud …). Issejvja jpoġġih fil-post tal-ħażna.
+Importieren	Importa
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Jieħu ritratti, screenshots, fajls PDF jew link bħala dokument ġdid; ir-ritratti jinqatgħu, kollox jingħaraf.
+Bilder aus der Galerie	Stampi mill-gallerija
+Fotos und Screenshots	Ritratti u screenshots
+Dateien	Fajls
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Fajls PDF u stampi, eż. minn Downloads jew mis-cloud
+Eine PDF- oder Bilddatei aus dem Internet	Fajl PDF jew stampa mill-internet
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Imbagħad bħal paġni skennjati: għarfien tat-test, traduzzjoni u esportazzjoni għal kull format.
+Link importieren	Importa link
+Internetadresse	Indirizz web
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Jieħu ritratt hekk kif il-paġna tkun wieqfa għal %s s (jista’ jiġi aġġustat fit-tieqa tal-iskennjar); fil-modalità ktieb wara kull qlib ta’ paġna.
+Fachwörterbuch laden	Qed jitgħabba l-glossarju
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Nieqes il-glossarju għal %s jew %s – tradott mingħajr termini speċjalizzati
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Mhux fajl ta’ glossarju (glossary-xx.tsv.gz)
+Download nicht verfügbar	It-tniżżil mhux disponibbli
+Estnisch	Estonjan
+Irisch	Irlandiż
+Litauisch	Litwan
+Lettisch	Latvjan
+Maltesisch	Malti
+Slowakisch	Slovakk
+Slowenisch	Sloven
+Ohne Fachwörterbuch	Mingħajr glossarju
+Alle Fachgebiete	L-oqsma kollha
+Fachgebiet: %s	Qasam: %s
+Fachwörterbücher verwalten …	Immaniġġja l-glossarji …
+Fachwörterbücher	Glossarji
+Aus Datei importieren	Importa minn fajl
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	It-termini speċjalizzati tal-liġi, il-mediċina, l-inġinerija, l-ekonomija u 17-il qasam ieħor (IATE, il-bażi tad-data terminoloġika tal-UE) jinżammu eżatti fit-traduzzjoni. Hemm bżonn il-glossarju tal-lingwa sors u tal-lingwa mira, 0.3–9 MB kull wieħed.
+Einmal laden, danach offline.	Niżżel darba, imbagħad offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importa fajls glossary-xx.tsv.gz bl-ikona tal-folder fuq.
+Fachwörterbücher für die Übersetzung	Glossarji għat-traduzzjoni
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Liġi, mediċina, inġinerija u aktar – 24 lingwa tal-UE
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Ir-ritratti u t-testi kollha jibqgħu fuq dan l-apparat. L-internet jintuża biss biex jitniżżlu darba lingwi, mudelli tat-traduzzjoni u glossarji, meta tibdih int.
+Übersetzen	Ittraduċi
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Toħloq fuq l-apparat kopja tradotta tad-dokument: l-istess paġni u stampi, it-test fil-lingwa fil-mira f’postu. Kull paragrafu jiġi tradott mil-lingwa tiegħu stess. Bl-“Qasam”, it-termini speċjalizzati mill-glossarji jinżammu eżatt.
+Was nachgeladen werden kann	X’jista’ jitniżżel
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Kollox huwa fakultattiv u jitniżżel biss meta tagħfas; wara jaħdem mingħajr internet:\n• Lingwi tar-rikonoxximent tat-test: 1–15 MB kull waħda (Settings › Lingwi). Il-Ġermaniż u l-Ingliż huma inklużi.\n• Ċiniż: mudell ta’ rikonoxximent għalih, madwar 17 MB.\n• Mudelli tat-traduzzjoni: madwar 30 MB kull lingwa, jitniżżlu awtomatikament mal-ewwel traduzzjoni.\n• Glossarji: 0.3–9 MB kull lingwa, madwar 70 MB għall-24 lingwa tal-UE kollha (Settings › Glossarji).\nIl-fajls imniżżla jistgħu jitneħħew f’kull ħin.
+Wozu	Għal xiex
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	It-tradutturi ġenerali ma jafux ħafna termini speċjalizzati jew jittraduċuhom b’mod inkonsistenti. Glossarju jdaħħal it-terminu stabbilit, eż. „Beweislast“ → „oneru tal-prova“.
+Quelle	Sors
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, il-bażi tad-data terminoloġika tal-istituzzjonijiet tal-UE, b’termini minn 21 qasam (liġi, saħħa, inġinerija, ekonomija, ambjent, trasport …). Teżisti għall-24 lingwa uffiċjali tal-UE.
+Was nötig ist	X’hemm bżonn
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Glossarju wieħed għal-lingwa sors u ieħor għal-lingwa mira, eż. Ġermaniż u Ingliż. Glossarju wieħed għal kull lingwa jkopri l-pari kollha.
+Laden oder importieren	Niżżel jew importa
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Niżżel bil-vleġġa (darba, imbagħad offline) jew importa fajl „glossary-xx.tsv.gz“ bl-ikona tal-folder, eż. minn PC jew karta SD.
+Benutzen	Użu
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Meta tittraduċi agħżel il-qasam fuq. „L-oqsma kollha“ juża biss termini li jiġu tradotti l-istess kullimkien.
+Grenzen	Limiti
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	It-termini jiddaħħlu fil-forma bażika tagħhom; il-forom imbiddla mhux dejjem jingħarfu.
+Politik	Politika
+Internationale Beziehungen	Relazzjonijiet internazzjonali
+Europäische Union	Unjoni Ewropea
+Recht	Liġi
+Wirtschaft	Ekonomija
+Handel	Kummerċ
+Finanzwesen	Finanzi
+Soziales und Gesundheit	Kwistjonijiet soċjali u saħħa
+Bildung und Kommunikation	Edukazzjoni u komunikazzjoni
+Wissenschaft	Xjenza
+Unternehmen und Wettbewerb	Negozju u kompetizzjoni
+Beschäftigung und Arbeitsbedingungen	Impjiegi u kundizzjonijiet tax-xogħol
+Verkehr	Trasport
+Umwelt	Ambjent
+Land-, Forst- und Fischereiwirtschaft	Agrikoltura, forestrija u sajd
+Agrarerzeugnisse und Lebensmittel	Prodotti agroalimentari
+Produktion, Technologie und Forschung	Produzzjoni, teknoloġija u riċerka
+Energie	Enerġija
+Industrie	Industrija
+Geografie	Ġeografija
+Internationale Organisationen	Organizzazzjonijiet internazzjonali
+Wenig Licht – Lampe einschalten	Dawl baxx – ixgħel il-lampa
+Verarbeitung mehrfach abgebrochen	L-ipproċessar ġie interrott diversi drabi
+Bearbeitungen gehen verloren	Il-bidliet jintilfu
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Il-paġna terġa’ tinħoloq mir-ritratt. L-oskuramenti, il-firma u n-noti jridu jerġgħu jiżdiedu.
+Neu zuschneiden	Aqta’ mill-ġdid
+Sprachdaten	Data tal-lingwi
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Juri kemm jieħdu spazju l-iskens, ir-ritratti oriġinali, l-iskart, il-cache u d-data tal-lingwi (rikonoxximent tat-test, glossarji).
+Bitte warten, bis alle Seiten erkannt sind	Jekk jogħġbok stenna sakemm il-paġni kollha jiġu rikonoxxuti
+Die Sprache „%s“ kann nicht übersetzt werden	Il-lingwa “%s” ma tistax tiġi tradotta
+Übersetzung in die Seiten setzen	Qed titqiegħed it-traduzzjoni fil-paġni

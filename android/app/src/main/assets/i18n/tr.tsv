@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Önce parmak izi, yüz tanıma veya ekran kilidi ayarlayın.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Bu cihaz biyometrik kilit açmayı desteklemiyor.
+Ultimate PDF Scanner entsperren	Ultimate PDF Scanner kilidini aç
+Deine Scans sind geschützt	Taramalarınız korunuyor
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner kilitli
+Deine Scans bleiben auf diesem Gerät.	Taramalarınız bu cihazda kalır.
+  Entsperren	  Kilidi aç
+Systemsprache	Sistem dili
+Deutsch	Deutsch
+English	English
+Fotos importieren	Fotoğrafları içe aktar
+Texterkennung vorbereiten	Metin tanıma hazırlanıyor
+Ein Foto konnte nicht verarbeitet werden: %s	Bir fotoğraf işlenemedi: %s
+Foto laden	Fotoğrafı yükle
+Foto nicht lesbar	Fotoğraf okunamıyor
+Filter anwenden	Filtreyi uygula
+Schwärzen	Kararat
+Unterschrift einfügen	İmza ekle
+Unterschrift eingefügt	İmza eklendi
+Änderungen einfügen	Değişiklikleri ekle
+Seite bearbeitet	Sayfa düzenlendi
+Text gesichert	Metin kaydedildi
+Zusammenführen	Birleştir
+%d Scans zusammengeführt	Birleştirilen tarama: %d
+Seiten verschieben	Sayfaları taşı
+Seiten kopieren	Sayfaları kopyala
+ (Teil)	 (bölüm)
+Zwischenspeicher leeren	Önbelleği temizle
+Zwischenspeicher geleert	Önbellek temizlendi
+Originalfotos entfernen	Orijinal fotoğrafları kaldır
+Sicherung erstellen	Yedek oluştur
+Sicherung erstellen (%d/%d)	Yedek oluşturuluyor (%d/%d)
+Sicherung gespeichert	Yedek kaydedildi
+Sicherung wiederherstellen	Yedeği geri yükle
+ (%d schon vorhanden)	 (%d zaten var)
+Wiederherstellen fehlgeschlagen: %s	Geri yükleme başarısız: %s
+PDF erstellen (%d/%d)	PDF oluşturuluyor (%d/%d)
+%s erstellen	Oluşturuluyor: %s
+Export fehlgeschlagen: %s	Dışa aktarma başarısız: %s
+%s speichern	Kaydet: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF kaydedildi (parola korumalı, AES-256)
+%s gespeichert	Kaydedildi: %s
+Bilder speichern	Görüntüleri kaydet
+Bilder speichern (%d/%d)	Görüntüler kaydediliyor (%d/%d)
+%d Bilder gespeichert	Kaydedilen görüntü: %d
+Sprache erkennen	Dili algıla
+Kein erkannter Text zum Übersetzen	Çevrilecek tanınmış metin yok
+Sprache nicht erkannt	Dil tanınmadı
+Der Text ist bereits auf %s	Metin zaten şu dilde: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Dil modeli yükleniyor (ilk seferde ~30 MB)
+Übersetzen (%d/%d)	Çeviri (%d/%d)
+Seite %d	Sayfa %d
+Übersetzung fehlgeschlagen: %s	Çeviri başarısız: %s
+1 Bereich unkenntlich gemacht	1 alan karartıldı
+%d Bereiche unkenntlich gemacht	Karartılan alan: %d
+1 Scan wiederhergestellt	1 tarama geri yüklendi
+%d Scans wiederhergestellt	Geri yüklenen tarama: %d
+Server antwortet mit %d	Sunucu %d ile yanıt veriyor
+Datei unvollständig	Dosya eksik
+Nicht gefunden	Bulunamadı
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Telefonda %d tarama · doğrudan Wi-Fi ile, bulut olmadan
+Ausgangssprache „%s“ wird nicht unterstützt	Kaynak dil “%s” desteklenmiyor
+Zielsprache „%s“ wird nicht unterstützt	Hedef dil “%s” desteklenmiyor
+QR-CODE	QR KOD
+AUSWEIS	KİMLİK
+DOKUMENT	BELGE
+BUCH	KİTAP
+VISITENKARTE	KARTVİZİT
+PASSFOTO	VESİKALIK
+PDF	PDF
+Word	Word
+Bilder	Görüntüler
+ZIP	ZIP
+Text	Metin
+Excel	Excel
+CSV	CSV
+Kontakt	Kişi
+Wie gescannt	Tarandığı gibi
+Letter	Letter
+Mittel	Orta
+Englisch	İngilizce
+Französisch	Fransızca
+Italienisch	İtalyanca
+Spanisch	İspanyolca
+Portugiesisch	Portekizce
+Niederländisch	Felemenkçe
+Polnisch	Lehçe
+Tschechisch	Çekçe
+Dänisch	Danca
+Schwedisch	İsveççe
+Norwegisch	Norveççe
+Finnisch	Fince
+Ungarisch	Macarca
+Rumänisch	Romence
+Kroatisch	Hırvatça
+Türkisch	Türkçe
+Griechisch	Yunanca
+Russisch	Rusça
+Ukrainisch	Ukraynaca
+Arabisch	Arapça
+Hebräisch	İbranice
+Persisch	Farsça
+Chinesisch (vereinfacht)	Çince (basitleştirilmiş)
+Japanisch	Japonca
+Koreanisch	Korece
+Latein	Latince
+Deutsch (Fraktur)	Almanca (Fraktur)
+1 Seite	1 sayfa
+%d Seiten	%d sayfa
+1 Scan	1 tarama
+%d Scans	%d tarama
+Abbrechen	İptal
+Bearbeiten	Düzenle
+Zurück	Geri
+Rückgängig	Geri al
+Sichern	Kaydet
+Seite	Sayfa
+Einfügen	Ekle
+Änderungen sichern?	Değişiklikler kaydedilsin mi?
+Verwerfen	Vazgeç
+Schließen	Kapat
+Fertig	Bitti
+Öffnen	Aç
+Keine	Hiçbiri
+Alle	Tümü
+Umbenennen	Yeniden adlandır
+Mehr	Diğer
+Löschen	Sil
+Teilen	Paylaş
+Speichern	Kaydet
+Drucken	Yazdır
+Kopieren	Kopyala
+Drehen	Döndür
+Laden	İndir
+Entfernen	Kaldır
+Verschieben	Taşı
+Name	Ad
+Aus	Kapalı
+Leeren	Boşalt
+Wiederherstellen	Geri yükle
+Text einfügen	Metin ekle
+z. B. Name, Datum …	ör. ad, tarih …
+Kein Gesicht erkannt – bitte noch einmal	Yüz tanınmadı – tekrar deneyin
+Seite erneut scannen	Sayfayı yeniden tara
+Fernauslöser verbunden	Uzaktan deklanşör bağlı
+Nach dem Umblättern auslösen	Sayfa çevrildikten sonra çek
+Leserichtung rechts nach links	Okuma yönü sağdan sola
+Leserichtung links nach rechts	Okuma yönü soldan sağa
+Automatisch auslösen	Otomatik çekim
+Kamera wechseln	Kamerayı değiştir
+Licht	Işık
+Bitte Kamerazugriff erlauben.	Lütfen kamera erişimine izin verin.
+Passfoto wird zugeschnitten …	Vesikalık fotoğraf kırpılıyor …
+Ohne Rückseite fertig	Arka yüz olmadan bitti
+Kein Code im Bild gefunden	Görüntüde kod bulunamadı
+Aus Galerie	Galeriden
+QR-Code oder Barcode in den Rahmen halten	QR kodu veya barkodu çerçevenin içinde tutun
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Yüz ovalin içinde · düz bakın · açık arka plan
+Vorderseite des Ausweises in den Rahmen	Kimliğin ön yüzü çerçeveye
+Jetzt die Rückseite	Şimdi arka yüz
+Visitenkarte in den Rahmen legen	Kartviziti çerçeveye yerleştirin
+Aufgeschlagenes Buch ins Bild halten	Açık kitabı kadrajda tutun
+Doppelseite erkannt	Çift sayfa algılandı
+Umblättern – löst danach automatisch aus	Sayfayı çevirin – ardından otomatik çekilir
+Ruhig halten …	Sabit tutun …
+Ruhig halten – wird automatisch ausgelöst	Sabit tutun – otomatik çekilecek
+Seite ins Bild halten	Sayfayı kadrajda tutun
+Seite erkannt	Sayfa algılandı
+Intervall-Timer	Aralıklı zamanlayıcı
+Serie starten	Seriyi başlat
+Farbe	Renkli
+Graustufen	Gri tonlamalı
+Schwarz-Weiß	Siyah-beyaz
+Original	Orijinal
+Automatisch	Otomatik
+Zuschnitt nicht möglich	Kırpma mümkün değil
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Bu sayfanın orijinal fotoğrafı yer kazanmak için kaldırıldı. “Yeniden tara” ile sayfa yeniden çekilebilir.
+Zuschnitt anpassen	Kırpmayı ayarla
+Übernehmen	Uygula
+Einzelseite	Tek sayfa
+Doppelseite	Çift sayfa
+Auto	Otomatik
+  Automatisch	  Otomatik
+Ecken auf die Seitenränder ziehen	Köşeleri sayfa kenarlarına sürükleyin
+Seiten ordnen	Sayfaları düzenle
+%d ausgewählt	%d seçildi
+Filter für alle Seiten	Tüm sayfalar için filtre
+Leserichtung umkehren	Okuma yönünü ters çevir
+Übersetzen…	Çevir…
+Scan löschen	Taramayı sil
+Scannen	Tara
+Import	İçe aktar
+Ordnen	Düzenle
+Exportieren	Dışa aktar
+Übersetzen in …	Şu dile çevir …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Çeviri cihazda yapılır. İlk seferde dil modeli bir kez indirilir.
+Übersetzung teilen	Çeviriyi paylaş
+Scan löschen?	Tarama silinsin mi?
+„%s“ wird endgültig gelöscht.	“%s” kalıcı olarak silinecek.
+Kontakt erkannt	Kişi tanındı
+Zu Kontakten	Kişilere ekle
+Seiten werden verarbeitet (%d/%d)	Sayfalar işleniyor (%d/%d)
+Nur diese	Yalnızca bunlar
+Wird neu verarbeitet	Yeniden işleniyor
+Erneut	Tekrar
+Fehlgeschlagen	Başarısız
+Foto nicht verarbeitet	Fotoğraf işlenmedi
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Görüntü işlenirken bir hata oluştu.
+Keine Auffälligkeiten	Sorun yok
+Erneut scannen	Yeniden tara
+Ersetzt beide Seiten dieser Doppelseite	Bu çift sayfanın iki sayfasını da değiştirir
+Kamera öffnen und diese Seite ersetzen	Kamerayı aç ve bu sayfayı değiştir
+Nach vorn	Öne
+Nach hinten	Geriye
+Seite löschen	Sayfayı sil
+Foto entfernen	Fotoğrafı kaldır
+1 Seite verschoben	1 sayfa taşındı
+%d Seiten verschoben	%d sayfa taşındı
+1 Seite kopiert	1 sayfa kopyalandı
+%d Seiten kopiert	%d sayfa kopyalandı
+1 Seite löschen?	1 sayfa silinsin mi?
+%d Seiten löschen?	%d sayfa silinsin mi?
+1 Seite prüfen	1 sayfayı kontrol et
+%d Seiten prüfen	%d sayfayı kontrol et
+Seite löschen?	Sayfa silinsin mi?
+Durchsuchbares PDF mit erkanntem Text	Tanınmış metin içeren aranabilir PDF
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Word, LibreOffice ve Google Docs için düzenlenebilir metin
+Die Seite als JPG-Bild	JPG görüntüsü olarak sayfa
+Ein JPG-Bild pro Seite (%d Dateien)	Sayfa başına bir JPG görüntüsü (%d dosya)
+Alle Seiten als JPG und der Text in einem Archiv	Tüm sayfalar JPG olarak ve metin tek bir arşivde
+Nur der erkannte Text	Yalnızca tanınmış metin
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tanınmış tablolar, sayfa başına bir çalışma sayfası
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tanınmış tablolar CSV olarak (noktalı virgül, Excel için)
+Visitenkarte als Kontakt (vCard)	Kişi olarak kartvizit (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Ön ve arka yüz gerçek boyutta tek sayfada – yazdırmaya hazır
+Seitenformat	Sayfa boyutu
+Mit Passwort schützen	Parolayla koru
+AES-256-Verschlüsselung	AES-256 şifreleme
+Passwort	Parola
+Mindestens 4 Zeichen	En az 4 karakter
+Passwort wiederholen	Parolayı tekrarla
+Passwörter stimmen nicht überein	Parolalar eşleşmiyor
+Seitenbilder einfügen	Sayfa görüntülerini ekle
+Jede Seite als Bild über ihrem Text	Her sayfa metninin üstünde görüntü olarak
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Sütunlar metindeki boşluklardan tanınır – en iyi, açıkça ayrılmış sütunlarla çalışır. “1.234,50” gibi sayılar sayı olarak alınır.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Bu kartta iletişim bilgisi tanınmadı.
+1 ausgewählte Seite	1 seçili sayfa
+%d ausgewählte Seiten	%d seçili sayfa
+Mobil	Mobil
+Fax	Faks
+Telefon	Telefon
+%s teilen	Paylaş: %s
+Scan	Tarama
+Text teilen	Metni paylaş
+PDF teilen	PDF'yi paylaş
+In den Papierkorb verschoben	Çöp kutusuna taşındı
+%d Scans in den Papierkorb verschoben	%d tarama çöp kutusuna taşındı
+Auswahl beenden	Seçimi bitir
+Alle auswählen	Tümünü seç
+In Ordner verschieben	Klasöre taşı
+Ordner	Klasörler
+Ordner umbenennen	Klasörü yeniden adlandır
+Ordner auflösen	Klasörü dağıt
+Papierkorb (%d)	Çöp kutusu (%d)
+Papierkorb	Çöp kutusu
+An PC senden	Bilgisayara gönder
+Speicher & Sicherung	Depolama ve yedekleme
+Einstellungen	Ayarlar
+Scans und Text durchsuchen	Taramalarda ve metinde ara
+Alle Scans durchsuchen	Tüm taramalarda ara
+Suche löschen	Aramayı temizle
+%d Treffer	%d sonuç
+Alle Scans	Tüm taramalar
+Nichts gefunden	Hiçbir şey bulunamadı
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Ne bir ad ne de tanınmış bir metin “%s” ile eşleşiyor.
+Ordner ist leer	Klasör boş
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Taramaları buraya taşıyın: bir taramaya uzun basın ve “Klasöre taşı”yı seçin.
+Noch keine Scans	Henüz tarama yok
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Sayfaları fotoğraflamak için “Tara”ya dokunun,\nveya galeriden fotoğraf aktarın.
+Ordnername	Klasör adı
+Neuer Ordner	Yeni klasör
+%d Scans zusammenführen?	%d tarama birleştirilsin mi?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Tüm sayfalar seçim sırasıyla “%s” sonuna eklenir. Diğer taramalar ardından kaldırılır.
+%d prüfen	%d kontrol et
+Wird verarbeitet (%d/%d)	İşleniyor (%d/%d)
+Als PDF teilen	PDF olarak paylaş
+Kategorie ändern	Kategoriyi değiştir
+Kein Ordner	Klasör yok
+Neuer Ordner …	Yeni klasör …
+Kategorie	Kategori
+Download fehlgeschlagen: %s	İndirme başarısız: %s
+keine Verbindung	bağlantı yok
+Sprachen der Texterkennung	Metin tanıma dilleri
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Seçilen diller birlikte tanınır – yalnızca gerekenleri seçin, her ek dil tanımayı yavaşlatır. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Eksik diller bir kez indirilir (yaklaşık 2–15 MB) ve sonra çevrimdışı çalışır.
+Wird geladen … %d %%	İndiriliyor … %%%d
+Enthalten	Dahil
+Geladen · %s	İndirildi · %s
+Nicht geladen	İndirilmedi
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Seçmek için dokunun · taşımak için basılı tutup sürükleyin
+Neuer Scan	Yeni tarama
+Verschieben nach …	Şuraya taşı …
+Kopieren nach …	Şuraya kopyala …
+Seite %d von %d	Sayfa %d / %d
+Filter	Filtre
+Zuschnitt	Kırpma
+Signieren	İmzala
+Code	Kod
+Link	Bağlantı
+E-Mail	E-posta
+Telefonnummer	Telefon numarası
+Ort	Konum
+Produktcode	Ürün kodu
+Netzwerk: %s	Ağ: %s
+Passwort: %s	Parola: %s
+Verschlüsselung: %s	Şifreleme: %s
+Passwort kopieren	Parolayı kopyala
+Verbinden	Bağlan
+E-Mail schreiben	E-posta yaz
+Anrufen	Ara
+In Karten öffnen	Haritalar'da aç
+Suche sensible Daten…	Hassas veriler aranıyor…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Hassas bir şey bulunamadı. Karartılacak alanları parmağınızla çizin.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Bulundu – seçmek veya kaldırmak için dokunun, başka alanlar çizin:
+Schwarzer Balken	Siyah çubuk
+Verpixeln	Pikselleştir
+Unkenntlich machen (%d)	Kararat (%d)
+Manuell	Manuel
+Gesicht	Yüz
+Kein WLAN	Wi-Fi yok
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Telefonu ve bilgisayarı aynı Wi-Fi ağına bağlayın (veya bilgisayarı telefonun erişim noktasına). Adres burada görünecek.
+Am PC im Browser öffnen	Bilgisayarın tarayıcısında aç
+QR-Code der Adresse	Adresin QR kodu
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Adresi yazın veya QR kodu bilgisayarın kamerasıyla tarayın. Orada tüm taramaları PDF veya metin olarak indirebilirsiniz.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Yalnızca yerel ağda ve yalnızca bu ekran açıkken. İnternete hiçbir şey yüklenmez.
+Heruntergeladen	İndirildi
+App-Sperre nicht möglich	Uygulama kilidi mümkün değil
+Sprache	Dil
+Sprache der App	Uygulama dili
+Aufnahme	Çekim
+Doppelseiten im Dokument-Modus	Belge modunda çift sayfalar
+Automatisch teilen	Otomatik böl
+Nie teilen	Asla bölme
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Sayfa kadrajda sabit durur durmaz fotoğraf çeker.
+Buch-Modus	Kitap modu
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Sayfa çevrilmesini algılar ve kitap yeniden sabitlenince fotoğraf çeker.
+Leserichtung	Okuma yönü
+Links → rechts	Soldan → sağa
+Rechts → links	Sağdan → sola
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Arapça, İbranice, Farsça ve Japonca için sağdan sola: önce sağ sayfa gelir.
+Fernauslöser	Uzaktan deklanşör
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Bluetooth kamera uzaktan deklanşörünü (ör. “AB Shutter 3”) Android Bluetooth ayarlarında eşleştirin. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Kamerada artık uzaktan deklanşör ve ses tuşları çekim yapar.
+Bild	Görüntü
+Standardfilter	Varsayılan filtre
+Handschrift entfernen	El yazısını kaldır
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Mavi/kırmızı kalem ve kurşun kalem notlarını kaldırır. Bu renklerdeki baskıyı da kaldırır.
+Texterkennung	Metin tanıma
+Sprachen	Diller
+Sicherheit & Speicher	Güvenlik ve depolama
+App-Sperre	Uygulama kilidi
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Açarken parmak izi, yüz veya ekran kilidiyle kilit açma. İçerik uygulama özetinde görünmez.
+Belegung, Backup als ZIP, Wiederherstellen	Kullanım, ZIP olarak yedek, geri yükleme
+Gelöschte Scans werden nach 30 Tagen entfernt	Silinen taramalar 30 gün sonra kaldırılır
+Offline	Çevrimdışı
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Tüm fotoğraflar ve metinler bu cihazda kalır. İnternet yalnızca sizin başlattığınız tek seferlik dil indirmesi için kullanılır.
+Über	Hakkında
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Açık kaynak bileşenler: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (tümü Apache Lisansı 2.0); ML Kit (çeviri, yüz algılama, cihaz üzerinde).
+Unterschrift zeichnen	İmza çiz
+Mit dem Finger unterschreiben	Parmağınızla imzalayın
+Unterschrift platzieren	İmzayı yerleştir
+Neu zeichnen	Yeniden çiz
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Tek parmakla taşıyın, iki parmakla boyutu değiştirin.
+Unterschrift	İmza
+Belegt von Ultimate PDF Scanner	Ultimate PDF Scanner tarafından kullanılan
+%s frei auf dem Gerät	Cihazda boş: %s
+Seiten	Sayfalar
+Originalfotos	Orijinal fotoğraflar
+Zwischenspeicher	Önbellek
+Platz schaffen	Yer aç
+Exportierte Dateien zum Teilen	Paylaşım için dışa aktarılan dosyalar
+Gelöschte Scans der letzten 30 Tage	Son 30 günde silinen taramalar
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Hazır sayfalar kalır, ancak kırpma sonradan değiştirilemez.
+Größte Scans	En büyük taramalar
+Sicherung	Yedekleme
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Tüm taramaları tek bir ZIP dosyası olarak yedekleyin – ör. SD karta, USB belleğe veya bilgisayara. Hiçbir şey yüklenmez.
+Papierkorb mitsichern	Çöp kutusunu da yedekle
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Yedek_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Geri yüklerken yalnızca eksik taramalar eklenir.
+Originalfotos entfernen?	Orijinal fotoğraflar kaldırılsın mı?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	%s tasarruf sağlar. Sayfalar sonradan yeniden kırpılamaz, “Yeniden tara” yine mümkündür.
+Text bearbeiten · Seite %d	Metni düzenle · sayfa %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Düzeltmeler aramaya ve PDF'nin metin katmanına yansır.
+Kein Text erkannt – hier eintippen	Metin tanınmadı – buraya yazın
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Silinen taramalar %d gün sonra kalıcı olarak kaldırılır.
+Papierkorb ist leer	Çöp kutusu boş
+Endgültig löschen	Kalıcı olarak sil
+Papierkorb leeren?	Çöp kutusu boşaltılsın mı?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d tarama kalıcı olarak silinecek. Bu geri alınamaz.
+Endgültig löschen?	Kalıcı olarak silinsin mi?
+„%s“ wird sofort gelöscht.	“%s” hemen silinecek.
+noch 1 Tag	1 gün kaldı
+noch %d Tage	%d gün kaldı
+Quittung	Fiş
+Quittungen	Fişler
+Rechnung	Fatura
+Rechnungen	Faturalar
+Visitenkarte	Kartvizit
+Visitenkarten	Kartvizitler
+Vertrag	Sözleşme
+Verträge	Sözleşmeler
+Brief	Mektup
+Briefe	Mektuplar
+Ausweis	Kimlik
+Ausweise	Kimlikler
+Buch	Kitap
+Bücher	Kitaplar
+Passfoto	Vesikalık
+Passfotos	Vesikalıklar
+Dokument	Belge
+Dokumente	Belgeler
+Auflösung	Çözünürlük
+Kompression	Sıkıştırma
+Gering	Düşük
+Stark	Yüksek
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	Baskı ve arşiv için 300 dpi ve düşük sıkıştırma, e-posta için 150 dpi ve yüksek sıkıştırma.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	PDF'leri aranabilir ve metni kopyalanabilir yapar. Kapalı: daha hızlı işleme, PDF yalnızca görüntü olarak.
+Keine Seite erkannt	Sayfa algılanmadı
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Sayfa kenarı bulunamadı – fotoğrafın tamamı alındı.
+Unscharf	Bulanık
+Das Foto ist verwackelt oder unscharf.	Fotoğraf titrek veya bulanık.
+Zu dunkel	Çok karanlık
+Die Seite ist schlecht ausgeleuchtet.	Sayfa kötü aydınlatılmış.
+Text schlecht lesbar	Metin zor okunuyor
+Die Texterkennung war unsicher.	Metin tanıma emin değildi.
+Kein Text erkannt	Metin tanınmadı
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Sayfada metin bulunamadı – boş bir sayfa mı, yoksa görüntüde hiç sayfa yok mu?
+Hindi	Hintçe
+Bengalisch	Bengalce
+Urdu	Urduca
+Indonesisch	Endonezce
+Seite erkennen	Sayfayı algıla
+Seite entzerren	Sayfayı düzelt
+Finger entfernen	Parmakları kaldır
+Schärfe prüfen	Netliği kontrol et
+Ausrichtung	Yönlendirme
+Bild verbessern	Görüntüyü iyileştir
+Speicherort	Kayıt konumu
+Speicherort für Exporte	Dışa aktarmalar için kayıt konumu
+Jedes Mal fragen	Her seferinde sor
+Ordner wählen …	Klasör seç …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	“Kaydet”, PDF'leri ve diğer dışa aktarmaları her seferinde sormadan doğrudan bu klasöre koyar. SD kart da olabilir.
+Gespeichert in „%s“	“%s” konumuna kaydedildi
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Kayıt konumuna erişilemiyor. Lütfen yeniden seçin.
+Neu aufnehmen	Yeniden çek
+Um 90° links drehen	90° sola döndür
+Seite gelöscht	Sayfa silindi
+Lange drücken: neu aufnehmen, drehen oder löschen	Uzun basın: yeniden çek, döndür veya sil
+Ersetzt beide Seiten	İki sayfayı da değiştirir
+Ränder bereinigen	Kenarları temizle
+Scan-Qualität	Tarama kalitesi
+Schnell	Hızlı
+Standard	Standart
+Genau	Hassas
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Mektup ve çıktı gibi büyük, net yazılar için: daha küçük fotoğraflar, en hızlı işleme.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Kitaplar ve çoğu belge için: normal hızda iyi tanıma.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Küçük yazı, eski kitaplar, dipnotlar ve formüller için: tam kamera çözünürlüğü, daha yavaş, daha fazla bellek.
+BILD	GÖRÜNTÜ
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Görüntüyü düz koyun · flaş yok · yansımalardan kaçının
+an	açık
+aus	kapalı
+Automatische Auslösung an: nach dem Umblättern	Otomatik çekim açık: sayfa çevrildikten sonra
+Automatische Auslösung an: sobald die Seite ruhig liegt	Otomatik çekim açık: sayfa sabit durunca
+Automatische Auslösung aus	Otomatik çekim kapalı
+PDF & Export	PDF ve dışa aktarma
+Speicherort für PDFs und Bilder	PDF'ler ve görüntüler için kayıt konumu
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Dışa aktarırken tek tek dosyalar için değiştirilebilir.
+Weitere Optionen …	Diğer seçenekler …
+Automatische Verbesserung	Otomatik iyileştirme
+Schatten und Artefakte entfernen, Schrift schärfen	Gölgeleri ve bozulmaları kaldır, yazıyı netleştir
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Gölgeleri ve bozulmaları kaldır, yazıyı netleştir. Her belgede ayrı ayrı kapatılabilir.
+unkorrigiert	düzeltilmemiş
+Maximal	Maksimum
+Bildqualität	Görüntü kalitesi
+volle Auflösung	tam çözünürlük
+Briefe, Ausdrucke, große Schrift	Mektuplar, çıktılar, büyük yazı
+Bücher und die meisten Dokumente (empfohlen)	Kitaplar ve çoğu belge (önerilen)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Küçük yazı, formüller, eski kitaplar – daha yavaş
+Gilt auch für alle weiteren Scans.	Sonraki tüm taramalar için de geçerlidir.
+Ändern	Değiştir
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	“Kaydet”in dışa aktarmalarınızı nereye koyduğu. “Paylaş” bundan etkilenmez.
+Ordner und Dateiname beim Speichern wählen	Kaydederken klasör ve dosya adı seç
+Exporte landen direkt hier	Dışa aktarmalar doğrudan buraya gelir
+Anderen Ordner wählen …	Başka klasör seç …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Cihazda ayarlıysa SD kart ve bulut klasörleri de.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Bu klasöre kalıcı erişim mümkün değil.
+Sehr hohe Auflösung	Çok yüksek çözünürlük
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	%d MP ile her sayfanın işlenmesi çok daha uzun sürer ve çok bellek gerektirir. Çoğu belge için “Standart” yeterlidir. “Maksimum” yalnızca çok küçük yazılar için değer.
+Trotzdem verwenden	Yine de kullan
+langsam	yavaş
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Bağlı uzaktan deklanşör yok – Bluetooth ayarlarında eşleştirin
+Mit dem Fernauslöser auslösen	Uzaktan deklanşörle çek
+Umblättern	Sayfa çevirme
+Auto 0,7 s	Otomatik 0,7 sn
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Çekimi bitirir. Çekilmiş sayfalar korunur ve işlenir.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	El fenerini açar veya kapatır. Parlak kâğıtta ışıksız ve pencereye çapraz çekmek daha iyidir.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Yeni çekim yerine mevcut fotoğrafları kullanır.
+Serie	Seri
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Seriyi başlatır veya durdurur: zamanlayıcı birkaç saniyede bir otomatik fotoğraf çeker.
+Auslöser	Deklanşör
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Fotoğraf çeker. Ses tuşları ve Bluetooth uzaktan deklanşör de çekim yapar.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Çekimi bitirir ve özeti açar; sayı bu çekimdeki fotoğrafları gösterir.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Her fotoğrafın kaç pikseli olduğu. Hızlı (5 MP) büyük yazı için, Standart (12 MP) neredeyse her şey için, Maksimum küçük yazı ve formüller için – daha uzun sürer.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Değiştirmek için dokunun: kapalı, 3, 5 veya 10 saniye. Deklanşör ardından bu aralıkla fotoğraf çeken bir seri başlatır – kitaplar için pratik.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Yalnızca deklanşöre dokunduğunuzda çeker.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Sayfa 0,7 saniye sabit kalır kalmaz kendiliğinden çeker. Kitap modunda: her sayfa çevirmeden sonra, kitap yeniden sabitlenince.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Bluetooth uzaktan deklanşörle çeker (ör. “AB Shutter 3”). Deklanşörü önce telefonun Bluetooth ayarlarında eşleştirin.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Belgeye kendi adını verir; dışa aktarırken dosya adı olarak da kullanılır.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Çift sayfaların okuma yönünü ters çevir, cihazda çevir veya taramayı sil.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Kamerayı açar ve bu belgeye yeni sayfalar ekler.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Galeriden fotoğrafları ek sayfa olarak alır; kamera fotoğrafları gibi kırpılır ve tanınır.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Sürükleyerek sırayı değiştirin; döndürmek, taşımak, kopyalamak, ayırmak veya silmek için sayfaları seçin.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	PDF, Word, görüntü, ZIP, metin veya tablo olarak paylaş, kaydet ya da yazdır.
+Farbe, Graustufen, Schwarz-Weiß	Renkli, gri tonlamalı, siyah-beyaz
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Bu belgenin tüm sayfalarını değiştirir. Siyah-beyaz en küçük dosyaları verir, renkli ise çizimleri ve damgaları aslına uygun gösterir.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Açık: gölgeler, lekeler ve bozulmalar kaldırılır, yazı daha kontrastlı olur. Kapalı: sayfalar yalnızca kırpılır ve düzeltilir – fotoğraflar, çizimler veya iyileştirme bir şeyi bozduğunda.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Dosyayı oluşturur ve bir uygulamaya iletir, ör. e-posta, mesajlaşma veya bulut.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Dosyayı kayıt konumuna koyar – sabit klasöre veya “Her seferinde sor” ile sizin koyduğunuz yere.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Android yazdırma hizmetiyle yazdırır; orada “PDF olarak kaydet” de seçilebilir.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	“Kaydet”in dosyaları nereye koyduğu: her seferinde sor veya her zaman sabit bir klasöre, SD karta veya bulut klasörüne de.
+Hilfe & Anleitung	Yardım ve kılavuz
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	İpucu: bir düğmeyi bir saniye basılı tutun, ne yaptığı görünür.
+Startseite	Ana sayfa
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Kamerayı açar. Bir çekimin tüm fotoğrafları ortak bir belgeye gider.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	“Tara”nın üstündeki galeri simgesi mevcut fotoğrafları alır; kamera fotoğrafları gibi kırpılır ve tanınır.
+Suchen	Ara
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Taramaları ada ve tanınmış metne göre, sayfa numarasıyla bulur.
+Ordner und Kategorien	Klasörler ve kategoriler
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Klasörler taramaları gruplar. Kategoriler (kitaplar, fişler …) o türde tarama olur olmaz kendiliğinden görünür.
+Mehrere Scans	Birden çok tarama
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Bir taramaya uzun basın: seç, birleştir, klasöre taşı veya sil.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Silinen taramalar 30 gün çöp kutusunda (⋮ menüsü) kalır ve geri yüklenebilir.
+Modi	Modlar
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Altta seçin: Belge (tek sayfalar), Kitap (çift sayfalar ikiye bölünür), Kimlik (ön ve arka yüz gerçek boyutta tek sayfada), Kartvizit (kişi tanınır), Görüntü (aslına uygun renkler, metin tanıma yok), Vesikalık (ön kamera, 35 × 45 mm) ve QR kod.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Sol üstte: Hızlı (5 MP) büyük yazı için, Standart (12 MP) neredeyse her şey için, Maksimum küçük yazı ve formüller için – daha yavaş.
+Auslösung	Çekim
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuel: deklanşörle. Otomatik 0,7 sn: sayfa 0,7 saniye sabit kalınca; kitap modunda her sayfa çevirmeden sonra. Bluetooth: eşleştirilmiş uzaktan deklanşörle. Ses tuşları her zaman çeker.
+Timer und Licht	Zamanlayıcı ve ışık
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Saat simgesi her 3, 5 veya 10 saniyede bir fotoğraf çeker (deklanşörle başlar). Flaş el fenerini açar.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Sağ alttaki küçük resme dokunun: sayfalar işlenir ve özet açılır.
+Gute Fotos	İyi fotoğraflar
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Sayfayı düz ve eşit aydınlatılmış koyun, telefonu paralel tutun. Kâğıttan farklı renkte bir zemin kırpmaya yardımcı olur.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Belgenin tüm sayfalarına uygulanır. Tek tek sayfalar sayfa görünümünde farklı ayarlanabilir.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Gölgeleri ve bozulmaları kaldırır, yazıyı daha kontrastlı yapar. Kapatılırsa sayfa yalnızca kırpılır ve düzeltilir.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Dokunmak sayfayı açar. Uzun basmak: yeniden çek, döndür veya sil. Turuncu işaretli sayfalar kontrol edilmeli (ör. bulanık), kırmızılar başarısız oldu.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Sürükleyerek sırayı değiştirin, birden çok sayfayı döndürün, başka bir belgeye taşıyın veya kopyalayın ya da yeni belge olarak ayırın.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, görüntü, ZIP, metin veya tablo – paylaş, kaydet ya da yazdır.
+Mehr (⋮)	Diğer (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Çift sayfaların okuma yönünü ters çevir, cihazda çevir veya taramayı sil. Üstteki kalem adı değiştirir.
+Seitenansicht	Sayfa görünümü
+Blättern und Zoomen	Sayfa çevirme ve yakınlaştırma
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Sayfa değiştirmek için kaydırın; yakınlaştırmak için iki kez dokunun veya iki parmak kullanın.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Yalnızca bu sayfa için renkli, gri tonlamalı veya siyah-beyaz, önizlemeli. Altında bu sayfanın otomatik iyileştirmesi.
+Drehen und Zuschnitt	Döndürme ve kırpma
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	90° döndür. Kırp: orijinal fotoğrafta sayfanın köşelerini yeniden ayarla.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Sayfaya kalem, fosforlu kalem veya metinle yazın.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Hassas verileri okunamaz yapın – çubuklarla veya pikselleştirerek. Hesap numaraları, kart numaraları ve yüzler önerilir.
+Signieren und Text	İmza ve metin
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	İmzala, kayıtlı imzanızı ekler. Metin, tanınan metni düzeltmek ve kopyalamak için gösterir.
+Formate	Biçimler
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (aranabilir), Word, görüntüler (JPG), ZIP, metin, Excel veya CSV; kartvizitler için kişi olarak da.
+PDF-Optionen	PDF seçenekleri
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Sayfa boyutu, çözünürlük ve sıkıştırma kaliteyi ve dosya boyutunu belirler – boyut sağ üstte tahmin edilir. İsteğe bağlı parola (AES-256).
+Teilen oder Speichern	Paylaşmak mı, kaydetmek mi
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Paylaş, dosyayı bir uygulamaya gönderir (e-posta, mesajlaşma …). Kaydet, onu kayıt konumuna koyar.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	“Her seferinde sor”, kaydederken klasör seçimini açar. Sabit bir klasörle dışa aktarmalar sormadan oraya gider – SD karta veya bulut klasörüne de.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Android yazdırma hizmetiyle yazdırır veya PDF olarak kaydeder.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Yeni taramalar için görüntü kalitesi, çekim ve çift sayfa bölme. Kamerada istediğiniz zaman değiştirilebilir.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Yeni belgelerin başladığı filtre ve otomatik iyileştirme.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	PDF'leri aranabilir yapar. Diller hangi karakterlerin tanınacağını belirler.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Kayıt konumu ile çözünürlük, sıkıştırma ve sayfa boyutu varsayılanları.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Parmak iziyle uygulama kilidi, ZIP olarak yedek ve çöp kutusu.
+Ecken setzen	Köşeleri ayarla
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Dört köşeyi sayfa kenarlarına sürükleyin; büyüteç parmağınızın altındaki yeri büyütülmüş gösterir.
+Einzel- oder Doppelseite	Tek mi çift sayfa mı
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Altta fotoğrafın tek sayfa mı yoksa açık bir çift sayfa mı gösterdiğini seçin. Otomatik, kararı uygulamaya bırakır.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Üstteki onay işareti sayfayı yeni kırpmayla işler.
+Werkzeuge	Araçlar
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Yazmak için kalem, vurgulamak için fosforlu kalem, yazılı notlar için metin. Renkler altta.
+Korrigieren	Düzelt
+Rückgängig nimmt den letzten Strich zurück.	Geri al son çizgiyi kaldırır.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Değişiklikleri sayfaya yazar. Kaydetmeden sayfa değişmeden kalır.
+Vorschläge	Öneriler
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Bulunan hesap numaraları, kart numaraları, vergi numaraları ve yüzler işaretlidir – seçimi kaldırmak veya yeniden seçmek için dokunun.
+Eigene Bereiche	Kendi alanlarınız
+Mit dem Finger weitere Rechtecke aufziehen.	Parmağınızla başka dikdörtgenler çizin.
+Balken oder Pixel	Çubuk mu piksel mi
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Siyah çubuk veya pikselleştirme. Altındaki metin metin tanımadan ve PDF'den de kaldırılır.
+Zeichnen	Çiz
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Parmağınızla bir kez imzalayın – imza cihazda kaydedilir.
+Platzieren	Yerleştir
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Tek parmakla taşıyın, iki parmakla boyutlandırın, sonra ekleyin.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Üstteki kalem simgesi kayıtlı imzanın yerini alır.
+Text bearbeiten	Metni düzenle
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Sayfanın tanınmış metni altta ve değiştirilebilir. Üstte karşılaştırma için sayfa görüntüsü.
+Wirkung	Etkisi
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Düzeltmeler aramaya, PDF'nin metin katmanına ve Word ile metin dışa aktarmalarına yansır.
+Holt einen gelöschten Scan zurück.	Silinen bir taramayı geri getirir.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Taramalar 30 gün sonra otomatik kaldırılır. “Boşalt” her şeyi hemen siler.
+Belegung	Kullanım
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Taramaların, orijinal fotoğrafların, çöp kutusunun ve önbelleğin ne kadar yer kapladığını gösterir.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Orijinal fotoğrafları kaldırmak çok yer kazandırır; hazır sayfalar kalır, yalnızca kırpma sonradan değiştirilemez.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Tüm taramaları ZIP dosyası olarak yedekleyin ve bu ya da başka bir cihazda geri yükleyin. Hiçbir şey yüklenmez.
+Auswahl	Seçim
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Belgelerinizin dillerini seçin. Her ek dil tanımayı yavaşlatır.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Eksik diller bir kez indirilir ve sonra internetsiz çalışır.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Telefonu ve bilgisayarı aynı Wi-Fi ağına bağlayın (veya bilgisayarı telefonun erişim noktasına).
+Herunterladen	İndir
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Gösterilen adresi bilgisayarın tarayıcısında açın veya QR kodu tarayın; orada tüm taramaları PDF veya metin olarak indirebilirsiniz.
+Sicherheit	Güvenlik
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Yalnızca yerel ağda ve yalnızca bu ekran açıkken çalışır.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Dil, görüntü kalitesi, çekim, metin tanıma, kayıt konumu, uygulama kilidi ve yedekleme.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Galeriden fotoğrafları yeni belge olarak alır; kamera fotoğrafları gibi kırpılır ve tanınır.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Kamerayı açar. Bir çekimin tüm fotoğrafları ortak bir belgeye gider.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Bu sayfayı belgeden siler (onay sonrası).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Yalnızca bu sayfa için renkli, gri tonlamalı veya siyah-beyaz ve otomatik iyileştirme.
+Dreht die Seite um 90° im Uhrzeigersinn.	Sayfayı saat yönünde 90° döndürür.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Bir kenar eksikse veya arka plan da girdiyse orijinal fotoğrafta sayfanın köşelerini yeniden ayarlayın.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Hassas verileri çubuk veya piksellerle okunamaz yapın; PDF metninden de kaybolurlar.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Kayıtlı imzanızı sayfaya yerleştirir; ilk seferde onu çizersiniz.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Sayfanın tanınmış metnini düzeltmek ve kopyalamak için gösterir.
+Fotografiert beim Tippen auf den Auslöser.	Deklanşöre dokunduğunuzda çeker.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Sayfa 0,7 sn sabit kalınca çeker; kitap modunda her sayfa çevirmeden sonra.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Eşleştirilmiş Bluetooth uzaktan deklanşörle çeker.
+Lautstärketasten lösen immer aus.	Ses tuşları her zaman çeker.
+Word erstellen, Formeln erkennen (%d/%d)	Word oluşturuluyor, formüller tanınıyor (%d/%d)
+Belarussisch	Belarusça
+Bulgarisch	Bulgarca
+Serbisch	Sırpça
+Mazedonisch	Makedonca
+Kein Link im geteilten Text	Paylaşılan metinde bağlantı yok
+Import fehlgeschlagen: %s	İçe aktarma başarısız: %s
+Link laden	Bağlantı yükleniyor
+Unter dem Link liegt keine PDF- oder Bilddatei.	Bağlantı bir PDF veya resim dosyasına gitmiyor.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Yalnızca PDF dosyaları ve resimler içe aktarılabilir.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Korumalı PDF dosyaları içe aktarılamaz.
+PDF-Seite %d/%d importieren	PDF sayfası %d/%d içe aktarılıyor
+Auto %s s	Oto %s sn
+Auslösen nach %s s	%s sn sonra çek
+Wartezeit	Bekleme süresi
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Otomatik çekimden önce sayfanın ne kadar süre hareketsiz durması gerektiği. Kısa daha hızlı, uzun daha az bulanık fotoğraf demek.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Sayfa hareketsiz durur durmaz kendiliğinden çeker; bekleme süresini (0,2–1,5 sn) aşağıda ayarlarsın. Kitap modunda: her sayfa çevirişten sonra, kitap yeniden hareketsiz durunca.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Fotoğrafları, ekran görüntülerini, PDF dosyalarını veya bir bağlantıyı ek sayfalar olarak ekler; fotoğraflar kırpılır, her şey tanınır.
+Senden an …	Gönder …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	„Kaydet“in dışa aktarımları nereye koyduğu. „Gönder …“ bundan bağımsızdır.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Bir alt klasör seç, ör. „Documents“ – Android depolamanın en üst klasörüne izin vermez.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Dosyayı oluşturur ve bir uygulamaya gönderir, ör. WhatsApp, e-posta, Telegram veya bulut depolama.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuel: deklanşörle. Oto: sayfa hareketsiz durur durmaz – bekleme süresini (0,2–1,5 sn, varsayılan 0,7 sn) tarama penceresinde anahtarın altında ayarlarsın; kitap modunda her sayfa çevirişten sonra. Bluetooth: eşlenmiş uzaktan deklanşörle. Ses tuşları her zaman çeker.
+Senden an oder Speichern	Gönder veya kaydet
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Gönder …“ dosyayı bir uygulamaya gönderir (WhatsApp, e-posta, Telegram, bulut …). Kaydet onu kayıt konumuna koyar.
+Importieren	İçe aktar
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Fotoğrafları, ekran görüntülerini, PDF dosyalarını veya bir bağlantıyı yeni belge olarak alır; fotoğraflar kırpılır, her şey tanınır.
+Bilder aus der Galerie	Galeriden resimler
+Fotos und Screenshots	Fotoğraflar ve ekran görüntüleri
+Dateien	Dosyalar
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF dosyaları ve resimler, ör. İndirilenler veya buluttan
+Eine PDF- oder Bilddatei aus dem Internet	İnternetten bir PDF veya resim dosyası
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Sonra taranmış sayfalar gibi: metin tanıma, çeviri ve her biçime dışa aktarma.
+Link importieren	Bağlantı içe aktar
+Internetadresse	Web adresi
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Sayfa %s sn hareketsiz durunca çeker (tarama penceresinde ayarlanabilir); kitap modunda her sayfa çevirişten sonra.
+Fachwörterbuch laden	Sözlük yükleniyor
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	%s veya %s için sözlük eksik – terimler olmadan çevrildi
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Sözlük dosyası değil (glossary-xx.tsv.gz)
+Download nicht verfügbar	İndirme kullanılamıyor
+Estnisch	Estonca
+Irisch	İrlandaca
+Litauisch	Litvanca
+Lettisch	Letonca
+Maltesisch	Maltaca
+Slowakisch	Slovakça
+Slowenisch	Slovence
+Ohne Fachwörterbuch	Sözlüksüz
+Alle Fachgebiete	Tüm alanlar
+Fachgebiet: %s	Alan: %s
+Fachwörterbücher verwalten …	Sözlükleri yönet …
+Fachwörterbücher	Terim sözlükleri
+Aus Datei importieren	Dosyadan içe aktar
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Hukuk, tıp, teknik, ekonomi ve 17 diğer alandaki terimler (IATE, AB terim veri tabanı) çeviride aynen korunur. Kaynak ve hedef dilin sözlüğü gerekir, her biri 0,3–9 MB.
+Einmal laden, danach offline.	Bir kez indir, sonra çevrimdışı.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	glossary-xx.tsv.gz dosyalarını üstteki klasör simgesiyle içe aktarın.
+Fachwörterbücher für die Übersetzung	Çeviri için terim sözlükleri
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Hukuk, tıp, teknik ve daha fazlası – 24 AB dili
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Tüm fotoğraflar ve metinler bu cihazda kalır. İnternet yalnızca dilleri, çeviri modellerini ve sözlükleri siz başlattığınızda bir kez indirmek için kullanılır.
+Übersetzen	Çevir
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Belgenin çevrilmiş bir kopyasını cihazda oluşturur: aynı sayfalar ve resimler, metin hedef dilde kendi yerinde. Her paragraf kendi dilinden çevrilir. “Alan” ile sözlüklerdeki uzmanlık terimleri aynen alınır.
+Was nachgeladen werden kann	Neler indirilebilir
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Her şey isteğe bağlıdır ve yalnızca dokunduğunuzda indirilir; sonra internetsiz çalışır:\n• Metin tanıma dilleri: her biri 1–15 MB (Ayarlar › Diller). Almanca ve İngilizce dahildir.\n• Çince: ayrı bir tanıma modeli, yaklaşık 17 MB.\n• Çeviri modelleri: dil başına yaklaşık 30 MB, ilk çeviride otomatik indirilir.\n• Terim sözlükleri: dil başına 0,3–9 MB, 24 AB dilinin tamamı için yaklaşık 70 MB (Ayarlar › Terim sözlükleri).\nİndirilen dosyalar her zaman kaldırılabilir.
+Wozu	Ne işe yarar
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Genel çeviriciler birçok terimi bilmez veya tutarsız çevirir. Sözlük belirlenmiş terimi ekler, örn. «Beweislast» → «ispat yükü».
+Quelle	Kaynak
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, AB kurumlarının terim veri tabanı; 21 alandan terimler içerir (hukuk, sağlık, teknik, ekonomi, çevre, ulaşım …). AB’nin 24 resmî dili için mevcuttur.
+Was nötig ist	Ne gerekir
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Kaynak dil için bir, hedef dil için bir sözlük, örn. Almanca ve İngilizce. Dil başına bir sözlük tüm dil çiftleri için yeterlidir.
+Laden oder importieren	İndir veya içe aktar
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Okla indirin (bir kez, sonra çevrimdışı) veya klasör simgesiyle bir «glossary-xx.tsv.gz» dosyasını içe aktarın, örn. bilgisayardan veya SD karttan.
+Benutzen	Kullanım
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Çeviri yaparken üstten alanı seçin. «Tüm alanlar» yalnızca her yerde aynı çevrilen terimleri kullanır.
+Grenzen	Sınırlar
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Terimler temel hâlleriyle eklenir; çekimli hâller her zaman tanınmaz.
+Politik	Politika
+Internationale Beziehungen	Uluslararası ilişkiler
+Europäische Union	Avrupa Birliği
+Recht	Hukuk
+Wirtschaft	Ekonomi
+Handel	Ticaret
+Finanzwesen	Finans
+Soziales und Gesundheit	Sosyal konular ve sağlık
+Bildung und Kommunikation	Eğitim ve iletişim
+Wissenschaft	Bilim
+Unternehmen und Wettbewerb	İşletme ve rekabet
+Beschäftigung und Arbeitsbedingungen	İstihdam ve çalışma koşulları
+Verkehr	Ulaşım
+Umwelt	Çevre
+Land-, Forst- und Fischereiwirtschaft	Tarım, ormancılık ve balıkçılık
+Agrarerzeugnisse und Lebensmittel	Tarım-gıda ürünleri
+Produktion, Technologie und Forschung	Üretim, teknoloji ve araştırma
+Energie	Enerji
+Industrie	Sanayi
+Geografie	Coğrafya
+Internationale Organisationen	Uluslararası kuruluşlar
+Wenig Licht – Lampe einschalten	Işık az – feneri aç
+Verarbeitung mehrfach abgebrochen	İşleme birkaç kez yarıda kesildi
+Bearbeitungen gehen verloren	Düzenlemeler kaybolacak
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Sayfa fotoğraftan yeniden oluşturulur. Karartmalar, imza ve notlar yeniden eklenmelidir.
+Neu zuschneiden	Yeniden kırp
+Sprachdaten	Dil verileri
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Taramaların, orijinal fotoğrafların, çöp kutusunun, önbelleğin ve dil verilerinin (metin tanıma, sözlükler) ne kadar yer kapladığını gösterir.
+Bitte warten, bis alle Seiten erkannt sind	Lütfen tüm sayfalar tanınana kadar bekleyin
+Die Sprache „%s“ kann nicht übersetzt werden	“%s” dili çevrilemiyor
+Übersetzung in die Seiten setzen	Çeviri sayfalara yerleştiriliyor

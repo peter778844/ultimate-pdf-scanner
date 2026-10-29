@@ -1,0 +1,445 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Please set up a fingerprint, face unlock or a screen lock first.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	This device does not support biometric unlock.
+Ultimate PDF Scanner entsperren	Unlock Ultimate PDF Scanner
+Deine Scans sind geschützt	Your scans are protected
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner is locked
+Deine Scans bleiben auf diesem Gerät.	Your scans stay on this device.
+  Entsperren	  Unlock
+Systemsprache	System language
+Deutsch	German
+English	English
+Scan 	Scan 
+Fotos importieren	Import photos
+Texterkennung vorbereiten	Preparing text recognition
+Ein Foto konnte nicht verarbeitet werden: %s	A photo could not be processed: %s
+Foto laden	Loading photo
+Foto nicht lesbar	Photo cannot be read
+Filter anwenden	Applying filter
+Schwärzen	Redact
+Unterschrift einfügen	Adding signature
+Unterschrift eingefügt	Signature added
+Änderungen einfügen	Applying changes
+Seite bearbeitet	Page edited
+Text gesichert	Text saved
+Zusammenführen	Merge
+%d Scans zusammengeführt	%d scans merged
+Seiten verschieben	Moving pages
+Seiten kopieren	Copying pages
+ (Teil)	 (part)
+Zwischenspeicher leeren	Clear cache
+Zwischenspeicher geleert	Cache cleared
+Originalfotos entfernen	Remove original photos
+Sicherung erstellen	Creating backup
+Sicherung erstellen (%d/%d)	Creating backup (%d/%d)
+Sicherung gespeichert	Backup saved
+Sicherung wiederherstellen	Restoring backup
+ (%d schon vorhanden)	 (%d already present)
+Wiederherstellen fehlgeschlagen: %s	Restore failed: %s
+PDF erstellen (%d/%d)	Creating PDF (%d/%d)
+%s erstellen	Creating %s
+Export fehlgeschlagen: %s	Export failed: %s
+%s speichern	Saving %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF saved (password-protected, AES-256)
+%s gespeichert	%s saved
+Bilder speichern	Saving images
+Bilder speichern (%d/%d)	Saving images (%d/%d)
+%d Bilder gespeichert	%d images saved
+Sprache erkennen	Detecting language
+Kein erkannter Text zum Übersetzen	No recognised text to translate
+Sprache nicht erkannt	Language not recognised
+Der Text ist bereits auf %s	The text is already in %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Loading language model (~30 MB the first time)
+Übersetzen (%d/%d)	Translating (%d/%d)
+Seite %d	Page %d
+Übersetzung fehlgeschlagen: %s	Translation failed: %s
+1 Bereich unkenntlich gemacht	1 area redacted
+%d Bereiche unkenntlich gemacht	%d areas redacted
+1 Scan wiederhergestellt	1 scan restored
+%d Scans wiederhergestellt	%d scans restored
+Server antwortet mit %d	Server responded with %d
+Datei unvollständig	File incomplete
+Nicht gefunden	Not found
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	%d scans on the phone · straight over Wi-Fi, no cloud
+Ausgangssprache „%s“ wird nicht unterstützt	Source language “%s” is not supported
+Zielsprache „%s“ wird nicht unterstützt	Target language “%s” is not supported
+QR-CODE	QR CODE
+AUSWEIS	ID CARD
+DOKUMENT	DOCUMENT
+BUCH	BOOK
+VISITENKARTE	BUSINESS CARD
+PASSFOTO	PASSPORT PHOTO
+PDF	PDF
+Word	Word
+Bilder	Images
+ZIP	ZIP
+Text	Text
+Excel	Excel
+CSV	CSV
+Kontakt	Contact
+Wie gescannt	As scanned
+Letter	Letter
+Hoch	High
+Mittel	Medium
+Klein	Small
+Englisch	English
+Französisch	French
+Italienisch	Italian
+Spanisch	Spanish
+Portugiesisch	Portuguese
+Niederländisch	Dutch
+Polnisch	Polish
+Tschechisch	Czech
+Dänisch	Danish
+Schwedisch	Swedish
+Norwegisch	Norwegian
+Finnisch	Finnish
+Ungarisch	Hungarian
+Rumänisch	Romanian
+Kroatisch	Croatian
+Türkisch	Turkish
+Griechisch	Greek
+Russisch	Russian
+Ukrainisch	Ukrainian
+Arabisch	Arabic
+Hebräisch	Hebrew
+Persisch	Persian
+Chinesisch (vereinfacht)	Chinese (simplified)
+Japanisch	Japanese
+Koreanisch	Korean
+Latein	Latin
+Deutsch (Fraktur)	German (Fraktur)
+1 Seite	1 page
+%d Seiten	%d pages
+1 Scan	1 scan
+%d Scans	%d scans
+Abbrechen	Cancel
+Bearbeiten	Edit
+Zurück	Back
+Rückgängig	Undo
+Sichern	Save
+Seite	Page
+Einfügen	Insert
+Änderungen sichern?	Save changes?
+Verwerfen	Discard
+Schließen	Close
+Fertig	Done
+Öffnen	Open
+Keine	None
+Alle	All
+Umbenennen	Rename
+Mehr	More
+Löschen	Delete
+Teilen	Share
+Speichern	Save
+Drucken	Print
+Kopieren	Copy
+Drehen	Rotate
+Laden	Download
+Entfernen	Remove
+Verschieben	Move
+Name	Name
+Aus	Off
+Leeren	Empty
+Wiederherstellen	Restore
+Text einfügen	Add text
+z. B. Name, Datum …	e.g. name, date …
+Kein Gesicht erkannt – bitte noch einmal	No face found – please try again
+Seite erneut scannen	Rescan page
+Fernauslöser verbunden	Remote shutter connected
+Nach dem Umblättern auslösen	Shoot after each page turn
+Leserichtung rechts nach links	Reading order right to left
+Leserichtung links nach rechts	Reading order left to right
+Automatisch auslösen	Auto capture
+Kamera wechseln	Switch camera
+Licht	Light
+Bitte Kamerazugriff erlauben.	Please allow camera access.
+Passfoto wird zugeschnitten …	Cropping passport photo …
+Ohne Rückseite fertig	Done without back
+Kein Code im Bild gefunden	No code found in the picture
+Aus Galerie	From gallery
+QR-Code oder Barcode in den Rahmen halten	Hold a QR code or barcode in the frame
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Face in the oval · look straight · light background
+Vorderseite des Ausweises in den Rahmen	Front of the ID card in the frame
+Jetzt die Rückseite	Now the back
+Visitenkarte in den Rahmen legen	Place the business card in the frame
+Aufgeschlagenes Buch ins Bild halten	Hold the open book in view
+Doppelseite erkannt	Double page detected
+Umblättern – löst danach automatisch aus	Turn the page – shoots automatically afterwards
+Ruhig halten …	Hold still …
+Ruhig halten – wird automatisch ausgelöst	Hold still – shooting automatically
+Seite ins Bild halten	Hold the page in view
+Seite erkannt	Page detected
+Intervall-Timer	Interval timer
+Serie starten	Start series
+Farbe	Colour
+Graustufen	Greyscale
+Schwarz-Weiß	Black & white
+Original	Original
+Automatisch	Automatic
+Zuschnitt nicht möglich	Cropping not possible
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	The original photo of this page was removed to save space. Use “Rescan” to take the page again.
+Zuschnitt anpassen	Adjust crop
+Übernehmen	Apply
+Einzelseite	Single page
+Doppelseite	Double page
+Auto	Auto
+  Automatisch	  Automatic
+Ecken auf die Seitenränder ziehen	Drag the corners onto the page edges
+Seiten ordnen	Organise pages
+%d ausgewählt	%d selected
+Filter für alle Seiten	Filter for all pages
+Leserichtung umkehren	Reverse reading order
+Übersetzen…	Translate…
+Scan löschen	Delete scan
+Scannen	Scan
+Import	Import
+Ordnen	Organise
+Exportieren	Export
+Übersetzen in …	Translate into …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Translation runs on the device. The language model is downloaded once the first time.
+Übersetzung teilen	Share translation
+Scan löschen?	Delete scan?
+„%s“ wird endgültig gelöscht.	“%s” will be deleted permanently.
+Kontakt erkannt	Contact recognised
+Zu Kontakten	Add to contacts
+Seiten werden verarbeitet (%d/%d)	Processing pages (%d/%d)
+Lange tippen, um eine Seite erneut zu scannen	Long-press a page to rescan it
+Nur diese	Only these
+Wird neu verarbeitet	Reprocessing
+Erneut	Retake
+Fehlgeschlagen	Failed
+Foto nicht verarbeitet	Photo not processed
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	An error occurred during image processing.
+Keine Auffälligkeiten	No problems found
+Erneut scannen	Rescan
+Ersetzt beide Seiten dieser Doppelseite	Replaces both pages of this spread
+Kamera öffnen und diese Seite ersetzen	Open the camera and replace this page
+Nach vorn	Move forward
+Nach hinten	Move back
+Seite löschen	Delete page
+Foto entfernen	Remove photo
+1 Seite verschoben	1 page moved
+%d Seiten verschoben	%d pages moved
+1 Seite kopiert	1 page copied
+%d Seiten kopiert	%d pages copied
+1 Seite löschen?	Delete 1 page?
+%d Seiten löschen?	Delete %d pages?
+1 Seite prüfen	Check 1 page
+%d Seiten prüfen	Check %d pages
+Seite löschen?	Delete page?
+Durchsuchbares PDF mit erkanntem Text	Searchable PDF with recognised text
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Editable text for Word, LibreOffice and Google Docs
+Die Seite als JPG-Bild	The page as a JPG image
+Ein JPG-Bild pro Seite (%d Dateien)	One JPG image per page (%d files)
+Alle Seiten als JPG und der Text in einem Archiv	All pages as JPG plus the text in one archive
+Nur der erkannte Text	Only the recognised text
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Recognised tables, one sheet per page
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Recognised tables as CSV (semicolon, for Excel)
+Visitenkarte als Kontakt (vCard)	Business card as a contact (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Front and back at actual size on one page – ready to print
+Seitenformat	Page size
+Mit Passwort schützen	Protect with password
+AES-256-Verschlüsselung	AES-256 encryption
+Passwort	Password
+Mindestens 4 Zeichen	At least 4 characters
+Passwort wiederholen	Repeat password
+Passwörter stimmen nicht überein	Passwords do not match
+Seitenbilder einfügen	Include page images
+Jede Seite als Bild über ihrem Text	Each page as an image above its text
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Columns are recognised from the gaps in the text – works best with clearly separated columns. Numbers like “1,234.50” are kept as numbers.
+Bildqualität	Image quality
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	No contact details were recognised on this card.
+1 ausgewählte Seite	1 selected page
+%d ausgewählte Seiten	%d selected pages
+Mobil	Mobile
+Fax	Fax
+Telefon	Phone
+%s teilen	Share %s
+Scan	Scan
+Text teilen	Share text
+PDF teilen	Share PDF
+In den Papierkorb verschoben	Moved to the bin
+%d Scans in den Papierkorb verschoben	%d scans moved to the bin
+Auswahl beenden	End selection
+Alle auswählen	Select all
+In Ordner verschieben	Move to folder
+Ordner	Folders
+Ordner umbenennen	Rename folder
+Ordner auflösen	Remove folder
+Papierkorb (%d)	Bin (%d)
+Papierkorb	Bin
+An PC senden	Send to PC
+Speicher & Sicherung	Storage & backup
+Einstellungen	Settings
+Scans und Text durchsuchen	Search scans and text
+Alle Scans durchsuchen	Search all scans
+Suche löschen	Clear search
+%d Treffer	%d results
+Alle Scans	All scans
+Nichts gefunden	Nothing found
+Weder ein Name noch ein erkannter Text passt zu „%s“.	No name or recognised text matches “%s”.
+Ordner ist leer	Folder is empty
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Move scans here: long-press a scan and choose “Move to folder”.
+Noch keine Scans	No scans yet
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Tap “Scan” to photograph pages,\nor import photos from the gallery.
+Ordnername	Folder name
+Neuer Ordner	New folder
+%d Scans zusammenführen?	Merge %d scans?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	All pages are appended to “%s” in the order selected. The other scans are removed afterwards.
+%d prüfen	%d to check
+Wird verarbeitet (%d/%d)	Processing (%d/%d)
+Als PDF teilen	Share as PDF
+Kategorie ändern	Change category
+Kein Ordner	No folder
+Neuer Ordner …	New folder …
+Kategorie	Category
+Download fehlgeschlagen: %s	Download failed: %s
+keine Verbindung	no connection
+Sprachen der Texterkennung	Text recognition languages
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Selected languages are recognised together – choose only the ones you need, each one makes recognition slower. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Missing languages are downloaded once (about 2–15 MB) and then work offline.
+Wird geladen … %d %%	Downloading … %d %%
+Enthalten	Included
+Geladen · %s	Downloaded · %s
+Nicht geladen	Not downloaded
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Tap to select · press and drag to move
+Neuer Scan	New scan
+Verschieben nach …	Move to …
+Kopieren nach …	Copy to …
+Seite %d von %d	Page %d of %d
+Filter	Filter
+Zuschnitt	Crop
+Signieren	Sign
+Code	Code
+Link	Link
+E-Mail	Email
+Telefonnummer	Phone number
+Ort	Location
+Produktcode	Product code
+Netzwerk: %s	Network: %s
+Passwort: %s	Password: %s
+Verschlüsselung: %s	Encryption: %s
+Passwort kopieren	Copy password
+Verbinden	Connect
+E-Mail schreiben	Write email
+Anrufen	Call
+In Karten öffnen	Open in maps
+Suche sensible Daten…	Looking for sensitive data…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Nothing sensitive found. Drag with your finger to mark areas to redact.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Found – tap to select/deselect, drag to add more areas:
+Schwarzer Balken	Black bar
+Verpixeln	Pixelate
+Unkenntlich machen (%d)	Redact (%d)
+Manuell	Manual
+Gesicht	Face
+Kein WLAN	No Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Connect the phone and the PC to the same Wi-Fi (or the PC to the phone's hotspot). The address then appears here.
+Am PC im Browser öffnen	Open in the browser on your PC
+QR-Code der Adresse	QR code of the address
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Type in the address or scan the QR code with the PC's camera. All scans can be downloaded there as PDF or text.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Only in the local network and only while this screen is open. Nothing is uploaded to the internet.
+Heruntergeladen	Downloaded
+App-Sperre nicht möglich	App lock not possible
+Sprache	Language
+Sprache der App	App language
+Aufnahme	Capture
+Doppelseiten im Dokument-Modus	Double pages in document mode
+Automatisch teilen	Split automatically
+Nie teilen	Never split
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Takes the photo as soon as the page is steady in view.
+Buch-Modus	Book mode
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Detects page turns and shoots as soon as the book is steady again.
+Leserichtung	Reading order
+Links → rechts	Left → right
+Rechts → links	Right → left
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Right → left for Arabic, Hebrew, Persian and Japanese: the right page comes first.
+Fernauslöser	Remote shutter
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Pair a Bluetooth camera remote (e.g. “AB Shutter 3”) in the Android Bluetooth settings. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	In the camera, the remote and the volume keys then take the photo.
+Bild	Image
+Standardfilter	Default filter
+Handschrift entfernen	Remove handwriting
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Removes blue/red pen notes and pencil. Also removes print in these colours.
+Texterkennung	Text recognition
+Sprachen	Languages
+Sicherheit & Speicher	Security & storage
+App-Sperre	App lock
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Unlock with fingerprint, face or screen lock when opening. Content is hidden in the recent-apps overview.
+Belegung, Backup als ZIP, Wiederherstellen	Usage, backup as ZIP, restore
+Gelöschte Scans werden nach 30 Tagen entfernt	Deleted scans are removed after 30 days
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	All photos and texts stay on this device. The internet is only used to download languages once, when you ask for it.
+Über	About
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Open-source components: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (all Apache License 2.0); ML Kit (translation, face detection, on device).
+Unterschrift zeichnen	Draw signature
+Mit dem Finger unterschreiben	Sign with your finger
+Unterschrift platzieren	Place signature
+Neu zeichnen	Redraw
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Move with one finger, resize with two fingers.
+Unterschrift	Signature
+Belegt von Ultimate PDF Scanner	Used by Ultimate PDF Scanner
+%s frei auf dem Gerät	%s free on the device
+Seiten	Pages
+Originalfotos	Original photos
+Zwischenspeicher	Cache
+Platz schaffen	Free up space
+Exportierte Dateien zum Teilen	Exported files for sharing
+Gelöschte Scans der letzten 30 Tage	Scans deleted in the last 30 days
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	The finished pages are kept, but the crop can no longer be changed.
+Größte Scans	Largest scans
+Sicherung	Backup
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Back up all scans as one ZIP file – e.g. to an SD card, a USB stick or your PC. Nothing is uploaded.
+Papierkorb mitsichern	Include the bin
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Backup_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Restoring only adds scans that are missing.
+Originalfotos entfernen?	Remove original photos?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Saves %s. Pages can no longer be re-cropped afterwards; “Rescan” remains possible.
+Text bearbeiten · Seite %d	Edit text · page %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Corrections go into search and into the PDF text layer.
+Kein Text erkannt – hier eintippen	No text recognised – type here
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Deleted scans are removed permanently after %d days.
+Papierkorb ist leer	The bin is empty
+Endgültig löschen	Delete permanently
+Papierkorb leeren?	Empty the bin?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d scans will be deleted permanently. This cannot be undone.
+Endgültig löschen?	Delete permanently?
+„%s“ wird sofort gelöscht.	“%s” will be deleted immediately.
+noch 1 Tag	1 day left
+noch %d Tage	%d days left
+Quittung	Receipt
+Quittungen	Receipts
+Rechnung	Invoice
+Rechnungen	Invoices
+Visitenkarte	Business card
+Visitenkarten	Business cards
+Vertrag	Contract
+Verträge	Contracts
+Brief	Letter
+Briefe	Letters
+Ausweis	ID card
+Ausweise	ID cards
+Buch	Book
+Bücher	Books
+Passfoto	Passport photo
+Passfotos	Passport photos
+Dokument	Document
+Dokumente	Documents
+Auflösung	Resolution
+Kompression	Compression
+Gering	Low
+Stark	High
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi and low compression for print and archive, 150 dpi and high compression for email.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Makes PDFs searchable and the text copyable. Off: faster processing, image-only PDF.
+Keine Seite erkannt	No page detected
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	The page edge was not found – the whole photo was used.
+Unscharf	Blurry
+Das Foto ist verwackelt oder unscharf.	The photo is shaky or out of focus.
+Zu dunkel	Too dark
+Die Seite ist schlecht ausgeleuchtet.	The page is poorly lit.
+Text schlecht lesbar	Text hard to read
+Die Texterkennung war unsicher.	Text recognition was uncertain.
+Kein Text erkannt	No text recognised
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	No text was found on the page – a blank page, or no page in the picture at all?

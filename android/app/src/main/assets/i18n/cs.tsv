@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Nejprve nastavte otisk prstu, odemknutí obličejem nebo zámek obrazovky.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Toto zařízení nepodporuje biometrické odemknutí.
+Ultimate PDF Scanner entsperren	Odemknout Ultimate PDF Scanner
+Deine Scans sind geschützt	Vaše skeny jsou chráněny
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner je zamčený
+Deine Scans bleiben auf diesem Gerät.	Vaše skeny zůstávají v tomto zařízení.
+  Entsperren	  Odemknout
+Systemsprache	Jazyk systému
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importovat fotky
+Texterkennung vorbereiten	Příprava rozpoznávání textu
+Ein Foto konnte nicht verarbeitet werden: %s	Fotku se nepodařilo zpracovat: %s
+Foto laden	Načíst fotku
+Foto nicht lesbar	Fotka je nečitelná
+Filter anwenden	Použít filtr
+Schwärzen	Začernit
+Unterschrift einfügen	Vložit podpis
+Unterschrift eingefügt	Podpis vložen
+Änderungen einfügen	Vložit změny
+Seite bearbeitet	Stránka upravena
+Text gesichert	Text uložen
+Zusammenführen	Sloučit
+%d Scans zusammengeführt	Sloučeno skenů: %d
+Seiten verschieben	Přesunout stránky
+Seiten kopieren	Kopírovat stránky
+ (Teil)	 (část)
+Zwischenspeicher leeren	Vymazat mezipaměť
+Zwischenspeicher geleert	Mezipaměť vymazána
+Originalfotos entfernen	Odstranit původní fotky
+Sicherung erstellen	Vytvořit zálohu
+Sicherung erstellen (%d/%d)	Vytvořit zálohu (%d/%d)
+Sicherung gespeichert	Záloha uložena
+Sicherung wiederherstellen	Obnovit zálohu
+ (%d schon vorhanden)	 (%d už existuje)
+Wiederherstellen fehlgeschlagen: %s	Obnovení se nezdařilo: %s
+PDF erstellen (%d/%d)	Vytváření PDF (%d/%d)
+%s erstellen	Vytváření: %s
+Export fehlgeschlagen: %s	Export se nezdařil: %s
+%s speichern	Uložit: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF uloženo (chráněno heslem, AES-256)
+%s gespeichert	Uloženo: %s
+Bilder speichern	Uložit obrázky
+Bilder speichern (%d/%d)	Uložit obrázky (%d/%d)
+%d Bilder gespeichert	Uloženo obrázků: %d
+Sprache erkennen	Rozpoznat jazyk
+Kein erkannter Text zum Übersetzen	Žádný rozpoznaný text k překladu
+Sprache nicht erkannt	Jazyk nerozpoznán
+Der Text ist bereits auf %s	Text už je v jazyce: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Načítání jazykového modelu (poprvé ~30 MB)
+Übersetzen (%d/%d)	Překlad (%d/%d)
+Seite %d	Strana %d
+Übersetzung fehlgeschlagen: %s	Překlad se nezdařil: %s
+1 Bereich unkenntlich gemacht	Začerněna 1 oblast
+%d Bereiche unkenntlich gemacht	Začerněno oblastí: %d
+1 Scan wiederhergestellt	Obnoven 1 sken
+%d Scans wiederhergestellt	Obnoveno skenů: %d
+Server antwortet mit %d	Server odpovídá kódem %d
+Datei unvollständig	Soubor je neúplný
+Nicht gefunden	Nenalezeno
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Skeny v telefonu: %d · přímo přes Wi-Fi, bez cloudu
+Ausgangssprache „%s“ wird nicht unterstützt	Zdrojový jazyk „%s“ není podporován
+Zielsprache „%s“ wird nicht unterstützt	Cílový jazyk „%s“ není podporován
+QR-CODE	QR KÓD
+AUSWEIS	DOKLAD
+DOKUMENT	DOKUMENT
+BUCH	KNIHA
+VISITENKARTE	VIZITKA
+PASSFOTO	PASOVÁ FOTKA
+PDF	PDF
+Word	Word
+Bilder	Obrázky
+ZIP	ZIP
+Text	Text
+Excel	Excel
+CSV	CSV
+Kontakt	Kontakt
+Wie gescannt	Jak naskenováno
+Letter	Letter
+Mittel	Střední
+Englisch	Angličtina
+Französisch	Francouzština
+Italienisch	Italština
+Spanisch	Španělština
+Portugiesisch	Portugalština
+Niederländisch	Nizozemština
+Polnisch	Polština
+Tschechisch	Čeština
+Dänisch	Dánština
+Schwedisch	Švédština
+Norwegisch	Norština
+Finnisch	Finština
+Ungarisch	Maďarština
+Rumänisch	Rumunština
+Kroatisch	Chorvatština
+Türkisch	Turečtina
+Griechisch	Řečtina
+Russisch	Ruština
+Ukrainisch	Ukrajinština
+Arabisch	Arabština
+Hebräisch	Hebrejština
+Persisch	Perština
+Chinesisch (vereinfacht)	Čínština (zjednodušená)
+Japanisch	Japonština
+Koreanisch	Korejština
+Latein	Latina
+Deutsch (Fraktur)	Němčina (fraktura)
+1 Seite	1 strana
+%d Seiten	Stran: %d
+1 Scan	1 sken
+%d Scans	Skenů: %d
+Abbrechen	Zrušit
+Bearbeiten	Upravit
+Zurück	Zpět
+Rückgängig	Vrátit
+Sichern	Uložit
+Seite	Strana
+Einfügen	Vložit
+Änderungen sichern?	Uložit změny?
+Verwerfen	Zahodit
+Schließen	Zavřít
+Fertig	Hotovo
+Öffnen	Otevřít
+Keine	Žádné
+Alle	Vše
+Umbenennen	Přejmenovat
+Mehr	Více
+Löschen	Smazat
+Teilen	Sdílet
+Speichern	Uložit
+Drucken	Tisk
+Kopieren	Kopírovat
+Drehen	Otočit
+Laden	Stáhnout
+Entfernen	Odebrat
+Verschieben	Přesunout
+Name	Název
+Aus	Vyp.
+Leeren	Vysypat
+Wiederherstellen	Obnovit
+Text einfügen	Vložit text
+z. B. Name, Datum …	např. jméno, datum …
+Kein Gesicht erkannt – bitte noch einmal	Nebyl rozpoznán obličej – zkuste to znovu
+Seite erneut scannen	Naskenovat stránku znovu
+Fernauslöser verbunden	Dálková spoušť připojena
+Nach dem Umblättern auslösen	Fotit po otočení stránky
+Leserichtung rechts nach links	Směr čtení zprava doleva
+Leserichtung links nach rechts	Směr čtení zleva doprava
+Automatisch auslösen	Automatická spoušť
+Kamera wechseln	Přepnout fotoaparát
+Licht	Světlo
+Bitte Kamerazugriff erlauben.	Povolte přístup k fotoaparátu.
+Passfoto wird zugeschnitten …	Ořezávání pasové fotky …
+Ohne Rückseite fertig	Hotovo bez zadní strany
+Kein Code im Bild gefunden	V obrázku nebyl nalezen žádný kód
+Aus Galerie	Z galerie
+QR-Code oder Barcode in den Rahmen halten	Podržte QR kód nebo čárový kód v rámečku
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Obličej do oválu · dívejte se rovně · světlé pozadí
+Vorderseite des Ausweises in den Rahmen	Přední strana dokladu do rámečku
+Jetzt die Rückseite	Teď zadní strana
+Visitenkarte in den Rahmen legen	Položte vizitku do rámečku
+Aufgeschlagenes Buch ins Bild halten	Podržte otevřenou knihu v záběru
+Doppelseite erkannt	Rozpoznána dvojstrana
+Umblättern – löst danach automatisch aus	Otočte stránku – pak se automaticky vyfotí
+Ruhig halten …	Držte klidně …
+Ruhig halten – wird automatisch ausgelöst	Držte klidně – vyfotí se automaticky
+Seite ins Bild halten	Podržte stránku v záběru
+Seite erkannt	Stránka rozpoznána
+Intervall-Timer	Intervalový časovač
+Serie starten	Spustit sérii
+Farbe	Barva
+Graustufen	Odstíny šedi
+Schwarz-Weiß	Černobílá
+Original	Originál
+Automatisch	Automaticky
+Zuschnitt nicht möglich	Oříznutí není možné
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Původní fotka této stránky byla kvůli úspoře místa odstraněna. Volbou „Naskenovat znovu“ lze stránku pořídit znovu.
+Zuschnitt anpassen	Upravit oříznutí
+Übernehmen	Použít
+Einzelseite	Jedna strana
+Doppelseite	Dvojstrana
+Auto	Auto
+  Automatisch	  Automaticky
+Ecken auf die Seitenränder ziehen	Přetáhněte rohy na okraje stránky
+Seiten ordnen	Uspořádat stránky
+%d ausgewählt	Vybráno: %d
+Filter für alle Seiten	Filtr pro všechny stránky
+Leserichtung umkehren	Obrátit směr čtení
+Übersetzen…	Přeložit…
+Scan löschen	Smazat sken
+Scannen	Skenovat
+Import	Import
+Ordnen	Uspořádat
+Exportieren	Exportovat
+Übersetzen in …	Přeložit do …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Překlad probíhá v zařízení. Poprvé se jazykový model jednorázově stáhne.
+Übersetzung teilen	Sdílet překlad
+Scan löschen?	Smazat sken?
+„%s“ wird endgültig gelöscht.	„%s“ bude trvale smazán.
+Kontakt erkannt	Kontakt rozpoznán
+Zu Kontakten	Do kontaktů
+Seiten werden verarbeitet (%d/%d)	Zpracování stránek (%d/%d)
+Nur diese	Jen tyto
+Wird neu verarbeitet	Zpracovává se znovu
+Erneut	Znovu
+Fehlgeschlagen	Nezdařilo se
+Foto nicht verarbeitet	Fotka nezpracována
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Při zpracování obrazu došlo k chybě.
+Keine Auffälligkeiten	Bez nálezů
+Erneut scannen	Naskenovat znovu
+Ersetzt beide Seiten dieser Doppelseite	Nahradí obě strany této dvojstrany
+Kamera öffnen und diese Seite ersetzen	Otevřít fotoaparát a nahradit tuto stránku
+Nach vorn	Dopředu
+Nach hinten	Dozadu
+Seite löschen	Smazat stránku
+Foto entfernen	Odebrat fotku
+1 Seite verschoben	Přesunuta 1 stránka
+%d Seiten verschoben	Přesunuto stránek: %d
+1 Seite kopiert	Zkopírována 1 stránka
+%d Seiten kopiert	Zkopírováno stránek: %d
+1 Seite löschen?	Smazat 1 stránku?
+%d Seiten löschen?	Smazat stránky (%d)?
+1 Seite prüfen	Zkontrolovat 1 stránku
+%d Seiten prüfen	Zkontrolovat stránky: %d
+Seite löschen?	Smazat stránku?
+Durchsuchbares PDF mit erkanntem Text	Prohledávatelné PDF s rozpoznaným textem
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Upravitelný text pro Word, LibreOffice a Google Docs
+Die Seite als JPG-Bild	Stránka jako obrázek JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Jeden obrázek JPG na stránku (souborů: %d)
+Alle Seiten als JPG und der Text in einem Archiv	Všechny stránky jako JPG a text v jednom archivu
+Nur der erkannte Text	Jen rozpoznaný text
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Rozpoznané tabulky, jeden list na stránku
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Rozpoznané tabulky jako CSV (středník, pro Excel)
+Visitenkarte als Kontakt (vCard)	Vizitka jako kontakt (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Přední a zadní strana ve skutečné velikosti na jedné stránce – připraveno k tisku
+Seitenformat	Formát stránky
+Mit Passwort schützen	Chránit heslem
+AES-256-Verschlüsselung	Šifrování AES-256
+Passwort	Heslo
+Mindestens 4 Zeichen	Alespoň 4 znaky
+Passwort wiederholen	Zopakujte heslo
+Passwörter stimmen nicht überein	Hesla se neshodují
+Seitenbilder einfügen	Vložit obrázky stránek
+Jede Seite als Bild über ihrem Text	Každá stránka jako obrázek nad svým textem
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Sloupce se rozpoznávají podle mezer v textu – nejlépe to funguje u zřetelně oddělených sloupců. Čísla jako „1.234,50“ se převezmou jako čísla.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Na této vizitce nebyly rozpoznány kontaktní údaje.
+1 ausgewählte Seite	1 vybraná stránka
+%d ausgewählte Seiten	Vybrané stránky: %d
+Mobil	Mobil
+Fax	Fax
+Telefon	Telefon
+%s teilen	Sdílet: %s
+Scan	Sken
+Text teilen	Sdílet text
+PDF teilen	Sdílet PDF
+In den Papierkorb verschoben	Přesunuto do koše
+%d Scans in den Papierkorb verschoben	Do koše přesunuto skenů: %d
+Auswahl beenden	Ukončit výběr
+Alle auswählen	Vybrat vše
+In Ordner verschieben	Přesunout do složky
+Ordner	Složky
+Ordner umbenennen	Přejmenovat složku
+Ordner auflösen	Zrušit složku
+Papierkorb (%d)	Koš (%d)
+Papierkorb	Koš
+An PC senden	Poslat do PC
+Speicher & Sicherung	Úložiště a záloha
+Einstellungen	Nastavení
+Scans und Text durchsuchen	Hledat ve skenech a textu
+Alle Scans durchsuchen	Hledat ve všech skenech
+Suche löschen	Vymazat hledání
+%d Treffer	Výsledků: %d
+Alle Scans	Všechny skeny
+Nichts gefunden	Nic nenalezeno
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Žádný název ani rozpoznaný text neodpovídá „%s“.
+Ordner ist leer	Složka je prázdná
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Přesuňte sem skeny: dlouze podržte sken a zvolte „Přesunout do složky“.
+Noch keine Scans	Zatím žádné skeny
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Klepněte na „Skenovat“ a fotografujte stránky,\nnebo importujte fotky z galerie.
+Ordnername	Název složky
+Neuer Ordner	Nová složka
+%d Scans zusammenführen?	Sloučit skeny (%d)?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Všechny stránky se v pořadí výběru připojí k „%s“. Ostatní skeny pak zaniknou.
+%d prüfen	Zkontrolovat: %d
+Wird verarbeitet (%d/%d)	Zpracovává se (%d/%d)
+Als PDF teilen	Sdílet jako PDF
+Kategorie ändern	Změnit kategorii
+Kein Ordner	Bez složky
+Neuer Ordner …	Nová složka …
+Kategorie	Kategorie
+Download fehlgeschlagen: %s	Stahování se nezdařilo: %s
+keine Verbindung	bez připojení
+Sprachen der Texterkennung	Jazyky rozpoznávání textu
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Zvolené jazyky se rozpoznávají společně – vyberte jen potřebné, každý další rozpoznávání zpomalí. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Chybějící jazyky se stáhnou jednorázově (cca 2–15 MB) a pak fungují offline.
+Wird geladen … %d %%	Stahování … %d %%
+Enthalten	Součástí
+Geladen · %s	Staženo · %s
+Nicht geladen	Nestaženo
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Klepnutím vyberte · podržením a tažením přesuňte
+Neuer Scan	Nový sken
+Verschieben nach …	Přesunout do …
+Kopieren nach …	Kopírovat do …
+Seite %d von %d	Strana %d z %d
+Filter	Filtr
+Zuschnitt	Oříznutí
+Signieren	Podepsat
+Code	Kód
+Link	Odkaz
+E-Mail	E-mail
+Telefonnummer	Telefonní číslo
+Ort	Místo
+Produktcode	Kód produktu
+Netzwerk: %s	Síť: %s
+Passwort: %s	Heslo: %s
+Verschlüsselung: %s	Šifrování: %s
+Passwort kopieren	Kopírovat heslo
+Verbinden	Připojit
+E-Mail schreiben	Napsat e-mail
+Anrufen	Zavolat
+In Karten öffnen	Otevřít v Mapách
+Suche sensible Daten…	Hledání citlivých údajů…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Nic citlivého nenalezeno. Oblasti k začernění vyznačte prstem.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Nalezeno – klepnutím vyberte nebo zrušte, vyznačte další oblasti:
+Schwarzer Balken	Černý pruh
+Verpixeln	Rozpixelovat
+Unkenntlich machen (%d)	Začernit (%d)
+Manuell	Ručně
+Gesicht	Obličej
+Kein WLAN	Žádná Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Připojte telefon a PC ke stejné Wi-Fi (nebo PC k hotspotu telefonu). Adresa se pak zobrazí zde.
+Am PC im Browser öffnen	Otevřít v prohlížeči na PC
+QR-Code der Adresse	QR kód adresy
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Zadejte adresu nebo naskenujte QR kód kamerou PC. Tam lze stáhnout všechny skeny jako PDF nebo text.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Jen v místní síti a jen dokud je tato obrazovka otevřená. Nic se nenahrává na internet.
+Heruntergeladen	Staženo
+App-Sperre nicht möglich	Zámek aplikace není možný
+Sprache	Jazyk
+Sprache der App	Jazyk aplikace
+Aufnahme	Snímání
+Doppelseiten im Dokument-Modus	Dvojstrany v režimu dokumentu
+Automatisch teilen	Rozdělit automaticky
+Nie teilen	Nikdy nerozdělovat
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Vyfotí, jakmile stránka leží v záběru v klidu.
+Buch-Modus	Režim knihy
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Rozpozná otočení stránky a vyfotí, jakmile kniha opět leží v klidu.
+Leserichtung	Směr čtení
+Links → rechts	Zleva → doprava
+Rechts → links	Zprava → doleva
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Zprava doleva pro arabštinu, hebrejštinu, perštinu a japonštinu: první je pravá stránka.
+Fernauslöser	Dálková spoušť
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Spárujte Bluetooth dálkovou spoušť fotoaparátu (např. „AB Shutter 3“) v nastavení Bluetooth Androidu. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Ve fotoaparátu pak fotí dálková spoušť a tlačítka hlasitosti.
+Bild	Obrázek
+Standardfilter	Výchozí filtr
+Handschrift entfernen	Odstranit rukopis
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Odstraní poznámky modrým/červeným perem a tužkou. Odstraní také tisk v těchto barvách.
+Texterkennung	Rozpoznávání textu
+Sprachen	Jazyky
+Sicherheit & Speicher	Zabezpečení a úložiště
+App-Sperre	Zámek aplikace
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Při otevření odemknout otiskem prstu, obličejem nebo zámkem obrazovky. Obsah se nezobrazí v přehledu aplikací.
+Belegung, Backup als ZIP, Wiederherstellen	Využití, záloha jako ZIP, obnovení
+Gelöschte Scans werden nach 30 Tagen entfernt	Smazané skeny se odstraní po 30 dnech
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Všechny fotky a texty zůstávají v tomto zařízení. Internet se používá jen k jednorázovému stažení jazyků, když to spustíte.
+Über	O aplikaci
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Open-source komponenty: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (vše licence Apache 2.0); ML Kit (překlad, rozpoznání obličeje, v zařízení).
+Unterschrift zeichnen	Nakreslit podpis
+Mit dem Finger unterschreiben	Podepište se prstem
+Unterschrift platzieren	Umístit podpis
+Neu zeichnen	Nakreslit znovu
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Posun jedním prstem, změna velikosti dvěma prsty.
+Unterschrift	Podpis
+Belegt von Ultimate PDF Scanner	Využito aplikací Ultimate PDF Scanner
+%s frei auf dem Gerät	Volné v zařízení: %s
+Seiten	Stránky
+Originalfotos	Původní fotky
+Zwischenspeicher	Mezipaměť
+Platz schaffen	Uvolnit místo
+Exportierte Dateien zum Teilen	Exportované soubory ke sdílení
+Gelöschte Scans der letzten 30 Tage	Smazané skeny za posledních 30 dní
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Hotové stránky zůstanou zachovány, oříznutí pak už nelze změnit.
+Größte Scans	Největší skeny
+Sicherung	Záloha
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Uložte všechny skeny jako jeden soubor ZIP – např. na kartu SD, USB disk nebo PC. Nic se nenahrává.
+Papierkorb mitsichern	Zálohovat i koš
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-zaloha_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Při obnovení se doplní jen chybějící skeny.
+Originalfotos entfernen?	Odstranit původní fotky?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Ušetří %s. Stránky pak nepůjde znovu oříznout, „Naskenovat znovu“ zůstane možné.
+Text bearbeiten · Seite %d	Upravit text · strana %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Opravy se promítnou do hledání a do textové vrstvy PDF.
+Kein Text erkannt – hier eintippen	Nebyl rozpoznán text – napište ho sem
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Smazané skeny se po %d dnech trvale odstraní.
+Papierkorb ist leer	Koš je prázdný
+Endgültig löschen	Trvale smazat
+Papierkorb leeren?	Vysypat koš?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	Skeny (%d) budou trvale smazány. Nelze to vrátit.
+Endgültig löschen?	Trvale smazat?
+„%s“ wird sofort gelöscht.	„%s“ bude okamžitě smazán.
+noch 1 Tag	ještě 1 den
+noch %d Tage	ještě dní: %d
+Quittung	Účtenka
+Quittungen	Účtenky
+Rechnung	Faktura
+Rechnungen	Faktury
+Visitenkarte	Vizitka
+Visitenkarten	Vizitky
+Vertrag	Smlouva
+Verträge	Smlouvy
+Brief	Dopis
+Briefe	Dopisy
+Ausweis	Průkaz
+Ausweise	Průkazy
+Buch	Kniha
+Bücher	Knihy
+Passfoto	Pasová fotka
+Passfotos	Pasové fotky
+Dokument	Dokument
+Dokumente	Dokumenty
+Auflösung	Rozlišení
+Kompression	Komprese
+Gering	Nízká
+Stark	Silná
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi a nízká komprese pro tisk a archiv, 150 dpi a silná komprese pro e-mail.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Umožní prohledávat PDF a kopírovat text. Vyp.: rychlejší zpracování, PDF jen jako obrázek.
+Keine Seite erkannt	Stránka nerozpoznána
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Okraj stránky nebyl nalezen – byla použita celá fotka.
+Unscharf	Rozmazané
+Das Foto ist verwackelt oder unscharf.	Fotka je rozmazaná nebo neostrá.
+Zu dunkel	Příliš tmavé
+Die Seite ist schlecht ausgeleuchtet.	Stránka je špatně osvětlená.
+Text schlecht lesbar	Text špatně čitelný
+Die Texterkennung war unsicher.	Rozpoznávání textu bylo nejisté.
+Kein Text erkannt	Text nerozpoznán
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Na stránce nebyl nalezen text – prázdná stránka nebo vůbec žádná stránka v záběru?
+Hindi	Hindština
+Bengalisch	Bengálština
+Urdu	Urdština
+Indonesisch	Indonéština
+Seite erkennen	Rozpoznat stránku
+Seite entzerren	Narovnat stránku
+Finger entfernen	Odstranit prsty
+Schärfe prüfen	Kontrola ostrosti
+Ausrichtung	Orientace
+Bild verbessern	Vylepšit obrázek
+Speicherort	Umístění ukládání
+Speicherort für Exporte	Umístění pro exporty
+Jedes Mal fragen	Pokaždé se zeptat
+Ordner wählen …	Zvolit složku …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	„Uložit“ ukládá PDF a další exporty přímo do této složky bez opakovaného dotazu. Možná je i karta SD.
+Gespeichert in „%s“	Uloženo do „%s“
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Umístění ukládání není dostupné. Zvolte ho znovu.
+Neu aufnehmen	Pořídit znovu
+Um 90° links drehen	Otočit o 90° doleva
+Seite gelöscht	Stránka smazána
+Lange drücken: neu aufnehmen, drehen oder löschen	Dlouhé podržení: pořídit znovu, otočit nebo smazat
+Ersetzt beide Seiten	Nahradí obě strany
+Ränder bereinigen	Vyčistit okraje
+Scan-Qualität	Kvalita skenování
+Schnell	Rychlá
+Standard	Standardní
+Genau	Přesná
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Pro velké, jasné písmo jako dopisy a výtisky: menší fotky, nejrychlejší zpracování.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Pro knihy a většinu dokumentů: dobré rozpoznání při běžné rychlosti.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Pro drobné písmo, staré knihy, poznámky pod čarou a vzorce: plné rozlišení fotoaparátu, pomalejší, více paměti.
+BILD	OBRÁZEK
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Obrázek položte rovně · bez blesku · vyhněte se odleskům
+an	zap.
+aus	vyp.
+Automatische Auslösung an: nach dem Umblättern	Automatická spoušť zap.: po otočení stránky
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automatická spoušť zap.: jakmile stránka leží v klidu
+Automatische Auslösung aus	Automatická spoušť vyp.
+PDF & Export	PDF a export
+Speicherort für PDFs und Bilder	Umístění pro PDF a obrázky
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Při exportu to lze změnit pro jednotlivé soubory.
+Weitere Optionen …	Další možnosti …
+Automatische Verbesserung	Automatické vylepšení
+Schatten und Artefakte entfernen, Schrift schärfen	Odstranit stíny a artefakty, zaostřit písmo
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Odstranit stíny a artefakty, zaostřit písmo. Lze vypnout v každém dokumentu.
+unkorrigiert	neupraveno
+Maximal	Maximální
+Bildqualität	Kvalita obrázku
+volle Auflösung	plné rozlišení
+Briefe, Ausdrucke, große Schrift	Dopisy, výtisky, velké písmo
+Bücher und die meisten Dokumente (empfohlen)	Knihy a většina dokumentů (doporučeno)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Drobné písmo, vzorce, staré knihy – pomalejší
+Gilt auch für alle weiteren Scans.	Platí i pro všechna další skenování.
+Ändern	Změnit
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Kam „Uložit“ ukládá vaše exporty. „Sdílet“ na tom nezávisí.
+Ordner und Dateiname beim Speichern wählen	Při ukládání vybrat složku a název souboru
+Exporte landen direkt hier	Exporty se ukládají přímo sem
+Anderen Ordner wählen …	Zvolit jinou složku …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Také karta SD a cloudové složky, pokud jsou v zařízení nastavené.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Trvalý přístup k této složce není možný.
+Sehr hohe Auflösung	Velmi vysoké rozlišení
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Při %d MP trvá zpracování každé stránky výrazně déle a potřebuje hodně paměti. Pro většinu dokumentů stačí „Standardní“. „Maximální“ se vyplatí jen pro velmi drobné písmo.
+Trotzdem verwenden	Přesto použít
+langsam	pomalé
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Není připojena dálková spoušť – spárujte ji v nastavení Bluetooth
+Mit dem Fernauslöser auslösen	Fotit dálkovou spouští
+Umblättern	Otočení stránky
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Ukončí snímání. Již vyfocené stránky zůstanou zachovány a zpracují se.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Zapne nebo vypne svítilnu. Lesklý papír je lepší fotit bez světla a šikmo k oknu.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Použije existující fotky místo nových snímků.
+Serie	Série
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Spustí nebo zastaví sérii: časovač pak každých pár sekund automaticky vyfotí.
+Auslöser	Spoušť
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Pořídí fotku. Fotí i tlačítka hlasitosti a Bluetooth dálková spoušť.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Ukončí snímání a otevře přehled; číslo ukazuje fotky tohoto snímání.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Kolik pixelů má každá fotka. Rychlá (5 MP) pro velké písmo, Standardní (12 MP) téměř pro vše, Maximální pro drobné písmo a vzorce – trvá déle.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Klepnutím přepnete: vyp., 3, 5 nebo 10 sekund. Spoušť pak spustí sérii s fotkou v tomto intervalu – praktické u knih.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Fotí jen po klepnutí na spoušť.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Vyfotí samo, jakmile stránka leží 0,7 sekundy v klidu. V režimu knihy: po každém otočení stránky, jakmile kniha opět leží v klidu.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Fotí Bluetooth dálkovou spouští (např. „AB Shutter 3“). Spoušť nejprve spárujte v nastavení Bluetooth telefonu.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Dá dokumentu vlastní název; ten se použije i jako název souboru při exportu.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Obrátit směr čtení dvojstran, přeložit v zařízení nebo smazat sken.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Otevře fotoaparát a přidá do tohoto dokumentu další stránky.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Převezme fotky z galerie jako další stránky; oříznou se a rozpoznají jako fotky z fotoaparátu.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Pořadí měňte tažením; vyberte stránky a otočte, přesuňte, zkopírujte, vyjměte nebo smažte je.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Sdílet, uložit nebo vytisknout jako PDF, Word, obrázky, ZIP, text nebo tabulku.
+Farbe, Graustufen, Schwarz-Weiß	Barva, odstíny šedi, černobílá
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Přepne všechny stránky tohoto dokumentu. Černobílá dává nejmenší soubory, barva věrně zachová ilustrace a razítka.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Zap.: stíny, skvrny a artefakty se odstraní a písmo bude kontrastnější. Vyp.: stránky se jen oříznou a narovnají – pro fotky, kresby nebo když vylepšení něco zkreslí.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Vytvoří soubor a předá ho aplikaci, např. e-mailu, messengeru nebo cloudu.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Uloží soubor do umístění ukládání – do pevné složky, nebo při „Pokaždé se zeptat“ tam, kam ho dáte.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Tiskne přes tiskovou službu Androidu; tam lze zvolit i „Uložit jako PDF“.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Kam „Uložit“ ukládá soubory: pokaždé se zeptat, nebo vždy do pevné složky, i na kartu SD nebo do cloudové složky.
+Hilfe & Anleitung	Nápověda a návod
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Tip: podržte tlačítko jednu sekundu a uvidíte, co dělá.
+Startseite	Domů
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Otevře fotoaparát. Všechny fotky jednoho snímání skončí v jednom společném dokumentu.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Ikona galerie nad „Skenovat“ převezme existující fotky; oříznou se a rozpoznají jako fotky z fotoaparátu.
+Suchen	Hledat
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Najde skeny podle názvu a rozpoznaného textu, s číslem strany.
+Ordner und Kategorien	Složky a kategorie
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Složky seskupují skeny. Kategorie (knihy, účtenky …) se objeví samy, jakmile existují skeny tohoto druhu.
+Mehrere Scans	Více skenů
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Dlouze podržte sken: vybrat, sloučit, přesunout do složky nebo smazat.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Smazané skeny zůstávají 30 dní v koši (nabídka ⋮) a lze je obnovit.
+Modi	Režimy
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Vyberte dole: Dokument (jednotlivé listy), Kniha (dvojstrany se rozdělí na dvě stránky), Doklad (přední a zadní strana ve skutečné velikosti na jednom listu), Vizitka (kontakt se rozpozná), Obrázek (věrné barvy, bez rozpoznávání textu), Pasová fotka (přední fotoaparát, 35 × 45 mm) a QR kód.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Vlevo nahoře: Rychlá (5 MP) pro velké písmo, Standardní (12 MP) téměř pro vše, Maximální pro drobné písmo a vzorce – pomalejší.
+Auslösung	Spouštění
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Ručně: spouští. Auto 0,7 s: jakmile stránka leží 0,7 sekundy v klidu; v režimu knihy po každém otočení stránky. Bluetooth: spárovanou dálkovou spouští. Tlačítka hlasitosti fotí vždy.
+Timer und Licht	Časovač a světlo
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Ikona hodin fotí každé 3, 5 nebo 10 sekund (start spouští). Blesk zapne svítilnu.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Klepněte na náhled vpravo dole: stránky se zpracují a otevře se přehled.
+Gute Fotos	Dobré fotky
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Položte stránku rovně a rovnoměrně osvětlenou, telefon držte rovnoběžně. Podklad, který se barevně liší od papíru, pomáhá při ořezu.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Platí pro všechny stránky dokumentu. Jednotlivé stránky lze v zobrazení stránky nastavit jinak.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Odstraní stíny a artefakty a zvýší kontrast písma. Po vypnutí se stránka jen ořízne a narovná.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Klepnutí otevře stránku. Dlouhé podržení: pořídit znovu, otočit nebo smazat. Oranžově označené stránky je třeba zkontrolovat (např. rozmazané), červené selhaly.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Pořadí měňte tažením, otáčejte více stránek, přesuňte nebo zkopírujte je do jiného dokumentu, nebo je vyjměte jako nový dokument.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, obrázky, ZIP, text nebo tabulka – sdílet, uložit nebo vytisknout.
+Mehr (⋮)	Více (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Obrátit směr čtení dvojstran, přeložit v zařízení nebo smazat sken. Tužka nahoře mění název.
+Seitenansicht	Zobrazení stránky
+Blättern und Zoomen	Listování a zoom
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Přejetím změníte stránku, dvojitým klepnutím nebo dvěma prsty přiblížíte.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Barva, odstíny šedi nebo černobílá jen pro tuto stránku, s náhledem. Pod tím automatické vylepšení této stránky.
+Drehen und Zuschnitt	Otočení a oříznutí
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Otočení o 90°. Oříznutí: znovu nastavit rohy stránky na původní fotce.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Pište na stránku perem, zvýrazňovačem nebo textem.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Znečitelnit citlivé údaje – pruhy nebo rozpixelováním. Navrhují se čísla účtů, čísla karet a obličeje.
+Signieren und Text	Podpis a text
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Podepsat vloží váš uložený podpis. Text zobrazí rozpoznaný text k opravě a kopírování.
+Formate	Formáty
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (prohledávatelné), Word, obrázky (JPG), ZIP, text, Excel nebo CSV; u vizitek i jako kontakt.
+PDF-Optionen	Možnosti PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Formát stránky, rozlišení a komprese určují kvalitu a velikost souboru – velikost se odhaduje vpravo nahoře. Volitelně s heslem (AES-256).
+Teilen oder Speichern	Sdílet, nebo uložit
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Sdílet pošle soubor do aplikace (e-mail, messenger …). Uložit ho uloží do umístění ukládání.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	„Pokaždé se zeptat“ otevře při ukládání výběr složky. S pevnou složkou se exporty ukládají bez dotazu – i na kartu SD nebo do cloudové složky.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Tiskne přes tiskovou službu Androidu nebo ukládá jako PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Kvalita obrázku, spouštění a rozdělování dvojstran pro nové skeny. Ve fotoaparátu to lze kdykoli změnit.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtr a automatické vylepšení, se kterými začínají nové dokumenty.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Umožní prohledávat PDF. Jazyky určují, které znaky se rozpoznají.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Umístění ukládání a výchozí hodnoty rozlišení, komprese a formátu stránky.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Zámek aplikace otiskem prstu, záloha jako ZIP a koš.
+Ecken setzen	Nastavit rohy
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Přetáhněte čtyři rohy na okraje stránky; lupa ukáže zvětšené místo pod prstem.
+Einzel- oder Doppelseite	Jedna strana nebo dvojstrana
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Dole zvolte, zda fotka ukazuje jednu stránku, nebo otevřenou dvojstranu. Automaticky rozhodne aplikace.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Zatržítko nahoře zpracuje stránku s novým oříznutím.
+Werkzeuge	Nástroje
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Pero na psaní, zvýrazňovač na označování, text na psané poznámky. Barvy jsou pod tím.
+Korrigieren	Opravit
+Rückgängig nimmt den letzten Strich zurück.	Vrátit odstraní poslední tah.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Zapíše změny do stránky. Bez uložení zůstane stránka beze změn.
+Vorschläge	Návrhy
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Nalezená čísla účtů, karet, daňová čísla a obličeje jsou označené – klepnutím je zrušíte nebo znovu vyberete.
+Eigene Bereiche	Vlastní oblasti
+Mit dem Finger weitere Rechtecke aufziehen.	Vyznačte prstem další obdélníky.
+Balken oder Pixel	Pruhy, nebo pixely
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Černý pruh nebo rozpixelování. Text pod tím se odstraní i z rozpoznaného textu a z PDF.
+Zeichnen	Kreslit
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Podepište se jednou prstem – podpis se uloží v zařízení.
+Platzieren	Umístit
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Posun jedním prstem, změna velikosti dvěma prsty, pak vložit.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Ikona tužky nahoře nahradí uložený podpis.
+Text bearbeiten	Upravit text
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Rozpoznaný text stránky je dole a lze ho upravit. Nahoře obrázek stránky pro porovnání.
+Wirkung	Účinek
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Opravy se promítnou do hledání, do textové vrstvy PDF a do exportu do Wordu a textu.
+Holt einen gelöschten Scan zurück.	Vrátí smazaný sken.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skeny se po 30 dnech automaticky odstraní. „Vysypat“ smaže vše okamžitě.
+Belegung	Využití
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Ukazuje, kolik místa zabírají skeny, původní fotky, koš a mezipaměť.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Odstranění původních fotek ušetří hodně místa; hotové stránky zůstanou, jen oříznutí pak už nejde změnit.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Zálohujte všechny skeny jako soubor ZIP a obnovte je v tomto nebo jiném zařízení. Nic se nenahrává.
+Auswahl	Výběr
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Vyberte jazyky svých dokumentů. Každý další jazyk rozpoznávání zpomalí.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Chybějící jazyky se stáhnou jednorázově a pak fungují bez internetu.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Připojte telefon a PC ke stejné Wi-Fi (nebo PC k hotspotu telefonu).
+Herunterladen	Stáhnout
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Otevřete zobrazenou adresu v prohlížeči na PC nebo naskenujte QR kód; tam lze stáhnout všechny skeny jako PDF nebo text.
+Sicherheit	Zabezpečení
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Funguje jen v místní síti a jen dokud je tato obrazovka otevřená.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Jazyk, kvalita obrázku, spouštění, rozpoznávání textu, umístění ukládání, zámek aplikace a záloha.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Převezme fotky z galerie jako nový dokument; oříznou se a rozpoznají jako fotky z fotoaparátu.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Otevře fotoaparát. Všechny fotky jednoho snímání skončí v jednom společném dokumentu.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Smaže tuto stránku z dokumentu (po potvrzení).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Barva, odstíny šedi nebo černobílá a automatické vylepšení jen pro tuto stránku.
+Dreht die Seite um 90° im Uhrzeigersinn.	Otočí stránku o 90° po směru hodinových ručiček.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Znovu nastavte rohy stránky na původní fotce, pokud chybí okraj nebo je vidět pozadí.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Znečitelněte citlivé údaje pruhy nebo pixely; zmizí i z textu PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Umístí váš uložený podpis na stránku; poprvé ho nakreslíte.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Zobrazí rozpoznaný text stránky k opravě a kopírování.
+Fotografiert beim Tippen auf den Auslöser.	Vyfotí po klepnutí na spoušť.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Vyfotí, jakmile stránka leží 0,7 s v klidu; v režimu knihy po každém otočení stránky.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Fotí spárovanou Bluetooth dálkovou spouští.
+Lautstärketasten lösen immer aus.	Tlačítka hlasitosti fotí vždy.
+Word erstellen, Formeln erkennen (%d/%d)	Vytváření Wordu, rozpoznávání vzorců (%d/%d)
+Belarussisch	Běloruština
+Bulgarisch	Bulharština
+Serbisch	Srbština
+Mazedonisch	Makedonština
+Kein Link im geteilten Text	Ve sdíleném textu není žádný odkaz
+Import fehlgeschlagen: %s	Import se nezdařil: %s
+Link laden	Načítání odkazu
+Unter dem Link liegt keine PDF- oder Bilddatei.	Odkaz nevede na soubor PDF ani obrázek.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Importovat lze jen soubory PDF a obrázky.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Chráněné soubory PDF nelze importovat.
+PDF-Seite %d/%d importieren	Import stránky PDF %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Snímek po %s s
+Wartezeit	Doba čekání
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Jak dlouho musí stránka ležet v klidu před automatickým snímkem. Kratší je rychlejší, delší dává méně rozmazaných fotek.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Vyfotí sám, jakmile stránka leží v klidu; dobu čekání (0,2–1,5 s) nastavíte níže. V režimu knihy: po každém otočení stránky, jakmile kniha opět leží v klidu.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Přidá fotky, snímky obrazovky, soubory PDF nebo odkaz jako další stránky; fotky se oříznou, vše se rozpozná.
+Senden an …	Odeslat do …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Kam „Uložit“ ukládá exporty. „Odeslat do …“ na tom nezávisí.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Vyberte podsložku, např. „Documents“ – kořenovou složku úložiště Android nepovolí.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Vytvoří soubor a odešle ho do aplikace, např. WhatsApp, e-mail, Telegram nebo cloud.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Ručně: spouští. Auto: jakmile stránka leží v klidu – dobu čekání (0,2–1,5 s, výchozí 0,7 s) nastavíte v okně skenování pod přepínačem; v režimu knihy po každém otočení stránky. Bluetooth: spárovanou dálkovou spouští. Tlačítka hlasitosti fotí vždy.
+Senden an oder Speichern	Odeslat do nebo uložit
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Odeslat do …“ pošle soubor do aplikace (WhatsApp, e-mail, Telegram, cloud …). Uložit ho uloží do umístění.
+Importieren	Importovat
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Přidá fotky, snímky obrazovky, soubory PDF nebo odkaz jako nový dokument; fotky se oříznou, vše se rozpozná.
+Bilder aus der Galerie	Obrázky z galerie
+Fotos und Screenshots	Fotky a snímky obrazovky
+Dateien	Soubory
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Soubory PDF a obrázky, např. ze Stažených nebo z cloudu
+Eine PDF- oder Bilddatei aus dem Internet	Soubor PDF nebo obrázek z internetu
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Pak jako naskenované stránky: rozpoznání textu, překlad a export do libovolného formátu.
+Link importieren	Importovat odkaz
+Internetadresse	Webová adresa
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Vyfotí, jakmile stránka leží v klidu %s s (nastavitelné v okně skenování); v režimu knihy po každém otočení stránky.
+Fachwörterbuch laden	Načítání slovníku
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Chybí slovník pro %s nebo %s – přeloženo bez odborných termínů
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Není soubor slovníku (glossary-xx.tsv.gz)
+Download nicht verfügbar	Stahování není k dispozici
+Estnisch	Estonština
+Irisch	Irština
+Litauisch	Litevština
+Lettisch	Lotyština
+Maltesisch	Maltština
+Slowakisch	Slovenština
+Slowenisch	Slovinština
+Ohne Fachwörterbuch	Bez slovníku
+Alle Fachgebiete	Všechny obory
+Fachgebiet: %s	Obor: %s
+Fachwörterbücher verwalten …	Spravovat slovníky …
+Fachwörterbücher	Odborné slovníky
+Aus Datei importieren	Importovat ze souboru
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Odborné termíny z práva, medicíny, techniky, ekonomiky a 17 dalších oborů (IATE, terminologická databáze EU) se při překladu převezmou přesně. Potřebný je slovník výchozího a cílového jazyka, každý 0,3–9 MB.
+Einmal laden, danach offline.	Jednou stáhnout, pak offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Soubory glossary-xx.tsv.gz importujte ikonou složky nahoře.
+Fachwörterbücher für die Übersetzung	Odborné slovníky pro překlad
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Právo, medicína, technika a další – 24 jazyků EU
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Všechny fotky a texty zůstávají v tomto zařízení. Internet se používá jen k jednorázovému stažení jazyků, překladových modelů a slovníků, když to spustíte.
+Übersetzen	Přeložit
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Vytvoří v zařízení přeloženou kopii dokumentu: stejné stránky a obrázky, text v cílovém jazyce na svém místě. Každý odstavec se překládá ze svého vlastního jazyka. S „Oborem“ se odborné termíny z glosářů přebírají přesně.
+Was nachgeladen werden kann	Co lze stáhnout
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Vše je dobrovolné a stáhne se jen po klepnutí; potom to funguje bez internetu:\n• Jazyky rozpoznávání textu: každý 1–15 MB (Nastavení › Jazyky). Němčina a angličtina jsou součástí.\n• Čínština: vlastní model rozpoznávání, asi 17 MB.\n• Překladové modely: asi 30 MB na jazyk, stáhnou se automaticky při prvním překladu.\n• Odborné slovníky: 0,3–9 MB na jazyk, asi 70 MB pro všech 24 jazyků EU (Nastavení › Odborné slovníky).\nStažené soubory lze kdykoli odstranit.
+Wozu	K čemu
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Běžné překladače mnoho odborných termínů neznají nebo je překládají nejednotně. Slovník vloží stanovený termín, např. „Beweislast“ → „důkazní břemeno“.
+Quelle	Zdroj
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, terminologická databáze institucí EU, s termíny z 21 oborů (právo, zdraví, technika, ekonomika, životní prostředí, doprava …). Existuje pro 24 úředních jazyků EU.
+Was nötig ist	Co je potřeba
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Po jednom slovníku pro výchozí a cílový jazyk, např. němčinu a angličtinu. Jeden slovník na jazyk stačí pro všechny jazykové páry.
+Laden oder importieren	Stáhnout nebo importovat
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Stáhnout šipkou (jednou, pak offline) nebo ikonou složky importovat soubor „glossary-xx.tsv.gz“, např. z PC nebo SD karty.
+Benutzen	Použití
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Při překladu nahoře zvolte obor. „Všechny obory“ používá jen termíny, které se všude překládají stejně.
+Grenzen	Omezení
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Odborné termíny se vkládají v základním tvaru; skloňované tvary se ne vždy rozpoznají.
+Politik	Politika
+Internationale Beziehungen	Mezinárodní vztahy
+Europäische Union	Evropská unie
+Recht	Právo
+Wirtschaft	Ekonomika
+Handel	Obchod
+Finanzwesen	Finance
+Soziales und Gesundheit	Sociální otázky a zdraví
+Bildung und Kommunikation	Vzdělávání a komunikace
+Wissenschaft	Věda
+Unternehmen und Wettbewerb	Podnikání a hospodářská soutěž
+Beschäftigung und Arbeitsbedingungen	Zaměstnanost a pracovní podmínky
+Verkehr	Doprava
+Umwelt	Životní prostředí
+Land-, Forst- und Fischereiwirtschaft	Zemědělství, lesnictví a rybářství
+Agrarerzeugnisse und Lebensmittel	Zemědělsko-potravinářské výrobky
+Produktion, Technologie und Forschung	Výroba, technologie a výzkum
+Energie	Energetika
+Industrie	Průmysl
+Geografie	Zeměpis
+Internationale Organisationen	Mezinárodní organizace
+Wenig Licht – Lampe einschalten	Málo světla – zapnout svítilnu
+Verarbeitung mehrfach abgebrochen	Zpracování bylo opakovaně přerušeno
+Bearbeitungen gehen verloren	Úpravy budou ztraceny
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Stránka se vytvoří znovu z fotky. Začernění, podpis a poznámky bude nutné vložit znovu.
+Neu zuschneiden	Oříznout znovu
+Sprachdaten	Jazyková data
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Ukazuje, kolik místa zabírají skeny, původní fotky, koš, mezipaměť a jazyková data (rozpoznávání textu, slovníky).
+Bitte warten, bis alle Seiten erkannt sind	Počkejte, až budou rozpoznány všechny stránky
+Die Sprache „%s“ kann nicht übersetzt werden	Jazyk „%s“ nelze přeložit
+Übersetzung in die Seiten setzen	Vkládání překladu do stránek

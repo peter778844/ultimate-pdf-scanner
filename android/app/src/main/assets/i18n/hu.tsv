@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Először állítson be ujjlenyomatot, arcfelismerést vagy képernyőzárat.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Ez az eszköz nem támogatja a biometrikus feloldást.
+Ultimate PDF Scanner entsperren	Ultimate PDF Scanner feloldása
+Deine Scans sind geschützt	A szkennelései védettek
+Ultimate PDF Scanner ist gesperrt	Az Ultimate PDF Scanner zárolva van
+Deine Scans bleiben auf diesem Gerät.	A szkennelései ezen az eszközön maradnak.
+  Entsperren	  Feloldás
+Systemsprache	Rendszer nyelve
+Deutsch	Deutsch
+English	English
+Fotos importieren	Fotók importálása
+Texterkennung vorbereiten	Szövegfelismerés előkészítése
+Ein Foto konnte nicht verarbeitet werden: %s	Egy fotót nem sikerült feldolgozni: %s
+Foto laden	Fotó betöltése
+Foto nicht lesbar	A fotó olvashatatlan
+Filter anwenden	Szűrő alkalmazása
+Schwärzen	Kitakarás
+Unterschrift einfügen	Aláírás beszúrása
+Unterschrift eingefügt	Aláírás beszúrva
+Änderungen einfügen	Módosítások beszúrása
+Seite bearbeitet	Oldal szerkesztve
+Text gesichert	Szöveg mentve
+Zusammenführen	Egyesítés
+%d Scans zusammengeführt	Egyesített szkennelések: %d
+Seiten verschieben	Oldalak áthelyezése
+Seiten kopieren	Oldalak másolása
+ (Teil)	 (rész)
+Zwischenspeicher leeren	Gyorsítótár ürítése
+Zwischenspeicher geleert	Gyorsítótár kiürítve
+Originalfotos entfernen	Eredeti fotók eltávolítása
+Sicherung erstellen	Biztonsági mentés készítése
+Sicherung erstellen (%d/%d)	Biztonsági mentés készítése (%d/%d)
+Sicherung gespeichert	Biztonsági mentés elmentve
+Sicherung wiederherstellen	Biztonsági mentés visszaállítása
+ (%d schon vorhanden)	 (%d már megvan)
+Wiederherstellen fehlgeschlagen: %s	A visszaállítás sikertelen: %s
+PDF erstellen (%d/%d)	PDF készítése (%d/%d)
+%s erstellen	Készítés: %s
+Export fehlgeschlagen: %s	Az exportálás sikertelen: %s
+%s speichern	Mentés: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF mentve (jelszóval védett, AES-256)
+%s gespeichert	Mentve: %s
+Bilder speichern	Képek mentése
+Bilder speichern (%d/%d)	Képek mentése (%d/%d)
+%d Bilder gespeichert	Mentett képek: %d
+Sprache erkennen	Nyelv felismerése
+Kein erkannter Text zum Übersetzen	Nincs felismert szöveg a fordításhoz
+Sprache nicht erkannt	A nyelv nem ismerhető fel
+Der Text ist bereits auf %s	A szöveg már ezen a nyelven van: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Nyelvi modell betöltése (első alkalommal ~30 MB)
+Übersetzen (%d/%d)	Fordítás (%d/%d)
+Seite %d	%d. oldal
+Übersetzung fehlgeschlagen: %s	A fordítás sikertelen: %s
+1 Bereich unkenntlich gemacht	1 terület kitakarva
+%d Bereiche unkenntlich gemacht	Kitakart területek: %d
+1 Scan wiederhergestellt	1 szkennelés visszaállítva
+%d Scans wiederhergestellt	Visszaállított szkennelések: %d
+Server antwortet mit %d	A szerver válasza: %d
+Datei unvollständig	A fájl hiányos
+Nicht gefunden	Nem található
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Szkennelések a telefonon: %d · közvetlenül Wi-Fi-n, felhő nélkül
+Ausgangssprache „%s“ wird nicht unterstützt	A(z) „%s” forrásnyelv nem támogatott
+Zielsprache „%s“ wird nicht unterstützt	A(z) „%s” célnyelv nem támogatott
+QR-CODE	QR-KÓD
+AUSWEIS	IGAZOLVÁNY
+DOKUMENT	DOKUMENTUM
+BUCH	KÖNYV
+VISITENKARTE	NÉVJEGYKÁRTYA
+PASSFOTO	IGAZOLVÁNYKÉP
+PDF	PDF
+Word	Word
+Bilder	Képek
+ZIP	ZIP
+Text	Szöveg
+Excel	Excel
+CSV	CSV
+Kontakt	Névjegy
+Wie gescannt	Szkennelés szerint
+Letter	Letter
+Mittel	Közepes
+Englisch	Angol
+Französisch	Francia
+Italienisch	Olasz
+Spanisch	Spanyol
+Portugiesisch	Portugál
+Niederländisch	Holland
+Polnisch	Lengyel
+Tschechisch	Cseh
+Dänisch	Dán
+Schwedisch	Svéd
+Norwegisch	Norvég
+Finnisch	Finn
+Ungarisch	Magyar
+Rumänisch	Román
+Kroatisch	Horvát
+Türkisch	Török
+Griechisch	Görög
+Russisch	Orosz
+Ukrainisch	Ukrán
+Arabisch	Arab
+Hebräisch	Héber
+Persisch	Perzsa
+Chinesisch (vereinfacht)	Kínai (egyszerűsített)
+Japanisch	Japán
+Koreanisch	Koreai
+Latein	Latin
+Deutsch (Fraktur)	Német (fraktúr)
+1 Seite	1 oldal
+%d Seiten	%d oldal
+1 Scan	1 szkennelés
+%d Scans	%d szkennelés
+Abbrechen	Mégse
+Bearbeiten	Szerkesztés
+Zurück	Vissza
+Rückgängig	Visszavonás
+Sichern	Mentés
+Seite	Oldal
+Einfügen	Beszúrás
+Änderungen sichern?	Menti a módosításokat?
+Verwerfen	Elvetés
+Schließen	Bezárás
+Fertig	Kész
+Öffnen	Megnyitás
+Keine	Egyik sem
+Alle	Mind
+Umbenennen	Átnevezés
+Mehr	Több
+Löschen	Törlés
+Teilen	Megosztás
+Speichern	Mentés
+Drucken	Nyomtatás
+Kopieren	Másolás
+Drehen	Forgatás
+Laden	Letöltés
+Entfernen	Eltávolítás
+Verschieben	Áthelyezés
+Name	Név
+Aus	Ki
+Leeren	Ürítés
+Wiederherstellen	Visszaállítás
+Text einfügen	Szöveg beszúrása
+z. B. Name, Datum …	pl. név, dátum …
+Kein Gesicht erkannt – bitte noch einmal	Nem ismerhető fel arc – próbálja újra
+Seite erneut scannen	Oldal újraszkennelése
+Fernauslöser verbunden	Távkioldó csatlakoztatva
+Nach dem Umblättern auslösen	Exponálás lapozás után
+Leserichtung rechts nach links	Olvasási irány jobbról balra
+Leserichtung links nach rechts	Olvasási irány balról jobbra
+Automatisch auslösen	Automatikus exponálás
+Kamera wechseln	Kameraváltás
+Licht	Fény
+Bitte Kamerazugriff erlauben.	Engedélyezze a kamera használatát.
+Passfoto wird zugeschnitten …	Igazolványkép vágása …
+Ohne Rückseite fertig	Kész hátoldal nélkül
+Kein Code im Bild gefunden	Nem található kód a képen
+Aus Galerie	Galériából
+QR-Code oder Barcode in den Rahmen halten	Tartsa a QR-kódot vagy vonalkódot a keretben
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Arc az oválisban · nézzen egyenesen · világos háttér
+Vorderseite des Ausweises in den Rahmen	Az igazolvány előlapja a keretbe
+Jetzt die Rückseite	Most a hátoldal
+Visitenkarte in den Rahmen legen	Helyezze a névjegykártyát a keretbe
+Aufgeschlagenes Buch ins Bild halten	Tartsa a kinyitott könyvet a képben
+Doppelseite erkannt	Kétoldalas felvétel felismerve
+Umblättern – löst danach automatisch aus	Lapozzon – utána automatikusan exponál
+Ruhig halten …	Tartsa mozdulatlanul …
+Ruhig halten – wird automatisch ausgelöst	Tartsa mozdulatlanul – automatikus exponálás
+Seite ins Bild halten	Tartsa az oldalt a képben
+Seite erkannt	Oldal felismerve
+Intervall-Timer	Intervallum-időzítő
+Serie starten	Sorozat indítása
+Farbe	Színes
+Graustufen	Szürkeárnyalatos
+Schwarz-Weiß	Fekete-fehér
+Original	Eredeti
+Automatisch	Automatikus
+Zuschnitt nicht möglich	A vágás nem lehetséges
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Az oldal eredeti fotóját helytakarékosság miatt eltávolítottuk. Az „Újraszkennelés” segítségével az oldal újra rögzíthető.
+Zuschnitt anpassen	Vágás módosítása
+Übernehmen	Alkalmaz
+Einzelseite	Egy oldal
+Doppelseite	Kétoldalas
+Auto	Auto
+  Automatisch	  Automatikus
+Ecken auf die Seitenränder ziehen	Húzza a sarkokat az oldal széleire
+Seiten ordnen	Oldalak rendezése
+%d ausgewählt	%d kijelölve
+Filter für alle Seiten	Szűrő minden oldalra
+Leserichtung umkehren	Olvasási irány megfordítása
+Übersetzen…	Fordítás…
+Scan löschen	Szkennelés törlése
+Scannen	Szkennelés
+Import	Importálás
+Ordnen	Rendezés
+Exportieren	Exportálás
+Übersetzen in …	Fordítás erre: …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	A fordítás az eszközön történik. Első alkalommal a nyelvi modell egyszer letöltődik.
+Übersetzung teilen	Fordítás megosztása
+Scan löschen?	Törli a szkennelést?
+„%s“ wird endgültig gelöscht.	A(z) „%s” véglegesen törlődik.
+Kontakt erkannt	Névjegy felismerve
+Zu Kontakten	Névjegyekhez
+Seiten werden verarbeitet (%d/%d)	Oldalak feldolgozása (%d/%d)
+Nur diese	Csak ezek
+Wird neu verarbeitet	Újrafeldolgozás
+Erneut	Újra
+Fehlgeschlagen	Sikertelen
+Foto nicht verarbeitet	A fotó nincs feldolgozva
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Hiba történt a kép feldolgozásakor.
+Keine Auffälligkeiten	Nincs észrevétel
+Erneut scannen	Újraszkennelés
+Ersetzt beide Seiten dieser Doppelseite	A kétoldalas felvétel mindkét oldalát lecseréli
+Kamera öffnen und diese Seite ersetzen	Kamera megnyitása és az oldal cseréje
+Nach vorn	Előre
+Nach hinten	Hátra
+Seite löschen	Oldal törlése
+Foto entfernen	Fotó eltávolítása
+1 Seite verschoben	1 oldal áthelyezve
+%d Seiten verschoben	Áthelyezett oldalak: %d
+1 Seite kopiert	1 oldal másolva
+%d Seiten kopiert	Másolt oldalak: %d
+1 Seite löschen?	Törli az 1 oldalt?
+%d Seiten löschen?	Törli a(z) %d oldalt?
+1 Seite prüfen	1 oldal ellenőrzése
+%d Seiten prüfen	%d oldal ellenőrzése
+Seite löschen?	Törli az oldalt?
+Durchsuchbares PDF mit erkanntem Text	Kereshető PDF felismert szöveggel
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Szerkeszthető szöveg Wordhöz, LibreOffice-hoz és Google Docshoz
+Die Seite als JPG-Bild	Az oldal JPG-képként
+Ein JPG-Bild pro Seite (%d Dateien)	Oldalanként egy JPG-kép (%d fájl)
+Alle Seiten als JPG und der Text in einem Archiv	Minden oldal JPG-ként és a szöveg egy archívumban
+Nur der erkannte Text	Csak a felismert szöveg
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Felismert táblázatok, oldalanként egy munkalap
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Felismert táblázatok CSV-ként (pontosvessző, Excelhez)
+Visitenkarte als Kontakt (vCard)	Névjegykártya névjegyként (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Elő- és hátoldal valós méretben egy oldalon – nyomtatásra készen
+Seitenformat	Oldalméret
+Mit Passwort schützen	Jelszavas védelem
+AES-256-Verschlüsselung	AES-256 titkosítás
+Passwort	Jelszó
+Mindestens 4 Zeichen	Legalább 4 karakter
+Passwort wiederholen	Jelszó ismét
+Passwörter stimmen nicht überein	A jelszavak nem egyeznek
+Seitenbilder einfügen	Oldalképek beszúrása
+Jede Seite als Bild über ihrem Text	Minden oldal képként a szövege felett
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Az oszlopokat a szövegben lévő hézagok alapján ismeri fel – jól elkülönülő oszlopoknál működik a legjobban. Az olyan számokat, mint „1.234,50”, számként veszi át.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Ezen a kártyán nem ismerhetők fel elérhetőségi adatok.
+1 ausgewählte Seite	1 kijelölt oldal
+%d ausgewählte Seiten	%d kijelölt oldal
+Mobil	Mobil
+Fax	Fax
+Telefon	Telefon
+%s teilen	Megosztás: %s
+Scan	Szkennelés
+Text teilen	Szöveg megosztása
+PDF teilen	PDF megosztása
+In den Papierkorb verschoben	Áthelyezve a lomtárba
+%d Scans in den Papierkorb verschoben	A lomtárba helyezett szkennelések: %d
+Auswahl beenden	Kijelölés befejezése
+Alle auswählen	Összes kijelölése
+In Ordner verschieben	Áthelyezés mappába
+Ordner	Mappák
+Ordner umbenennen	Mappa átnevezése
+Ordner auflösen	Mappa megszüntetése
+Papierkorb (%d)	Lomtár (%d)
+Papierkorb	Lomtár
+An PC senden	Küldés PC-re
+Speicher & Sicherung	Tárhely és biztonsági mentés
+Einstellungen	Beállítások
+Scans und Text durchsuchen	Keresés a szkennelésekben és a szövegben
+Alle Scans durchsuchen	Keresés az összes szkennelésben
+Suche löschen	Keresés törlése
+%d Treffer	%d találat
+Alle Scans	Összes szkennelés
+Nichts gefunden	Nincs találat
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Sem név, sem felismert szöveg nem egyezik ezzel: „%s”.
+Ordner ist leer	A mappa üres
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Helyezzen ide szkenneléseket: nyomja hosszan a szkennelést, és válassza az „Áthelyezés mappába” lehetőséget.
+Noch keine Scans	Még nincsenek szkennelések
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Koppintson a „Szkennelés” gombra az oldalak fényképezéséhez,\nvagy importáljon fotókat a galériából.
+Ordnername	Mappa neve
+Neuer Ordner	Új mappa
+%d Scans zusammenführen?	Egyesít %d szkennelést?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Minden oldal a kijelölés sorrendjében a(z) „%s” végére kerül. A többi szkennelés ezután megszűnik.
+%d prüfen	%d ellenőrzése
+Wird verarbeitet (%d/%d)	Feldolgozás (%d/%d)
+Als PDF teilen	Megosztás PDF-ként
+Kategorie ändern	Kategória módosítása
+Kein Ordner	Nincs mappa
+Neuer Ordner …	Új mappa …
+Kategorie	Kategória
+Download fehlgeschlagen: %s	A letöltés sikertelen: %s
+keine Verbindung	nincs kapcsolat
+Sprachen der Texterkennung	Szövegfelismerés nyelvei
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	A kiválasztott nyelveket együtt ismeri fel – csak a szükségeseket válassza, mert minden további lassítja a felismerést. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	A hiányzó nyelvek egyszer töltődnek le (kb. 2–15 MB), utána offline működnek.
+Wird geladen … %d %%	Letöltés … %d %%
+Enthalten	Beépített
+Geladen · %s	Letöltve · %s
+Nicht geladen	Nincs letöltve
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Koppintás: kijelölés · nyomva tartás és húzás: áthelyezés
+Neuer Scan	Új szkennelés
+Verschieben nach …	Áthelyezés ide: …
+Kopieren nach …	Másolás ide: …
+Seite %d von %d	%d. oldal / %d
+Filter	Szűrő
+Zuschnitt	Vágás
+Signieren	Aláírás
+Code	Kód
+Link	Link
+E-Mail	E-mail
+Telefonnummer	Telefonszám
+Ort	Hely
+Produktcode	Termékkód
+Netzwerk: %s	Hálózat: %s
+Passwort: %s	Jelszó: %s
+Verschlüsselung: %s	Titkosítás: %s
+Passwort kopieren	Jelszó másolása
+Verbinden	Csatlakozás
+E-Mail schreiben	E-mail írása
+Anrufen	Hívás
+In Karten öffnen	Megnyitás a Térképben
+Suche sensible Daten…	Érzékeny adatok keresése…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Nem található érzékeny adat. Jelölje ki ujjal a kitakarandó területeket.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Találatok – koppintással jelölje ki vagy szüntesse meg, jelöljön ki további területeket:
+Schwarzer Balken	Fekete sáv
+Verpixeln	Pixelezés
+Unkenntlich machen (%d)	Kitakarás (%d)
+Manuell	Kézi
+Gesicht	Arc
+Kein WLAN	Nincs Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Csatlakoztassa a telefont és a PC-t ugyanarra a Wi-Fi-hálózatra (vagy a PC-t a telefon hotspotjára). A cím ezután itt jelenik meg.
+Am PC im Browser öffnen	Megnyitás a PC böngészőjében
+QR-Code der Adresse	A cím QR-kódja
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Írja be a címet, vagy olvassa be a QR-kódot a PC kamerájával. Ott minden szkennelés letölthető PDF-ként vagy szövegként.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Csak a helyi hálózaton és csak addig, amíg ez a képernyő nyitva van. Semmi sem kerül fel az internetre.
+Heruntergeladen	Letöltve
+App-Sperre nicht möglich	Az alkalmazászár nem lehetséges
+Sprache	Nyelv
+Sprache der App	Az alkalmazás nyelve
+Aufnahme	Felvétel
+Doppelseiten im Dokument-Modus	Kétoldalas felvételek dokumentum módban
+Automatisch teilen	Automatikus felosztás
+Nie teilen	Soha ne ossza fel
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Fényképez, amint az oldal mozdulatlanul van a képben.
+Buch-Modus	Könyv mód
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Felismeri a lapozást, és fényképez, amint a könyv újra mozdulatlan.
+Leserichtung	Olvasási irány
+Links → rechts	Balról → jobbra
+Rechts → links	Jobbról → balra
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Jobbról balra arab, héber, perzsa és japán nyelvhez: a jobb oldal jön először.
+Fernauslöser	Távkioldó
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Párosítsa a Bluetooth-os kamera-távkioldót (pl. „AB Shutter 3”) az Android Bluetooth-beállításaiban. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	A kamerában ezután a távkioldó és a hangerőgombok exponálnak.
+Bild	Kép
+Standardfilter	Alapértelmezett szűrő
+Handschrift entfernen	Kézírás eltávolítása
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Eltávolítja a kék/piros tollal és ceruzával írt jegyzeteket. Az ilyen színű nyomtatást is eltávolítja.
+Texterkennung	Szövegfelismerés
+Sprachen	Nyelvek
+Sicherheit & Speicher	Biztonság és tárhely
+App-Sperre	Alkalmazászár
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Megnyitáskor feloldás ujjlenyomattal, arccal vagy képernyőzárral. A tartalom nem jelenik meg az alkalmazásáttekintésben.
+Belegung, Backup als ZIP, Wiederherstellen	Foglaltság, biztonsági mentés ZIP-ként, visszaállítás
+Gelöschte Scans werden nach 30 Tagen entfernt	A törölt szkennelések 30 nap után eltávolításra kerülnek
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Minden fotó és szöveg ezen az eszközön marad. Az internetet csak a nyelvek egyszeri letöltésére használja, ha Ön elindítja.
+Über	Névjegy
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Nyílt forráskódú összetevők: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (mind Apache 2.0 licenccel); ML Kit (fordítás, arcfelismerés, az eszközön).
+Unterschrift zeichnen	Aláírás rajzolása
+Mit dem Finger unterschreiben	Írjon alá ujjával
+Unterschrift platzieren	Aláírás elhelyezése
+Neu zeichnen	Újrarajzolás
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Mozgatás egy ujjal, átméretezés két ujjal.
+Unterschrift	Aláírás
+Belegt von Ultimate PDF Scanner	Az Ultimate PDF Scanner foglalja
+%s frei auf dem Gerät	Szabad hely az eszközön: %s
+Seiten	Oldalak
+Originalfotos	Eredeti fotók
+Zwischenspeicher	Gyorsítótár
+Platz schaffen	Hely felszabadítása
+Exportierte Dateien zum Teilen	Megosztásra exportált fájlok
+Gelöschte Scans der letzten 30 Tage	Az elmúlt 30 nap törölt szkennelései
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	A kész oldalak megmaradnak, a vágás azonban utána már nem módosítható.
+Größte Scans	Legnagyobb szkennelések
+Sicherung	Biztonsági mentés
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Mentse az összes szkennelést egyetlen ZIP-fájlba – pl. SD-kártyára, pendrive-ra vagy PC-re. Semmi sem kerül feltöltésre.
+Papierkorb mitsichern	A lomtár mentése is
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-mentes_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Visszaállításkor csak a hiányzó szkennelések kerülnek be.
+Originalfotos entfernen?	Eltávolítja az eredeti fotókat?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	%s helyet takarít meg. Az oldalak utána nem vághatók újra, az „Újraszkennelés” továbbra is lehetséges.
+Text bearbeiten · Seite %d	Szöveg szerkesztése · %d. oldal
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	A javítások bekerülnek a keresésbe és a PDF szövegrétegébe.
+Kein Text erkannt – hier eintippen	Nem ismerhető fel szöveg – írja be ide
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	A törölt szkennelések %d nap után véglegesen eltávolításra kerülnek.
+Papierkorb ist leer	A lomtár üres
+Endgültig löschen	Végleges törlés
+Papierkorb leeren?	Kiüríti a lomtárat?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d szkennelés véglegesen törlődik. Ez nem vonható vissza.
+Endgültig löschen?	Véglegesen törli?
+„%s“ wird sofort gelöscht.	A(z) „%s” azonnal törlődik.
+noch 1 Tag	még 1 nap
+noch %d Tage	még %d nap
+Quittung	Nyugta
+Quittungen	Nyugták
+Rechnung	Számla
+Rechnungen	Számlák
+Visitenkarte	Névjegykártya
+Visitenkarten	Névjegykártyák
+Vertrag	Szerződés
+Verträge	Szerződések
+Brief	Levél
+Briefe	Levelek
+Ausweis	Igazolvány
+Ausweise	Igazolványok
+Buch	Könyv
+Bücher	Könyvek
+Passfoto	Igazolványkép
+Passfotos	Igazolványképek
+Dokument	Dokumentum
+Dokumente	Dokumentumok
+Auflösung	Felbontás
+Kompression	Tömörítés
+Gering	Alacsony
+Stark	Erős
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi és alacsony tömörítés nyomtatáshoz és archiváláshoz, 150 dpi és erős tömörítés e-mailhez.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Kereshetővé teszi a PDF-eket és másolhatóvá a szöveget. Ki: gyorsabb feldolgozás, PDF csak képként.
+Keine Seite erkannt	Nem ismerhető fel oldal
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Az oldal széle nem található – a teljes fotó lett átvéve.
+Unscharf	Elmosódott
+Das Foto ist verwackelt oder unscharf.	A fotó bemozdult vagy életlen.
+Zu dunkel	Túl sötét
+Die Seite ist schlecht ausgeleuchtet.	Az oldal gyengén van megvilágítva.
+Text schlecht lesbar	A szöveg nehezen olvasható
+Die Texterkennung war unsicher.	A szövegfelismerés bizonytalan volt.
+Kein Text erkannt	Nem ismerhető fel szöveg
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Nem található szöveg az oldalon – üres oldal, vagy egyáltalán nincs oldal a képen?
+Hindi	Hindi
+Bengalisch	Bengáli
+Urdu	Urdu
+Indonesisch	Indonéz
+Seite erkennen	Oldal felismerése
+Seite entzerren	Oldal kiegyenesítése
+Finger entfernen	Ujjak eltávolítása
+Schärfe prüfen	Élesség ellenőrzése
+Ausrichtung	Tájolás
+Bild verbessern	Kép javítása
+Speicherort	Mentési hely
+Speicherort für Exporte	Exportok mentési helye
+Jedes Mal fragen	Mindig kérdezzen
+Ordner wählen …	Mappa kiválasztása …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	A „Mentés” a PDF-eket és más exportokat közvetlenül ebbe a mappába teszi, anélkül hogy minden alkalommal rákérdezne. SD-kártya is lehet.
+Gespeichert in „%s“	Mentve ide: „%s”
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	A mentési hely nem érhető el. Válassza ki újra.
+Neu aufnehmen	Újrafelvétel
+Um 90° links drehen	Forgatás 90°-kal balra
+Seite gelöscht	Oldal törölve
+Lange drücken: neu aufnehmen, drehen oder löschen	Hosszú nyomás: újrafelvétel, forgatás vagy törlés
+Ersetzt beide Seiten	Mindkét oldalt lecseréli
+Ränder bereinigen	Szélek tisztítása
+Scan-Qualität	Szkennelés minősége
+Schnell	Gyors
+Standard	Normál
+Genau	Pontos
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Nagy, tiszta írásokhoz, például levelekhez és nyomtatványokhoz: kisebb fotók, leggyorsabb feldolgozás.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Könyvekhez és a legtöbb dokumentumhoz: jó felismerés normál sebességgel.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Apró betűkhöz, régi könyvekhez, lábjegyzetekhez és képletekhez: teljes kamerafelbontás, lassabb, több memória.
+BILD	KÉP
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Tegye le a képet laposan · vaku nélkül · kerülje a tükröződést
+an	be
+aus	ki
+Automatische Auslösung an: nach dem Umblättern	Automatikus exponálás be: lapozás után
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automatikus exponálás be: amint az oldal mozdulatlan
+Automatische Auslösung aus	Automatikus exponálás ki
+PDF & Export	PDF és exportálás
+Speicherort für PDFs und Bilder	PDF-ek és képek mentési helye
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Exportáláskor ez fájlonként módosítható.
+Weitere Optionen …	További beállítások …
+Automatische Verbesserung	Automatikus javítás
+Schatten und Artefakte entfernen, Schrift schärfen	Árnyékok és képhibák eltávolítása, írás élesítése
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Árnyékok és képhibák eltávolítása, írás élesítése. Dokumentumonként kikapcsolható.
+unkorrigiert	javítás nélkül
+Maximal	Maximális
+Bildqualität	Képminőség
+volle Auflösung	teljes felbontás
+Briefe, Ausdrucke, große Schrift	Levelek, nyomtatványok, nagy betűk
+Bücher und die meisten Dokumente (empfohlen)	Könyvek és a legtöbb dokumentum (ajánlott)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Apró betűk, képletek, régi könyvek – lassabb
+Gilt auch für alle weiteren Scans.	Az összes további szkennelésre is érvényes.
+Ändern	Módosítás
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Hová teszi a „Mentés” az exportjait. A „Megosztás” ettől független.
+Ordner und Dateiname beim Speichern wählen	Mappa és fájlnév kiválasztása mentéskor
+Exporte landen direkt hier	Az exportok közvetlenül ide kerülnek
+Anderen Ordner wählen …	Másik mappa kiválasztása …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	SD-kártya és felhőmappák is, ha be vannak állítva az eszközön.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Ehhez a mappához nem lehetséges tartós hozzáférés.
+Sehr hohe Auflösung	Nagyon nagy felbontás
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	%d MP esetén minden oldal feldolgozása sokkal tovább tart, és sok memóriát igényel. A legtöbb dokumentumhoz elég a „Normál”. A „Maximális” csak nagyon apró betűknél éri meg.
+Trotzdem verwenden	Használat mégis
+langsam	lassú
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Nincs csatlakoztatott távkioldó – párosítsa a Bluetooth-beállításokban
+Mit dem Fernauslöser auslösen	Exponálás távkioldóval
+Umblättern	Lapozás
+Auto 0,7 s	Auto 0,7 mp
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Befejezi a felvételt. A már lefényképezett oldalak megmaradnak és feldolgozásra kerülnek.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Be- vagy kikapcsolja a zseblámpát. Fényes papírt jobb fény nélkül, az ablakhoz képest ferdén fényképezni.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Meglévő fotókat használ új felvételek helyett.
+Serie	Sorozat
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Elindítja vagy leállítja a sorozatot: az időzítő ilyenkor néhány másodpercenként automatikusan fényképez.
+Auslöser	Exponálógomb
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Fényképet készít. A hangerőgombok és egy Bluetooth-távkioldó is exponál.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Befejezi a felvételt, és megnyitja az áttekintést; a szám a felvétel fotóinak számát mutatja.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Hány pixeles minden fotó. Gyors (5 MP) nagy betűkhöz, Normál (12 MP) szinte mindenhez, Maximális apró betűkhöz és képletekhez – tovább tart.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Koppintással vált: ki, 3, 5 vagy 10 másodperc. Az exponálógomb ezután sorozatot indít ilyen időközű fotókkal – könyvekhez praktikus.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Csak akkor fényképez, ha megérinti az exponálógombot.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Magától fényképez, amint az oldal 0,7 másodpercig mozdulatlan. Könyv módban: minden lapozás után, amint a könyv újra mozdulatlan.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Bluetooth-távkioldóval fényképez (pl. „AB Shutter 3”). Előbb párosítsa a kioldót a telefon Bluetooth-beállításaiban.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Saját nevet ad a dokumentumnak; ez lesz a fájlnév is exportáláskor.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	A kétoldalas felvételek olvasási irányának megfordítása, fordítás az eszközön vagy a szkennelés törlése.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Megnyitja a kamerát, és további oldalakat ad ehhez a dokumentumhoz.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	A galéria fotóit további oldalakként veszi át; ezeket a kamerafotókhoz hasonlóan vágja és ismeri fel.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Húzással módosítsa a sorrendet; jelöljön ki oldalakat forgatáshoz, áthelyezéshez, másoláshoz, kiemeléshez vagy törléshez.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Megosztás, mentés vagy nyomtatás PDF, Word, kép, ZIP, szöveg vagy táblázat formában.
+Farbe, Graustufen, Schwarz-Weiß	Színes, szürkeárnyalatos, fekete-fehér
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	A dokumentum minden oldalát átállítja. A fekete-fehér adja a legkisebb fájlokat, a színes hűen adja vissza az ábrákat és pecséteket.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Be: az árnyékok, foltok és képhibák eltűnnek, az írás kontrasztosabb lesz. Ki: az oldalak csak vágva és kiegyenesítve – fotókhoz, rajzokhoz, vagy ha a javítás torzít valamit.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Létrehozza a fájlt, és átadja egy alkalmazásnak, pl. e-mailnek, üzenetküldőnek vagy felhőnek.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	A fájlt a mentési helyre teszi – a rögzített mappába, vagy „Mindig kérdezzen” esetén oda, ahová Ön teszi.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Az Android nyomtatási szolgáltatásán keresztül nyomtat; ott a „Mentés PDF-ként” is választható.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Hová teszi a „Mentés” a fájlokat: mindig kérdezzen, vagy mindig egy rögzített mappába, SD-kártyára vagy felhőmappába is.
+Hilfe & Anleitung	Súgó és útmutató
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Tipp: tartson lenyomva egy gombot egy másodpercig, és megjelenik, mit csinál.
+Startseite	Kezdőlap
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Megnyitja a kamerát. Egy felvétel összes fotója egy közös dokumentumba kerül.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	A „Szkennelés” feletti galéria ikon meglévő fotókat vesz át; ezeket a kamerafotókhoz hasonlóan vágja és ismeri fel.
+Suchen	Keresés
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Név és felismert szöveg alapján találja meg a szkenneléseket, oldalszámmal.
+Ordner und Kategorien	Mappák és kategóriák
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	A mappák csoportosítják a szkenneléseket. A kategóriák (könyvek, nyugták …) maguktól megjelennek, amint vannak ilyen szkennelések.
+Mehrere Scans	Több szkennelés
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Nyomja hosszan a szkennelést: kijelölés, egyesítés, áthelyezés mappába vagy törlés.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	A törölt szkennelések 30 napig a lomtárban maradnak (⋮ menü), és visszaállíthatók.
+Modi	Módok
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Alul választhat: Dokumentum (egyes lapok), Könyv (a kétoldalas felvételek két oldalra bomlanak), Igazolvány (elő- és hátoldal valós méretben egy lapon), Névjegykártya (a névjegy felismerése), Kép (hű színek, szövegfelismerés nélkül), Igazolványkép (előlapi kamera, 35 × 45 mm) és QR-kód.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Bal felül: Gyors (5 MP) nagy betűkhöz, Normál (12 MP) szinte mindenhez, Maximális apró betűkhöz és képletekhez – lassabb.
+Auslösung	Exponálás
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Kézi: az exponálógombbal. Auto 0,7 mp: amint az oldal 0,7 másodpercig mozdulatlan; könyv módban minden lapozás után. Bluetooth: párosított távkioldóval. A hangerőgombok mindig exponálnak.
+Timer und Licht	Időzítő és fény
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Az óra ikon 3, 5 vagy 10 másodpercenként fényképez (indítás az exponálógombbal). A vaku bekapcsolja a zseblámpát.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Koppintson a jobb alsó miniatűrre: az oldalak feldolgozása megtörténik, és megnyílik az áttekintés.
+Gute Fotos	Jó fotók
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Tegye az oldalt laposan és egyenletesen megvilágítva, tartsa a telefont párhuzamosan. A papírtól eltérő színű alátét segít a vágásban.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	A dokumentum minden oldalára érvényes. Az egyes oldalak az oldalnézetben eltérően is beállíthatók.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Eltávolítja az árnyékokat és képhibákat, és kontrasztosabbá teszi az írást. Kikapcsolva az oldal csak vágva és kiegyenesítve jelenik meg.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Koppintás: oldal megnyitása. Hosszú nyomás: újrafelvétel, forgatás vagy törlés. A narancssárgával jelölt oldalakat ellenőrizni kell (pl. elmosódott), a pirosak sikertelenek.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Húzással módosítsa a sorrendet, forgasson több oldalt, helyezze át vagy másolja őket másik dokumentumba, vagy emelje ki új dokumentumként.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, kép, ZIP, szöveg vagy táblázat – megosztás, mentés vagy nyomtatás.
+Mehr (⋮)	Több (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	A kétoldalas felvételek olvasási irányának megfordítása, fordítás az eszközön vagy a szkennelés törlése. A fenti ceruzával módosítható a név.
+Seitenansicht	Oldalnézet
+Blättern und Zoomen	Lapozás és nagyítás
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Húzással oldalt vált, dupla koppintással vagy két ujjal nagyít.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Színes, szürkeárnyalatos vagy fekete-fehér csak erre az oldalra, előnézettel. Alatta az oldal automatikus javítása.
+Drehen und Zuschnitt	Forgatás és vágás
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Forgatás 90°-kal. Vágás: az oldal sarkainak újbóli beállítása az eredeti fotón.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Írjon az oldalra tollal, kiemelővel vagy szöveggel.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Tegye olvashatatlanná az érzékeny adatokat – sávval vagy pixelezve. Számlaszámokat, kártyaszámokat és arcokat javasol.
+Signieren und Text	Aláírás és szöveg
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Az Aláírás beszúrja a mentett aláírását. A Szöveg megmutatja a felismert szöveget javításhoz és másoláshoz.
+Formate	Formátumok
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (kereshető), Word, képek (JPG), ZIP, szöveg, Excel vagy CSV; névjegykártyáknál névjegyként is.
+PDF-Optionen	PDF-beállítások
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Az oldalméret, a felbontás és a tömörítés határozza meg a minőséget és a fájlméretet – a méret becslése jobb felül látható. Opcionálisan jelszóval (AES-256).
+Teilen oder Speichern	Megosztás vagy mentés
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	A Megosztás egy alkalmazásnak küldi a fájlt (e-mail, üzenetküldő …). A Mentés a mentési helyre teszi.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	A „Mindig kérdezzen” mentéskor megnyitja a mappaválasztót. Rögzített mappa esetén az exportok kérdés nélkül oda kerülnek – SD-kártyára vagy felhőmappába is.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Az Android nyomtatási szolgáltatásán keresztül nyomtat, vagy PDF-ként ment.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Képminőség, exponálás és a kétoldalas felvételek felosztása új szkennelésekhez. A kamerában bármikor módosítható.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Szűrő és automatikus javítás, amellyel az új dokumentumok indulnak.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Kereshetővé teszi a PDF-eket. A nyelvek határozzák meg, mely karakterek ismerhetők fel.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Mentési hely, valamint a felbontás, a tömörítés és az oldalméret alapértékei.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Alkalmazászár ujjlenyomattal, biztonsági mentés ZIP-ként és a lomtár.
+Ecken setzen	Sarkok beállítása
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Húzza a négy sarkot az oldal széleire; a nagyító felnagyítva mutatja az ujja alatti részt.
+Einzel- oder Doppelseite	Egy vagy két oldal
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Alul válassza ki, hogy a fotó egy oldalt vagy egy kinyitott kétoldalas felvételt mutat. Az Automatikus esetén az alkalmazás dönt.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	A felső pipa az új vágással dolgozza fel az oldalt.
+Werkzeuge	Eszközök
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Toll íráshoz, kiemelő jelöléshez, szöveg gépelt jegyzetekhez. A színek alatta vannak.
+Korrigieren	Javítás
+Rückgängig nimmt den letzten Strich zurück.	A Visszavonás eltávolítja az utolsó vonást.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Beírja a módosításokat az oldalba. Mentés nélkül az oldal változatlan marad.
+Vorschläge	Javaslatok
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	A talált számlaszámok, kártyaszámok, adószámok és arcok meg vannak jelölve – koppintással szüntetheti meg vagy jelölheti ki újra őket.
+Eigene Bereiche	Saját területek
+Mit dem Finger weitere Rechtecke aufziehen.	Rajzoljon ujjal további téglalapokat.
+Balken oder Pixel	Sáv vagy pixel
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Fekete sáv vagy pixelezés. Az alatta lévő szöveg a szövegfelismerésből és a PDF-ből is eltűnik.
+Zeichnen	Rajzolás
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Írjon alá egyszer az ujjával – az aláírás az eszközön tárolódik.
+Platzieren	Elhelyezés
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Egy ujjal mozgassa, két ujjal méretezze át, majd szúrja be.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	A fenti ceruza ikon lecseréli a mentett aláírást.
+Text bearbeiten	Szöveg szerkesztése
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Az oldal felismert szövege alul található, és módosítható. Felül az oldal képe összehasonlításhoz.
+Wirkung	Hatás
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	A javítások bekerülnek a keresésbe, a PDF szövegrétegébe, valamint a Word- és szövegexportokba.
+Holt einen gelöschten Scan zurück.	Visszahoz egy törölt szkennelést.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	A szkennelések 30 nap után automatikusan eltávolításra kerülnek. Az „Ürítés” azonnal mindent töröl.
+Belegung	Foglaltság
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Megmutatja, mennyi helyet foglalnak a szkennelések, az eredeti fotók, a lomtár és a gyorsítótár.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Az eredeti fotók eltávolítása sok helyet takarít meg; a kész oldalak megmaradnak, csak a vágás nem módosítható utána.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Mentse az összes szkennelést ZIP-fájlba, és állítsa vissza ezen vagy egy másik eszközön. Semmi sem kerül feltöltésre.
+Auswahl	Kiválasztás
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Válassza ki a dokumentumai nyelveit. Minden további nyelv lassítja a felismerést.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	A hiányzó nyelvek egyszer töltődnek le, utána internet nélkül működnek.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Csatlakoztassa a telefont és a PC-t ugyanarra a Wi-Fi-hálózatra (vagy a PC-t a telefon hotspotjára).
+Herunterladen	Letöltés
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Nyissa meg a megjelenített címet a PC böngészőjében, vagy olvassa be a QR-kódot; ott minden szkennelés letölthető PDF-ként vagy szövegként.
+Sicherheit	Biztonság
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Csak a helyi hálózaton és csak addig működik, amíg ez a képernyő nyitva van.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Nyelv, képminőség, exponálás, szövegfelismerés, mentési hely, alkalmazászár és biztonsági mentés.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	A galéria fotóit új dokumentumként veszi át; ezeket a kamerafotókhoz hasonlóan vágja és ismeri fel.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Megnyitja a kamerát. Egy felvétel összes fotója egy közös dokumentumba kerül.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Törli ezt az oldalt a dokumentumból (megerősítés után).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Színes, szürkeárnyalatos vagy fekete-fehér és automatikus javítás csak erre az oldalra.
+Dreht die Seite um 90° im Uhrzeigersinn.	Az óramutató járásával megegyezően 90°-kal elforgatja az oldalt.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Állítsa be újra az oldal sarkait az eredeti fotón, ha hiányzik egy szél, vagy a háttér is látszik.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Tegye olvashatatlanná az érzékeny adatokat sávval vagy pixelekkel; a PDF szövegéből is eltűnnek.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Elhelyezi a mentett aláírását az oldalon; első alkalommal megrajzolja.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Megmutatja az oldal felismert szövegét javításhoz és másoláshoz.
+Fotografiert beim Tippen auf den Auslöser.	Akkor fényképez, ha megérinti az exponálógombot.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Fényképez, amint az oldal 0,7 mp-ig mozdulatlan; könyv módban minden lapozás után.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Párosított Bluetooth-távkioldóval fényképez.
+Lautstärketasten lösen immer aus.	A hangerőgombok mindig exponálnak.
+Word erstellen, Formeln erkennen (%d/%d)	Word létrehozása, képletek felismerése (%d/%d)
+Belarussisch	Belarusz
+Bulgarisch	Bolgár
+Serbisch	Szerb
+Mazedonisch	Macedón
+Kein Link im geteilten Text	Nincs link a megosztott szövegben
+Import fehlgeschlagen: %s	Az importálás sikertelen: %s
+Link laden	Link betöltése
+Unter dem Link liegt keine PDF- oder Bilddatei.	A link nem PDF- vagy képfájlra mutat.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Csak PDF-fájlok és képek importálhatók.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Védett PDF-fájlok nem importálhatók.
+PDF-Seite %d/%d importieren	PDF-oldal importálása %d/%d
+Auto %s s	Auto %s mp
+Auslösen nach %s s	Exponálás %s mp után
+Wartezeit	Várakozási idő
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Mennyi ideig kell a lapnak mozdulatlanul feküdnie az automatikus felvétel előtt. Rövidebb gyorsabb, hosszabb kevesebb bemozdult fotót ad.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Magától fotóz, amint a lap mozdulatlan; a várakozási időt (0,2–1,5 mp) alatta állíthatod be. Könyv módban: minden lapozás után, amint a könyv ismét mozdulatlan.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Fotókat, képernyőképeket, PDF-fájlokat vagy linket ad hozzá további oldalakként; a fotókat körbevágja, mindent felismer.
+Senden an …	Küldés …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Hová teszi a „Mentés” az exportokat. A „Küldés …” ettől független.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Válassz almappát, pl. „Documents” – a tárhely legfelső mappáját az Android nem engedi.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Létrehozza a fájlt és elküldi egy alkalmazásnak, pl. WhatsApp, e-mail, Telegram vagy felhőtárhely.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Kézi: az exponálógombbal. Auto: amint a lap mozdulatlan – a várakozási időt (0,2–1,5 mp, alapból 0,7 mp) a szkennelőablakban a kapcsoló alatt állíthatod be; könyv módban minden lapozás után. Bluetooth: párosított távkioldóval. A hangerőgombok mindig exponálnak.
+Senden an oder Speichern	Küldés vagy mentés
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	A „Küldés …” egy alkalmazásnak küldi a fájlt (WhatsApp, e-mail, Telegram, felhő …). A Mentés a tárolási helyre teszi.
+Importieren	Importálás
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Fotókat, képernyőképeket, PDF-fájlokat vagy linket vesz át új dokumentumként; a fotókat körbevágja, mindent felismer.
+Bilder aus der Galerie	Képek a galériából
+Fotos und Screenshots	Fotók és képernyőképek
+Dateien	Fájlok
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF-fájlok és képek, pl. a Letöltésekből vagy a felhőből
+Eine PDF- oder Bilddatei aus dem Internet	PDF- vagy képfájl az internetről
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Utána mint a szkennelt oldalak: szövegfelismerés, fordítás és exportálás bármilyen formátumba.
+Link importieren	Link importálása
+Internetadresse	Webcím
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Exponál, amint a lap %s mp-ig mozdulatlan (a szkennelőablakban állítható); könyv módban minden lapozás után.
+Fachwörterbuch laden	Szótár betöltése
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Hiányzik a(z) %s vagy %s szótár – szakkifejezések nélkül fordítva
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Nem szótárfájl (glossary-xx.tsv.gz)
+Download nicht verfügbar	Letöltés nem érhető el
+Estnisch	Észt
+Irisch	Ír
+Litauisch	Litván
+Lettisch	Lett
+Maltesisch	Máltai
+Slowakisch	Szlovák
+Slowenisch	Szlovén
+Ohne Fachwörterbuch	Szótár nélkül
+Alle Fachgebiete	Minden szakterület
+Fachgebiet: %s	Szakterület: %s
+Fachwörterbücher verwalten …	Szótárak kezelése …
+Fachwörterbücher	Szakszótárak
+Aus Datei importieren	Importálás fájlból
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	A jog, az orvostudomány, a műszaki terület, a gazdaság és 17 további szakterület kifejezéseit (IATE, az EU terminológiai adatbázisa) a fordítás pontosan átveszi. A forrás- és a célnyelv szótára kell, egyenként 0,3–9 MB.
+Einmal laden, danach offline.	Egyszer letölteni, utána offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	A glossary-xx.tsv.gz fájlokat a fenti mappa ikonnal importálhatja.
+Fachwörterbücher für die Übersetzung	Szakszótárak a fordításhoz
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Jog, orvostudomány, műszaki és más – 24 uniós nyelv
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Minden fotó és szöveg ezen az eszközön marad. Az internetet csak nyelvek, fordítási modellek és szótárak egyszeri letöltésére használja, ha Ön elindítja.
+Übersetzen	Fordítás
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Lefordított másolatot készít a dokumentumról a készüléken: ugyanazok az oldalak és képek, a szöveg a célnyelven a helyén. Minden bekezdés a saját nyelvéből fordítódik. A „Szakterület” beállítással a szótárak szakkifejezései pontosan kerülnek át.
+Was nachgeladen werden kann	Mi tölthető le
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Minden opcionális, és csak koppintásra töltődik le; utána internet nélkül működik:\n• Szövegfelismerési nyelvek: egyenként 1–15 MB (Beállítások › Nyelvek). A német és az angol benne van.\n• Kínai: saját felismerő modell, kb. 17 MB.\n• Fordítási modellek: nyelvenként kb. 30 MB, az első fordításkor automatikusan letöltődnek.\n• Szakszótárak: nyelvenként 0,3–9 MB, mind a 24 uniós nyelvre együtt kb. 70 MB (Beállítások › Szakszótárak).\nA letöltött fájlok bármikor eltávolíthatók.
+Wozu	Mire jó
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Az általános fordítók sok szakkifejezést nem ismernek, vagy következetlenül fordítanak. A szótár a rögzített kifejezést illeszti be, pl. „Beweislast” → „bizonyítási teher”.
+Quelle	Forrás
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, az uniós intézmények terminológiai adatbázisa, 21 szakterület kifejezéseivel (jog, egészség, műszaki terület, gazdaság, környezet, közlekedés …). Az EU 24 hivatalos nyelvén érhető el.
+Was nötig ist	Mi kell hozzá
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Egy-egy szótár a forrás- és a célnyelvhez, pl. németre és angolra. Nyelvenként egy szótár minden nyelvpárhoz elég.
+Laden oder importieren	Letöltés vagy importálás
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Letöltés a nyíllal (egyszer, utána offline), vagy a mappa ikonnal egy „glossary-xx.tsv.gz” fájl importálása, pl. számítógépről vagy SD-kártyáról.
+Benutzen	Használat
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Fordításkor felül válassza ki a szakterületet. A „Minden szakterület” csak a mindenhol ugyanúgy fordított kifejezéseket használja.
+Grenzen	Korlátok
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	A szakkifejezések alapalakban kerülnek be; a ragozott alakokat nem mindig ismeri fel.
+Politik	Politika
+Internationale Beziehungen	Nemzetközi kapcsolatok
+Europäische Union	Európai Unió
+Recht	Jog
+Wirtschaft	Gazdaság
+Handel	Kereskedelem
+Finanzwesen	Pénzügyek
+Soziales und Gesundheit	Szociális kérdések és egészség
+Bildung und Kommunikation	Oktatás és kommunikáció
+Wissenschaft	Tudomány
+Unternehmen und Wettbewerb	Vállalkozás és verseny
+Beschäftigung und Arbeitsbedingungen	Foglalkoztatás és munkakörülmények
+Verkehr	Közlekedés
+Umwelt	Környezet
+Land-, Forst- und Fischereiwirtschaft	Mező-, erdő- és halgazdálkodás
+Agrarerzeugnisse und Lebensmittel	Mezőgazdasági élelmiszerek
+Produktion, Technologie und Forschung	Termelés, technológia és kutatás
+Energie	Energia
+Industrie	Ipar
+Geografie	Földrajz
+Internationale Organisationen	Nemzetközi szervezetek
+Wenig Licht – Lampe einschalten	Kevés a fény – lámpa bekapcsolása
+Verarbeitung mehrfach abgebrochen	A feldolgozás többször megszakadt
+Bearbeitungen gehen verloren	A szerkesztések elvesznek
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Az oldal újra elkészül a fotóból. A kitakarásokat, az aláírást és a jegyzeteket újra hozzá kell adni.
+Neu zuschneiden	Újravágás
+Sprachdaten	Nyelvi adatok
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Megmutatja, mennyi helyet foglalnak a szkennelések, az eredeti fotók, a kuka, a gyorsítótár és a nyelvi adatok (szövegfelismerés, szótárak).
+Bitte warten, bis alle Seiten erkannt sind	Várjon, amíg minden oldal felismerése befejeződik
+Die Sprache „%s“ kann nicht übersetzt werden	A(z) „%s” nyelv nem fordítható
+Übersetzung in die Seiten setzen	A fordítás beillesztése az oldalakba

@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Primer configura l'empremta digital, el desbloqueig facial o el bloqueig de pantalla.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Aquest dispositiu no admet el desbloqueig biomètric.
+Ultimate PDF Scanner entsperren	Desbloqueja Ultimate PDF Scanner
+Deine Scans sind geschützt	Els teus escanejos estan protegits
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner està bloquejat
+Deine Scans bleiben auf diesem Gerät.	Els teus escanejos es queden en aquest dispositiu.
+  Entsperren	  Desbloqueja
+Systemsprache	Idioma del sistema
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importa fotos
+Texterkennung vorbereiten	Preparant el reconeixement de text
+Ein Foto konnte nicht verarbeitet werden: %s	No s'ha pogut processar la imatge: %s
+Foto laden	Carregant la imatge
+Foto nicht lesbar	La imatge no es pot llegir
+Filter anwenden	Aplica el filtre
+Schwärzen	Enfosqueix
+Unterschrift einfügen	Insereix la signatura
+Unterschrift eingefügt	Signatura inserida
+Änderungen einfügen	Insereix els canvis
+Seite bearbeitet	Pàgina editada
+Text gesichert	Text desat
+Zusammenführen	Combina
+%d Scans zusammengeführt	Escanejos combinats: %d
+Seiten verschieben	Mou pàgines
+Seiten kopieren	Copia pàgines
+ (Teil)	 (part)
+Zwischenspeicher leeren	Buida la memòria cau
+Zwischenspeicher geleert	Memòria cau buidada
+Originalfotos entfernen	Elimina les fotos originals
+Sicherung erstellen	Crea una còpia de seguretat
+Sicherung erstellen (%d/%d)	Creant la còpia de seguretat (%d/%d)
+Sicherung gespeichert	Còpia de seguretat desada
+Sicherung wiederherstellen	Restaura la còpia de seguretat
+ (%d schon vorhanden)	 (%d ja existeixen)
+Wiederherstellen fehlgeschlagen: %s	La restauració ha fallat: %s
+PDF erstellen (%d/%d)	Creant el PDF (%d/%d)
+%s erstellen	Creant: %s
+Export fehlgeschlagen: %s	L'exportació ha fallat: %s
+%s speichern	Desant: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF desat (protegit amb contrasenya, AES-256)
+%s gespeichert	Desat: %s
+Bilder speichern	Desa les imatges
+Bilder speichern (%d/%d)	Desant les imatges (%d/%d)
+%d Bilder gespeichert	Imatges desades: %d
+Sprache erkennen	Detectant l'idioma
+Kein erkannter Text zum Übersetzen	No hi ha text reconegut per traduir
+Sprache nicht erkannt	No s'ha reconegut l'idioma
+Der Text ist bereits auf %s	El text ja és en %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Carregant el model d'idioma (la primera vegada ~30 MB)
+Übersetzen (%d/%d)	Traducció (%d/%d)
+Seite %d	Pàgina %d
+Übersetzung fehlgeschlagen: %s	La traducció ha fallat: %s
+1 Bereich unkenntlich gemacht	1 zona enfosquida
+%d Bereiche unkenntlich gemacht	Zones enfosquides: %d
+1 Scan wiederhergestellt	1 escaneig restaurat
+%d Scans wiederhergestellt	Escanejos restaurats: %d
+Server antwortet mit %d	El servidor respon amb %d
+Datei unvollständig	Fitxer incomplet
+Nicht gefunden	No trobat
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Escanejos al mòbil: %d · directament per Wi-Fi, sense núvol
+Ausgangssprache „%s“ wird nicht unterstützt	La llengua d'origen «%s» no és compatible
+Zielsprache „%s“ wird nicht unterstützt	La llengua de destinació «%s» no és compatible
+QR-CODE	CODI QR
+AUSWEIS	DOCUMENT D'IDENTITAT
+DOKUMENT	DOCUMENT
+BUCH	LLIBRE
+VISITENKARTE	TARGETA DE VISITA
+PASSFOTO	FOTO DE CARNET
+PDF	PDF
+Word	Word
+Bilder	Imatges
+ZIP	ZIP
+Text	Text
+Excel	Excel
+CSV	CSV
+Kontakt	Contacte
+Wie gescannt	Com s'ha escanejat
+Letter	Letter
+Mittel	Mitjana
+Englisch	Anglès
+Französisch	Francès
+Italienisch	Italià
+Spanisch	Castellà
+Portugiesisch	Portuguès
+Niederländisch	Neerlandès
+Polnisch	Polonès
+Tschechisch	Txec
+Dänisch	Danès
+Schwedisch	Suec
+Norwegisch	Noruec
+Finnisch	Finès
+Ungarisch	Hongarès
+Rumänisch	Romanès
+Kroatisch	Croat
+Türkisch	Turc
+Griechisch	Grec
+Russisch	Rus
+Ukrainisch	Ucraïnès
+Arabisch	Àrab
+Hebräisch	Hebreu
+Persisch	Persa
+Chinesisch (vereinfacht)	Xinès (simplificat)
+Japanisch	Japonès
+Koreanisch	Coreà
+Latein	Llatí
+Deutsch (Fraktur)	Alemany (fractura)
+1 Seite	1 pàgina
+%d Seiten	%d pàgines
+1 Scan	1 escaneig
+%d Scans	%d escanejos
+Abbrechen	Cancel·la
+Bearbeiten	Edita
+Zurück	Enrere
+Rückgängig	Desfés
+Sichern	Desa
+Seite	Pàgina
+Einfügen	Insereix
+Änderungen sichern?	Vols desar els canvis?
+Verwerfen	Descarta
+Schließen	Tanca
+Fertig	Fet
+Öffnen	Obre
+Keine	Cap
+Alle	Totes
+Umbenennen	Canvia el nom
+Mehr	Més
+Löschen	Suprimeix
+Teilen	Comparteix
+Speichern	Desa
+Drucken	Imprimeix
+Kopieren	Copia
+Drehen	Gira
+Laden	Baixa
+Entfernen	Elimina
+Verschieben	Mou
+Name	Nom
+Aus	Desactivat
+Leeren	Buida
+Wiederherstellen	Restaura
+Text einfügen	Insereix text
+z. B. Name, Datum …	p. ex. nom, data …
+Kein Gesicht erkannt – bitte noch einmal	No s'ha reconegut cap cara – torna-ho a provar
+Seite erneut scannen	Torna a escanejar la pàgina
+Fernauslöser verbunden	Disparador remot connectat
+Nach dem Umblättern auslösen	Dispara després de passar pàgina
+Leserichtung rechts nach links	Sentit de lectura de dreta a esquerra
+Leserichtung links nach rechts	Sentit de lectura d'esquerra a dreta
+Automatisch auslösen	Captura automàtica
+Kamera wechseln	Canvia de càmera
+Licht	Llum
+Bitte Kamerazugriff erlauben.	Permet l'accés a la càmera.
+Passfoto wird zugeschnitten …	Retallant la foto de carnet …
+Ohne Rückseite fertig	Acaba sense el revers
+Kein Code im Bild gefunden	No s'ha trobat cap codi a la imatge
+Aus Galerie	Des de la galeria
+QR-Code oder Barcode in den Rahmen halten	Mantén el codi QR o de barres dins del marc
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Cara dins l'oval · mira de front · fons clar
+Vorderseite des Ausweises in den Rahmen	L'anvers del document d'identitat dins del marc
+Jetzt die Rückseite	Ara el revers
+Visitenkarte in den Rahmen legen	Posa la targeta de visita dins del marc
+Aufgeschlagenes Buch ins Bild halten	Mantén el llibre obert a la imatge
+Doppelseite erkannt	Doble pàgina reconeguda
+Umblättern – löst danach automatisch aus	Passa la pàgina – es dispararà automàticament
+Ruhig halten …	No et moguis …
+Ruhig halten – wird automatisch ausgelöst	No et moguis – es dispararà automàticament
+Seite ins Bild halten	Mantén la pàgina a la imatge
+Seite erkannt	Pàgina reconeguda
+Intervall-Timer	Temporitzador d'interval
+Serie starten	Inicia la sèrie
+Farbe	Color
+Graustufen	Escala de grisos
+Schwarz-Weiß	Blanc i negre
+Original	Original
+Automatisch	Automàtic
+Zuschnitt nicht möglich	No es pot retallar
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	La foto original d'aquesta pàgina s'ha eliminat per estalviar espai. Amb «Torna a escanejar» pots tornar a fer la pàgina.
+Zuschnitt anpassen	Corregeix el retall
+Übernehmen	Aplica
+Einzelseite	Pàgina individual
+Doppelseite	Doble pàgina
+Auto	Auto
+  Automatisch	  Automàtic
+Ecken auf die Seitenränder ziehen	Arrossega les cantonades fins a les vores de la pàgina
+Seiten ordnen	Ordena les pàgines
+%d ausgewählt	%d seleccionades
+Filter für alle Seiten	Filtre per a totes les pàgines
+Leserichtung umkehren	Inverteix el sentit de lectura
+Übersetzen…	Tradueix…
+Scan löschen	Suprimeix l'escaneig
+Scannen	Escaneja
+Import	Importa
+Ordnen	Ordena
+Exportieren	Exporta
+Übersetzen in …	Tradueix a …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	La traducció es fa al dispositiu. La primera vegada es baixa el model d'idioma una sola vegada.
+Übersetzung teilen	Comparteix la traducció
+Scan löschen?	Vols suprimir l'escaneig?
+„%s“ wird endgültig gelöscht.	«%s» se suprimirà definitivament.
+Kontakt erkannt	Contacte reconegut
+Zu Kontakten	Als contactes
+Seiten werden verarbeitet (%d/%d)	Processant les pàgines (%d/%d)
+Nur diese	Només aquestes
+Wird neu verarbeitet	Reprocessat
+Erneut	Torna-ho a provar
+Fehlgeschlagen	Ha fallat
+Foto nicht verarbeitet	Imatge no processada
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	S'ha produït un error en processar la imatge.
+Keine Auffälligkeiten	Sense notes
+Erneut scannen	Torna a escanejar
+Ersetzt beide Seiten dieser Doppelseite	Substitueix les dues pàgines d'aquesta doble pàgina
+Kamera öffnen und diese Seite ersetzen	Obre la càmera i substitueix aquesta pàgina
+Nach vorn	Endavant
+Nach hinten	Enrere
+Seite löschen	Suprimeix la pàgina
+Foto entfernen	Elimina la imatge
+1 Seite verschoben	1 pàgina moguda
+%d Seiten verschoben	Pàgines mogudes: %d
+1 Seite kopiert	1 pàgina copiada
+%d Seiten kopiert	Pàgines copiades: %d
+1 Seite löschen?	Vols suprimir 1 pàgina?
+%d Seiten löschen?	Vols suprimir %d pàgines?
+1 Seite prüfen	Revisa 1 pàgina
+%d Seiten prüfen	Revisa %d pàgines
+Seite löschen?	Vols suprimir la pàgina?
+Durchsuchbares PDF mit erkanntem Text	PDF cercable amb el text reconegut
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Text editable per a Word, LibreOffice i Google Docs
+Die Seite als JPG-Bild	La pàgina com a imatge JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Una imatge JPG per pàgina (%d fitxers)
+Alle Seiten als JPG und der Text in einem Archiv	Totes les pàgines com a JPG i el text en un sol arxiu
+Nur der erkannte Text	Només el text reconegut
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Taules reconegudes, un full de càlcul per pàgina
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Taules reconegudes com a CSV (punt i coma, per a Excel)
+Visitenkarte als Kontakt (vCard)	Targeta de visita com a contacte (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Anvers i revers a mida real en una sola pàgina – a punt per imprimir
+Seitenformat	Format de pàgina
+Mit Passwort schützen	Protegeix amb contrasenya
+AES-256-Verschlüsselung	Xifratge AES-256
+Passwort	Contrasenya
+Mindestens 4 Zeichen	Almenys 4 caràcters
+Passwort wiederholen	Repeteix la contrasenya
+Passwörter stimmen nicht überein	Les contrasenyes no coincideixen
+Seitenbilder einfügen	Insereix les imatges de les pàgines
+Jede Seite als Bild über ihrem Text	Cada pàgina com a imatge sobre el text
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Les columnes es reconeixen pels espais del text – funciona millor amb columnes clarament separades. Els nombres com «1.234,50» s'interpreten com a nombres.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	No s'han reconegut dades de contacte en aquesta targeta.
+1 ausgewählte Seite	1 pàgina seleccionada
+%d ausgewählte Seiten	%d pàgines seleccionades
+Mobil	Mòbil
+Fax	Fax
+Telefon	Telèfon
+%s teilen	Comparteix: %s
+Scan	Escaneig
+Text teilen	Comparteix el text
+PDF teilen	Comparteix el PDF
+In den Papierkorb verschoben	Mogut a la paperera
+%d Scans in den Papierkorb verschoben	Escanejos moguts a la paperera: %d
+Auswahl beenden	Acaba la selecció
+Alle auswählen	Selecciona-ho tot
+In Ordner verschieben	Mou a una carpeta
+Ordner	Carpetes
+Ordner umbenennen	Canvia el nom de la carpeta
+Ordner auflösen	Desfés la carpeta
+Papierkorb (%d)	Paperera (%d)
+Papierkorb	Paperera
+An PC senden	Envia a l'ordinador
+Speicher & Sicherung	Emmagatzematge i còpia de seguretat
+Einstellungen	Configuració
+Scans und Text durchsuchen	Cerca en escanejos i text
+Alle Scans durchsuchen	Cerca en tots els escanejos
+Suche löschen	Esborra la cerca
+%d Treffer	%d resultats
+Alle Scans	Tots els escanejos
+Nichts gefunden	No s'ha trobat res
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Ni el nom ni el text reconegut coincideixen amb «%s».
+Ordner ist leer	La carpeta és buida
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Mou escanejos aquí: mantén premut un escaneig i tria «Mou a una carpeta».
+Noch keine Scans	Encara no hi ha escanejos
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Toca «Escaneja» per fotografiar pàgines,\no importa fotos de la galeria.
+Ordnername	Nom de la carpeta
+Neuer Ordner	Carpeta nova
+%d Scans zusammenführen?	Vols combinar %d escanejos?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Totes les pàgines s'afegeixen a «%s» en l'ordre de selecció. Els altres escanejos desapareixen després.
+%d prüfen	Revisa %d
+Wird verarbeitet (%d/%d)	Processant (%d/%d)
+Als PDF teilen	Comparteix com a PDF
+Kategorie ändern	Canvia la categoria
+Kein Ordner	Sense carpeta
+Neuer Ordner …	Carpeta nova …
+Kategorie	Categoria
+Download fehlgeschlagen: %s	La baixada ha fallat: %s
+keine Verbindung	sense connexió
+Sprachen der Texterkennung	Idiomes del reconeixement de text
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Els idiomes seleccionats es reconeixen junts – tria només els necessaris, cada idioma addicional alenteix el reconeixement. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Els idiomes que falten es baixen una vegada (uns 2–15 MB) i després funcionen sense connexió.
+Wird geladen … %d %%	Baixant … %d %%
+Enthalten	Inclòs
+Geladen · %s	Baixat · %s
+Nicht geladen	No baixat
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Toca per seleccionar · mantén premut i arrossega per moure
+Neuer Scan	Escaneig nou
+Verschieben nach …	Mou a …
+Kopieren nach …	Copia a …
+Seite %d von %d	Pàgina %d de %d
+Filter	Filtre
+Zuschnitt	Retall
+Signieren	Signa
+Code	Codi
+Link	Enllaç
+E-Mail	Correu electrònic
+Telefonnummer	Número de telèfon
+Ort	Lloc
+Produktcode	Número d'article
+Netzwerk: %s	Xarxa: %s
+Passwort: %s	Contrasenya: %s
+Verschlüsselung: %s	Xifratge: %s
+Passwort kopieren	Copia la contrasenya
+Verbinden	Connecta
+E-Mail schreiben	Escriu un correu
+Anrufen	Truca
+In Karten öffnen	Obre a Mapes
+Suche sensible Daten…	Cercant dades sensibles…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	No s'ha trobat res sensible. Arrossega el dit sobre les zones que vulguis enfosquir.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Trobat – toca per seleccionar o desseleccionar, arrossega més zones:
+Schwarzer Balken	Barra negra
+Verpixeln	Pixela
+Unkenntlich machen (%d)	Enfosqueix (%d)
+Manuell	Manual
+Gesicht	Cara
+Kein WLAN	Sense Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Connecta el mòbil i l'ordinador a la mateixa Wi-Fi (o l'ordinador al punt d'accés del mòbil). Llavors l'adreça apareixerà aquí.
+Am PC im Browser öffnen	Obre al navegador de l'ordinador
+QR-Code der Adresse	Codi QR de l'adreça
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Escriu l'adreça o escaneja el codi QR amb la càmera de l'ordinador. Allà pots baixar tots els escanejos com a PDF o text.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Només a la xarxa local i només mentre aquesta pantalla estigui oberta. No s'envia res a Internet.
+Heruntergeladen	Baixat
+App-Sperre nicht möglich	El bloqueig de l'aplicació no és possible
+Sprache	Idioma
+Sprache der App	Idioma de l'aplicació
+Aufnahme	Captura
+Doppelseiten im Dokument-Modus	Dobles pàgines en mode document
+Automatisch teilen	Divideix automàticament
+Nie teilen	No divideixis mai
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Dispara tan bon punt la pàgina està quieta a la imatge.
+Buch-Modus	Mode llibre
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Detecta quan passes pàgina i dispara tan bon punt el llibre torna a estar quiet.
+Leserichtung	Sentit de lectura
+Links → rechts	Esquerra → dreta
+Rechts → links	Dreta → esquerra
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Dreta → esquerra per a àrab, hebreu, persa i japonès: primer va la pàgina de la dreta.
+Fernauslöser	Disparador remot
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Vincula un disparador Bluetooth per a càmera (p. ex. «AB Shutter 3») a la configuració de Bluetooth d'Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	A la càmera disparen llavors ell i els botons de volum.
+Bild	Imatge
+Standardfilter	Filtre predeterminat
+Handschrift entfernen	Elimina l'escriptura a mà
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Elimina anotacions amb bolígraf blau/vermell i llapis. També elimina la impressió en aquests colors.
+Texterkennung	Reconeixement de text
+Sprachen	Idiomes
+Sicherheit & Speicher	Seguretat i emmagatzematge
+App-Sperre	Bloqueig de l'aplicació
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Desbloqueja en iniciar amb l'empremta, la cara o el bloqueig de pantalla. El contingut no es mostra a la vista d'aplicacions.
+Belegung, Backup als ZIP, Wiederherstellen	Ús, còpia de seguretat com a ZIP, restauració
+Gelöschte Scans werden nach 30 Tagen entfernt	Els escanejos suprimits s'eliminen al cap de 30 dies
+Offline	Sense connexió
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Totes les imatges i textos es queden en aquest dispositiu. Internet només s'utilitza per baixar idiomes una vegada, si en tens.
+Über	Quant a l'aplicació
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Components de codi obert: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (tots Apache License 2.0); ML Kit (traducció, detecció de cares, al dispositiu).
+Unterschrift zeichnen	Dibuixa la signatura
+Mit dem Finger unterschreiben	Signa amb el dit
+Unterschrift platzieren	Col·loca la signatura
+Neu zeichnen	Torna a dibuixar
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Mou amb un dit, canvia la mida amb dos dits.
+Unterschrift	Signatura
+Belegt von Ultimate PDF Scanner	Utilitzat per Ultimate PDF Scanner
+%s frei auf dem Gerät	%s lliures al dispositiu
+Seiten	Pàgines
+Originalfotos	Fotos originals
+Zwischenspeicher	Memòria cau
+Platz schaffen	Allibera espai
+Exportierte Dateien zum Teilen	Fitxers exportats per compartir
+Gelöschte Scans der letzten 30 Tage	Escanejos suprimits dels últims 30 dies
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Les pàgines acabades es mantenen, però el retall ja no es pot canviar.
+Größte Scans	Escanejos més grans
+Sicherung	Còpia de seguretat
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Desa tots els escanejos en un sol fitxer ZIP – p. ex. en una targeta SD, un llapis USB o un ordinador. No s'envia res a Internet.
+Papierkorb mitsichern	Inclou la paperera
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-copia_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	En restaurar només s'afegeixen els escanejos que falten.
+Originalfotos entfernen?	Vols eliminar les fotos originals?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Estalvia %s. Les pàgines ja no es podran tornar a retallar; «Torna a escanejar» continuarà sent possible.
+Text bearbeiten · Seite %d	Edita el text · pàgina %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Les correccions s'incorporen a la cerca i a la capa de text del PDF.
+Kein Text erkannt – hier eintippen	No s'ha reconegut cap text – escriu-lo aquí
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Els escanejos suprimits s'eliminen definitivament al cap de %d dies.
+Papierkorb ist leer	La paperera és buida
+Endgültig löschen	Suprimeix definitivament
+Papierkorb leeren?	Vols buidar la paperera?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d escanejos se suprimiran definitivament. No es pot desfer.
+Endgültig löschen?	Vols suprimir-lo definitivament?
+„%s“ wird sofort gelöscht.	«%s» se suprimirà immediatament.
+noch 1 Tag	Queda 1 dia
+noch %d Tage	Queden %d dies
+Quittung	Rebut
+Quittungen	Rebuts
+Rechnung	Factura
+Rechnungen	Factures
+Visitenkarte	Targeta de visita
+Visitenkarten	Targetes de visita
+Vertrag	Contracte
+Verträge	Contractes
+Brief	Carta
+Briefe	Cartes
+Ausweis	Document d'identitat
+Ausweise	Documents d'identitat
+Buch	Llibre
+Bücher	Llibres
+Passfoto	Foto de carnet
+Passfotos	Fotos de carnet
+Dokument	Document
+Dokumente	Documents
+Auflösung	Resolució
+Kompression	Compressió
+Gering	Baixa
+Stark	Alta
+300 dpi	300 ppp
+200 dpi	200 ppp
+150 dpi	150 ppp
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 ppp i compressió baixa per imprimir i arxivar, 150 ppp i compressió alta per al correu electrònic.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Fa que els PDF es puguin cercar i el text es pugui copiar. Desactivat: processament més ràpid, PDF només com a imatge.
+Keine Seite erkannt	No s'ha reconegut cap pàgina
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	No s'ha trobat la vora de la pàgina – s'ha utilitzat la foto sencera.
+Unscharf	Borrosa
+Das Foto ist verwackelt oder unscharf.	La foto està moguda o desenfocada.
+Zu dunkel	Massa fosca
+Die Seite ist schlecht ausgeleuchtet.	La pàgina està mal il·luminada.
+Text schlecht lesbar	El text es llegeix amb dificultat
+Die Texterkennung war unsicher.	El reconeixement de text no ha estat segur.
+Kein Text erkannt	No s'ha reconegut cap text
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	No s'ha trobat text a la pàgina – pàgina en blanc o cap pàgina a la foto?
+Hindi	Hindi
+Bengalisch	Bengalí
+Urdu	Urdú
+Indonesisch	Indonesi
+Seite erkennen	Reconeix la pàgina
+Seite entzerren	Endreça la pàgina
+Finger entfernen	Elimina els dits
+Schärfe prüfen	Comprova la nitidesa
+Ausrichtung	Orientació
+Bild verbessern	Millora la imatge
+Speicherort	Ubicació de desament
+Speicherort für Exporte	Ubicació de desament per a l'exportació
+Jedes Mal fragen	Pregunta cada vegada
+Ordner wählen …	Tria una carpeta …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	«Desa» posa els PDF i altres exportacions directament en aquesta carpeta sense preguntar cada vegada. També es pot fer servir una targeta SD.
+Gespeichert in „%s“	Desat a «%s»
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	La ubicació de desament no és accessible. Torna-la a triar.
+Neu aufnehmen	Torna a fer
+Um 90° links drehen	Gira 90° a l'esquerra
+Seite gelöscht	Pàgina suprimida
+Lange drücken: neu aufnehmen, drehen oder löschen	Mantén premut: torna a fer, gira o suprimeix
+Ersetzt beide Seiten	Substitueix les dues pàgines
+Ränder bereinigen	Neteja les vores
+Scan-Qualität	Qualitat d'escaneig
+Schnell	Ràpida
+Standard	Estàndard
+Genau	Precisa
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Per a lletra gran i clara com cartes i impresos: imatges més petites, el processament més ràpid.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Per a llibres i la majoria de documents: bon reconeixement a velocitat normal.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Per a lletra petita, llibres antics, notes a peu de pàgina i fórmules: resolució completa de la càmera, més lent, més memòria.
+BILD	FOTO
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Posa la foto plana · sense flaix · evita els reflexos
+an	activat
+aus	desactivat
+Automatische Auslösung an: nach dem Umblättern	Captura automàtica activada: després de passar pàgina
+Automatische Auslösung an: sobald die Seite ruhig liegt	Captura automàtica activada: tan bon punt la pàgina està quieta
+Automatische Auslösung aus	Captura automàtica desactivada
+PDF & Export	PDF i exportació
+Speicherort für PDFs und Bilder	Ubicació de desament per a PDF i imatges
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	En exportar es pot canviar per a fitxers individuals.
+Weitere Optionen …	Més opcions …
+Automatische Verbesserung	Millora automàtica
+Schatten und Artefakte entfernen, Schrift schärfen	Elimina ombres i defectes, aguditza la lletra
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Elimina ombres i defectes, aguditza la lletra. Es pot desactivar per a cada document.
+unkorrigiert	sense corregir
+Maximal	Màxim
+Bildqualität	Qualitat d'imatge
+volle Auflösung	resolució completa
+Briefe, Ausdrucke, große Schrift	Cartes, impresos, lletra gran
+Bücher und die meisten Dokumente (empfohlen)	Llibres i la majoria de documents (recomanat)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Lletra petita, fórmules, llibres antics – més lent
+Gilt auch für alle weiteren Scans.	També s'aplica a tots els escanejos posteriors.
+Ändern	Canvia
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	On posa «Desa» les teves exportacions. «Comparteix» no es veu afectat.
+Ordner und Dateiname beim Speichern wählen	Tria la carpeta i el nom del fitxer en desar
+Exporte landen direkt hier	Les exportacions van directament aquí
+Anderen Ordner wählen …	Tria una altra carpeta …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	També targetes SD i carpetes al núvol, si estan instal·lades al dispositiu.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	No és possible l'accés permanent a aquesta carpeta.
+Sehr hohe Auflösung	Resolució molt alta
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Amb %d MP el processament de cada pàgina tarda molt més i necessita molta memòria. «Estàndard» és suficient per a la majoria de documents. «Màxim» només val la pena per a lletra molt petita.
+Trotzdem verwenden	Utilitza-ho igualment
+langsam	lent
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Cap disparador remot connectat – vincula'l a la configuració de Bluetooth
+Mit dem Fernauslöser auslösen	Dispara amb el disparador remot
+Umblättern	Passar pàgina
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Acaba la captura. Les pàgines ja fetes es mantenen i es processen.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Encén o apaga la llanterna. El paper brillant es fotografia millor sense llum i en diagonal respecte a la finestra.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Utilitza fotos existents en lloc de fotos noves.
+Serie	Sèrie
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Inicia o atura la sèrie: el temporitzador fa llavors una foto automàticament cada pocs segons.
+Auslöser	Disparador
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Fa una foto. Els botons de volum i un disparador Bluetooth també disparen.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Acaba la captura i obre la vista general; el número mostra les fotos d'aquesta captura.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Quants píxels té cada foto. Ràpida (5 MP) per a lletra gran, Estàndard (12 MP) per a gairebé tot, Màxim per a lletra petita i fórmules – tarda més.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Toca per canviar: desactivat, 3, 5 o 10 segons. El disparador inicia llavors una sèrie amb una foto en aquest interval – pràctic per a llibres.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Només fa una foto quan prems el disparador.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Dispara sol tan bon punt la pàgina ha estat quieta 0,7 segons. En mode llibre: després de cada pàgina, tan bon punt el llibre torna a estar quiet.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Dispara amb un disparador Bluetooth (p. ex. «AB Shutter 3»). Primer vincula el disparador a la configuració de Bluetooth del mòbil.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Dona un nom propi al document; també s'utilitza com a nom de fitxer en exportar.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Inverteix el sentit de lectura de les dobles pàgines, tradueix al dispositiu o suprimeix l'escaneig.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Obre la càmera i afegeix més pàgines a aquest document.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Agafa fotos de la galeria com a pàgines noves; es retallen i es reconeixen com les fotos de la càmera.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Canvia l'ordre arrossegant; selecciona pàgines per girar-les, moure-les, copiar-les, separar-les o suprimir-les.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Comparteix, desa o imprimeix com a PDF, Word, imatges, ZIP, text o taula.
+Farbe, Graustufen, Schwarz-Weiß	Color, escala de grisos, blanc i negre
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Canvia totes les pàgines d'aquest document. El blanc i negre dona els fitxers més petits, el color reprodueix fidelment fotos i segells.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Activat: s'eliminen ombres, taques i defectes i la lletra queda més nítida. Desactivat: les pàgines només es retallen i s'endrecen – per a fotos, dibuixos o quan la millora falseja alguna cosa.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Crea el fitxer i el passa a una aplicació, p. ex. correu, missatgeria o núvol.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Posa el fitxer a la ubicació de desament – en una carpeta fixa o, amb «Pregunta cada vegada», on tu vulguis.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Imprimeix amb el servei d'impressió d'Android; allà també pots triar «Desa com a PDF».
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	On posa «Desa» els fitxers: pregunta cada vegada o sempre en una carpeta fixa, també en una targeta SD o una carpeta al núvol.
+Hilfe & Anleitung	Ajuda i guia
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Consell: mantén premut un botó un segon per veure què fa.
+Startseite	Inici
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Obre la càmera. Totes les fotos d'una captura van a un sol document comú.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	La icona de la galeria sobre «Escaneja» agafa fotos existents; es retallen i es reconeixen com les fotos de la càmera.
+Suchen	Cerca
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Troba escanejos pel nom i el text reconegut, amb el número de pàgina.
+Ordner und Kategorien	Carpetes i categories
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Les carpetes organitzen els escanejos. Les categories (llibres, rebuts …) apareixen automàticament tan bon punt hi ha escanejos d'aquell tipus.
+Mehrere Scans	Diversos escanejos
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Mantén premut un escaneig: selecciona, combina, mou a una carpeta o suprimeix.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Els escanejos suprimits són a la paperera (menú ⋮) durant 30 dies i es poden restaurar.
+Modi	Modes
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Tria a baix: Document (fulls solts), Llibre (les dobles pàgines es divideixen en dues), Document d'identitat (anvers i revers a mida real en un full), Targeta de visita (es reconeix el contacte), Foto (colors fidels, sense reconeixement de text), Foto de carnet (càmera frontal, 35 × 45 mm) i codi QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	A dalt a l'esquerra: Ràpida (5 MP) per a lletra gran, Estàndard (12 MP) per a gairebé tot, Màxim per a lletra petita i fórmules – més lent.
+Auslösung	Captura
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manual: amb el disparador. Auto 0,7 s: tan bon punt la pàgina ha estat quieta 0,7 segons; en mode llibre després de cada pàgina. Bluetooth: amb un disparador vinculat. Els botons de volum sempre disparen.
+Timer und Licht	Temporitzador i llum
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	La icona del rellotge fa una foto cada 3, 5 o 10 segons (s'inicia amb el disparador). El flaix encén la llanterna.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Toca la miniatura de baix a la dreta: les pàgines es processen i s'obre la vista general.
+Gute Fotos	Bones fotos
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Posa la pàgina plana i il·luminada uniformement, mantén el mòbil paral·lel. Un fons d'un color diferent del paper ajuda a retallar.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	S'aplica a totes les pàgines del document. Les pàgines individuals es poden configurar diferent a la vista de pàgina.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Elimina ombres i defectes i fa la lletra més nítida. Desactivada, la pàgina només es retalla i s'endreça.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Toca per obrir la pàgina. Mantén premut: torna a fer, gira o suprimeix. Cal revisar les pàgines marcades en taronja (p. ex. borroses); les vermelles han fallat.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Canvia l'ordre arrossegant, gira diverses pàgines, mou-les o copia-les a un altre document, o separa-les com a document nou.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, imatges, ZIP, text o taula – comparteix, desa o imprimeix.
+Mehr (⋮)	Més (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Inverteix el sentit de lectura de les dobles pàgines, tradueix al dispositiu o suprimeix l'escaneig. El llapis de dalt canvia el nom.
+Seitenansicht	Vista de pàgina
+Blättern und Zoomen	Navega i fes zoom
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Fes lliscar per canviar de pàgina; toca dues vegades o fes servir dos dits per fer zoom.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Color, escala de grisos o blanc i negre només per a aquesta pàgina, amb previsualització. A sota hi ha la millora automàtica d'aquesta pàgina.
+Drehen und Zuschnitt	Gira i retalla
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Gira 90°. Retalla: torna a col·locar les cantonades de la pàgina a la foto original.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Escriu a la pàgina amb bolígraf, marcador o text.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Fes il·legibles les dades sensibles – amb barres o pixelades. Es proposen números de compte, de targeta i cares.
+Signieren und Text	Signatura i text
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Signa insereix la teva signatura desada. Text mostra el text reconegut per corregir-lo i copiar-lo.
+Formate	Formats
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (cercable), Word, imatges (JPG), ZIP, text, Excel o CSV; per a targetes de visita també com a contacte.
+PDF-Optionen	Opcions de PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	El format de pàgina, la resolució i la compressió determinen la qualitat i la mida del fitxer – la mida s'estima a dalt a la dreta. Opcionalment amb contrasenya (AES-256).
+Teilen oder Speichern	Comparteix o desa
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Comparteix envia el fitxer a una aplicació (correu, missatgeria …). Desa el posa a la ubicació de desament.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	«Pregunta cada vegada» obre el selector de carpetes en desar. Amb una carpeta fixa, les exportacions hi van sense preguntar – també a una targeta SD o una carpeta al núvol.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Imprimeix amb el servei d'impressió d'Android o desa com a PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Qualitat d'imatge, captura i divisió de dobles pàgines per als escanejos nous. A la càmera es pot canviar en qualsevol moment.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtre i millora automàtica amb què comencen els documents nous.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Fa que els PDF es puguin cercar. Els idiomes determinen quins caràcters es reconeixen.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Ubicació de desament i valors predeterminats de resolució, compressió i format de pàgina.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Bloqueig de l'aplicació amb empremta, còpia de seguretat com a ZIP i la paperera.
+Ecken setzen	Col·loca les cantonades
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Arrossega les quatre cantonades fins a les vores de la pàgina; la lupa mostra ampliat el lloc sota el dit.
+Einzel- oder Doppelseite	Pàgina individual o doble
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Tria a baix si la foto mostra una pàgina o un llibre obert. Automàtic deixa decidir l'aplicació.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	La marca de verificació de dalt processa la pàgina amb el retall nou.
+Werkzeuge	Eines
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Bolígraf per escriure, marcador per destacar, text per a notes escrites amb el teclat. Els colors són a sota.
+Korrigieren	Corregeix
+Rückgängig nimmt den letzten Strich zurück.	Desfés elimina l'últim traç.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Escriu els canvis a la pàgina. Sense desar, la pàgina queda sense canvis.
+Vorschläge	Propostes
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Es marquen els números de compte, de targeta, d'identitat i les cares trobats – toca per desseleccionar o tornar a seleccionar.
+Eigene Bereiche	Zones pròpies
+Mit dem Finger weitere Rechtecke aufziehen.	Dibuixa més rectangles amb el dit.
+Balken oder Pixel	Barres o píxels
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Barra negra o pixelat. El text de sota també s'elimina del reconeixement de text i del PDF.
+Zeichnen	Dibuixa
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Signa una vegada amb el dit – la signatura es desa al dispositiu.
+Platzieren	Col·loca
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Mou amb un dit, canvia la mida amb dos i després insereix.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	La icona del llapis de dalt substitueix la signatura desada.
+Text bearbeiten	Edita el text
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	El text reconegut de la pàgina és a baix i es pot editar. A dalt hi ha la imatge de la pàgina per comparar.
+Wirkung	Efecte
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Les correccions s'incorporen a la cerca, a la capa de text del PDF i a l'exportació a Word i text.
+Holt einen gelöschten Scan zurück.	Recupera un escaneig suprimit.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Els escanejos s'eliminen automàticament al cap de 30 dies. «Buida» ho suprimeix tot immediatament.
+Belegung	Ús
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Mostra quant espai ocupen els escanejos, les fotos originals, la paperera i la memòria cau.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Eliminar les fotos originals estalvia molt d'espai; les pàgines acabades es mantenen, només el retall ja no es pot canviar.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Desa tots els escanejos com a fitxer ZIP i restaura'ls en aquest dispositiu o en un altre. No s'envia res a Internet.
+Auswahl	Selecció
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Tria els idiomes dels teus documents. Cada idioma addicional alenteix el reconeixement.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Els idiomes que falten es baixen una vegada i després funcionen sense connexió.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Connecta el mòbil i l'ordinador a la mateixa Wi-Fi (o l'ordinador al punt d'accés del mòbil).
+Herunterladen	Baixada
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Obre l'adreça mostrada al navegador de l'ordinador o escaneja el codi QR; allà pots baixar tots els escanejos com a PDF o text.
+Sicherheit	Seguretat
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Només funciona a la xarxa local i només mentre aquesta pantalla estigui oberta.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Idioma, qualitat d'imatge, captura, reconeixement de text, ubicació de desament, bloqueig de l'aplicació i còpia de seguretat.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Agafa fotos de la galeria com a document nou; es retallen i es reconeixen com les fotos de la càmera.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Obre la càmera. Totes les fotos d'una captura van a un sol document comú.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Suprimeix aquesta pàgina del document (després de confirmar-ho).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Color, escala de grisos o blanc i negre i la millora automàtica només per a aquesta pàgina.
+Dreht die Seite um 90° im Uhrzeigersinn.	Gira la pàgina 90° en el sentit de les agulles del rellotge.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Torna a col·locar les cantonades de la pàgina a la foto original si falta una vora o es veu el fons.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Fes il·legibles les dades sensibles amb barres o píxels; també desapareixen del text del PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Posa la teva signatura desada a la pàgina; la primera vegada la dibuixes.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Mostra el text reconegut de la pàgina per corregir-lo i copiar-lo.
+Fotografiert beim Tippen auf den Auslöser.	Fa una foto quan prems el disparador.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Dispara tan bon punt la pàgina ha estat quieta 0,7 s; en mode llibre després de cada pàgina.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Dispara amb un disparador Bluetooth vinculat.
+Lautstärketasten lösen immer aus.	Els botons de volum sempre disparen.
+Word erstellen, Formeln erkennen (%d/%d)	Creant el Word, reconeixent fórmules (%d/%d)
+Belarussisch	Bielorús
+Bulgarisch	Búlgar
+Serbisch	Serbi
+Mazedonisch	Macedoni
+Kein Link im geteilten Text	No hi ha cap enllaç al text compartit
+Import fehlgeschlagen: %s	Ha fallat la importació: %s
+Link laden	S’està carregant l’enllaç
+Unter dem Link liegt keine PDF- oder Bilddatei.	L’enllaç no porta a cap fitxer PDF ni d’imatge.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Només es poden importar fitxers PDF i imatges.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Els fitxers PDF protegits no es poden importar.
+PDF-Seite %d/%d importieren	S’està important la pàgina PDF %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Dispara després de %s s
+Wartezeit	Temps d’espera
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Quant de temps ha d’estar quieta la pàgina abans de la foto automàtica. Més curt és més ràpid, més llarg dona menys fotos mogudes.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fa la foto tot sol quan la pàgina està quieta; el temps d’espera (0,2–1,5 s) l’ajustes a sota. En mode llibre: després de cada canvi de pàgina, quan el llibre torna a estar quiet.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Afegeix fotos, captures de pantalla, fitxers PDF o un enllaç com a pàgines addicionals; les fotos es retallen i tot es reconeix.
+Senden an …	Envia a …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	On posa «Desa» les teves exportacions. «Envia a …» n’és independent.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Tria una subcarpeta, p. ex. «Documents»: Android no permet la carpeta principal de l’emmagatzematge.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Crea el fitxer i l’envia a una aplicació, p. ex. WhatsApp, correu, Telegram o un emmagatzematge al núvol.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manual: amb el disparador. Auto: quan la pàgina està quieta; el temps d’espera (0,2–1,5 s, per defecte 0,7 s) l’ajustes a la finestra d’escaneig sota l’interruptor; en mode llibre després de cada canvi de pàgina. Bluetooth: amb un disparador remot aparellat. Les tecles de volum sempre disparen.
+Senden an oder Speichern	Envia a o desa
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	«Envia a …» envia el fitxer a una aplicació (WhatsApp, correu, Telegram, núvol …). Desa el posa a la ubicació de desament.
+Importieren	Importa
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Afegeix fotos, captures de pantalla, fitxers PDF o un enllaç com a document nou; les fotos es retallen i tot es reconeix.
+Bilder aus der Galerie	Imatges de la galeria
+Fotos und Screenshots	Fotos i captures de pantalla
+Dateien	Fitxers
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Fitxers PDF i imatges, p. ex. de Baixades o del núvol
+Eine PDF- oder Bilddatei aus dem Internet	Un fitxer PDF o d’imatge d’internet
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Després, com les pàgines escanejades: reconeixement de text, traducció i exportació a qualsevol format.
+Link importieren	Importa un enllaç
+Internetadresse	Adreça web
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Dispara quan la pàgina està quieta %s s (ajustable a la finestra d’escaneig); en mode llibre després de cada canvi de pàgina.
+Fachwörterbuch laden	S’està carregant el glossari
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Falta el glossari de %s o %s – traduït sense termes tècnics
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	No és un fitxer de glossari (glossary-xx.tsv.gz)
+Download nicht verfügbar	Baixada no disponible
+Estnisch	Estonià
+Irisch	Irlandès
+Litauisch	Lituà
+Lettisch	Letó
+Maltesisch	Maltès
+Slowakisch	Eslovac
+Slowenisch	Eslovè
+Ohne Fachwörterbuch	Sense glossari
+Alle Fachgebiete	Tots els àmbits
+Fachgebiet: %s	Àmbit: %s
+Fachwörterbücher verwalten …	Gestiona els glossaris …
+Fachwörterbücher	Glossaris especialitzats
+Aus Datei importieren	Importa des d’un fitxer
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Els termes tècnics de dret, medicina, tècnica, economia i 17 àmbits més (IATE, la base terminològica de la UE) es mantenen exactament en traduir. Cal el glossari de la llengua d’origen i el de la de destinació, de 0,3 a 9 MB cadascun.
+Einmal laden, danach offline.	Baixa’l un cop, després fora de línia.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importa fitxers glossary-xx.tsv.gz amb la icona de carpeta de dalt.
+Fachwörterbücher für die Übersetzung	Glossaris per a la traducció
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Dret, medicina, tècnica i més – 24 llengües de la UE
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Totes les fotos i els textos es queden en aquest dispositiu. Internet només s’utilitza per baixar un cop llengües, models de traducció i glossaris, quan tu ho inicies.
+Übersetzen	Tradueix
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Crea al dispositiu una còpia traduïda del document: les mateixes pàgines i imatges, el text en la llengua de destinació al seu lloc. Cada paràgraf es tradueix des de la seva pròpia llengua. Amb «Àmbit», els termes tècnics dels glossaris es mantenen exactament.
+Was nachgeladen werden kann	Què es pot baixar
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Tot és opcional i només es baixa quan ho toques; després funciona sense internet:\n• Llengües del reconeixement de text: 1–15 MB cadascuna (Configuració › Llengües). L’alemany i l’anglès hi són inclosos.\n• Xinès: un model de reconeixement propi, uns 17 MB.\n• Models de traducció: uns 30 MB per llengua, es baixen automàticament amb la primera traducció.\n• Glossaris: 0,3–9 MB per llengua, uns 70 MB per a les 24 llengües de la UE (Configuració › Glossaris especialitzats).\nEls fitxers baixats es poden suprimir en qualsevol moment.
+Wozu	Per a què
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Els traductors generals no coneixen molts termes tècnics o els tradueixen de manera incoherent. Un glossari insereix el terme establert, p. ex. «Beweislast» → «càrrega de la prova».
+Quelle	Font
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, la base terminològica de les institucions de la UE, amb termes de 21 àmbits (dret, salut, tècnica, economia, medi ambient, transport …). Existeix per a les 24 llengües oficials de la UE.
+Was nötig ist	Què cal
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Un glossari per a la llengua d’origen i un per a la de destinació, p. ex. alemany i anglès. Un glossari per llengua serveix per a totes les combinacions.
+Laden oder importieren	Baixa o importa
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Baixa amb la fletxa (un cop, després fora de línia) o importa un fitxer «glossary-xx.tsv.gz» amb la icona de carpeta, p. ex. des d’un PC o una targeta SD.
+Benutzen	Ús
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	En traduir, tria l’àmbit a dalt. «Tots els àmbits» només fa servir termes que es tradueixen igual a tot arreu.
+Grenzen	Límits
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Els termes s’insereixen en la forma bàsica; les formes flexionades no sempre es reconeixen.
+Politik	Política
+Internationale Beziehungen	Relacions internacionals
+Europäische Union	Unió Europea
+Recht	Dret
+Wirtschaft	Economia
+Handel	Comerç
+Finanzwesen	Finances
+Soziales und Gesundheit	Qüestions socials i salut
+Bildung und Kommunikation	Educació i comunicació
+Wissenschaft	Ciència
+Unternehmen und Wettbewerb	Empresa i competència
+Beschäftigung und Arbeitsbedingungen	Ocupació i condicions de treball
+Verkehr	Transport
+Umwelt	Medi ambient
+Land-, Forst- und Fischereiwirtschaft	Agricultura, silvicultura i pesca
+Agrarerzeugnisse und Lebensmittel	Agroalimentació
+Produktion, Technologie und Forschung	Producció, tecnologia i recerca
+Energie	Energia
+Industrie	Indústria
+Geografie	Geografia
+Internationale Organisationen	Organitzacions internacionals
+Wenig Licht – Lampe einschalten	Poca llum – encén la llanterna
+Verarbeitung mehrfach abgebrochen	El processament s’ha interromput diverses vegades
+Bearbeitungen gehen verloren	Es perdran les edicions
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	La pàgina es torna a crear a partir de la foto. Caldrà tornar a afegir els ennegriments, la signatura i les notes.
+Neu zuschneiden	Retalla de nou
+Sprachdaten	Dades d’idiomes
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Mostra quant espai ocupen els escanejos, les fotos originals, la paperera, la memòria cau i les dades d’idiomes (reconeixement de text, glossaris).
+Bitte warten, bis alle Seiten erkannt sind	Espereu fins que es reconeguin totes les pàgines
+Die Sprache „%s“ kann nicht übersetzt werden	La llengua «%s» no es pot traduir
+Übersetzung in die Seiten setzen	Inserint la traducció a les pàgines

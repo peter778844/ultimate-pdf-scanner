@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Najprej nastavite prstni odtis, odklepanje z obrazom ali zaklepanje zaslona.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Ta naprava ne podpira biometričnega odklepanja.
+Ultimate PDF Scanner entsperren	Odkleni Ultimate PDF Scanner
+Deine Scans sind geschützt	Vaši optični posnetki so zaščiteni
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner je zaklenjen
+Deine Scans bleiben auf diesem Gerät.	Vaši optični posnetki ostanejo v tej napravi.
+  Entsperren	  Odkleni
+Systemsprache	Jezik sistema
+Deutsch	Deutsch
+English	English
+Fotos importieren	Uvozi fotografije
+Texterkennung vorbereiten	Pripravljanje prepoznavanja besedila
+Ein Foto konnte nicht verarbeitet werden: %s	Fotografije ni bilo mogoče obdelati: %s
+Foto laden	Naloži fotografijo
+Foto nicht lesbar	Fotografija je neberljiva
+Filter anwenden	Uporabi filter
+Schwärzen	Zakrij
+Unterschrift einfügen	Vstavi podpis
+Unterschrift eingefügt	Podpis vstavljen
+Änderungen einfügen	Vstavi spremembe
+Seite bearbeitet	Stran urejena
+Text gesichert	Besedilo shranjeno
+Zusammenführen	Združi
+%d Scans zusammengeführt	Združeni optični posnetki: %d
+Seiten verschieben	Premakni strani
+Seiten kopieren	Kopiraj strani
+ (Teil)	 (del)
+Zwischenspeicher leeren	Počisti predpomnilnik
+Zwischenspeicher geleert	Predpomnilnik počiščen
+Originalfotos entfernen	Odstrani izvirne fotografije
+Sicherung erstellen	Ustvari varnostno kopijo
+Sicherung erstellen (%d/%d)	Ustvari varnostno kopijo (%d/%d)
+Sicherung gespeichert	Varnostna kopija shranjena
+Sicherung wiederherstellen	Obnovi varnostno kopijo
+ (%d schon vorhanden)	 (%d že obstaja)
+Wiederherstellen fehlgeschlagen: %s	Obnovitev ni uspela: %s
+PDF erstellen (%d/%d)	Ustvarjanje PDF (%d/%d)
+%s erstellen	Ustvarjanje: %s
+Export fehlgeschlagen: %s	Izvoz ni uspel: %s
+%s speichern	Shrani: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF shranjen (zaščiten z geslom, AES-256)
+%s gespeichert	Shranjeno: %s
+Bilder speichern	Shrani slike
+Bilder speichern (%d/%d)	Shrani slike (%d/%d)
+%d Bilder gespeichert	Shranjene slike: %d
+Sprache erkennen	Prepoznaj jezik
+Kein erkannter Text zum Übersetzen	Ni prepoznanega besedila za prevod
+Sprache nicht erkannt	Jezik ni prepoznan
+Der Text ist bereits auf %s	Besedilo je že v jeziku: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Nalaganje jezikovnega modela (prvič ~30 MB)
+Übersetzen (%d/%d)	Prevajanje (%d/%d)
+Seite %d	Stran %d
+Übersetzung fehlgeschlagen: %s	Prevod ni uspel: %s
+1 Bereich unkenntlich gemacht	Zakrito 1 območje
+%d Bereiche unkenntlich gemacht	Zakrita območja: %d
+1 Scan wiederhergestellt	Obnovljen 1 optični posnetek
+%d Scans wiederhergestellt	Obnovljeni optični posnetki: %d
+Server antwortet mit %d	Strežnik odgovarja s kodo %d
+Datei unvollständig	Datoteka je nepopolna
+Nicht gefunden	Ni najdeno
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Optični posnetki v telefonu: %d · neposredno prek Wi-Fi, brez oblaka
+Ausgangssprache „%s“ wird nicht unterstützt	Izvorni jezik »%s« ni podprt
+Zielsprache „%s“ wird nicht unterstützt	Ciljni jezik »%s« ni podprt
+QR-CODE	KODA QR
+AUSWEIS	OSEBNI DOKUMENT
+DOKUMENT	DOKUMENT
+BUCH	KNJIGA
+VISITENKARTE	VIZITKA
+PASSFOTO	FOTOGRAFIJA ZA DOKUMENT
+PDF	PDF
+Word	Word
+Bilder	Slike
+ZIP	ZIP
+Text	Besedilo
+Excel	Excel
+CSV	CSV
+Kontakt	Stik
+Wie gescannt	Kot je skenirano
+Letter	Letter
+Mittel	Srednje
+Englisch	Angleščina
+Französisch	Francoščina
+Italienisch	Italijanščina
+Spanisch	Španščina
+Portugiesisch	Portugalščina
+Niederländisch	Nizozemščina
+Polnisch	Poljščina
+Tschechisch	Češčina
+Dänisch	Danščina
+Schwedisch	Švedščina
+Norwegisch	Norveščina
+Finnisch	Finščina
+Ungarisch	Madžarščina
+Rumänisch	Romunščina
+Kroatisch	Hrvaščina
+Türkisch	Turščina
+Griechisch	Grščina
+Russisch	Ruščina
+Ukrainisch	Ukrajinščina
+Arabisch	Arabščina
+Hebräisch	Hebrejščina
+Persisch	Perzijščina
+Chinesisch (vereinfacht)	Kitajščina (poenostavljena)
+Japanisch	Japonščina
+Koreanisch	Korejščina
+Latein	Latinščina
+Deutsch (Fraktur)	Nemščina (fraktura)
+1 Seite	1 stran
+%d Seiten	Strani: %d
+1 Scan	1 optični posnetek
+%d Scans	Optični posnetki: %d
+Abbrechen	Prekliči
+Bearbeiten	Uredi
+Zurück	Nazaj
+Rückgängig	Razveljavi
+Sichern	Shrani
+Seite	Stran
+Einfügen	Vstavi
+Änderungen sichern?	Shranim spremembe?
+Verwerfen	Zavrzi
+Schließen	Zapri
+Fertig	Končano
+Öffnen	Odpri
+Keine	Nobena
+Alle	Vse
+Umbenennen	Preimenuj
+Mehr	Več
+Löschen	Izbriši
+Teilen	Deli
+Speichern	Shrani
+Drucken	Natisni
+Kopieren	Kopiraj
+Drehen	Zasukaj
+Laden	Prenesi
+Entfernen	Odstrani
+Verschieben	Premakni
+Name	Ime
+Aus	Izklopljeno
+Leeren	Izprazni
+Wiederherstellen	Obnovi
+Text einfügen	Vstavi besedilo
+z. B. Name, Datum …	npr. ime, datum …
+Kein Gesicht erkannt – bitte noch einmal	Obraz ni prepoznan – poskusite znova
+Seite erneut scannen	Ponovno skeniraj stran
+Fernauslöser verbunden	Daljinski sprožilec povezan
+Nach dem Umblättern auslösen	Sproži po obračanju strani
+Leserichtung rechts nach links	Smer branja od desne proti levi
+Leserichtung links nach rechts	Smer branja od leve proti desni
+Automatisch auslösen	Samodejno sproži
+Kamera wechseln	Zamenjaj kamero
+Licht	Luč
+Bitte Kamerazugriff erlauben.	Dovolite dostop do kamere.
+Passfoto wird zugeschnitten …	Obrezovanje fotografije za dokument …
+Ohne Rückseite fertig	Končano brez hrbtne strani
+Kein Code im Bild gefunden	V sliki ni bila najdena nobena koda
+Aus Galerie	Iz galerije
+QR-Code oder Barcode in den Rahmen halten	Kodo QR ali črtno kodo postavite v okvir
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Obraz v oval · glejte naravnost · svetlo ozadje
+Vorderseite des Ausweises in den Rahmen	Sprednjo stran dokumenta v okvir
+Jetzt die Rückseite	Zdaj še hrbtno stran
+Visitenkarte in den Rahmen legen	Vizitko položite v okvir
+Aufgeschlagenes Buch ins Bild halten	Odprto knjigo držite v kadru
+Doppelseite erkannt	Prepoznana dvojna stran
+Umblättern – löst danach automatisch aus	Obrnite stran – nato se samodejno sproži
+Ruhig halten …	Držite pri miru …
+Ruhig halten – wird automatisch ausgelöst	Držite pri miru – sprožilo se bo samodejno
+Seite ins Bild halten	Stran držite v kadru
+Seite erkannt	Stran prepoznana
+Intervall-Timer	Intervalni časovnik
+Serie starten	Začni serijo
+Farbe	Barvno
+Graustufen	Sivine
+Schwarz-Weiß	Črno-belo
+Original	Izvirnik
+Automatisch	Samodejno
+Zuschnitt nicht möglich	Obrezovanje ni mogoče
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Izvirna fotografija te strani je bila odstranjena, da se prihrani prostor. Z možnostjo »Ponovno skeniraj« lahko stran ponovno zajamete.
+Zuschnitt anpassen	Prilagodi obrezovanje
+Übernehmen	Uporabi
+Einzelseite	Ena stran
+Doppelseite	Dvojna stran
+Auto	Samodejno
+  Automatisch	  Samodejno
+Ecken auf die Seitenränder ziehen	Povlecite vogale na robove strani
+Seiten ordnen	Razvrsti strani
+%d ausgewählt	Izbrano: %d
+Filter für alle Seiten	Filter za vse strani
+Leserichtung umkehren	Obrni smer branja
+Übersetzen…	Prevedi…
+Scan löschen	Izbriši optični posnetek
+Scannen	Skeniraj
+Import	Uvoz
+Ordnen	Razvrsti
+Exportieren	Izvozi
+Übersetzen in …	Prevedi v …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Prevajanje poteka v napravi. Prvič se jezikovni model enkrat prenese.
+Übersetzung teilen	Deli prevod
+Scan löschen?	Izbrišem optični posnetek?
+„%s“ wird endgültig gelöscht.	»%s« bo trajno izbrisan.
+Kontakt erkannt	Stik prepoznan
+Zu Kontakten	V stike
+Seiten werden verarbeitet (%d/%d)	Obdelava strani (%d/%d)
+Nur diese	Samo te
+Wird neu verarbeitet	Ponovna obdelava
+Erneut	Znova
+Fehlgeschlagen	Ni uspelo
+Foto nicht verarbeitet	Fotografija ni obdelana
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Pri obdelavi slike je prišlo do napake.
+Keine Auffälligkeiten	Brez posebnosti
+Erneut scannen	Ponovno skeniraj
+Ersetzt beide Seiten dieser Doppelseite	Nadomesti obe strani te dvojne strani
+Kamera öffnen und diese Seite ersetzen	Odpri kamero in nadomesti to stran
+Nach vorn	Naprej
+Nach hinten	Nazaj
+Seite löschen	Izbriši stran
+Foto entfernen	Odstrani fotografijo
+1 Seite verschoben	Premaknjena 1 stran
+%d Seiten verschoben	Premaknjene strani: %d
+1 Seite kopiert	Kopirana 1 stran
+%d Seiten kopiert	Kopirane strani: %d
+1 Seite löschen?	Izbrišem 1 stran?
+%d Seiten löschen?	Izbrišem strani (%d)?
+1 Seite prüfen	Preveri 1 stran
+%d Seiten prüfen	Preveri strani: %d
+Seite löschen?	Izbrišem stran?
+Durchsuchbares PDF mit erkanntem Text	Iskalni PDF s prepoznanim besedilom
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Urejevalno besedilo za Word, LibreOffice in Google Docs
+Die Seite als JPG-Bild	Stran kot slika JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Ena slika JPG na stran (datotek: %d)
+Alle Seiten als JPG und der Text in einem Archiv	Vse strani kot JPG in besedilo v enem arhivu
+Nur der erkannte Text	Samo prepoznano besedilo
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Prepoznane tabele, en list na stran
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Prepoznane tabele kot CSV (podpičje, za Excel)
+Visitenkarte als Kontakt (vCard)	Vizitka kot stik (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Sprednja in hrbtna stran v dejanski velikosti na eni strani – pripravljeno za tisk
+Seitenformat	Oblika strani
+Mit Passwort schützen	Zaščiti z geslom
+AES-256-Verschlüsselung	Šifriranje AES-256
+Passwort	Geslo
+Mindestens 4 Zeichen	Vsaj 4 znaki
+Passwort wiederholen	Ponovite geslo
+Passwörter stimmen nicht überein	Gesli se ne ujemata
+Seitenbilder einfügen	Vstavi slike strani
+Jede Seite als Bild über ihrem Text	Vsaka stran kot slika nad svojim besedilom
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Stolpci se prepoznajo po presledkih v besedilu – najbolje deluje pri jasno ločenih stolpcih. Števila, kot je »1.234,50«, se prevzamejo kot števila.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Na tej vizitki niso bili prepoznani kontaktni podatki.
+1 ausgewählte Seite	1 izbrana stran
+%d ausgewählte Seiten	Izbrane strani: %d
+Mobil	Mobilni
+Fax	Faks
+Telefon	Telefon
+%s teilen	Deli: %s
+Scan	Optični posnetek
+Text teilen	Deli besedilo
+PDF teilen	Deli PDF
+In den Papierkorb verschoben	Premaknjeno v koš
+%d Scans in den Papierkorb verschoben	V koš premaknjeni optični posnetki: %d
+Auswahl beenden	Končaj izbiro
+Alle auswählen	Izberi vse
+In Ordner verschieben	Premakni v mapo
+Ordner	Mape
+Ordner umbenennen	Preimenuj mapo
+Ordner auflösen	Razpusti mapo
+Papierkorb (%d)	Koš (%d)
+Papierkorb	Koš
+An PC senden	Pošlji v računalnik
+Speicher & Sicherung	Shramba in varnostna kopija
+Einstellungen	Nastavitve
+Scans und Text durchsuchen	Išči po optičnih posnetkih in besedilu
+Alle Scans durchsuchen	Išči po vseh optičnih posnetkih
+Suche löschen	Počisti iskanje
+%d Treffer	Zadetki: %d
+Alle Scans	Vsi optični posnetki
+Nichts gefunden	Ni zadetkov
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Nobeno ime in nobeno prepoznano besedilo se ne ujema z »%s«.
+Ordner ist leer	Mapa je prazna
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Premaknite optične posnetke sem: dolgo pritisnite posnetek in izberite »Premakni v mapo«.
+Noch keine Scans	Še ni optičnih posnetkov
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Tapnite »Skeniraj«, da fotografirate strani,\nali uvozite fotografije iz galerije.
+Ordnername	Ime mape
+Neuer Ordner	Nova mapa
+%d Scans zusammenführen?	Združim optične posnetke (%d)?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Vse strani se v vrstnem redu izbire pripnejo k »%s«. Ostali optični posnetki nato odpadejo.
+%d prüfen	Preveri: %d
+Wird verarbeitet (%d/%d)	Obdelava (%d/%d)
+Als PDF teilen	Deli kot PDF
+Kategorie ändern	Spremeni kategorijo
+Kein Ordner	Brez mape
+Neuer Ordner …	Nova mapa …
+Kategorie	Kategorija
+Download fehlgeschlagen: %s	Prenos ni uspel: %s
+keine Verbindung	ni povezave
+Sprachen der Texterkennung	Jeziki prepoznavanja besedila
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Izbrani jeziki se prepoznavajo skupaj – izberite samo potrebne, vsak dodatni upočasni prepoznavanje. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Manjkajoči jeziki se enkrat prenesejo (pribl. 2–15 MB) in nato delujejo brez povezave.
+Wird geladen … %d %%	Prenos … %d %%
+Enthalten	Vključeno
+Geladen · %s	Preneseno · %s
+Nicht geladen	Ni preneseno
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Tapnite za izbiro · pridržite in povlecite za premik
+Neuer Scan	Nov optični posnetek
+Verschieben nach …	Premakni v …
+Kopieren nach …	Kopiraj v …
+Seite %d von %d	Stran %d od %d
+Filter	Filter
+Zuschnitt	Obrezovanje
+Signieren	Podpiši
+Code	Koda
+Link	Povezava
+E-Mail	E-pošta
+Telefonnummer	Telefonska številka
+Ort	Kraj
+Produktcode	Koda izdelka
+Netzwerk: %s	Omrežje: %s
+Passwort: %s	Geslo: %s
+Verschlüsselung: %s	Šifriranje: %s
+Passwort kopieren	Kopiraj geslo
+Verbinden	Poveži
+E-Mail schreiben	Napiši e-pošto
+Anrufen	Pokliči
+In Karten öffnen	Odpri v Zemljevidih
+Suche sensible Daten…	Iskanje občutljivih podatkov…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Ni najdenih občutljivih podatkov. Območja za zakritje označite s prstom.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Najdeno – tapnite za izbiro ali preklic, označite dodatna območja:
+Schwarzer Balken	Črna črta
+Verpixeln	Pikseliziraj
+Unkenntlich machen (%d)	Zakrij (%d)
+Manuell	Ročno
+Gesicht	Obraz
+Kein WLAN	Ni Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Telefon in računalnik povežite z istim omrežjem Wi-Fi (ali računalnik z dostopno točko telefona). Naslov se bo nato prikazal tukaj.
+Am PC im Browser öffnen	Odpri v brskalniku na računalniku
+QR-Code der Adresse	Koda QR naslova
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Vnesite naslov ali skenirajte kodo QR s kamero računalnika. Tam lahko prenesete vse optične posnetke kot PDF ali besedilo.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Samo v lokalnem omrežju in samo, dokler je ta zaslon odprt. Nič se ne naloži na internet.
+Heruntergeladen	Preneseno
+App-Sperre nicht möglich	Zaklepanje aplikacije ni mogoče
+Sprache	Jezik
+Sprache der App	Jezik aplikacije
+Aufnahme	Zajem
+Doppelseiten im Dokument-Modus	Dvojne strani v načinu dokumenta
+Automatisch teilen	Samodejno razdeli
+Nie teilen	Nikoli ne razdeli
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Fotografira, ko stran mirno leži v kadru.
+Buch-Modus	Način knjige
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Prepozna obračanje strani in fotografira, ko knjiga spet mirno leži.
+Leserichtung	Smer branja
+Links → rechts	Leva → desna
+Rechts → links	Desna → leva
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Od desne proti levi za arabščino, hebrejščino, perzijščino in japonščino: najprej pride desna stran.
+Fernauslöser	Daljinski sprožilec
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Bluetooth daljinski sprožilec kamere (npr. »AB Shutter 3«) seznanite v nastavitvah Bluetooth v Androidu. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	V kameri nato sprožita daljinski sprožilec in gumba za glasnost.
+Bild	Slika
+Standardfilter	Privzeti filter
+Handschrift entfernen	Odstrani rokopis
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Odstrani zapiske z modrim/rdečim pisalom in svinčnikom. Odstrani tudi tisk v teh barvah.
+Texterkennung	Prepoznavanje besedila
+Sprachen	Jeziki
+Sicherheit & Speicher	Varnost in shramba
+App-Sperre	Zaklepanje aplikacije
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Ob odpiranju odkleni s prstnim odtisom, obrazom ali zaklepanjem zaslona. Vsebina se ne prikaže v pregledu aplikacij.
+Belegung, Backup als ZIP, Wiederherstellen	Zasedenost, varnostna kopija kot ZIP, obnova
+Gelöschte Scans werden nach 30 Tagen entfernt	Izbrisani optični posnetki se odstranijo po 30 dneh
+Offline	Brez povezave
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Vse fotografije in besedila ostanejo v tej napravi. Internet se uporablja samo za enkraten prenos jezikov, ko ga sprožite.
+Über	O aplikaciji
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Odprtokodne komponente: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (vse z licenco Apache 2.0); ML Kit (prevajanje, prepoznavanje obrazov, v napravi).
+Unterschrift zeichnen	Nariši podpis
+Mit dem Finger unterschreiben	Podpišite se s prstom
+Unterschrift platzieren	Postavi podpis
+Neu zeichnen	Nariši znova
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Premikanje z enim prstom, spreminjanje velikosti z dvema.
+Unterschrift	Podpis
+Belegt von Ultimate PDF Scanner	Zaseda Ultimate PDF Scanner
+%s frei auf dem Gerät	Prosto v napravi: %s
+Seiten	Strani
+Originalfotos	Izvirne fotografije
+Zwischenspeicher	Predpomnilnik
+Platz schaffen	Sprosti prostor
+Exportierte Dateien zum Teilen	Izvožene datoteke za deljenje
+Gelöschte Scans der letzten 30 Tage	Izbrisani optični posnetki zadnjih 30 dni
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Dokončane strani ostanejo, obrezovanja pa pozneje ni več mogoče spremeniti.
+Größte Scans	Največji optični posnetki
+Sicherung	Varnostna kopija
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Vse optične posnetke shranite v eno datoteko ZIP – npr. na kartico SD, ključek USB ali računalnik. Nič se ne naloži.
+Papierkorb mitsichern	Vključi koš
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-varnostna-kopija_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Pri obnovi se dodajo samo manjkajoči optični posnetki.
+Originalfotos entfernen?	Odstranim izvirne fotografije?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Prihrani %s. Strani pozneje ne bo več mogoče znova obrezati, »Ponovno skeniraj« ostane mogoče.
+Text bearbeiten · Seite %d	Uredi besedilo · stran %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Popravki se upoštevajo pri iskanju in v besedilni plasti PDF.
+Kein Text erkannt – hier eintippen	Besedilo ni prepoznano – vtipkajte ga tukaj
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Izbrisani optični posnetki se trajno odstranijo po %d dneh.
+Papierkorb ist leer	Koš je prazen
+Endgültig löschen	Trajno izbriši
+Papierkorb leeren?	Izpraznim koš?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	Optični posnetki (%d) bodo trajno izbrisani. Tega ni mogoče razveljaviti.
+Endgültig löschen?	Trajno izbrišem?
+„%s“ wird sofort gelöscht.	»%s« bo takoj izbrisan.
+noch 1 Tag	še 1 dan
+noch %d Tage	še dni: %d
+Quittung	Račun (blagajna)
+Quittungen	Računi (blagajna)
+Rechnung	Račun
+Rechnungen	Računi
+Visitenkarte	Vizitka
+Visitenkarten	Vizitke
+Vertrag	Pogodba
+Verträge	Pogodbe
+Brief	Pismo
+Briefe	Pisma
+Ausweis	Osebni dokument
+Ausweise	Osebni dokumenti
+Buch	Knjiga
+Bücher	Knjige
+Passfoto	Fotografija za dokument
+Passfotos	Fotografije za dokument
+Dokument	Dokument
+Dokumente	Dokumenti
+Auflösung	Ločljivost
+Kompression	Stiskanje
+Gering	Nizko
+Stark	Močno
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi in nizko stiskanje za tisk in arhiv, 150 dpi in močno stiskanje za e-pošto.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Omogoči iskanje po PDF in kopiranje besedila. Izklopljeno: hitrejša obdelava, PDF samo kot slika.
+Keine Seite erkannt	Stran ni prepoznana
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Rob strani ni bil najden – uporabljena je cela fotografija.
+Unscharf	Neostro
+Das Foto ist verwackelt oder unscharf.	Fotografija je zamegljena ali neostra.
+Zu dunkel	Pretemno
+Die Seite ist schlecht ausgeleuchtet.	Stran je slabo osvetljena.
+Text schlecht lesbar	Besedilo slabo berljivo
+Die Texterkennung war unsicher.	Prepoznavanje besedila je bilo negotovo.
+Kein Text erkannt	Besedilo ni prepoznano
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Na strani ni bilo najdenega besedila – prazna stran ali sploh nobene strani v kadru?
+Hindi	Hindijščina
+Bengalisch	Bengalščina
+Urdu	Urdujščina
+Indonesisch	Indonezijščina
+Seite erkennen	Prepoznaj stran
+Seite entzerren	Poravnaj stran
+Finger entfernen	Odstrani prste
+Schärfe prüfen	Preveri ostrino
+Ausrichtung	Usmerjenost
+Bild verbessern	Izboljšaj sliko
+Speicherort	Mesto shranjevanja
+Speicherort für Exporte	Mesto shranjevanja izvozov
+Jedes Mal fragen	Vsakič vprašaj
+Ordner wählen …	Izberi mapo …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	»Shrani« odloži PDF-je in druge izvoze neposredno v to mapo, brez vsakokratnega vprašanja. Mogoča je tudi kartica SD.
+Gespeichert in „%s“	Shranjeno v »%s«
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Mesto shranjevanja ni dosegljivo. Izberite ga znova.
+Neu aufnehmen	Ponovno zajemi
+Um 90° links drehen	Zasukaj za 90° v levo
+Seite gelöscht	Stran izbrisana
+Lange drücken: neu aufnehmen, drehen oder löschen	Dolgo pritisnite: ponovno zajemi, zasukaj ali izbriši
+Ersetzt beide Seiten	Nadomesti obe strani
+Ränder bereinigen	Očisti robove
+Scan-Qualität	Kakovost skeniranja
+Schnell	Hitro
+Standard	Standardno
+Genau	Natančno
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Za veliko, jasno pisavo, kot so pisma in natisi: manjše fotografije, najhitrejša obdelava.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Za knjige in večino dokumentov: dobro prepoznavanje pri običajni hitrosti.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Za drobni tisk, stare knjige, opombe in formule: polna ločljivost kamere, počasneje, več pomnilnika.
+BILD	SLIKA
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Sliko položite ravno · brez bliskavice · izogibajte se odsevom
+an	vklopljeno
+aus	izklopljeno
+Automatische Auslösung an: nach dem Umblättern	Samodejno sprožanje vklopljeno: po obračanju strani
+Automatische Auslösung an: sobald die Seite ruhig liegt	Samodejno sprožanje vklopljeno: ko stran mirno leži
+Automatische Auslösung aus	Samodejno sprožanje izklopljeno
+PDF & Export	PDF in izvoz
+Speicherort für PDFs und Bilder	Mesto shranjevanja za PDF in slike
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Pri izvozu lahko to spremenite za posamezne datoteke.
+Weitere Optionen …	Več možnosti …
+Automatische Verbesserung	Samodejna izboljšava
+Schatten und Artefakte entfernen, Schrift schärfen	Odstrani sence in artefakte, izostri pisavo
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Odstrani sence in artefakte, izostri pisavo. Izklopljivo v vsakem dokumentu.
+unkorrigiert	nepopravljeno
+Maximal	Največja
+Bildqualität	Kakovost slike
+volle Auflösung	polna ločljivost
+Briefe, Ausdrucke, große Schrift	Pisma, natisi, velika pisava
+Bücher und die meisten Dokumente (empfohlen)	Knjige in večina dokumentov (priporočeno)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Drobni tisk, formule, stare knjige – počasneje
+Gilt auch für alle weiteren Scans.	Velja tudi za vse nadaljnje optične posnetke.
+Ändern	Spremeni
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Kam »Shrani« odloži vaše izvoze. »Deli« od tega ni odvisno.
+Ordner und Dateiname beim Speichern wählen	Pri shranjevanju izberi mapo in ime datoteke
+Exporte landen direkt hier	Izvozi gredo neposredno sem
+Anderen Ordner wählen …	Izberi drugo mapo …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Tudi kartica SD in mape v oblaku, če so nastavljene v napravi.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Trajni dostop do te mape ni mogoč.
+Sehr hohe Auflösung	Zelo visoka ločljivost
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Pri %d MP obdelava vsake strani traja precej dlje in potrebuje veliko pomnilnika. Za večino dokumentov zadostuje »Standardno«. »Največja« se splača le pri zelo drobni pisavi.
+Trotzdem verwenden	Vseeno uporabi
+langsam	počasno
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Daljinski sprožilec ni povezan – seznanite ga v nastavitvah Bluetooth
+Mit dem Fernauslöser auslösen	Sproži z daljinskim sprožilcem
+Umblättern	Obračanje
+Auto 0,7 s	Samodejno 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Konča zajem. Že fotografirane strani ostanejo in se obdelajo.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Vklopi ali izklopi svetilko. Sijajni papir je bolje fotografirati brez luči in poševno glede na okno.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Uporabi obstoječe fotografije namesto novih posnetkov.
+Serie	Serija
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Začne ali ustavi serijo: časovnik nato vsakih nekaj sekund samodejno fotografira.
+Auslöser	Sprožilec
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Posname fotografijo. Sprožita tudi gumba za glasnost in Bluetooth daljinski sprožilec.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Konča zajem in odpre pregled; številka kaže fotografije tega zajema.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Koliko slikovnih pik ima vsaka fotografija. Hitro (5 MP) za veliko pisavo, Standardno (12 MP) za skoraj vse, Največja za drobni tisk in formule – traja dlje.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Tapnite za preklop: izklopljeno, 3, 5 ali 10 sekund. Sprožilec nato začne serijo s fotografijo v tem razmiku – priročno za knjige.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Fotografira samo, ko tapnete sprožilec.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fotografira samodejno, ko stran 0,7 sekunde mirno leži. V načinu knjige: po vsakem obračanju strani, ko knjiga spet miruje.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Fotografira z Bluetooth daljinskim sprožilcem (npr. »AB Shutter 3«). Sprožilec najprej seznanite v nastavitvah Bluetooth telefona.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Dokumentu da lastno ime; uporabi se tudi kot ime datoteke pri izvozu.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Obrni smer branja dvojnih strani, prevedi v napravi ali izbriši optični posnetek.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Odpre kamero in temu dokumentu doda nove strani.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Prevzame fotografije iz galerije kot nove strani; obrežejo in prepoznajo se kot fotografije s kamere.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Vrstni red spremenite z vlečenjem; izberite strani, da jih zasukate, premaknete, kopirate, izločite ali izbrišete.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Deli, shrani ali natisni kot PDF, Word, slike, ZIP, besedilo ali tabelo.
+Farbe, Graustufen, Schwarz-Weiß	Barvno, sivine, črno-belo
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Preklopi vse strani tega dokumenta. Črno-belo da najmanjše datoteke, barvno zvesto prikaže ilustracije in žige.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Vklopljeno: sence, madeži in artefakti se odstranijo, pisava postane kontrastnejša. Izklopljeno: strani se samo obrežejo in poravnajo – za fotografije, risbe ali ko izboljšava kaj popači.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Ustvari datoteko in jo preda aplikaciji, npr. e-pošti, sporočilni aplikaciji ali oblaku.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Odloži datoteko na mesto shranjevanja – v stalno mapo ali, pri »Vsakič vprašaj«, tja, kamor jo položite.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Natisne prek storitve tiskanja v Androidu; tam lahko izberete tudi »Shrani kot PDF«.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Kam »Shrani« odloži datoteke: vsakič vprašaj ali vedno v stalno mapo, tudi na kartico SD ali v mapo v oblaku.
+Hilfe & Anleitung	Pomoč in navodila
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Namig: gumb pridržite eno sekundo, da vidite, kaj naredi.
+Startseite	Začetek
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Odpre kamero. Vse fotografije enega zajema gredo v en skupni dokument.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Ikona galerije nad »Skeniraj« prevzame obstoječe fotografije; obrežejo in prepoznajo se kot fotografije s kamere.
+Suchen	Iskanje
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Najde optične posnetke po imenu in prepoznanem besedilu, s številko strani.
+Ordner und Kategorien	Mape in kategorije
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Mape združujejo optične posnetke. Kategorije (knjige, računi …) se prikažejo same, ko obstajajo posnetki te vrste.
+Mehrere Scans	Več optičnih posnetkov
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Dolgo pritisnite optični posnetek: izberi, združi, premakni v mapo ali izbriši.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Izbrisani optični posnetki ostanejo 30 dni v košu (meni ⋮) in jih je mogoče obnoviti.
+Modi	Načini
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Izberite spodaj: Dokument (posamezni listi), Knjiga (dvojne strani se razdelijo na dve strani), Osebni dokument (sprednja in hrbtna stran v dejanski velikosti na enem listu), Vizitka (stik se prepozna), Slika (zveste barve, brez prepoznavanja besedila), Fotografija za dokument (sprednja kamera, 35 × 45 mm) in koda QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Zgoraj levo: Hitro (5 MP) za veliko pisavo, Standardno (12 MP) za skoraj vse, Največja za drobni tisk in formule – počasneje.
+Auslösung	Sprožanje
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Ročno: s sprožilcem. Samodejno 0,7 s: ko stran 0,7 sekunde mirno leži; v načinu knjige po vsakem obračanju strani. Bluetooth: s seznanjenim daljinskim sprožilcem. Gumba za glasnost sprožita vedno.
+Timer und Licht	Časovnik in luč
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Ikona ure fotografira vsake 3, 5 ali 10 sekund (začetek s sprožilcem). Bliskavica vklopi svetilko.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Tapnite sličico spodaj desno: strani se obdelajo in odpre se pregled.
+Gute Fotos	Dobre fotografije
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Stran položite ravno in enakomerno osvetljeno, telefon držite vzporedno. Podlaga, ki se po barvi razlikuje od papirja, pomaga pri obrezovanju.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Velja za vse strani dokumenta. Posamezne strani lahko v pogledu strani nastavite drugače.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Odstrani sence in artefakte ter poveča kontrast pisave. Ko je izklopljeno, se stran samo obreže in poravna.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Tap odpre stran. Dolg pritisk: ponovno zajemi, zasukaj ali izbriši. Oranžno označene strani je treba preveriti (npr. neostre), rdeče niso uspele.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Vrstni red spremenite z vlečenjem, zasukajte več strani, jih premaknite ali kopirajte v drug dokument ali jih izločite kot nov dokument.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, slike, ZIP, besedilo ali tabela – deli, shrani ali natisni.
+Mehr (⋮)	Več (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Obrni smer branja dvojnih strani, prevedi v napravi ali izbriši optični posnetek. Svinčnik zgoraj spremeni ime.
+Seitenansicht	Pogled strani
+Blättern und Zoomen	Listanje in povečava
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Podrsajte za menjavo strani; dvakrat tapnite ali uporabite dva prsta za povečavo.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Barvno, sivine ali črno-belo samo za to stran, s predogledom. Spodaj samodejna izboljšava te strani.
+Drehen und Zuschnitt	Sukanje in obrezovanje
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Zasuk za 90°. Obrezovanje: vogale strani na izvirni fotografiji nastavite znova.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Pišite po strani s pisalom, označevalnikom ali besedilom.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Zakrijte občutljive podatke – s črtami ali pikselizacijo. Predlagajo se številke računov, kartic in obrazi.
+Signieren und Text	Podpis in besedilo
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Podpiši vstavi vaš shranjeni podpis. Besedilo prikaže prepoznano besedilo za popravljanje in kopiranje.
+Formate	Oblike
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (iskalni), Word, slike (JPG), ZIP, besedilo, Excel ali CSV; pri vizitkah tudi kot stik.
+PDF-Optionen	Možnosti PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Oblika strani, ločljivost in stiskanje določajo kakovost in velikost datoteke – velikost je ocenjena zgoraj desno. Po želji z geslom (AES-256).
+Teilen oder Speichern	Deliti ali shraniti
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Deli pošlje datoteko aplikaciji (e-pošta, sporočila …). Shrani jo odloži na mesto shranjevanja.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	»Vsakič vprašaj« pri shranjevanju odpre izbiro mape. S stalno mapo gredo izvozi tja brez vprašanja – tudi na kartico SD ali v mapo v oblaku.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Natisne prek storitve tiskanja v Androidu ali shrani kot PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Kakovost slike, sprožanje in deljenje dvojnih strani za nove optične posnetke. V kameri lahko to kadar koli spremenite.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filter in samodejna izboljšava, s katerima začnejo novi dokumenti.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Omogoči iskanje po PDF. Jeziki določajo, kateri znaki se prepoznajo.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Mesto shranjevanja in privzete vrednosti za ločljivost, stiskanje in obliko strani.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Zaklepanje aplikacije s prstnim odtisom, varnostna kopija kot ZIP in koš.
+Ecken setzen	Nastavi vogale
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Povlecite štiri vogale na robove strani; lupa prikaže povečano mesto pod prstom.
+Einzel- oder Doppelseite	Ena ali dvojna stran
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Spodaj izberite, ali fotografija prikazuje eno stran ali odprto dvojno stran. Samodejno odloči aplikacija.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Kljukica zgoraj obdela stran z novim obrezovanjem.
+Werkzeuge	Orodja
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Pisalo za pisanje, označevalnik za poudarjanje, besedilo za natipkane opombe. Barve so spodaj.
+Korrigieren	Popravi
+Rückgängig nimmt den letzten Strich zurück.	Razveljavi odstrani zadnjo potezo.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Zapiše spremembe v stran. Brez shranjevanja stran ostane nespremenjena.
+Vorschläge	Predlogi
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Najdene številke računov, kartic, davčne številke in obrazi so označeni – tapnite, da jih prekličete ali znova izberete.
+Eigene Bereiche	Lastna območja
+Mit dem Finger weitere Rechtecke aufziehen.	S prstom označite dodatne pravokotnike.
+Balken oder Pixel	Črte ali piksli
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Črna črta ali pikselizacija. Besedilo pod njo se odstrani tudi iz prepoznanega besedila in iz PDF.
+Zeichnen	Riši
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Enkrat se podpišite s prstom – podpis se shrani v napravi.
+Platzieren	Postavi
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Premikajte z enim prstom, velikost spreminjajte z dvema, nato vstavite.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Ikona svinčnika zgoraj nadomesti shranjeni podpis.
+Text bearbeiten	Uredi besedilo
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Prepoznano besedilo strani je spodaj in ga lahko spremenite. Zgoraj slika strani za primerjavo.
+Wirkung	Učinek
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Popravki se upoštevajo pri iskanju, v besedilni plasti PDF ter v izvozih Word in besedila.
+Holt einen gelöschten Scan zurück.	Vrne izbrisani optični posnetek.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Optični posnetki se po 30 dneh samodejno odstranijo. »Izprazni« takoj izbriše vse.
+Belegung	Zasedenost
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Prikaže, koliko prostora zasedajo optični posnetki, izvirne fotografije, koš in predpomnilnik.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Odstranitev izvirnih fotografij prihrani veliko prostora; dokončane strani ostanejo, le obrezovanja pozneje ni več mogoče spremeniti.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Vse optične posnetke shranite kot datoteko ZIP in jih obnovite v tej ali drugi napravi. Nič se ne naloži.
+Auswahl	Izbira
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Izberite jezike svojih dokumentov. Vsak dodatni jezik upočasni prepoznavanje.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Manjkajoči jeziki se enkrat prenesejo in nato delujejo brez interneta.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Telefon in računalnik povežite z istim omrežjem Wi-Fi (ali računalnik z dostopno točko telefona).
+Herunterladen	Prenos
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Prikazani naslov odprite v brskalniku na računalniku ali skenirajte kodo QR; tam lahko prenesete vse optične posnetke kot PDF ali besedilo.
+Sicherheit	Varnost
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Deluje samo v lokalnem omrežju in samo, dokler je ta zaslon odprt.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Jezik, kakovost slike, sprožanje, prepoznavanje besedila, mesto shranjevanja, zaklepanje aplikacije in varnostna kopija.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Prevzame fotografije iz galerije kot nov dokument; obrežejo in prepoznajo se kot fotografije s kamere.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Odpre kamero. Vse fotografije enega zajema gredo v en skupni dokument.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Izbriše to stran iz dokumenta (po potrditvi).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Barvno, sivine ali črno-belo in samodejna izboljšava samo za to stran.
+Dreht die Seite um 90° im Uhrzeigersinn.	Zasuka stran za 90° v smeri urinega kazalca.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Vogale strani na izvirni fotografiji nastavite znova, če manjka rob ali je vidno ozadje.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Zakrijte občutljive podatke s črtami ali piksli; izginejo tudi iz besedila PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Postavi vaš shranjeni podpis na stran; prvič ga narišete.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Prikaže prepoznano besedilo strani za popravljanje in kopiranje.
+Fotografiert beim Tippen auf den Auslöser.	Fotografira, ko tapnete sprožilec.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Fotografira, ko stran 0,7 s mirno leži; v načinu knjige po vsakem obračanju strani.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Fotografira s seznanjenim Bluetooth daljinskim sprožilcem.
+Lautstärketasten lösen immer aus.	Gumba za glasnost sprožita vedno.
+Word erstellen, Formeln erkennen (%d/%d)	Ustvarjanje Worda, prepoznavanje formul (%d/%d)
+Belarussisch	Beloruščina
+Bulgarisch	Bolgarščina
+Serbisch	Srbščina
+Mazedonisch	Makedonščina
+Kein Link im geteilten Text	V deljenem besedilu ni povezave
+Import fehlgeschlagen: %s	Uvoz ni uspel: %s
+Link laden	Nalaganje povezave
+Unter dem Link liegt keine PDF- oder Bilddatei.	Povezava ne vodi do datoteke PDF ali slike.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Uvoziti je mogoče le datoteke PDF in slike.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Zaščitenih datotek PDF ni mogoče uvoziti.
+PDF-Seite %d/%d importieren	Uvoz strani PDF %d/%d
+Auto %s s	Samodejno %s s
+Auslösen nach %s s	Posnetek po %s s
+Wartezeit	Čas čakanja
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Kako dolgo mora stran mirovati pred samodejnim posnetkom. Krajše je hitreje, daljše da manj zamegljenih fotografij.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fotografira sam, ko stran miruje; čas čakanja (0,2–1,5 s) nastaviš spodaj. V načinu knjige: po vsakem obračanju strani, ko knjiga spet miruje.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Doda fotografije, posnetke zaslona, datoteke PDF ali povezavo kot dodatne strani; fotografije se obrežejo, vse se prepozna.
+Senden an …	Pošlji v …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Kam „Shrani“ odloži izvoze. „Pošlji v …“ je od tega neodvisno.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Izberi podmapo, npr. „Documents“ – Android ne dovoli najvišje mape shrambe.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Ustvari datoteko in jo pošlje aplikaciji, npr. WhatsApp, e-pošta, Telegram ali oblak.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Ročno: s sprožilcem. Samodejno: ko stran miruje – čas čakanja (0,2–1,5 s, privzeto 0,7 s) nastaviš v oknu za skeniranje pod stikalom; v načinu knjige po vsakem obračanju strani. Bluetooth: s seznanjenim daljinskim sprožilcem. Tipki za glasnost vedno sprožita.
+Senden an oder Speichern	Pošlji v ali shrani
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Pošlji v …“ pošlje datoteko aplikaciji (WhatsApp, e-pošta, Telegram, oblak …). Shrani jo odloži na mesto shranjevanja.
+Importieren	Uvozi
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Doda fotografije, posnetke zaslona, datoteke PDF ali povezavo kot nov dokument; fotografije se obrežejo, vse se prepozna.
+Bilder aus der Galerie	Slike iz galerije
+Fotos und Screenshots	Fotografije in posnetki zaslona
+Dateien	Datoteke
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Datoteke PDF in slike, npr. iz Prenosov ali oblaka
+Eine PDF- oder Bilddatei aus dem Internet	Datoteka PDF ali slika z interneta
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Nato kot skenirane strani: prepoznavanje besedila, prevod in izvoz v poljubno obliko.
+Link importieren	Uvozi povezavo
+Internetadresse	Spletni naslov
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Fotografira, ko stran miruje %s s (nastavljivo v oknu za skeniranje); v načinu knjige po vsakem obračanju strani.
+Fachwörterbuch laden	Nalaganje slovarja
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Manjka slovar za %s ali %s – prevedeno brez strokovnih izrazov
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Ni datoteka slovarja (glossary-xx.tsv.gz)
+Download nicht verfügbar	Prenos ni na voljo
+Estnisch	Estonščina
+Irisch	Irščina
+Litauisch	Litovščina
+Lettisch	Latvijščina
+Maltesisch	Malteščina
+Slowakisch	Slovaščina
+Slowenisch	Slovenščina
+Ohne Fachwörterbuch	Brez slovarja
+Alle Fachgebiete	Vsa področja
+Fachgebiet: %s	Področje: %s
+Fachwörterbücher verwalten …	Upravljanje slovarjev …
+Fachwörterbücher	Strokovni slovarji
+Aus Datei importieren	Uvozi iz datoteke
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Strokovni izrazi iz prava, medicine, tehnike, gospodarstva in 17 drugih področij (IATE, terminološka zbirka EU) se pri prevajanju prevzamejo natančno. Potreben je slovar izvornega in ciljnega jezika, vsak 0,3–9 MB.
+Einmal laden, danach offline.	Enkrat prenesi, nato brez povezave.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Datoteke glossary-xx.tsv.gz uvozite z ikono mape zgoraj.
+Fachwörterbücher für die Übersetzung	Strokovni slovarji za prevajanje
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Pravo, medicina, tehnika in več – 24 jezikov EU
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Vse fotografije in besedila ostanejo v tej napravi. Internet se uporablja le za enkratni prenos jezikov, prevajalskih modelov in slovarjev, ko to sprožite.
+Übersetzen	Prevedi
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Na napravi ustvari prevedeno kopijo dokumenta: iste strani in slike, besedilo v ciljnem jeziku na svojem mestu. Vsak odstavek se prevede iz svojega jezika. S »Področjem« se strokovni izrazi iz glosarjev prevzamejo natančno.
+Was nachgeladen werden kann	Kaj je mogoče prenesti
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Vse je neobvezno in se prenese le, ko tapnete; nato deluje brez interneta:\n• Jeziki prepoznavanja besedila: vsak 1–15 MB (Nastavitve › Jeziki). Nemščina in angleščina sta vključeni.\n• Kitajščina: lasten model prepoznavanja, približno 17 MB.\n• Prevajalski modeli: približno 30 MB na jezik, preneseni samodejno ob prvem prevodu.\n• Strokovni slovarji: 0,3–9 MB na jezik, približno 70 MB za vseh 24 jezikov EU (Nastavitve › Strokovni slovarji).\nPrenesene datoteke lahko kadar koli odstranite.
+Wozu	Čemu
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Splošni prevajalniki mnogih strokovnih izrazov ne poznajo ali jih prevajajo neenotno. Slovar vstavi določen izraz, npr. »Beweislast« → »dokazno breme«.
+Quelle	Vir
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, terminološka zbirka institucij EU, z izrazi iz 21 področij (pravo, zdravje, tehnika, gospodarstvo, okolje, promet …). Na voljo je za 24 uradnih jezikov EU.
+Was nötig ist	Kaj je potrebno
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Po en slovar za izvorni in ciljni jezik, npr. nemščino in angleščino. En slovar na jezik zadošča za vse jezikovne pare.
+Laden oder importieren	Prenesi ali uvozi
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Prenesite s puščico (enkrat, nato brez povezave) ali z ikono mape uvozite datoteko »glossary-xx.tsv.gz«, npr. z računalnika ali kartice SD.
+Benutzen	Uporaba
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Pri prevajanju zgoraj izberite področje. »Vsa področja« uporablja le izraze, ki se povsod prevajajo enako.
+Grenzen	Omejitve
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Strokovni izrazi se vstavijo v osnovni obliki; pregibane oblike niso vedno prepoznane.
+Politik	Politika
+Internationale Beziehungen	Mednarodni odnosi
+Europäische Union	Evropska unija
+Recht	Pravo
+Wirtschaft	Gospodarstvo
+Handel	Trgovina
+Finanzwesen	Finance
+Soziales und Gesundheit	Socialna vprašanja in zdravje
+Bildung und Kommunikation	Izobraževanje in komuniciranje
+Wissenschaft	Znanost
+Unternehmen und Wettbewerb	Podjetništvo in konkurenca
+Beschäftigung und Arbeitsbedingungen	Zaposlovanje in delovni pogoji
+Verkehr	Promet
+Umwelt	Okolje
+Land-, Forst- und Fischereiwirtschaft	Kmetijstvo, gozdarstvo in ribištvo
+Agrarerzeugnisse und Lebensmittel	Kmetijsko-živilski proizvodi
+Produktion, Technologie und Forschung	Proizvodnja, tehnologija in raziskave
+Energie	Energetika
+Industrie	Industrija
+Geografie	Geografija
+Internationale Organisationen	Mednarodne organizacije
+Wenig Licht – Lampe einschalten	Malo svetlobe – vklopi svetilko
+Verarbeitung mehrfach abgebrochen	Obdelava je bila večkrat prekinjena
+Bearbeitungen gehen verloren	Urejanja bodo izgubljena
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Stran bo znova ustvarjena iz fotografije. Prekritja, podpis in opombe bo treba dodati znova.
+Neu zuschneiden	Znova obreži
+Sprachdaten	Jezikovni podatki
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Prikaže, koliko prostora zasedajo skeni, izvirne fotografije, koš, predpomnilnik in jezikovni podatki (prepoznavanje besedila, slovarji).
+Bitte warten, bis alle Seiten erkannt sind	Počakajte, da bodo prepoznane vse strani
+Die Sprache „%s“ kann nicht übersetzt werden	Jezika »%s« ni mogoče prevesti
+Übersetzung in die Seiten setzen	Vstavljanje prevoda v strani

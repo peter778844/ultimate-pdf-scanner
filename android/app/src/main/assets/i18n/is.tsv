@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Settu fyrst upp fingrafar, andlitsopnun eða skjálás.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Þetta tæki styður ekki lífkennaopnun.
+Ultimate PDF Scanner entsperren	Opna Ultimate PDF Scanner
+Deine Scans sind geschützt	Skannanir þínar eru verndaðar
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner er læst
+Deine Scans bleiben auf diesem Gerät.	Skannanir þínar verða áfram í þessu tæki.
+  Entsperren	  Opna
+Systemsprache	Tungumál kerfis
+Deutsch	Deutsch
+English	English
+Fotos importieren	Flytja inn myndir
+Texterkennung vorbereiten	Undirbý textagreiningu
+Ein Foto konnte nicht verarbeitet werden: %s	Ekki tókst að vinna úr mynd: %s
+Foto laden	Hlaða mynd
+Foto nicht lesbar	Myndin er ólæsileg
+Filter anwenden	Nota síu
+Schwärzen	Hylja
+Unterschrift einfügen	Setja inn undirskrift
+Unterschrift eingefügt	Undirskrift sett inn
+Änderungen einfügen	Setja inn breytingar
+Seite bearbeitet	Síðu breytt
+Text gesichert	Texti vistaður
+Zusammenführen	Sameina
+%d Scans zusammengeführt	Sameinaðar skannanir: %d
+Seiten verschieben	Færa síður
+Seiten kopieren	Afrita síður
+ (Teil)	 (hluti)
+Zwischenspeicher leeren	Hreinsa skyndiminni
+Zwischenspeicher geleert	Skyndiminni hreinsað
+Originalfotos entfernen	Fjarlægja upprunalegar myndir
+Sicherung erstellen	Búa til öryggisafrit
+Sicherung erstellen (%d/%d)	Bý til öryggisafrit (%d/%d)
+Sicherung gespeichert	Öryggisafrit vistað
+Sicherung wiederherstellen	Endurheimta öryggisafrit
+ (%d schon vorhanden)	 (%d eru þegar til)
+Wiederherstellen fehlgeschlagen: %s	Endurheimt mistókst: %s
+PDF erstellen (%d/%d)	Bý til PDF (%d/%d)
+%s erstellen	Bý til: %s
+Export fehlgeschlagen: %s	Útflutningur mistókst: %s
+%s speichern	Vista: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF vistað (varið með lykilorði, AES-256)
+%s gespeichert	Vistað: %s
+Bilder speichern	Vista myndir
+Bilder speichern (%d/%d)	Vista myndir (%d/%d)
+%d Bilder gespeichert	Vistaðar myndir: %d
+Sprache erkennen	Greina tungumál
+Kein erkannter Text zum Übersetzen	Enginn greindur texti til að þýða
+Sprache nicht erkannt	Tungumál ekki greint
+Der Text ist bereits auf %s	Textinn er þegar á: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Hleð tungumálalíkani (í fyrsta sinn ~30 MB)
+Übersetzen (%d/%d)	Þýðing (%d/%d)
+Seite %d	Síða %d
+Übersetzung fehlgeschlagen: %s	Þýðing mistókst: %s
+1 Bereich unkenntlich gemacht	1 svæði hulið
+%d Bereiche unkenntlich gemacht	Hulin svæði: %d
+1 Scan wiederhergestellt	1 skönnun endurheimt
+%d Scans wiederhergestellt	Endurheimtar skannanir: %d
+Server antwortet mit %d	Þjónn svarar með %d
+Datei unvollständig	Skráin er ófullgerð
+Nicht gefunden	Fannst ekki
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Skannanir í símanum: %d · beint um Wi-Fi, án skýs
+Ausgangssprache „%s“ wird nicht unterstützt	Upprunamálið „%s“ er ekki stutt
+Zielsprache „%s“ wird nicht unterstützt	Markmálið „%s“ er ekki stutt
+QR-CODE	QR-KÓÐI
+AUSWEIS	SKILRÍKI
+DOKUMENT	SKJAL
+BUCH	BÓK
+VISITENKARTE	NAFNSPJALD
+PASSFOTO	PASSAMYND
+PDF	PDF
+Word	Word
+Bilder	Myndir
+ZIP	ZIP
+Text	Texti
+Excel	Excel
+CSV	CSV
+Kontakt	Tengiliður
+Wie gescannt	Eins og skannað
+Letter	Letter
+Mittel	Miðlungs
+Englisch	Enska
+Französisch	Franska
+Italienisch	Ítalska
+Spanisch	Spænska
+Portugiesisch	Portúgalska
+Niederländisch	Hollenska
+Polnisch	Pólska
+Tschechisch	Tékkneska
+Dänisch	Danska
+Schwedisch	Sænska
+Norwegisch	Norska
+Finnisch	Finnska
+Ungarisch	Ungverska
+Rumänisch	Rúmenska
+Kroatisch	Króatíska
+Türkisch	Tyrkneska
+Griechisch	Gríska
+Russisch	Rússneska
+Ukrainisch	Úkraínska
+Arabisch	Arabíska
+Hebräisch	Hebreska
+Persisch	Persneska
+Chinesisch (vereinfacht)	Kínverska (einfölduð)
+Japanisch	Japanska
+Koreanisch	Kóreska
+Latein	Latína
+Deutsch (Fraktur)	Þýska (brotaletur)
+1 Seite	1 síða
+%d Seiten	%d síður
+1 Scan	1 skönnun
+%d Scans	%d skannanir
+Abbrechen	Hætta við
+Bearbeiten	Breyta
+Zurück	Til baka
+Rückgängig	Afturkalla
+Sichern	Vista
+Seite	Síða
+Einfügen	Setja inn
+Änderungen sichern?	Vista breytingar?
+Verwerfen	Fleygja
+Schließen	Loka
+Fertig	Lokið
+Öffnen	Opna
+Keine	Engin
+Alle	Allar
+Umbenennen	Endurnefna
+Mehr	Meira
+Löschen	Eyða
+Teilen	Deila
+Speichern	Vista
+Drucken	Prenta
+Kopieren	Afrita
+Drehen	Snúa
+Laden	Sækja
+Entfernen	Fjarlægja
+Verschieben	Færa
+Name	Heiti
+Aus	Af
+Leeren	Tæma
+Wiederherstellen	Endurheimta
+Text einfügen	Setja inn texta
+z. B. Name, Datum …	t.d. nafn, dagsetning …
+Kein Gesicht erkannt – bitte noch einmal	Ekkert andlit greint – reyndu aftur
+Seite erneut scannen	Skanna síðuna aftur
+Fernauslöser verbunden	Fjarstýrður afsmellari tengdur
+Nach dem Umblättern auslösen	Smella af eftir að blaðsíðu er flett
+Leserichtung rechts nach links	Lesátt frá hægri til vinstri
+Leserichtung links nach rechts	Lesátt frá vinstri til hægri
+Automatisch auslösen	Sjálfvirk myndataka
+Kamera wechseln	Skipta um myndavél
+Licht	Ljós
+Bitte Kamerazugriff erlauben.	Leyfðu aðgang að myndavélinni.
+Passfoto wird zugeschnitten …	Passamynd er skorin …
+Ohne Rückseite fertig	Lokið án bakhliðar
+Kein Code im Bild gefunden	Enginn kóði fannst á myndinni
+Aus Galerie	Úr myndasafni
+QR-Code oder Barcode in den Rahmen halten	Haltu QR-kóðanum eða strikamerkinu innan rammans
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Andlit í sporöskjuna · horfðu beint fram · ljós bakgrunnur
+Vorderseite des Ausweises in den Rahmen	Framhlið skilríkisins í rammann
+Jetzt die Rückseite	Nú bakhliðina
+Visitenkarte in den Rahmen legen	Leggðu nafnspjaldið í rammann
+Aufgeschlagenes Buch ins Bild halten	Haltu opinni bókinni í mynd
+Doppelseite erkannt	Opna greind
+Umblättern – löst danach automatisch aus	Flettu – síðan er smellt af sjálfkrafa
+Ruhig halten …	Haltu kyrru …
+Ruhig halten – wird automatisch ausgelöst	Haltu kyrru – smellt verður af sjálfkrafa
+Seite ins Bild halten	Haltu síðunni í mynd
+Seite erkannt	Síða greind
+Intervall-Timer	Tímastillir með bili
+Serie starten	Hefja röð
+Farbe	Litur
+Graustufen	Grátónar
+Schwarz-Weiß	Svarthvítt
+Original	Upprunalegt
+Automatisch	Sjálfvirkt
+Zuschnitt nicht möglich	Ekki hægt að skera
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Upprunalega mynd þessarar síðu var fjarlægð til að spara pláss. Með „Skanna aftur“ er hægt að taka síðuna aftur.
+Zuschnitt anpassen	Laga skurð
+Übernehmen	Nota
+Einzelseite	Stök síða
+Doppelseite	Opna
+Auto	Sjálfv.
+  Automatisch	  Sjálfvirkt
+Ecken auf die Seitenränder ziehen	Dragðu hornin að brúnum síðunnar
+Seiten ordnen	Raða síðum
+%d ausgewählt	%d valdar
+Filter für alle Seiten	Sía fyrir allar síður
+Leserichtung umkehren	Snúa lesátt við
+Übersetzen…	Þýða…
+Scan löschen	Eyða skönnun
+Scannen	Skanna
+Import	Flytja inn
+Ordnen	Raða
+Exportieren	Flytja út
+Übersetzen in …	Þýða á …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Þýðingin fer fram í tækinu. Í fyrsta sinn er tungumálalíkanið sótt einu sinni.
+Übersetzung teilen	Deila þýðingu
+Scan löschen?	Eyða skönnun?
+„%s“ wird endgültig gelöscht.	„%s“ verður eytt varanlega.
+Kontakt erkannt	Tengiliður greindur
+Zu Kontakten	Í tengiliði
+Seiten werden verarbeitet (%d/%d)	Síður unnar (%d/%d)
+Nur diese	Aðeins þessar
+Wird neu verarbeitet	Unnið aftur
+Erneut	Aftur
+Fehlgeschlagen	Mistókst
+Foto nicht verarbeitet	Mynd ekki unnin
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Villa kom upp við myndvinnslu.
+Keine Auffälligkeiten	Engar athugasemdir
+Erneut scannen	Skanna aftur
+Ersetzt beide Seiten dieser Doppelseite	Kemur í stað beggja síðna þessarar opnu
+Kamera öffnen und diese Seite ersetzen	Opna myndavél og skipta út þessari síðu
+Nach vorn	Fram
+Nach hinten	Aftur á bak
+Seite löschen	Eyða síðu
+Foto entfernen	Fjarlægja mynd
+1 Seite verschoben	1 síða færð
+%d Seiten verschoben	Færðar síður: %d
+1 Seite kopiert	1 síða afrituð
+%d Seiten kopiert	Afritaðar síður: %d
+1 Seite löschen?	Eyða 1 síðu?
+%d Seiten löschen?	Eyða %d síðum?
+1 Seite prüfen	Athuga 1 síðu
+%d Seiten prüfen	Athuga %d síður
+Seite löschen?	Eyða síðu?
+Durchsuchbares PDF mit erkanntem Text	Leitanlegt PDF með greindum texta
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Breytanlegur texti fyrir Word, LibreOffice og Google Docs
+Die Seite als JPG-Bild	Síðan sem JPG-mynd
+Ein JPG-Bild pro Seite (%d Dateien)	Ein JPG-mynd á síðu (%d skrár)
+Alle Seiten als JPG und der Text in einem Archiv	Allar síður sem JPG og textinn í einu safni
+Nur der erkannte Text	Aðeins greindi textinn
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Greindar töflur, eitt vinnublað á síðu
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Greindar töflur sem CSV (semíkomma, fyrir Excel)
+Visitenkarte als Kontakt (vCard)	Nafnspjald sem tengiliður (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Fram- og bakhlið í raunstærð á einni síðu – tilbúið til prentunar
+Seitenformat	Síðusnið
+Mit Passwort schützen	Verja með lykilorði
+AES-256-Verschlüsselung	AES-256 dulkóðun
+Passwort	Lykilorð
+Mindestens 4 Zeichen	Minnst 4 stafir
+Passwort wiederholen	Endurtaktu lykilorðið
+Passwörter stimmen nicht überein	Lykilorðin passa ekki saman
+Seitenbilder einfügen	Setja inn síðumyndir
+Jede Seite als Bild über ihrem Text	Hver síða sem mynd fyrir ofan textann
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Dálkar eru greindir eftir bilum í textanum – virkar best með skýrt aðskildum dálkum. Tölur eins og „1.234,50“ eru teknar sem tölur.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Engar tengiliðaupplýsingar greindust á þessu spjaldi.
+1 ausgewählte Seite	1 valin síða
+%d ausgewählte Seiten	%d valdar síður
+Mobil	Farsími
+Fax	Fax
+Telefon	Sími
+%s teilen	Deila: %s
+Scan	Skönnun
+Text teilen	Deila texta
+PDF teilen	Deila PDF
+In den Papierkorb verschoben	Fært í ruslið
+%d Scans in den Papierkorb verschoben	Skannanir færðar í ruslið: %d
+Auswahl beenden	Ljúka vali
+Alle auswählen	Velja allt
+In Ordner verschieben	Færa í möppu
+Ordner	Möppur
+Ordner umbenennen	Endurnefna möppu
+Ordner auflösen	Leysa upp möppu
+Papierkorb (%d)	Rusl (%d)
+Papierkorb	Rusl
+An PC senden	Senda í tölvu
+Speicher & Sicherung	Geymsla og öryggisafrit
+Einstellungen	Stillingar
+Scans und Text durchsuchen	Leita í skönnunum og texta
+Alle Scans durchsuchen	Leita í öllum skönnunum
+Suche löschen	Hreinsa leit
+%d Treffer	%d niðurstöður
+Alle Scans	Allar skannanir
+Nichts gefunden	Ekkert fannst
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Hvorki heiti né greindur texti passar við „%s“.
+Ordner ist leer	Mappan er tóm
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Færðu skannanir hingað: haltu fingri á skönnun og veldu „Færa í möppu“.
+Noch keine Scans	Engar skannanir enn
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Ýttu á „Skanna“ til að mynda síður,\neða fluttu inn myndir úr myndasafninu.
+Ordnername	Heiti möppu
+Neuer Ordner	Ný mappa
+%d Scans zusammenführen?	Sameina %d skannanir?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Öllum síðum er bætt við „%s“ í valröð. Hinar skannanirnar hverfa síðan.
+%d prüfen	Athuga %d
+Wird verarbeitet (%d/%d)	Í vinnslu (%d/%d)
+Als PDF teilen	Deila sem PDF
+Kategorie ändern	Breyta flokki
+Kein Ordner	Engin mappa
+Neuer Ordner …	Ný mappa …
+Kategorie	Flokkur
+Download fehlgeschlagen: %s	Niðurhal mistókst: %s
+keine Verbindung	engin tenging
+Sprachen der Texterkennung	Tungumál textagreiningar
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Valin tungumál eru greind saman – veldu aðeins þau sem þarf, hvert viðbótartungumál hægir á greiningunni. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Tungumál sem vantar eru sótt einu sinni (um 2–15 MB) og virka síðan án nettengingar.
+Wird geladen … %d %%	Sæki … %d %%
+Enthalten	Innifalið
+Geladen · %s	Sótt · %s
+Nicht geladen	Ekki sótt
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Ýttu til að velja · haltu inni og dragðu til að færa
+Neuer Scan	Ný skönnun
+Verschieben nach …	Færa í …
+Kopieren nach …	Afrita í …
+Seite %d von %d	Síða %d af %d
+Filter	Sía
+Zuschnitt	Skurður
+Signieren	Undirrita
+Code	Kóði
+Link	Tengill
+E-Mail	Netfang
+Telefonnummer	Símanúmer
+Ort	Staður
+Produktcode	Vörunúmer
+Netzwerk: %s	Net: %s
+Passwort: %s	Lykilorð: %s
+Verschlüsselung: %s	Dulkóðun: %s
+Passwort kopieren	Afrita lykilorð
+Verbinden	Tengjast
+E-Mail schreiben	Skrifa tölvupóst
+Anrufen	Hringja
+In Karten öffnen	Opna í Kortum
+Suche sensible Daten…	Leita að viðkvæmum gögnum…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Ekkert viðkvæmt fannst. Dragðu fingri yfir svæði sem á að hylja.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Fannst – ýttu til að velja eða afvelja, dragðu fleiri svæði:
+Schwarzer Balken	Svört strika
+Verpixeln	Pixla
+Unkenntlich machen (%d)	Hylja (%d)
+Manuell	Handvirkt
+Gesicht	Andlit
+Kein WLAN	Ekkert Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Tengdu síma og tölvu við sama Wi-Fi (eða tölvuna við heitan reit símans). Vefslóðin birtist þá hér.
+Am PC im Browser öffnen	Opna í vafra tölvunnar
+QR-Code der Adresse	QR-kóði vefslóðar
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Sláðu inn vefslóðina eða skannaðu QR-kóðann með myndavél tölvunnar. Þar geturðu sótt allar skannanir sem PDF eða texta.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Aðeins á staðarneti og aðeins meðan þessi skjár er opinn. Ekkert er sent á netið.
+Heruntergeladen	Sótt
+App-Sperre nicht möglich	Forritalás ekki mögulegur
+Sprache	Tungumál
+Sprache der App	Tungumál forritsins
+Aufnahme	Myndataka
+Doppelseiten im Dokument-Modus	Opnur í skjalaham
+Automatisch teilen	Skipta sjálfkrafa
+Nie teilen	Aldrei skipta
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Tekur mynd um leið og síðan liggur kyrr í mynd.
+Buch-Modus	Bókarhamur
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Greinir þegar blaðsíðu er flett og tekur mynd um leið og bókin liggur kyrr aftur.
+Leserichtung	Lesátt
+Links → rechts	Vinstri → hægri
+Rechts → links	Hægri → vinstri
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Hægri → vinstri fyrir arabísku, hebresku, persnesku og japönsku: hægri síðan kemur fyrst.
+Fernauslöser	Fjarstýrður afsmellari
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Paraðu Bluetooth-afsmellara fyrir myndavél (t.d. „AB Shutter 3“) í Bluetooth-stillingum Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Í myndavélinni smella þá afsmellarinn og hljóðstyrkshnapparnir af.
+Bild	Mynd
+Standardfilter	Sjálfgefin sía
+Handschrift entfernen	Fjarlægja handskrift
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Fjarlægir athugasemdir með bláum/rauðum penna og blýanti. Fjarlægir einnig prent í þessum litum.
+Texterkennung	Textagreining
+Sprachen	Tungumál
+Sicherheit & Speicher	Öryggi og geymsla
+App-Sperre	Forritalás
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Opna við ræsingu með fingrafari, andliti eða skjálás. Efni birtist ekki í forritayfirliti.
+Belegung, Backup als ZIP, Wiederherstellen	Notkun, öryggisafrit sem ZIP, endurheimt
+Gelöschte Scans werden nach 30 Tagen entfernt	Eyddar skannanir eru fjarlægðar eftir 30 daga
+Offline	Án nettengingar
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Allar myndir og textar verða áfram í þessu tæki. Netið er aðeins notað til að sækja tungumál einu sinni, þegar þú hefur það.
+Über	Um forritið
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Íhlutir með opnum kóða: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (allt Apache-leyfi 2.0); ML Kit (þýðing, andlitsgreining, í tækinu).
+Unterschrift zeichnen	Teikna undirskrift
+Mit dem Finger unterschreiben	Undirritaðu með fingri
+Unterschrift platzieren	Staðsetja undirskrift
+Neu zeichnen	Teikna aftur
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Færðu með einum fingri, breyttu stærð með tveimur fingrum.
+Unterschrift	Undirskrift
+Belegt von Ultimate PDF Scanner	Í notkun hjá Ultimate PDF Scanner
+%s frei auf dem Gerät	%s laust í tækinu
+Seiten	Síður
+Originalfotos	Upprunalegar myndir
+Zwischenspeicher	Skyndiminni
+Platz schaffen	Losa pláss
+Exportierte Dateien zum Teilen	Útfluttar skrár til deilingar
+Gelöschte Scans der letzten 30 Tage	Eyddar skannanir síðustu 30 daga
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Tilbúnar síður haldast, en ekki er hægt að breyta skurðinum eftir á.
+Größte Scans	Stærstu skannanir
+Sicherung	Öryggisafrit
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Vistaðu allar skannanir í eina ZIP-skrá – t.d. á SD-kort, USB-lykil eða tölvu. Ekkert er sent á netið.
+Papierkorb mitsichern	Taka ruslið með
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-oryggisafrit_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Við endurheimt er aðeins skönnunum sem vantar bætt við.
+Originalfotos entfernen?	Fjarlægja upprunalegar myndir?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Sparar %s. Ekki verður hægt að skera síður aftur, „Skanna aftur“ verður áfram mögulegt.
+Text bearbeiten · Seite %d	Breyta texta · síða %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Leiðréttingar fara í leitina og textalag PDF-skrárinnar.
+Kein Text erkannt – hier eintippen	Enginn texti greindur – sláðu hann inn hér
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Eyddar skannanir eru fjarlægðar varanlega eftir %d daga.
+Papierkorb ist leer	Ruslið er tómt
+Endgültig löschen	Eyða varanlega
+Papierkorb leeren?	Tæma ruslið?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d skönnunum verður eytt varanlega. Ekki er hægt að afturkalla það.
+Endgültig löschen?	Eyða varanlega?
+„%s“ wird sofort gelöscht.	„%s“ verður eytt strax.
+noch 1 Tag	1 dagur eftir
+noch %d Tage	%d dagar eftir
+Quittung	Kvittun
+Quittungen	Kvittanir
+Rechnung	Reikningur
+Rechnungen	Reikningar
+Visitenkarte	Nafnspjald
+Visitenkarten	Nafnspjöld
+Vertrag	Samningur
+Verträge	Samningar
+Brief	Bréf
+Briefe	Bréf
+Ausweis	Skilríki
+Ausweise	Skilríki
+Buch	Bók
+Bücher	Bækur
+Passfoto	Passamynd
+Passfotos	Passamyndir
+Dokument	Skjal
+Dokumente	Skjöl
+Auflösung	Upplausn
+Kompression	Þjöppun
+Gering	Lítil
+Stark	Mikil
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi og lítil þjöppun fyrir prentun og geymslu, 150 dpi og mikil þjöppun fyrir tölvupóst.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Gerir PDF-skrár leitanlegar og textann afritanlegan. Af: hraðari vinnsla, PDF aðeins sem mynd.
+Keine Seite erkannt	Engin síða greind
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Brún síðunnar fannst ekki – öll myndin var notuð.
+Unscharf	Óskýr
+Das Foto ist verwackelt oder unscharf.	Myndin er hreyfð eða óskýr.
+Zu dunkel	Of dökk
+Die Seite ist schlecht ausgeleuchtet.	Síðan er illa lýst.
+Text schlecht lesbar	Textinn er illlæsilegur
+Die Texterkennung war unsicher.	Textagreiningin var óviss.
+Kein Text erkannt	Enginn texti greindur
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Enginn texti fannst á síðunni – auð síða eða alls engin síða á myndinni?
+Hindi	Hindí
+Bengalisch	Bengalska
+Urdu	Úrdú
+Indonesisch	Indónesíska
+Seite erkennen	Greina síðu
+Seite entzerren	Rétta síðu
+Finger entfernen	Fjarlægja fingur
+Schärfe prüfen	Athuga skerpu
+Ausrichtung	Stefna
+Bild verbessern	Bæta mynd
+Speicherort	Vistunarstaður
+Speicherort für Exporte	Vistunarstaður fyrir útflutning
+Jedes Mal fragen	Spyrja í hvert skipti
+Ordner wählen …	Velja möppu …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	„Vista“ setur PDF-skrár og annan útflutning beint í þessa möppu án þess að spyrja í hvert skipti. SD-kort er líka mögulegt.
+Gespeichert in „%s“	Vistað í „%s“
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Vistunarstaðurinn er ekki aðgengilegur. Veldu hann aftur.
+Neu aufnehmen	Taka aftur
+Um 90° links drehen	Snúa 90° til vinstri
+Seite gelöscht	Síðu eytt
+Lange drücken: neu aufnehmen, drehen oder löschen	Haltu inni: taka aftur, snúa eða eyða
+Ersetzt beide Seiten	Kemur í stað beggja síðna
+Ränder bereinigen	Hreinsa brúnir
+Scan-Qualität	Skönnunargæði
+Schnell	Hröð
+Standard	Venjuleg
+Genau	Nákvæm
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Fyrir stórt, skýrt letur eins og bréf og útprentanir: minni myndir, hraðasta vinnsla.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Fyrir bækur og flest skjöl: góð greining á venjulegum hraða.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Fyrir smátt letur, gamlar bækur, neðanmálsgreinar og formúlur: full upplausn myndavélar, hægara, meira minni.
+BILD	MYND
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Leggðu myndina flata · ekkert flass · forðastu endurskin
+an	á
+aus	af
+Automatische Auslösung an: nach dem Umblättern	Sjálfvirk myndataka á: eftir að blaðsíðu er flett
+Automatische Auslösung an: sobald die Seite ruhig liegt	Sjálfvirk myndataka á: um leið og síðan er kyrr
+Automatische Auslösung aus	Sjálfvirk myndataka af
+PDF & Export	PDF og útflutningur
+Speicherort für PDFs und Bilder	Vistunarstaður fyrir PDF og myndir
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Við útflutning er hægt að breyta þessu fyrir einstakar skrár.
+Weitere Optionen …	Fleiri valkostir …
+Automatische Verbesserung	Sjálfvirk lagfæring
+Schatten und Artefakte entfernen, Schrift schärfen	Fjarlægja skugga og galla, skerpa letur
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Fjarlægja skugga og galla, skerpa letur. Hægt að slökkva í hverju skjali fyrir sig.
+unkorrigiert	óleiðrétt
+Maximal	Hámark
+Bildqualität	Myndgæði
+volle Auflösung	full upplausn
+Briefe, Ausdrucke, große Schrift	Bréf, útprentanir, stórt letur
+Bücher und die meisten Dokumente (empfohlen)	Bækur og flest skjöl (mælt með)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Smátt letur, formúlur, gamlar bækur – hægara
+Gilt auch für alle weiteren Scans.	Gildir líka fyrir allar síðari skannanir.
+Ändern	Breyta
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Hvert „Vista“ setur útflutninginn þinn. „Deila“ verður ekki fyrir áhrifum.
+Ordner und Dateiname beim Speichern wählen	Velja möppu og skráarheiti við vistun
+Exporte landen direkt hier	Útflutningur fer beint hingað
+Anderen Ordner wählen …	Velja aðra möppu …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Einnig SD-kort og skýjamöppur, ef þær eru uppsettar í tækinu.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Varanlegur aðgangur að þessari möppu er ekki mögulegur.
+Sehr hohe Auflösung	Mjög há upplausn
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Við %d MP tekur vinnsla hverrar síðu mun lengri tíma og krefst mikils minnis. „Venjuleg“ dugar fyrir flest skjöl. „Hámark“ borgar sig aðeins fyrir mjög smátt letur.
+Trotzdem verwenden	Nota samt
+langsam	hægt
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Enginn fjarstýrður afsmellari tengdur – paraðu hann í Bluetooth-stillingum
+Mit dem Fernauslöser auslösen	Smella af með fjarstýrðum afsmellara
+Umblättern	Fletting
+Auto 0,7 s	Sjálfv. 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Lýkur myndatöku. Síður sem þegar eru myndaðar haldast og eru unnar.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Kveikir eða slekkur á vasaljósinu. Glansandi pappír er best að mynda án ljóss og á ská miðað við gluggann.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Notar fyrirliggjandi myndir í stað nýrra mynda.
+Serie	Röð
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Hefur eða stöðvar röðina: tímastillirinn tekur þá sjálfkrafa mynd á nokkurra sekúndna fresti.
+Auslöser	Afsmellari
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Tekur mynd. Hljóðstyrkshnapparnir og Bluetooth-afsmellari smella líka af.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Lýkur myndatöku og opnar yfirlitið; talan sýnir myndir þessarar myndatöku.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Hve marga díla hver mynd hefur. Hröð (5 MP) fyrir stórt letur, Venjuleg (12 MP) fyrir nánast allt, Hámark fyrir smátt letur og formúlur – tekur lengri tíma.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Ýttu til að skipta: af, 3, 5 eða 10 sekúndur. Afsmellarinn hefur þá röð með mynd á þessu bili – hentugt fyrir bækur.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Tekur aðeins mynd þegar þú ýtir á afsmellarann.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Tekur mynd sjálft um leið og síðan hefur legið kyrr í 0,7 sekúndur. Í bókarham: eftir hverja flettingu, um leið og bókin er kyrr aftur.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Tekur mynd með Bluetooth-afsmellara (t.d. „AB Shutter 3“). Paraðu afsmellarann fyrst í Bluetooth-stillingum símans.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Gefur skjalinu eigið heiti; það er líka notað sem skráarheiti við útflutning.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Snúa lesátt opna við, þýða í tækinu eða eyða skönnuninni.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Opnar myndavélina og bætir fleiri síðum við þetta skjal.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Tekur myndir úr myndasafni sem nýjar síður; þær eru skornar og greindar eins og myndavélarmyndir.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Breyttu röðinni með því að draga; veldu síður til að snúa, færa, afrita, aðskilja eða eyða þeim.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Deila, vista eða prenta sem PDF, Word, myndir, ZIP, texta eða töflu.
+Farbe, Graustufen, Schwarz-Weiß	Litur, grátónar, svarthvítt
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Breytir öllum síðum þessa skjals. Svarthvítt gefur minnstu skrárnar, litur endurspeglar myndir og stimpla nákvæmlega.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Á: skuggar, blettir og gallar eru fjarlægðir og letrið verður skarpara. Af: síðurnar eru aðeins skornar og réttar – fyrir ljósmyndir, teikningar eða þegar lagfæringin skekkir eitthvað.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Býr til skrána og afhendir hana forriti, t.d. tölvupósti, spjallforriti eða skýi.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Setur skrána á vistunarstaðinn – í fasta möppu eða, með „Spyrja í hvert skipti“, þar sem þú setur hana.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Prentar með prentþjónustu Android; þar er líka hægt að velja „Vista sem PDF“.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Hvert „Vista“ setur skrárnar: spyrja í hvert skipti eða alltaf í fasta möppu, líka á SD-kort eða í skýjamöppu.
+Hilfe & Anleitung	Hjálp og leiðbeiningar
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Ábending: haltu hnappi inni í eina sekúndu til að sjá hvað hann gerir.
+Startseite	Upphaf
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Opnar myndavélina. Allar myndir einnar myndatöku fara í eitt sameiginlegt skjal.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Myndasafnstáknið fyrir ofan „Skanna“ tekur fyrirliggjandi myndir; þær eru skornar og greindar eins og myndavélarmyndir.
+Suchen	Leita
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Finnur skannanir eftir heiti og greindum texta, með síðunúmeri.
+Ordner und Kategorien	Möppur og flokkar
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Möppur flokka skannanir. Flokkarnir (bækur, kvittanir …) birtast sjálfkrafa um leið og skannanir af þeirri gerð eru til.
+Mehrere Scans	Margar skannanir
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Haltu fingri á skönnun: velja, sameina, færa í möppu eða eyða.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Eyddar skannanir eru í ruslinu (valmynd ⋮) í 30 daga og hægt er að endurheimta þær.
+Modi	Hamir
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Veldu neðst: Skjal (stök blöð), Bók (opnum er skipt í tvær síður), Skilríki (fram- og bakhlið í raunstærð á einu blaði), Nafnspjald (tengiliður er greindur), Mynd (réttir litir, engin textagreining), Passamynd (framvél, 35 × 45 mm) og QR-kóði.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Efst til vinstri: Hröð (5 MP) fyrir stórt letur, Venjuleg (12 MP) fyrir nánast allt, Hámark fyrir smátt letur og formúlur – hægara.
+Auslösung	Myndataka
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Handvirkt: með afsmellaranum. Sjálfv. 0,7 s: um leið og síðan hefur legið kyrr í 0,7 sekúndur; í bókarham eftir hverja flettingu. Bluetooth: með pöruðum afsmellara. Hljóðstyrkshnapparnir smella alltaf af.
+Timer und Licht	Tímastillir og ljós
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Klukkutáknið tekur mynd á 3, 5 eða 10 sekúndna fresti (byrjað með afsmellaranum). Flassið kveikir á vasaljósinu.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Ýttu á smámyndina neðst til hægri: síðurnar eru unnar og yfirlitið opnast.
+Gute Fotos	Góðar myndir
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Leggðu síðuna flata og jafnt lýsta, haltu símanum samsíða. Undirlag sem er í öðrum lit en pappírinn hjálpar við skurðinn.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Gildir fyrir allar síður skjalsins. Hægt er að stilla stakar síður öðruvísi í síðuskoðun.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Fjarlægir skugga og galla og gerir letrið skarpara. Þegar slökkt er á þessu er síðan aðeins skorin og rétt.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Ýttu til að opna síðuna. Haltu inni: taka aftur, snúa eða eyða. Síður merktar appelsínugult ætti að athuga (t.d. óskýrar), rauðar mistókust.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Breyttu röðinni með því að draga, snúðu mörgum síðum, færðu þær eða afritaðu í annað skjal, eða aðskildu þær sem nýtt skjal.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, myndir, ZIP, texti eða tafla – deila, vista eða prenta.
+Mehr (⋮)	Meira (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Snúa lesátt opna við, þýða í tækinu eða eyða skönnuninni. Blýanturinn efst breytir heitinu.
+Seitenansicht	Síðuskoðun
+Blättern und Zoomen	Fletta og aðdráttur
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Strjúktu til að skipta um síðu; ýttu tvisvar eða notaðu tvo fingur til að stækka.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Litur, grátónar eða svarthvítt aðeins fyrir þessa síðu, með forskoðun. Fyrir neðan er sjálfvirk lagfæring þessarar síðu.
+Drehen und Zuschnitt	Snúa og skera
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Snúa um 90°. Skera: setja horn síðunnar aftur á upprunalegu myndinni.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Skrifaðu á síðuna með penna, áherslupenna eða texta.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Gerðu viðkvæm gögn ólæsileg – með strikum eða pixluð. Reikningsnúmer, kortanúmer og andlit eru lögð til.
+Signieren und Text	Undirskrift og texti
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Undirrita setur inn vistuðu undirskriftina þína. Texti sýnir greinda textann til leiðréttingar og afritunar.
+Formate	Snið
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (leitanlegt), Word, myndir (JPG), ZIP, texti, Excel eða CSV; fyrir nafnspjöld einnig sem tengiliður.
+PDF-Optionen	PDF-valkostir
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Síðusnið, upplausn og þjöppun ráða gæðum og skráarstærð – stærðin er áætluð efst til hægri. Valfrjálst með lykilorði (AES-256).
+Teilen oder Speichern	Deila eða vista
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Deila sendir skrána í forrit (tölvupóst, spjall …). Vista setur hana á vistunarstaðinn.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	„Spyrja í hvert skipti“ opnar möppuval við vistun. Með fasta möppu fer útflutningur þangað án spurninga – líka á SD-kort eða í skýjamöppu.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Prentar með prentþjónustu Android eða vistar sem PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Myndgæði, myndataka og skipting opna fyrir nýjar skannanir. Í myndavélinni er hægt að breyta þessu hvenær sem er.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Sía og sjálfvirk lagfæring sem ný skjöl byrja með.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Gerir PDF-skrár leitanlegar. Tungumálin ráða hvaða stafir eru greindir.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Vistunarstaður og sjálfgefin gildi fyrir upplausn, þjöppun og síðusnið.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Forritalás með fingrafari, öryggisafrit sem ZIP og ruslið.
+Ecken setzen	Setja horn
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Dragðu hornin fjögur að brúnum síðunnar; stækkunarglerið sýnir staðinn undir fingrinum stækkaðan.
+Einzel- oder Doppelseite	Stök síða eða opna
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Veldu neðst hvort myndin sýnir eina síðu eða opna bók. Sjálfvirkt lætur forritið ákveða.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Hakið efst vinnur síðuna með nýja skurðinum.
+Werkzeuge	Verkfæri
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Penni til að skrifa, áherslupenni til að merkja, texti fyrir innslegnar athugasemdir. Litirnir eru fyrir neðan.
+Korrigieren	Leiðrétta
+Rückgängig nimmt den letzten Strich zurück.	Afturkalla fjarlægir síðustu strokuna.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Skrifar breytingarnar inn á síðuna. Án vistunar helst síðan óbreytt.
+Vorschläge	Tillögur
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Fundin reikningsnúmer, kortanúmer, kennitölur og andlit eru merkt – ýttu til að afvelja eða velja aftur.
+Eigene Bereiche	Eigin svæði
+Mit dem Finger weitere Rechtecke aufziehen.	Dragðu fleiri rétthyrninga með fingri.
+Balken oder Pixel	Strik eða dílar
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Svört strika eða pixlun. Textinn undir er líka fjarlægður úr textagreiningunni og PDF-skránni.
+Zeichnen	Teikna
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Undirritaðu einu sinni með fingri – undirskriftin er vistuð í tækinu.
+Platzieren	Staðsetja
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Færðu með einum fingri, breyttu stærð með tveimur og settu svo inn.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Blýantstáknið efst kemur í stað vistuðu undirskriftarinnar.
+Text bearbeiten	Breyta texta
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Greindur texti síðunnar er neðst og hægt að breyta honum. Efst er síðumyndin til samanburðar.
+Wirkung	Áhrif
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Leiðréttingar fara í leitina, textalag PDF-skrárinnar og útflutning í Word og texta.
+Holt einen gelöschten Scan zurück.	Sækir eydda skönnun aftur.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skannanir eru fjarlægðar sjálfkrafa eftir 30 daga. „Tæma“ eyðir öllu strax.
+Belegung	Notkun
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Sýnir hve mikið pláss skannanir, upprunalegar myndir, ruslið og skyndiminnið taka.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Að fjarlægja upprunalegar myndir sparar mikið pláss; tilbúnar síður haldast, aðeins skurðinum er ekki lengur hægt að breyta.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Vistaðu allar skannanir sem ZIP-skrá og endurheimtu þær í þessu eða öðru tæki. Ekkert er sent á netið.
+Auswahl	Val
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Veldu tungumál skjalanna þinna. Hvert viðbótartungumál hægir á greiningunni.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Tungumál sem vantar eru sótt einu sinni og virka síðan án nets.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Tengdu síma og tölvu við sama Wi-Fi (eða tölvuna við heitan reit símans).
+Herunterladen	Sækja
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Opnaðu vefslóðina sem birtist í vafra tölvunnar eða skannaðu QR-kóðann; þar geturðu sótt allar skannanir sem PDF eða texta.
+Sicherheit	Öryggi
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Virkar aðeins á staðarneti og aðeins meðan þessi skjár er opinn.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Tungumál, myndgæði, myndataka, textagreining, vistunarstaður, forritalás og öryggisafrit.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Tekur myndir úr myndasafni sem nýtt skjal; þær eru skornar og greindar eins og myndavélarmyndir.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Opnar myndavélina. Allar myndir einnar myndatöku fara í eitt sameiginlegt skjal.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Eyðir þessari síðu úr skjalinu (eftir staðfestingu).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Litur, grátónar eða svarthvítt og sjálfvirka lagfæringin aðeins fyrir þessa síðu.
+Dreht die Seite um 90° im Uhrzeigersinn.	Snýr síðunni um 90° réttsælis.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Settu horn síðunnar aftur á upprunalegu myndinni ef brún vantar eða bakgrunnur sést.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Gerðu viðkvæm gögn ólæsileg með strikum eða dílum; þau hverfa líka úr texta PDF-skrárinnar.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Setur vistuðu undirskriftina þína á síðuna; í fyrsta skipti teiknarðu hana.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Sýnir greindan texta síðunnar til leiðréttingar og afritunar.
+Fotografiert beim Tippen auf den Auslöser.	Tekur mynd þegar þú ýtir á afsmellarann.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Tekur mynd um leið og síðan hefur legið kyrr í 0,7 s; í bókarham eftir hverja flettingu.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Tekur mynd með pöruðum Bluetooth-afsmellara.
+Lautstärketasten lösen immer aus.	Hljóðstyrkshnapparnir smella alltaf af.
+Word erstellen, Formeln erkennen (%d/%d)	Bý til Word-skjal, greini formúlur (%d/%d)
+Belarussisch	Hvítrússneska
+Bulgarisch	Búlgarska
+Serbisch	Serbneska
+Mazedonisch	Makedónska
+Kein Link im geteilten Text	Enginn tengill í samnýtta textanum
+Import fehlgeschlagen: %s	Innflutningur mistókst: %s
+Link laden	Hleður tengli
+Unter dem Link liegt keine PDF- oder Bilddatei.	Tengillinn vísar ekki á PDF- eða myndskrá.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Aðeins er hægt að flytja inn PDF-skrár og myndir.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Ekki er hægt að flytja inn varðar PDF-skrár.
+PDF-Seite %d/%d importieren	Flyt inn PDF-síðu %d/%d
+Auto %s s	Sjálfv. %s s
+Auslösen nach %s s	Mynda eftir %s s
+Wartezeit	Biðtími
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Hve lengi síðan þarf að liggja kyrr áður en sjálfvirk mynd er tekin. Styttra er fljótlegra, lengra gefur færri hreyfðar myndir.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Tekur myndina sjálft um leið og síðan liggur kyrr; biðtímann (0,2–1,5 s) stillir þú fyrir neðan. Í bókarham: eftir hverja blaðsíðuflettingu, um leið og bókin liggur aftur kyrr.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Bætir við myndum, skjámyndum, PDF-skrám eða tengli sem fleiri síðum; myndir eru skornar til, allt er greint.
+Senden an …	Senda á …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Hvert „Vista“ setur útflutninga þína. „Senda á …“ er óháð því.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Veldu undirmöppu, t.d. „Documents“ – Android leyfir ekki efstu möppu geymslunnar.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Býr til skrána og sendir hana í forrit, t.d. WhatsApp, tölvupóst, Telegram eða skýjageymslu.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Handvirkt: með afsmellaranum. Sjálfvirkt: um leið og síðan liggur kyrr – biðtímann (0,2–1,5 s, sjálfgefið 0,7 s) stillir þú í skönnunarglugganum undir rofanum; í bókarham eftir hverja flettingu. Bluetooth: með pöruðum fjarsmellara. Hljóðstyrkstakkarnir taka alltaf mynd.
+Senden an oder Speichern	Senda eða vista
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Senda á …“ sendir skrána í forrit (WhatsApp, tölvupóstur, Telegram, ský …). Vista setur hana á vistunarstaðinn.
+Importieren	Flytja inn
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Tekur myndir, skjámyndir, PDF-skrár eða tengil sem nýtt skjal; myndir eru skornar til, allt er greint.
+Bilder aus der Galerie	Myndir úr myndasafni
+Fotos und Screenshots	Myndir og skjámyndir
+Dateien	Skrár
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF-skrár og myndir, t.d. úr Niðurhali eða skýinu
+Eine PDF- oder Bilddatei aus dem Internet	PDF- eða myndskrá af netinu
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Síðan eins og skannaðar síður: textagreining, þýðing og útflutningur í hvaða snið sem er.
+Link importieren	Flytja inn tengil
+Internetadresse	Vefslóð
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Myndar um leið og síðan liggur kyrr í %s s (stillanlegt í skönnunarglugganum); í bókarham eftir hverja flettingu.
+Fachwörterbuch laden	Hleð orðasafni
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Orðasafn fyrir %s eða %s vantar – þýtt án íðorða
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Ekki orðasafnsskrá (glossary-xx.tsv.gz)
+Download nicht verfügbar	Niðurhal ekki í boði
+Estnisch	Eistneska
+Irisch	Írska
+Litauisch	Litháíska
+Lettisch	Lettneska
+Maltesisch	Maltneska
+Slowakisch	Slóvakíska
+Slowenisch	Slóvenska
+Ohne Fachwörterbuch	Án orðasafns
+Alle Fachgebiete	Öll svið
+Fachgebiet: %s	Svið: %s
+Fachwörterbücher verwalten …	Stjórna orðasöfnum …
+Fachwörterbücher	Íðorðasöfn
+Aus Datei importieren	Flytja inn úr skrá
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Íðorð úr lögfræði, læknisfræði, tækni, hagfræði og 17 öðrum sviðum (IATE, íðorðabanki ESB) haldast nákvæm við þýðingu. Þörf er á orðasafni frum- og markmálsins, hvort 0,3–9 MB.
+Einmal laden, danach offline.	Sækja einu sinni, síðan án nettengingar.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Flyttu inn skrár glossary-xx.tsv.gz með möpputákninu efst.
+Fachwörterbücher für die Übersetzung	Íðorðasöfn fyrir þýðingar
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Lögfræði, læknisfræði, tækni og fleira – 24 tungumál ESB
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Allar myndir og textar verða áfram í þessu tæki. Netið er aðeins notað til að sækja tungumál, þýðingarlíkön og íðorðasöfn einu sinni, þegar þú byrjar það.
+Übersetzen	Þýða
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Býr til þýtt afrit af skjalinu í tækinu: sömu síður og myndir, textinn á markmálinu á sínum stað. Hver efnisgrein er þýdd úr sínu eigin tungumáli. Með „Sviði“ eru íðorð úr orðasöfnunum tekin nákvæmlega upp.
+Was nachgeladen werden kann	Hvað er hægt að sækja
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Allt er valfrjálst og aðeins sótt þegar þú ýtir; síðan virkar það án nets:\n• Tungumál textagreiningar: hvert 1–15 MB (Stillingar › Tungumál). Þýska og enska fylgja.\n• Kínverska: eigið greiningarlíkan, um 17 MB.\n• Þýðingarlíkön: um 30 MB á tungumál, sótt sjálfkrafa við fyrstu þýðingu.\n• Íðorðasöfn: 0,3–9 MB á tungumál, um 70 MB fyrir öll 24 tungumál ESB (Stillingar › Íðorðasöfn).\nSóttum skrám má eyða hvenær sem er.
+Wozu	Til hvers
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Almennir þýðendur þekkja mörg íðorð ekki eða þýða þau á misjafnan hátt. Orðasafn setur inn ákveðna íðorðið, t.d. „Beweislast“ → „sönnunarbyrði“.
+Quelle	Heimild
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, íðorðabanki stofnana ESB, með orðum úr 21 sviði (lögfræði, heilbrigði, tækni, hagfræði, umhverfi, samgöngur …). Hann er til á 24 opinberum tungumálum ESB.
+Was nötig ist	Hvað þarf
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Eitt orðasafn fyrir frummálið og eitt fyrir markmálið, t.d. þýsku og ensku. Eitt orðasafn á tungumál dugar fyrir öll tungumálapör.
+Laden oder importieren	Sækja eða flytja inn
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Sæktu með örinni (einu sinni, síðan án nets) eða flyttu inn skrá „glossary-xx.tsv.gz“ með möpputákninu, t.d. úr tölvu eða af SD-korti.
+Benutzen	Notkun
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Veldu svið efst þegar þú þýðir. „Öll svið“ notar aðeins orð sem eru þýdd eins alls staðar.
+Grenzen	Takmarkanir
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Íðorð eru sett inn í grunnmynd; beygðar myndir þekkjast ekki alltaf.
+Politik	Stjórnmál
+Internationale Beziehungen	Alþjóðasamskipti
+Europäische Union	Evrópusambandið
+Recht	Lögfræði
+Wirtschaft	Hagfræði
+Handel	Viðskipti
+Finanzwesen	Fjármál
+Soziales und Gesundheit	Félagsmál og heilbrigði
+Bildung und Kommunikation	Menntun og samskipti
+Wissenschaft	Vísindi
+Unternehmen und Wettbewerb	Fyrirtæki og samkeppni
+Beschäftigung und Arbeitsbedingungen	Atvinna og vinnuskilyrði
+Verkehr	Samgöngur
+Umwelt	Umhverfi
+Land-, Forst- und Fischereiwirtschaft	Landbúnaður, skógrækt og fiskveiðar
+Agrarerzeugnisse und Lebensmittel	Landbúnaðarmatvæli
+Produktion, Technologie und Forschung	Framleiðsla, tækni og rannsóknir
+Energie	Orka
+Industrie	Iðnaður
+Geografie	Landafræði
+Internationale Organisationen	Alþjóðastofnanir
+Wenig Licht – Lampe einschalten	Lítil birta – kveikja á ljósi
+Verarbeitung mehrfach abgebrochen	Vinnslan rofnaði ítrekað
+Bearbeitungen gehen verloren	Breytingar glatast
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Síðan er búin til upp á nýtt úr myndinni. Bæta þarf yfirstrikunum, undirskrift og athugasemdum við aftur.
+Neu zuschneiden	Klippa aftur
+Sprachdaten	Tungumálagögn
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Sýnir hversu mikið pláss skannanir, upprunalegar myndir, ruslafata, skyndiminni og tungumálagögn (textagreining, orðasöfn) taka.
+Bitte warten, bis alle Seiten erkannt sind	Bíddu þar til allar síður hafa verið greindar
+Die Sprache „%s“ kann nicht übersetzt werden	Ekki er hægt að þýða tungumálið „%s“
+Übersetzung in die Seiten setzen	Þýðingin sett inn á síðurnar

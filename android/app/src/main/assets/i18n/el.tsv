@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Ρυθμίστε πρώτα δακτυλικό αποτύπωμα, ξεκλείδωμα με το πρόσωπο ή κλείδωμα οθόνης.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Αυτή η συσκευή δεν υποστηρίζει βιομετρικό ξεκλείδωμα.
+Ultimate PDF Scanner entsperren	Ξεκλείδωμα του Ultimate PDF Scanner
+Deine Scans sind geschützt	Οι σαρώσεις σας προστατεύονται
+Ultimate PDF Scanner ist gesperrt	Το Ultimate PDF Scanner είναι κλειδωμένο
+Deine Scans bleiben auf diesem Gerät.	Οι σαρώσεις σας μένουν σε αυτή τη συσκευή.
+  Entsperren	  Ξεκλείδωμα
+Systemsprache	Γλώσσα συστήματος
+Deutsch	Deutsch
+English	English
+Fotos importieren	Εισαγωγή φωτογραφιών
+Texterkennung vorbereiten	Προετοιμασία αναγνώρισης κειμένου
+Ein Foto konnte nicht verarbeitet werden: %s	Δεν ήταν δυνατή η επεξεργασία μιας φωτογραφίας: %s
+Foto laden	Φόρτωση φωτογραφίας
+Foto nicht lesbar	Η φωτογραφία δεν διαβάζεται
+Filter anwenden	Εφαρμογή φίλτρου
+Schwärzen	Απόκρυψη
+Unterschrift einfügen	Εισαγωγή υπογραφής
+Unterschrift eingefügt	Η υπογραφή εισήχθη
+Änderungen einfügen	Εισαγωγή αλλαγών
+Seite bearbeitet	Η σελίδα επεξεργάστηκε
+Text gesichert	Το κείμενο αποθηκεύτηκε
+Zusammenführen	Συγχώνευση
+%d Scans zusammengeführt	Συγχωνεύτηκαν σαρώσεις: %d
+Seiten verschieben	Μετακίνηση σελίδων
+Seiten kopieren	Αντιγραφή σελίδων
+ (Teil)	 (μέρος)
+Zwischenspeicher leeren	Εκκαθάριση προσωρινής μνήμης
+Zwischenspeicher geleert	Η προσωρινή μνήμη εκκαθαρίστηκε
+Originalfotos entfernen	Αφαίρεση αρχικών φωτογραφιών
+Sicherung erstellen	Δημιουργία αντιγράφου ασφαλείας
+Sicherung erstellen (%d/%d)	Δημιουργία αντιγράφου ασφαλείας (%d/%d)
+Sicherung gespeichert	Το αντίγραφο ασφαλείας αποθηκεύτηκε
+Sicherung wiederherstellen	Επαναφορά αντιγράφου ασφαλείας
+ (%d schon vorhanden)	 (%d υπάρχουν ήδη)
+Wiederherstellen fehlgeschlagen: %s	Η επαναφορά απέτυχε: %s
+PDF erstellen (%d/%d)	Δημιουργία PDF (%d/%d)
+%s erstellen	Δημιουργία: %s
+Export fehlgeschlagen: %s	Η εξαγωγή απέτυχε: %s
+%s speichern	Αποθήκευση: %s
+PDF gespeichert (passwortgeschützt, AES-256)	Το PDF αποθηκεύτηκε (με κωδικό, AES-256)
+%s gespeichert	Αποθηκεύτηκε: %s
+Bilder speichern	Αποθήκευση εικόνων
+Bilder speichern (%d/%d)	Αποθήκευση εικόνων (%d/%d)
+%d Bilder gespeichert	Αποθηκεύτηκαν εικόνες: %d
+Sprache erkennen	Αναγνώριση γλώσσας
+Kein erkannter Text zum Übersetzen	Δεν υπάρχει αναγνωρισμένο κείμενο για μετάφραση
+Sprache nicht erkannt	Η γλώσσα δεν αναγνωρίστηκε
+Der Text ist bereits auf %s	Το κείμενο είναι ήδη σε: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Φόρτωση γλωσσικού μοντέλου (την πρώτη φορά ~30 MB)
+Übersetzen (%d/%d)	Μετάφραση (%d/%d)
+Seite %d	Σελίδα %d
+Übersetzung fehlgeschlagen: %s	Η μετάφραση απέτυχε: %s
+1 Bereich unkenntlich gemacht	Αποκρύφτηκε 1 περιοχή
+%d Bereiche unkenntlich gemacht	Αποκρύφτηκαν περιοχές: %d
+1 Scan wiederhergestellt	Επαναφέρθηκε 1 σάρωση
+%d Scans wiederhergestellt	Επαναφέρθηκαν σαρώσεις: %d
+Server antwortet mit %d	Ο διακομιστής απαντά με %d
+Datei unvollständig	Ελλιπές αρχείο
+Nicht gefunden	Δεν βρέθηκε
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Σαρώσεις στο κινητό: %d · απευθείας μέσω Wi-Fi, χωρίς cloud
+Ausgangssprache „%s“ wird nicht unterstützt	Η γλώσσα προέλευσης «%s» δεν υποστηρίζεται
+Zielsprache „%s“ wird nicht unterstützt	Η γλώσσα προορισμού «%s» δεν υποστηρίζεται
+QR-CODE	ΚΩΔΙΚΟΣ QR
+AUSWEIS	ΤΑΥΤΟΤΗΤΑ
+DOKUMENT	ΕΓΓΡΑΦΟ
+BUCH	ΒΙΒΛΙΟ
+VISITENKARTE	ΚΑΡΤΑ ΕΠΙΣΚΕΨΗΣ
+PASSFOTO	ΦΩΤΟΓΡΑΦΙΑ ΔΙΑΒΑΤΗΡΙΟΥ
+PDF	PDF
+Word	Word
+Bilder	Εικόνες
+ZIP	ZIP
+Text	Κείμενο
+Excel	Excel
+CSV	CSV
+Kontakt	Επαφή
+Wie gescannt	Όπως σαρώθηκε
+Letter	Letter
+Mittel	Μέτρια
+Englisch	Αγγλικά
+Französisch	Γαλλικά
+Italienisch	Ιταλικά
+Spanisch	Ισπανικά
+Portugiesisch	Πορτογαλικά
+Niederländisch	Ολλανδικά
+Polnisch	Πολωνικά
+Tschechisch	Τσεχικά
+Dänisch	Δανικά
+Schwedisch	Σουηδικά
+Norwegisch	Νορβηγικά
+Finnisch	Φινλανδικά
+Ungarisch	Ουγγρικά
+Rumänisch	Ρουμανικά
+Kroatisch	Κροατικά
+Türkisch	Τουρκικά
+Griechisch	Ελληνικά
+Russisch	Ρωσικά
+Ukrainisch	Ουκρανικά
+Arabisch	Αραβικά
+Hebräisch	Εβραϊκά
+Persisch	Περσικά
+Chinesisch (vereinfacht)	Κινεζικά (απλοποιημένα)
+Japanisch	Ιαπωνικά
+Koreanisch	Κορεατικά
+Latein	Λατινικά
+Deutsch (Fraktur)	Γερμανικά (Fraktur)
+1 Seite	1 σελίδα
+%d Seiten	%d σελίδες
+1 Scan	1 σάρωση
+%d Scans	%d σαρώσεις
+Abbrechen	Ακύρωση
+Bearbeiten	Επεξεργασία
+Zurück	Πίσω
+Rückgängig	Αναίρεση
+Sichern	Αποθήκευση
+Seite	Σελίδα
+Einfügen	Εισαγωγή
+Änderungen sichern?	Αποθήκευση αλλαγών;
+Verwerfen	Απόρριψη
+Schließen	Κλείσιμο
+Fertig	Τέλος
+Öffnen	Άνοιγμα
+Keine	Καμία
+Alle	Όλες
+Umbenennen	Μετονομασία
+Mehr	Περισσότερα
+Löschen	Διαγραφή
+Teilen	Κοινοποίηση
+Speichern	Αποθήκευση
+Drucken	Εκτύπωση
+Kopieren	Αντιγραφή
+Drehen	Περιστροφή
+Laden	Λήψη
+Entfernen	Αφαίρεση
+Verschieben	Μετακίνηση
+Name	Όνομα
+Aus	Ανενεργό
+Leeren	Άδειασμα
+Wiederherstellen	Επαναφορά
+Text einfügen	Εισαγωγή κειμένου
+z. B. Name, Datum …	π.χ. όνομα, ημερομηνία …
+Kein Gesicht erkannt – bitte noch einmal	Δεν αναγνωρίστηκε πρόσωπο – δοκιμάστε ξανά
+Seite erneut scannen	Νέα σάρωση της σελίδας
+Fernauslöser verbunden	Το τηλεχειριστήριο συνδέθηκε
+Nach dem Umblättern auslösen	Λήψη μετά το γύρισμα της σελίδας
+Leserichtung rechts nach links	Κατεύθυνση ανάγνωσης από δεξιά προς αριστερά
+Leserichtung links nach rechts	Κατεύθυνση ανάγνωσης από αριστερά προς δεξιά
+Automatisch auslösen	Αυτόματη λήψη
+Kamera wechseln	Αλλαγή κάμερας
+Licht	Φως
+Bitte Kamerazugriff erlauben.	Επιτρέψτε την πρόσβαση στην κάμερα.
+Passfoto wird zugeschnitten …	Περικοπή φωτογραφίας διαβατηρίου …
+Ohne Rückseite fertig	Τέλος χωρίς πίσω όψη
+Kein Code im Bild gefunden	Δεν βρέθηκε κωδικός στην εικόνα
+Aus Galerie	Από τη συλλογή
+QR-Code oder Barcode in den Rahmen halten	Κρατήστε τον κωδικό QR ή το barcode μέσα στο πλαίσιο
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Πρόσωπο στο οβάλ · κοιτάξτε ευθεία · φωτεινό φόντο
+Vorderseite des Ausweises in den Rahmen	Μπροστινή όψη της ταυτότητας στο πλαίσιο
+Jetzt die Rückseite	Τώρα η πίσω όψη
+Visitenkarte in den Rahmen legen	Τοποθετήστε την κάρτα επίσκεψης στο πλαίσιο
+Aufgeschlagenes Buch ins Bild halten	Κρατήστε το ανοιχτό βιβλίο στο κάδρο
+Doppelseite erkannt	Αναγνωρίστηκε δισέλιδο
+Umblättern – löst danach automatisch aus	Γυρίστε σελίδα – μετά γίνεται αυτόματη λήψη
+Ruhig halten …	Κρατήστε σταθερά …
+Ruhig halten – wird automatisch ausgelöst	Κρατήστε σταθερά – αυτόματη λήψη
+Seite ins Bild halten	Κρατήστε τη σελίδα στο κάδρο
+Seite erkannt	Η σελίδα αναγνωρίστηκε
+Intervall-Timer	Χρονοδιακόπτης διαστήματος
+Serie starten	Έναρξη σειράς
+Farbe	Έγχρωμο
+Graustufen	Αποχρώσεις του γκρι
+Schwarz-Weiß	Ασπρόμαυρο
+Original	Πρωτότυπο
+Automatisch	Αυτόματο
+Zuschnitt nicht möglich	Η περικοπή δεν είναι δυνατή
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Η αρχική φωτογραφία αυτής της σελίδας αφαιρέθηκε για εξοικονόμηση χώρου. Με τη «Νέα σάρωση» η σελίδα μπορεί να ληφθεί ξανά.
+Zuschnitt anpassen	Προσαρμογή περικοπής
+Übernehmen	Εφαρμογή
+Einzelseite	Μονή σελίδα
+Doppelseite	Δισέλιδο
+Auto	Αυτόματο
+  Automatisch	  Αυτόματο
+Ecken auf die Seitenränder ziehen	Σύρετε τις γωνίες στις άκρες της σελίδας
+Seiten ordnen	Ταξινόμηση σελίδων
+%d ausgewählt	Επιλέχθηκαν: %d
+Filter für alle Seiten	Φίλτρο για όλες τις σελίδες
+Leserichtung umkehren	Αντιστροφή κατεύθυνσης ανάγνωσης
+Übersetzen…	Μετάφραση…
+Scan löschen	Διαγραφή σάρωσης
+Scannen	Σάρωση
+Import	Εισαγωγή
+Ordnen	Ταξινόμηση
+Exportieren	Εξαγωγή
+Übersetzen in …	Μετάφραση σε …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Η μετάφραση γίνεται στη συσκευή. Την πρώτη φορά το γλωσσικό μοντέλο λαμβάνεται μία φορά.
+Übersetzung teilen	Κοινοποίηση μετάφρασης
+Scan löschen?	Διαγραφή σάρωσης;
+„%s“ wird endgültig gelöscht.	Το «%s» θα διαγραφεί οριστικά.
+Kontakt erkannt	Αναγνωρίστηκε επαφή
+Zu Kontakten	Στις επαφές
+Seiten werden verarbeitet (%d/%d)	Επεξεργασία σελίδων (%d/%d)
+Nur diese	Μόνο αυτές
+Wird neu verarbeitet	Νέα επεξεργασία
+Erneut	Ξανά
+Fehlgeschlagen	Απέτυχε
+Foto nicht verarbeitet	Η φωτογραφία δεν επεξεργάστηκε
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Παρουσιάστηκε σφάλμα κατά την επεξεργασία της εικόνας.
+Keine Auffälligkeiten	Χωρίς παρατηρήσεις
+Erneut scannen	Νέα σάρωση
+Ersetzt beide Seiten dieser Doppelseite	Αντικαθιστά και τις δύο σελίδες αυτού του δισέλιδου
+Kamera öffnen und diese Seite ersetzen	Άνοιγμα κάμερας και αντικατάσταση αυτής της σελίδας
+Nach vorn	Μπροστά
+Nach hinten	Πίσω
+Seite löschen	Διαγραφή σελίδας
+Foto entfernen	Αφαίρεση φωτογραφίας
+1 Seite verschoben	Μετακινήθηκε 1 σελίδα
+%d Seiten verschoben	Μετακινήθηκαν σελίδες: %d
+1 Seite kopiert	Αντιγράφηκε 1 σελίδα
+%d Seiten kopiert	Αντιγράφηκαν σελίδες: %d
+1 Seite löschen?	Διαγραφή 1 σελίδας;
+%d Seiten löschen?	Διαγραφή %d σελίδων;
+1 Seite prüfen	Έλεγχος 1 σελίδας
+%d Seiten prüfen	Έλεγχος %d σελίδων
+Seite löschen?	Διαγραφή σελίδας;
+Durchsuchbares PDF mit erkanntem Text	PDF με δυνατότητα αναζήτησης και αναγνωρισμένο κείμενο
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Επεξεργάσιμο κείμενο για Word, LibreOffice και Google Docs
+Die Seite als JPG-Bild	Η σελίδα ως εικόνα JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Μία εικόνα JPG ανά σελίδα (%d αρχεία)
+Alle Seiten als JPG und der Text in einem Archiv	Όλες οι σελίδες ως JPG και το κείμενο σε ένα αρχείο
+Nur der erkannte Text	Μόνο το αναγνωρισμένο κείμενο
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Αναγνωρισμένοι πίνακες, ένα φύλλο ανά σελίδα
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Αναγνωρισμένοι πίνακες ως CSV (ερωτηματικό, για Excel)
+Visitenkarte als Kontakt (vCard)	Κάρτα επίσκεψης ως επαφή (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Μπροστινή και πίσω όψη σε πραγματικό μέγεθος σε μία σελίδα – έτοιμο για εκτύπωση
+Seitenformat	Μέγεθος σελίδας
+Mit Passwort schützen	Προστασία με κωδικό
+AES-256-Verschlüsselung	Κρυπτογράφηση AES-256
+Passwort	Κωδικός
+Mindestens 4 Zeichen	Τουλάχιστον 4 χαρακτήρες
+Passwort wiederholen	Επανάληψη κωδικού
+Passwörter stimmen nicht überein	Οι κωδικοί δεν ταιριάζουν
+Seitenbilder einfügen	Εισαγωγή εικόνων σελίδων
+Jede Seite als Bild über ihrem Text	Κάθε σελίδα ως εικόνα πάνω από το κείμενό της
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Οι στήλες αναγνωρίζονται από τα κενά στο κείμενο – λειτουργεί καλύτερα με σαφώς χωρισμένες στήλες. Αριθμοί όπως «1.234,50» μεταφέρονται ως αριθμοί.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Σε αυτή την κάρτα δεν αναγνωρίστηκαν στοιχεία επικοινωνίας.
+1 ausgewählte Seite	1 επιλεγμένη σελίδα
+%d ausgewählte Seiten	%d επιλεγμένες σελίδες
+Mobil	Κινητό
+Fax	Φαξ
+Telefon	Τηλέφωνο
+%s teilen	Κοινοποίηση: %s
+Scan	Σάρωση
+Text teilen	Κοινοποίηση κειμένου
+PDF teilen	Κοινοποίηση PDF
+In den Papierkorb verschoben	Μεταφέρθηκε στον κάδο
+%d Scans in den Papierkorb verschoben	Μεταφέρθηκαν στον κάδο σαρώσεις: %d
+Auswahl beenden	Τέλος επιλογής
+Alle auswählen	Επιλογή όλων
+In Ordner verschieben	Μετακίνηση σε φάκελο
+Ordner	Φάκελοι
+Ordner umbenennen	Μετονομασία φακέλου
+Ordner auflösen	Κατάργηση φακέλου
+Papierkorb (%d)	Κάδος (%d)
+Papierkorb	Κάδος
+An PC senden	Αποστολή σε υπολογιστή
+Speicher & Sicherung	Αποθηκευτικός χώρος και αντίγραφο ασφαλείας
+Einstellungen	Ρυθμίσεις
+Scans und Text durchsuchen	Αναζήτηση σε σαρώσεις και κείμενο
+Alle Scans durchsuchen	Αναζήτηση σε όλες τις σαρώσεις
+Suche löschen	Διαγραφή αναζήτησης
+%d Treffer	%d αποτελέσματα
+Alle Scans	Όλες οι σαρώσεις
+Nichts gefunden	Δεν βρέθηκε τίποτα
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Ούτε όνομα ούτε αναγνωρισμένο κείμενο ταιριάζει με «%s».
+Ordner ist leer	Ο φάκελος είναι κενός
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Μετακινήστε σαρώσεις εδώ: πατήστε παρατεταμένα μια σάρωση και επιλέξτε «Μετακίνηση σε φάκελο».
+Noch keine Scans	Δεν υπάρχουν ακόμη σαρώσεις
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Πατήστε «Σάρωση» για να φωτογραφίσετε σελίδες,\nή εισαγάγετε φωτογραφίες από τη συλλογή.
+Ordnername	Όνομα φακέλου
+Neuer Ordner	Νέος φάκελος
+%d Scans zusammenführen?	Συγχώνευση %d σαρώσεων;
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Όλες οι σελίδες προστίθενται στο «%s» με τη σειρά επιλογής. Οι υπόλοιπες σαρώσεις καταργούνται μετά.
+%d prüfen	Έλεγχος: %d
+Wird verarbeitet (%d/%d)	Επεξεργασία (%d/%d)
+Als PDF teilen	Κοινοποίηση ως PDF
+Kategorie ändern	Αλλαγή κατηγορίας
+Kein Ordner	Χωρίς φάκελο
+Neuer Ordner …	Νέος φάκελος …
+Kategorie	Κατηγορία
+Download fehlgeschlagen: %s	Η λήψη απέτυχε: %s
+keine Verbindung	χωρίς σύνδεση
+Sprachen der Texterkennung	Γλώσσες αναγνώρισης κειμένου
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Οι επιλεγμένες γλώσσες αναγνωρίζονται μαζί – επιλέξτε μόνο τις απαραίτητες, κάθε επιπλέον επιβραδύνει την αναγνώριση. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Οι γλώσσες που λείπουν λαμβάνονται μία φορά (περίπου 2–15 MB) και μετά λειτουργούν εκτός σύνδεσης.
+Wird geladen … %d %%	Λήψη … %d %%
+Enthalten	Ενσωματωμένη
+Geladen · %s	Λήφθηκε · %s
+Nicht geladen	Δεν έχει ληφθεί
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Πατήστε για επιλογή · κρατήστε και σύρετε για μετακίνηση
+Neuer Scan	Νέα σάρωση
+Verschieben nach …	Μετακίνηση σε …
+Kopieren nach …	Αντιγραφή σε …
+Seite %d von %d	Σελίδα %d από %d
+Filter	Φίλτρο
+Zuschnitt	Περικοπή
+Signieren	Υπογραφή
+Code	Κωδικός
+Link	Σύνδεσμος
+E-Mail	Email
+Telefonnummer	Αριθμός τηλεφώνου
+Ort	Τοποθεσία
+Produktcode	Κωδικός προϊόντος
+Netzwerk: %s	Δίκτυο: %s
+Passwort: %s	Κωδικός: %s
+Verschlüsselung: %s	Κρυπτογράφηση: %s
+Passwort kopieren	Αντιγραφή κωδικού
+Verbinden	Σύνδεση
+E-Mail schreiben	Σύνταξη email
+Anrufen	Κλήση
+In Karten öffnen	Άνοιγμα στους Χάρτες
+Suche sensible Daten…	Αναζήτηση ευαίσθητων δεδομένων…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Δεν βρέθηκαν ευαίσθητα δεδομένα. Σύρετε με το δάχτυλο περιοχές για απόκρυψη.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Βρέθηκαν – πατήστε για επιλογή ή κατάργηση, σύρετε κι άλλες περιοχές:
+Schwarzer Balken	Μαύρη μπάρα
+Verpixeln	Pixelation
+Unkenntlich machen (%d)	Απόκρυψη (%d)
+Manuell	Χειροκίνητα
+Gesicht	Πρόσωπο
+Kein WLAN	Χωρίς Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Συνδέστε κινητό και υπολογιστή στο ίδιο Wi-Fi (ή τον υπολογιστή στο hotspot του κινητού). Η διεύθυνση θα εμφανιστεί εδώ.
+Am PC im Browser öffnen	Άνοιγμα στο πρόγραμμα περιήγησης του υπολογιστή
+QR-Code der Adresse	Κωδικός QR της διεύθυνσης
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Πληκτρολογήστε τη διεύθυνση ή σαρώστε τον κωδικό QR με την κάμερα του υπολογιστή. Εκεί μπορείτε να κατεβάσετε όλες τις σαρώσεις ως PDF ή κείμενο.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Μόνο στο τοπικό δίκτυο και μόνο όσο είναι ανοιχτή αυτή η οθόνη. Τίποτα δεν ανεβαίνει στο διαδίκτυο.
+Heruntergeladen	Λήφθηκε
+App-Sperre nicht möglich	Το κλείδωμα εφαρμογής δεν είναι δυνατό
+Sprache	Γλώσσα
+Sprache der App	Γλώσσα εφαρμογής
+Aufnahme	Λήψη
+Doppelseiten im Dokument-Modus	Δισέλιδα σε λειτουργία εγγράφου
+Automatisch teilen	Αυτόματος διαχωρισμός
+Nie teilen	Ποτέ διαχωρισμός
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Φωτογραφίζει μόλις η σελίδα μείνει ακίνητη στο κάδρο.
+Buch-Modus	Λειτουργία βιβλίου
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Αναγνωρίζει το γύρισμα της σελίδας και φωτογραφίζει μόλις το βιβλίο μείνει ξανά ακίνητο.
+Leserichtung	Κατεύθυνση ανάγνωσης
+Links → rechts	Αριστερά → δεξιά
+Rechts → links	Δεξιά → αριστερά
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Δεξιά → αριστερά για αραβικά, εβραϊκά, περσικά και ιαπωνικά: πρώτα έρχεται η δεξιά σελίδα.
+Fernauslöser	Τηλεχειριστήριο
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Συζεύξτε ένα τηλεχειριστήριο κάμερας Bluetooth (π.χ. «AB Shutter 3») στις ρυθμίσεις Bluetooth του Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Στην κάμερα τότε φωτογραφίζουν το τηλεχειριστήριο και τα πλήκτρα έντασης.
+Bild	Εικόνα
+Standardfilter	Προεπιλεγμένο φίλτρο
+Handschrift entfernen	Αφαίρεση χειρόγραφων
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Αφαιρεί σημειώσεις με μπλε/κόκκινο στυλό και μολύβι. Αφαιρεί επίσης εκτύπωση σε αυτά τα χρώματα.
+Texterkennung	Αναγνώριση κειμένου
+Sprachen	Γλώσσες
+Sicherheit & Speicher	Ασφάλεια και αποθήκευση
+App-Sperre	Κλείδωμα εφαρμογής
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Ξεκλείδωμα κατά το άνοιγμα με δακτυλικό αποτύπωμα, πρόσωπο ή κλείδωμα οθόνης. Το περιεχόμενο δεν εμφανίζεται στην επισκόπηση εφαρμογών.
+Belegung, Backup als ZIP, Wiederherstellen	Χώρος, αντίγραφο ασφαλείας ως ZIP, επαναφορά
+Gelöschte Scans werden nach 30 Tagen entfernt	Οι διαγραμμένες σαρώσεις αφαιρούνται μετά από 30 ημέρες
+Offline	Εκτός σύνδεσης
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Όλες οι φωτογραφίες και τα κείμενα μένουν σε αυτή τη συσκευή. Το διαδίκτυο χρησιμοποιείται μόνο για τη μία λήψη γλωσσών, όταν την ξεκινήσετε εσείς.
+Über	Πληροφορίες
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Στοιχεία ανοιχτού κώδικα: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (όλα με άδεια Apache 2.0)· ML Kit (μετάφραση, ανίχνευση προσώπων, στη συσκευή).
+Unterschrift zeichnen	Σχεδίαση υπογραφής
+Mit dem Finger unterschreiben	Υπογράψτε με το δάχτυλο
+Unterschrift platzieren	Τοποθέτηση υπογραφής
+Neu zeichnen	Νέα σχεδίαση
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Μετακίνηση με ένα δάχτυλο, αλλαγή μεγέθους με δύο δάχτυλα.
+Unterschrift	Υπογραφή
+Belegt von Ultimate PDF Scanner	Καταλαμβάνεται από το Ultimate PDF Scanner
+%s frei auf dem Gerät	Ελεύθερα στη συσκευή: %s
+Seiten	Σελίδες
+Originalfotos	Αρχικές φωτογραφίες
+Zwischenspeicher	Προσωρινή μνήμη
+Platz schaffen	Απελευθέρωση χώρου
+Exportierte Dateien zum Teilen	Αρχεία εξαγωγής για κοινοποίηση
+Gelöschte Scans der letzten 30 Tage	Διαγραμμένες σαρώσεις των τελευταίων 30 ημερών
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Οι έτοιμες σελίδες διατηρούνται, αλλά η περικοπή δεν μπορεί να αλλάξει πια.
+Größte Scans	Μεγαλύτερες σαρώσεις
+Sicherung	Αντίγραφο ασφαλείας
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Αποθηκεύστε όλες τις σαρώσεις σε ένα αρχείο ZIP – π.χ. σε κάρτα SD, USB stick ή υπολογιστή. Τίποτα δεν ανεβαίνει.
+Papierkorb mitsichern	Συμπερίληψη του κάδου
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-antigrafo_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Κατά την επαναφορά προστίθενται μόνο όσες σαρώσεις λείπουν.
+Originalfotos entfernen?	Αφαίρεση αρχικών φωτογραφιών;
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Εξοικονομεί %s. Οι σελίδες δεν θα μπορούν πια να περικοπούν ξανά, η «Νέα σάρωση» παραμένει δυνατή.
+Text bearbeiten · Seite %d	Επεξεργασία κειμένου · σελίδα %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Οι διορθώσεις περνούν στην αναζήτηση και στο επίπεδο κειμένου του PDF.
+Kein Text erkannt – hier eintippen	Δεν αναγνωρίστηκε κείμενο – πληκτρολογήστε εδώ
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Οι διαγραμμένες σαρώσεις αφαιρούνται οριστικά μετά από %d ημέρες.
+Papierkorb ist leer	Ο κάδος είναι άδειος
+Endgültig löschen	Οριστική διαγραφή
+Papierkorb leeren?	Άδειασμα κάδου;
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d σαρώσεις θα διαγραφούν οριστικά. Αυτό δεν αναιρείται.
+Endgültig löschen?	Οριστική διαγραφή;
+„%s“ wird sofort gelöscht.	Το «%s» θα διαγραφεί αμέσως.
+noch 1 Tag	απομένει 1 ημέρα
+noch %d Tage	απομένουν %d ημέρες
+Quittung	Απόδειξη
+Quittungen	Αποδείξεις
+Rechnung	Τιμολόγιο
+Rechnungen	Τιμολόγια
+Visitenkarte	Κάρτα επίσκεψης
+Visitenkarten	Κάρτες επίσκεψης
+Vertrag	Σύμβαση
+Verträge	Συμβάσεις
+Brief	Επιστολή
+Briefe	Επιστολές
+Ausweis	Ταυτότητα
+Ausweise	Ταυτότητες
+Buch	Βιβλίο
+Bücher	Βιβλία
+Passfoto	Φωτογραφία διαβατηρίου
+Passfotos	Φωτογραφίες διαβατηρίου
+Dokument	Έγγραφο
+Dokumente	Έγγραφα
+Auflösung	Ανάλυση
+Kompression	Συμπίεση
+Gering	Χαμηλή
+Stark	Υψηλή
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi και χαμηλή συμπίεση για εκτύπωση και αρχείο, 150 dpi και υψηλή συμπίεση για email.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Κάνει τα PDF αναζητήσιμα και το κείμενο αντιγράψιμο. Ανενεργό: ταχύτερη επεξεργασία, PDF μόνο ως εικόνα.
+Keine Seite erkannt	Δεν αναγνωρίστηκε σελίδα
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Δεν βρέθηκε το άκρο της σελίδας – χρησιμοποιήθηκε ολόκληρη η φωτογραφία.
+Unscharf	Θολή
+Das Foto ist verwackelt oder unscharf.	Η φωτογραφία είναι κουνημένη ή θολή.
+Zu dunkel	Πολύ σκοτεινή
+Die Seite ist schlecht ausgeleuchtet.	Η σελίδα φωτίζεται άσχημα.
+Text schlecht lesbar	Το κείμενο διαβάζεται δύσκολα
+Die Texterkennung war unsicher.	Η αναγνώριση κειμένου ήταν αβέβαιη.
+Kein Text erkannt	Δεν αναγνωρίστηκε κείμενο
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Δεν βρέθηκε κείμενο στη σελίδα – κενή σελίδα ή καμία σελίδα στην εικόνα;
+Hindi	Χίντι
+Bengalisch	Βεγγαλικά
+Urdu	Ούρντου
+Indonesisch	Ινδονησιακά
+Seite erkennen	Αναγνώριση σελίδας
+Seite entzerren	Ίσιωμα σελίδας
+Finger entfernen	Αφαίρεση δαχτύλων
+Schärfe prüfen	Έλεγχος ευκρίνειας
+Ausrichtung	Προσανατολισμός
+Bild verbessern	Βελτίωση εικόνας
+Speicherort	Θέση αποθήκευσης
+Speicherort für Exporte	Θέση αποθήκευσης για εξαγωγές
+Jedes Mal fragen	Ερώτηση κάθε φορά
+Ordner wählen …	Επιλογή φακέλου …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	Η «Αποθήκευση» βάζει τα PDF και τις άλλες εξαγωγές απευθείας σε αυτόν τον φάκελο, χωρίς ερώτηση κάθε φορά. Μπορεί και σε κάρτα SD.
+Gespeichert in „%s“	Αποθηκεύτηκε στο «%s»
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Η θέση αποθήκευσης δεν είναι προσβάσιμη. Επιλέξτε την ξανά.
+Neu aufnehmen	Νέα λήψη
+Um 90° links drehen	Περιστροφή 90° αριστερά
+Seite gelöscht	Η σελίδα διαγράφηκε
+Lange drücken: neu aufnehmen, drehen oder löschen	Παρατεταμένο πάτημα: νέα λήψη, περιστροφή ή διαγραφή
+Ersetzt beide Seiten	Αντικαθιστά και τις δύο σελίδες
+Ränder bereinigen	Καθαρισμός άκρων
+Scan-Qualität	Ποιότητα σάρωσης
+Schnell	Γρήγορη
+Standard	Τυπική
+Genau	Ακριβής
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Για μεγάλα, καθαρά γράμματα όπως επιστολές και εκτυπώσεις: μικρότερες φωτογραφίες, ταχύτερη επεξεργασία.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Για βιβλία και τα περισσότερα έγγραφα: καλή αναγνώριση με κανονική ταχύτητα.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Για ψιλά γράμματα, παλιά βιβλία, υποσημειώσεις και τύπους: πλήρης ανάλυση κάμερας, πιο αργά, περισσότερη μνήμη.
+BILD	ΕΙΚΟΝΑ
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Τοποθετήστε την εικόνα επίπεδα · χωρίς φλας · αποφύγετε αντανακλάσεις
+an	ενεργό
+aus	ανενεργό
+Automatische Auslösung an: nach dem Umblättern	Αυτόματη λήψη ενεργή: μετά το γύρισμα της σελίδας
+Automatische Auslösung an: sobald die Seite ruhig liegt	Αυτόματη λήψη ενεργή: μόλις η σελίδα μείνει ακίνητη
+Automatische Auslösung aus	Αυτόματη λήψη ανενεργή
+PDF & Export	PDF και εξαγωγή
+Speicherort für PDFs und Bilder	Θέση αποθήκευσης για PDF και εικόνες
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Κατά την εξαγωγή μπορεί να αλλάξει για μεμονωμένα αρχεία.
+Weitere Optionen …	Περισσότερες επιλογές …
+Automatische Verbesserung	Αυτόματη βελτίωση
+Schatten und Artefakte entfernen, Schrift schärfen	Αφαίρεση σκιών και θορύβου, πιο καθαρά γράμματα
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Αφαίρεση σκιών και θορύβου, πιο καθαρά γράμματα. Απενεργοποιείται χωριστά σε κάθε έγγραφο.
+unkorrigiert	χωρίς διόρθωση
+Maximal	Μέγιστη
+Bildqualität	Ποιότητα εικόνας
+volle Auflösung	πλήρης ανάλυση
+Briefe, Ausdrucke, große Schrift	Επιστολές, εκτυπώσεις, μεγάλα γράμματα
+Bücher und die meisten Dokumente (empfohlen)	Βιβλία και τα περισσότερα έγγραφα (προτείνεται)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Ψιλά γράμματα, τύποι, παλιά βιβλία – πιο αργά
+Gilt auch für alle weiteren Scans.	Ισχύει και για όλες τις επόμενες σαρώσεις.
+Ändern	Αλλαγή
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Πού βάζει η «Αποθήκευση» τις εξαγωγές σας. Η «Κοινοποίηση» δεν επηρεάζεται.
+Ordner und Dateiname beim Speichern wählen	Επιλογή φακέλου και ονόματος αρχείου κατά την αποθήκευση
+Exporte landen direkt hier	Οι εξαγωγές πηγαίνουν απευθείας εδώ
+Anderen Ordner wählen …	Επιλογή άλλου φακέλου …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Και κάρτα SD και φάκελοι cloud, αν έχουν ρυθμιστεί στη συσκευή.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Δεν είναι δυνατή η μόνιμη πρόσβαση σε αυτόν τον φάκελο.
+Sehr hohe Auflösung	Πολύ υψηλή ανάλυση
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Με %d MP η επεξεργασία κάθε σελίδας διαρκεί πολύ περισσότερο και χρειάζεται πολλή μνήμη. Για τα περισσότερα έγγραφα αρκεί η «Τυπική». Η «Μέγιστη» αξίζει μόνο για πολύ ψιλά γράμματα.
+Trotzdem verwenden	Χρήση παρ’ όλα αυτά
+langsam	αργό
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Δεν έχει συνδεθεί τηλεχειριστήριο – συζεύξτε το στις ρυθμίσεις Bluetooth
+Mit dem Fernauslöser auslösen	Λήψη με το τηλεχειριστήριο
+Umblättern	Γύρισμα σελίδας
+Auto 0,7 s	Αυτόματο 0,7 δ
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Τερματίζει τη λήψη. Οι σελίδες που έχουν ήδη φωτογραφηθεί διατηρούνται και επεξεργάζονται.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Ανάβει ή σβήνει τον φακό. Το γυαλιστερό χαρτί φωτογραφίζεται καλύτερα χωρίς φως και λοξά ως προς το παράθυρο.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Χρησιμοποιεί υπάρχουσες φωτογραφίες αντί για νέες λήψεις.
+Serie	Σειρά
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Ξεκινά ή σταματά τη σειρά: ο χρονοδιακόπτης τότε φωτογραφίζει αυτόματα κάθε λίγα δευτερόλεπτα.
+Auslöser	Κλείστρο
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Τραβάει φωτογραφία. Τα πλήκτρα έντασης και ένα τηλεχειριστήριο Bluetooth λειτουργούν επίσης ως κλείστρο.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Τερματίζει τη λήψη και ανοίγει την επισκόπηση· ο αριθμός δείχνει τις φωτογραφίες αυτής της λήψης.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Πόσα pixel έχει κάθε φωτογραφία. Γρήγορη (5 MP) για μεγάλα γράμματα, Τυπική (12 MP) σχεδόν για όλα, Μέγιστη για ψιλά γράμματα και τύπους – διαρκεί περισσότερο.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Πατήστε για εναλλαγή: ανενεργό, 3, 5 ή 10 δευτερόλεπτα. Το κλείστρο ξεκινά τότε σειρά με μία φωτογραφία σε αυτό το διάστημα – πρακτικό για βιβλία.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Φωτογραφίζει μόνο όταν πατάτε το κλείστρο.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Φωτογραφίζει μόνο του μόλις η σελίδα μείνει ακίνητη 0,7 δευτερόλεπτα. Σε λειτουργία βιβλίου: μετά από κάθε γύρισμα σελίδας, μόλις το βιβλίο ακινητοποιηθεί ξανά.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Φωτογραφίζει με τηλεχειριστήριο Bluetooth (π.χ. «AB Shutter 3»). Συζεύξτε πρώτα το τηλεχειριστήριο στις ρυθμίσεις Bluetooth του κινητού.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Δίνει στο έγγραφο δικό του όνομα· χρησιμοποιείται και ως όνομα αρχείου κατά την εξαγωγή.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Αντιστροφή κατεύθυνσης ανάγνωσης δισέλιδων, μετάφραση στη συσκευή ή διαγραφή της σάρωσης.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Ανοίγει την κάμερα και προσθέτει σελίδες σε αυτό το έγγραφο.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Προσθέτει φωτογραφίες από τη συλλογή ως νέες σελίδες· περικόπτονται και αναγνωρίζονται όπως οι φωτογραφίες της κάμερας.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Αλλάξτε τη σειρά με σύρσιμο· επιλέξτε σελίδες για περιστροφή, μετακίνηση, αντιγραφή, εξαγωγή ως νέο ή διαγραφή.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Κοινοποίηση, αποθήκευση ή εκτύπωση ως PDF, Word, εικόνες, ZIP, κείμενο ή πίνακα.
+Farbe, Graustufen, Schwarz-Weiß	Έγχρωμο, αποχρώσεις του γκρι, ασπρόμαυρο
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Αλλάζει όλες τις σελίδες αυτού του εγγράφου. Το ασπρόμαυρο δίνει τα μικρότερα αρχεία, το έγχρωμο αποδίδει πιστά εικόνες και σφραγίδες.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Ενεργό: σκιές, κηλίδες και θόρυβος αφαιρούνται, τα γράμματα γίνονται πιο έντονα. Ανενεργό: οι σελίδες μόνο περικόπτονται και ισιώνονται – για φωτογραφίες, σχέδια ή όταν η βελτίωση αλλοιώνει κάτι.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Δημιουργεί το αρχείο και το δίνει σε μια εφαρμογή, π.χ. email, messenger ή cloud.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Βάζει το αρχείο στη θέση αποθήκευσης – στον σταθερό φάκελο ή, με «Ερώτηση κάθε φορά», όπου το τοποθετήσετε εσείς.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Εκτυπώνει μέσω της υπηρεσίας εκτύπωσης του Android· εκεί μπορεί να επιλεγεί και «Αποθήκευση ως PDF».
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Πού βάζει η «Αποθήκευση» τα αρχεία: ερώτηση κάθε φορά ή πάντα σε σταθερό φάκελο, και σε κάρτα SD ή φάκελο cloud.
+Hilfe & Anleitung	Βοήθεια και οδηγίες
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Συμβουλή: κρατήστε πατημένο ένα κουμπί για ένα δευτερόλεπτο για να δείτε τι κάνει.
+Startseite	Αρχική
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Ανοίγει την κάμερα. Όλες οι φωτογραφίες μιας λήψης μπαίνουν σε ένα κοινό έγγραφο.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Το εικονίδιο συλλογής πάνω από τη «Σάρωση» παίρνει υπάρχουσες φωτογραφίες· περικόπτονται και αναγνωρίζονται όπως οι φωτογραφίες της κάμερας.
+Suchen	Αναζήτηση
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Βρίσκει σαρώσεις με βάση το όνομα και το αναγνωρισμένο κείμενο, με αριθμό σελίδας.
+Ordner und Kategorien	Φάκελοι και κατηγορίες
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Οι φάκελοι ομαδοποιούν σαρώσεις. Οι κατηγορίες (βιβλία, αποδείξεις …) εμφανίζονται αυτόματα μόλις υπάρχουν σαρώσεις αυτού του είδους.
+Mehrere Scans	Πολλές σαρώσεις
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Παρατεταμένο πάτημα σε σάρωση: επιλογή, συγχώνευση, μετακίνηση σε φάκελο ή διαγραφή.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Οι διαγραμμένες σαρώσεις μένουν 30 ημέρες στον κάδο (μενού ⋮) και μπορούν να επαναφερθούν.
+Modi	Λειτουργίες
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Επιλέξτε κάτω: Έγγραφο (μεμονωμένα φύλλα), Βιβλίο (τα δισέλιδα χωρίζονται σε δύο σελίδες), Ταυτότητα (μπροστά και πίσω σε πραγματικό μέγεθος σε ένα φύλλο), Κάρτα επίσκεψης (αναγνωρίζεται η επαφή), Εικόνα (πιστά χρώματα, χωρίς αναγνώριση κειμένου), Φωτογραφία διαβατηρίου (μπροστινή κάμερα, 35 × 45 mm) και κωδικός QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Πάνω αριστερά: Γρήγορη (5 MP) για μεγάλα γράμματα, Τυπική (12 MP) σχεδόν για όλα, Μέγιστη για ψιλά γράμματα και τύπους – πιο αργά.
+Auslösung	Λήψη
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Χειροκίνητα: με το κλείστρο. Αυτόματο 0,7 δ: μόλις η σελίδα μείνει ακίνητη 0,7 δευτερόλεπτα· σε λειτουργία βιβλίου μετά από κάθε γύρισμα σελίδας. Bluetooth: με συζευγμένο τηλεχειριστήριο. Τα πλήκτρα έντασης φωτογραφίζουν πάντα.
+Timer und Licht	Χρονοδιακόπτης και φως
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Το εικονίδιο ρολογιού φωτογραφίζει κάθε 3, 5 ή 10 δευτερόλεπτα (έναρξη με το κλείστρο). Το φλας ανάβει τον φακό.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Πατήστε τη μικρογραφία κάτω δεξιά: οι σελίδες επεξεργάζονται και ανοίγει η επισκόπηση.
+Gute Fotos	Καλές φωτογραφίες
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Τοποθετήστε τη σελίδα επίπεδα και ομοιόμορφα φωτισμένη, κρατήστε το κινητό παράλληλα. Μια επιφάνεια με διαφορετικό χρώμα από το χαρτί βοηθά στην περικοπή.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Ισχύει για όλες τις σελίδες του εγγράφου. Μεμονωμένες σελίδες μπορούν να ρυθμιστούν διαφορετικά στην προβολή σελίδας.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Αφαιρεί σκιές και θόρυβο και κάνει τα γράμματα πιο έντονα. Όταν είναι ανενεργή, η σελίδα μόνο περικόπτεται και ισιώνεται.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Το πάτημα ανοίγει τη σελίδα. Παρατεταμένο πάτημα: νέα λήψη, περιστροφή ή διαγραφή. Οι σελίδες με πορτοκαλί σήμανση πρέπει να ελεγχθούν (π.χ. θολές), οι κόκκινες απέτυχαν.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Αλλάξτε τη σειρά με σύρσιμο, περιστρέψτε πολλές σελίδες, μετακινήστε ή αντιγράψτε τες σε άλλο έγγραφο ή εξαγάγετέ τες ως νέο έγγραφο.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, εικόνες, ZIP, κείμενο ή πίνακας – κοινοποίηση, αποθήκευση ή εκτύπωση.
+Mehr (⋮)	Περισσότερα (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Αντιστροφή κατεύθυνσης ανάγνωσης δισέλιδων, μετάφραση στη συσκευή ή διαγραφή της σάρωσης. Το μολύβι πάνω αλλάζει το όνομα.
+Seitenansicht	Προβολή σελίδας
+Blättern und Zoomen	Ξεφύλλισμα και ζουμ
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Σύρετε για αλλαγή σελίδας· διπλό πάτημα ή δύο δάχτυλα για μεγέθυνση.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Έγχρωμο, αποχρώσεις του γκρι ή ασπρόμαυρο μόνο για αυτή τη σελίδα, με προεπισκόπηση. Από κάτω η αυτόματη βελτίωση αυτής της σελίδας.
+Drehen und Zuschnitt	Περιστροφή και περικοπή
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Περιστροφή κατά 90°. Περικοπή: ορίστε ξανά τις γωνίες της σελίδας στην αρχική φωτογραφία.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Γράψτε στη σελίδα με στυλό, μαρκαδόρο ή κείμενο.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Κάντε τα ευαίσθητα δεδομένα δυσανάγνωστα – με μπάρες ή pixelation. Προτείνονται αριθμοί λογαριασμών, καρτών και πρόσωπα.
+Signieren und Text	Υπογραφή και κείμενο
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Η Υπογραφή εισάγει την αποθηκευμένη υπογραφή σας. Το Κείμενο δείχνει το αναγνωρισμένο κείμενο για διόρθωση και αντιγραφή.
+Formate	Μορφές
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (με αναζήτηση), Word, εικόνες (JPG), ZIP, κείμενο, Excel ή CSV· για κάρτες επίσκεψης και ως επαφή.
+PDF-Optionen	Επιλογές PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Το μέγεθος σελίδας, η ανάλυση και η συμπίεση καθορίζουν την ποιότητα και το μέγεθος αρχείου – το μέγεθος εκτιμάται πάνω δεξιά. Προαιρετικά με κωδικό (AES-256).
+Teilen oder Speichern	Κοινοποίηση ή αποθήκευση
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Η Κοινοποίηση στέλνει το αρχείο σε εφαρμογή (email, messenger …). Η Αποθήκευση το βάζει στη θέση αποθήκευσης.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	Η «Ερώτηση κάθε φορά» ανοίγει την επιλογή φακέλου κατά την αποθήκευση. Με σταθερό φάκελο οι εξαγωγές πηγαίνουν εκεί χωρίς ερώτηση – και σε κάρτα SD ή φάκελο cloud.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Εκτυπώνει μέσω της υπηρεσίας εκτύπωσης του Android ή αποθηκεύει ως PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Ποιότητα εικόνας, λήψη και διαχωρισμός δισέλιδων για νέες σαρώσεις. Στην κάμερα αλλάζει οποιαδήποτε στιγμή.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Φίλτρο και αυτόματη βελτίωση με τα οποία ξεκινούν τα νέα έγγραφα.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Κάνει τα PDF αναζητήσιμα. Οι γλώσσες καθορίζουν ποιοι χαρακτήρες αναγνωρίζονται.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Θέση αποθήκευσης και προεπιλογές για ανάλυση, συμπίεση και μέγεθος σελίδας.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Κλείδωμα εφαρμογής με δακτυλικό αποτύπωμα, αντίγραφο ασφαλείας ως ZIP και κάδος.
+Ecken setzen	Ορισμός γωνιών
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Σύρετε τις τέσσερις γωνίες στις άκρες της σελίδας· ο μεγεθυντικός φακός δείχνει μεγεθυμένο το σημείο κάτω από το δάχτυλο.
+Einzel- oder Doppelseite	Μονή σελίδα ή δισέλιδο
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Επιλέξτε κάτω αν η φωτογραφία δείχνει μία σελίδα ή ένα ανοιχτό δισέλιδο. Το Αυτόματο αφήνει την εφαρμογή να αποφασίσει.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Το σημάδι επιλογής πάνω επεξεργάζεται τη σελίδα με τη νέα περικοπή.
+Werkzeuge	Εργαλεία
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Στυλό για γραφή, μαρκαδόρος για επισήμανση, κείμενο για πληκτρολογημένες σημειώσεις. Τα χρώματα είναι από κάτω.
+Korrigieren	Διόρθωση
+Rückgängig nimmt den letzten Strich zurück.	Η Αναίρεση αφαιρεί την τελευταία γραμμή.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Γράφει τις αλλαγές στη σελίδα. Χωρίς αποθήκευση η σελίδα μένει αμετάβλητη.
+Vorschläge	Προτάσεις
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Οι αριθμοί λογαριασμών, καρτών, ΑΦΜ και τα πρόσωπα που βρέθηκαν είναι σημειωμένα – πατήστε για αποεπιλογή ή νέα επιλογή.
+Eigene Bereiche	Δικές σας περιοχές
+Mit dem Finger weitere Rechtecke aufziehen.	Σύρετε με το δάχτυλο κι άλλα ορθογώνια.
+Balken oder Pixel	Μπάρες ή pixel
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Μαύρη μπάρα ή pixelation. Το κείμενο από κάτω αφαιρείται και από την αναγνώριση κειμένου και από το PDF.
+Zeichnen	Σχεδίαση
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Υπογράψτε μία φορά με το δάχτυλο – η υπογραφή αποθηκεύεται στη συσκευή.
+Platzieren	Τοποθέτηση
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Μετακίνηση με ένα δάχτυλο, αλλαγή μεγέθους με δύο, μετά εισαγωγή.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Το εικονίδιο μολυβιού πάνω αντικαθιστά την αποθηκευμένη υπογραφή.
+Text bearbeiten	Επεξεργασία κειμένου
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Το αναγνωρισμένο κείμενο της σελίδας είναι κάτω και μπορεί να αλλάξει. Πάνω η εικόνα της σελίδας για σύγκριση.
+Wirkung	Αποτέλεσμα
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Οι διορθώσεις περνούν στην αναζήτηση, στο επίπεδο κειμένου του PDF και στις εξαγωγές Word και κειμένου.
+Holt einen gelöschten Scan zurück.	Επαναφέρει μια διαγραμμένη σάρωση.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Οι σαρώσεις αφαιρούνται αυτόματα μετά από 30 ημέρες. Το «Άδειασμα» διαγράφει τα πάντα αμέσως.
+Belegung	Χρήση χώρου
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Δείχνει πόσο χώρο καταλαμβάνουν οι σαρώσεις, οι αρχικές φωτογραφίες, ο κάδος και η προσωρινή μνήμη.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Η αφαίρεση των αρχικών φωτογραφιών εξοικονομεί πολύ χώρο· οι έτοιμες σελίδες μένουν, μόνο η περικοπή δεν αλλάζει πια.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Αποθηκεύστε όλες τις σαρώσεις ως αρχείο ZIP και επαναφέρετέ τες σε αυτή ή άλλη συσκευή. Τίποτα δεν ανεβαίνει.
+Auswahl	Επιλογή
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Επιλέξτε τις γλώσσες των εγγράφων σας. Κάθε επιπλέον γλώσσα επιβραδύνει την αναγνώριση.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Οι γλώσσες που λείπουν λαμβάνονται μία φορά και μετά λειτουργούν χωρίς διαδίκτυο.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Συνδέστε κινητό και υπολογιστή στο ίδιο Wi-Fi (ή τον υπολογιστή στο hotspot του κινητού).
+Herunterladen	Λήψη
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Ανοίξτε τη διεύθυνση που εμφανίζεται στο πρόγραμμα περιήγησης του υπολογιστή ή σαρώστε τον κωδικό QR· εκεί κατεβάζετε όλες τις σαρώσεις ως PDF ή κείμενο.
+Sicherheit	Ασφάλεια
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Λειτουργεί μόνο στο τοπικό δίκτυο και μόνο όσο είναι ανοιχτή αυτή η οθόνη.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Γλώσσα, ποιότητα εικόνας, λήψη, αναγνώριση κειμένου, θέση αποθήκευσης, κλείδωμα εφαρμογής και αντίγραφο ασφαλείας.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Παίρνει φωτογραφίες από τη συλλογή ως νέο έγγραφο· περικόπτονται και αναγνωρίζονται όπως οι φωτογραφίες της κάμερας.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Ανοίγει την κάμερα. Όλες οι φωτογραφίες μιας λήψης μπαίνουν σε ένα κοινό έγγραφο.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Διαγράφει αυτή τη σελίδα από το έγγραφο (μετά από επιβεβαίωση).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Έγχρωμο, αποχρώσεις του γκρι ή ασπρόμαυρο και η αυτόματη βελτίωση μόνο για αυτή τη σελίδα.
+Dreht die Seite um 90° im Uhrzeigersinn.	Περιστρέφει τη σελίδα κατά 90° δεξιόστροφα.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Ορίστε ξανά τις γωνίες της σελίδας στην αρχική φωτογραφία αν λείπει άκρο ή φαίνεται φόντο.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Κάντε τα ευαίσθητα δεδομένα δυσανάγνωστα με μπάρες ή pixel· εξαφανίζονται και από το κείμενο του PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Τοποθετεί την αποθηκευμένη υπογραφή σας στη σελίδα· την πρώτη φορά τη σχεδιάζετε.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Δείχνει το αναγνωρισμένο κείμενο της σελίδας για διόρθωση και αντιγραφή.
+Fotografiert beim Tippen auf den Auslöser.	Φωτογραφίζει όταν πατάτε το κλείστρο.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Φωτογραφίζει μόλις η σελίδα μείνει ακίνητη 0,7 δ· σε λειτουργία βιβλίου μετά από κάθε γύρισμα σελίδας.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Φωτογραφίζει με συζευγμένο τηλεχειριστήριο Bluetooth.
+Lautstärketasten lösen immer aus.	Τα πλήκτρα έντασης φωτογραφίζουν πάντα.
+Word erstellen, Formeln erkennen (%d/%d)	Δημιουργία Word, αναγνώριση τύπων (%d/%d)
+Belarussisch	Λευκορωσικά
+Bulgarisch	Βουλγαρικά
+Serbisch	Σερβικά
+Mazedonisch	Σλαβομακεδονικά
+Kein Link im geteilten Text	Δεν υπάρχει σύνδεσμος στο κοινόχρηστο κείμενο
+Import fehlgeschlagen: %s	Η εισαγωγή απέτυχε: %s
+Link laden	Φόρτωση συνδέσμου
+Unter dem Link liegt keine PDF- oder Bilddatei.	Ο σύνδεσμος δεν οδηγεί σε αρχείο PDF ή εικόνας.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Μόνο αρχεία PDF και εικόνες μπορούν να εισαχθούν.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Τα προστατευμένα αρχεία PDF δεν μπορούν να εισαχθούν.
+PDF-Seite %d/%d importieren	Εισαγωγή σελίδας PDF %d/%d
+Auto %s s	Αυτόματα %s δ
+Auslösen nach %s s	Λήψη μετά από %s δ
+Wartezeit	Χρόνος αναμονής
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Πόση ώρα πρέπει η σελίδα να μένει ακίνητη πριν από την αυτόματη λήψη. Συντομότερος είναι πιο γρήγορος, μεγαλύτερος δίνει λιγότερες κουνημένες φωτογραφίες.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Τραβά μόνο του τη φωτογραφία μόλις η σελίδα μείνει ακίνητη· τον χρόνο αναμονής (0,2–1,5 δ) τον ρυθμίζεις από κάτω. Σε λειτουργία βιβλίου: μετά από κάθε γύρισμα σελίδας, μόλις το βιβλίο ακινητοποιηθεί ξανά.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Προσθέτει φωτογραφίες, στιγμιότυπα οθόνης, αρχεία PDF ή σύνδεσμο ως επιπλέον σελίδες· οι φωτογραφίες περικόπτονται, όλα αναγνωρίζονται.
+Senden an …	Αποστολή σε …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Πού βάζει η «Αποθήκευση» τις εξαγωγές σου. Η «Αποστολή σε …» είναι ανεξάρτητη.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Επίλεξε έναν υποφάκελο, π.χ. «Documents» – ο κορυφαίος φάκελος του χώρου αποθήκευσης δεν επιτρέπεται από το Android.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Δημιουργεί το αρχείο και το στέλνει σε μια εφαρμογή, π.χ. WhatsApp, email, Telegram ή αποθήκευση cloud.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Χειροκίνητα: με το κουμπί λήψης. Αυτόματα: μόλις η σελίδα μείνει ακίνητη – τον χρόνο αναμονής (0,2–1,5 δ, προεπιλογή 0,7 δ) τον ρυθμίζεις στο παράθυρο σάρωσης κάτω από τον διακόπτη· σε λειτουργία βιβλίου μετά από κάθε γύρισμα σελίδας. Bluetooth: με συζευγμένο τηλεχειριστήριο. Τα πλήκτρα έντασης τραβούν πάντα.
+Senden an oder Speichern	Αποστολή ή αποθήκευση
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	Η «Αποστολή σε …» στέλνει το αρχείο σε μια εφαρμογή (WhatsApp, email, Telegram, cloud …). Η Αποθήκευση το βάζει στη θέση αποθήκευσης.
+Importieren	Εισαγωγή
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Παίρνει φωτογραφίες, στιγμιότυπα οθόνης, αρχεία PDF ή σύνδεσμο ως νέο έγγραφο· οι φωτογραφίες περικόπτονται, όλα αναγνωρίζονται.
+Bilder aus der Galerie	Εικόνες από τη συλλογή
+Fotos und Screenshots	Φωτογραφίες και στιγμιότυπα οθόνης
+Dateien	Αρχεία
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Αρχεία PDF και εικόνες, π.χ. από τις Λήψεις ή το cloud
+Eine PDF- oder Bilddatei aus dem Internet	Ένα αρχείο PDF ή εικόνας από το διαδίκτυο
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Μετά όπως οι σαρωμένες σελίδες: αναγνώριση κειμένου, μετάφραση και εξαγωγή σε κάθε μορφή.
+Link importieren	Εισαγωγή συνδέσμου
+Internetadresse	Διεύθυνση ιστού
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Τραβά μόλις η σελίδα μείνει ακίνητη %s δ (ρυθμίζεται στο παράθυρο σάρωσης)· σε λειτουργία βιβλίου μετά από κάθε γύρισμα σελίδας.
+Fachwörterbuch laden	Φόρτωση γλωσσαρίου
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Λείπει το γλωσσάριο για %s ή %s – μεταφράστηκε χωρίς ειδικούς όρους
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Δεν είναι αρχείο γλωσσαρίου (glossary-xx.tsv.gz)
+Download nicht verfügbar	Η λήψη δεν είναι διαθέσιμη
+Estnisch	Εσθονικά
+Irisch	Ιρλανδικά
+Litauisch	Λιθουανικά
+Lettisch	Λετονικά
+Maltesisch	Μαλτεζικά
+Slowakisch	Σλοβακικά
+Slowenisch	Σλοβενικά
+Ohne Fachwörterbuch	Χωρίς γλωσσάριο
+Alle Fachgebiete	Όλοι οι τομείς
+Fachgebiet: %s	Τομέας: %s
+Fachwörterbücher verwalten …	Διαχείριση γλωσσαρίων …
+Fachwörterbücher	Εξειδικευμένα γλωσσάρια
+Aus Datei importieren	Εισαγωγή από αρχείο
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Οι ειδικοί όροι από το δίκαιο, την ιατρική, την τεχνολογία, την οικονομία και 17 ακόμη τομείς (IATE, η βάση ορολογίας της ΕΕ) διατηρούνται ακριβώς στη μετάφραση. Χρειάζεται το γλωσσάριο της γλώσσας πηγής και της γλώσσας στόχου, 0,3–9 MB το καθένα.
+Einmal laden, danach offline.	Λήψη μία φορά, μετά εκτός σύνδεσης.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Εισαγάγετε αρχεία glossary-xx.tsv.gz με το εικονίδιο φακέλου επάνω.
+Fachwörterbücher für die Übersetzung	Γλωσσάρια για μετάφραση
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Δίκαιο, ιατρική, τεχνολογία και άλλα – 24 γλώσσες της ΕΕ
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Όλες οι φωτογραφίες και τα κείμενα μένουν σε αυτή τη συσκευή. Το διαδίκτυο χρησιμοποιείται μόνο για τη μία φορά λήψη γλωσσών, μοντέλων μετάφρασης και γλωσσαρίων, όταν το ξεκινάτε.
+Übersetzen	Μετάφραση
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Δημιουργεί στη συσκευή μεταφρασμένο αντίγραφο του εγγράφου: ίδιες σελίδες και εικόνες, το κείμενο στη γλώσσα-στόχο στη θέση του. Κάθε παράγραφος μεταφράζεται από τη δική της γλώσσα. Με το «Πεδίο» οι ειδικοί όροι από τα γλωσσάρια διατηρούνται ακριβώς.
+Was nachgeladen werden kann	Τι μπορεί να ληφθεί
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Όλα είναι προαιρετικά και λαμβάνονται μόνο όταν πατήσετε· μετά λειτουργούν χωρίς διαδίκτυο:\n• Γλώσσες αναγνώρισης κειμένου: 1–15 MB η καθεμία (Ρυθμίσεις › Γλώσσες). Γερμανικά και αγγλικά περιλαμβάνονται.\n• Κινεζικά: δικό του μοντέλο αναγνώρισης, περίπου 17 MB.\n• Μοντέλα μετάφρασης: περίπου 30 MB ανά γλώσσα, λαμβάνονται αυτόματα με την πρώτη μετάφραση.\n• Γλωσσάρια: 0,3–9 MB ανά γλώσσα, περίπου 70 MB για όλες τις 24 γλώσσες της ΕΕ (Ρυθμίσεις › Εξειδικευμένα γλωσσάρια).\nΤα ληφθέντα αρχεία μπορούν να αφαιρεθούν οποτεδήποτε.
+Wozu	Σε τι χρησιμεύει
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Οι γενικοί μεταφραστές δεν γνωρίζουν πολλούς ειδικούς όρους ή τους μεταφράζουν ασυνεπώς. Ένα γλωσσάριο εισάγει τον καθορισμένο όρο, π.χ. «Beweislast» → «βάρος απόδειξης».
+Quelle	Πηγή
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, η βάση ορολογίας των θεσμικών οργάνων της ΕΕ, με όρους από 21 τομείς (δίκαιο, υγεία, τεχνολογία, οικονομία, περιβάλλον, μεταφορές …). Υπάρχει για τις 24 επίσημες γλώσσες της ΕΕ.
+Was nötig ist	Τι χρειάζεται
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Ένα γλωσσάριο για τη γλώσσα πηγής και ένα για τη γλώσσα στόχου, π.χ. γερμανικά και αγγλικά. Ένα γλωσσάριο ανά γλώσσα αρκεί για όλα τα ζεύγη γλωσσών.
+Laden oder importieren	Λήψη ή εισαγωγή
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Λήψη με το βέλος (μία φορά, μετά εκτός σύνδεσης) ή εισαγωγή αρχείου «glossary-xx.tsv.gz» με το εικονίδιο φακέλου, π.χ. από υπολογιστή ή κάρτα SD.
+Benutzen	Χρήση
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Κατά τη μετάφραση επιλέξτε τον τομέα επάνω. Το «Όλοι οι τομείς» χρησιμοποιεί μόνο όρους που μεταφράζονται παντού το ίδιο.
+Grenzen	Όρια
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Οι ειδικοί όροι εισάγονται στη βασική τους μορφή· οι κλιτοί τύποι δεν αναγνωρίζονται πάντα.
+Politik	Πολιτική
+Internationale Beziehungen	Διεθνείς σχέσεις
+Europäische Union	Ευρωπαϊκή Ένωση
+Recht	Δίκαιο
+Wirtschaft	Οικονομία
+Handel	Εμπόριο
+Finanzwesen	Χρηματοοικονομικά
+Soziales und Gesundheit	Κοινωνικά θέματα και υγεία
+Bildung und Kommunikation	Εκπαίδευση και επικοινωνία
+Wissenschaft	Επιστήμες
+Unternehmen und Wettbewerb	Επιχειρήσεις και ανταγωνισμός
+Beschäftigung und Arbeitsbedingungen	Απασχόληση και συνθήκες εργασίας
+Verkehr	Μεταφορές
+Umwelt	Περιβάλλον
+Land-, Forst- und Fischereiwirtschaft	Γεωργία, δασοκομία και αλιεία
+Agrarerzeugnisse und Lebensmittel	Γεωργικά τρόφιμα
+Produktion, Technologie und Forschung	Παραγωγή, τεχνολογία και έρευνα
+Energie	Ενέργεια
+Industrie	Βιομηχανία
+Geografie	Γεωγραφία
+Internationale Organisationen	Διεθνείς οργανισμοί
+Wenig Licht – Lampe einschalten	Λίγο φως – άναμμα φακού
+Verarbeitung mehrfach abgebrochen	Η επεξεργασία διακόπηκε επανειλημμένα
+Bearbeitungen gehen verloren	Οι επεξεργασίες θα χαθούν
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Η σελίδα δημιουργείται ξανά από τη φωτογραφία. Οι αποκρύψεις, η υπογραφή και οι σημειώσεις πρέπει να προστεθούν ξανά.
+Neu zuschneiden	Νέα περικοπή
+Sprachdaten	Γλωσσικά δεδομένα
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Δείχνει πόσο χώρο καταλαμβάνουν οι σαρώσεις, οι αρχικές φωτογραφίες, ο κάδος, η προσωρινή μνήμη και τα γλωσσικά δεδομένα (αναγνώριση κειμένου, γλωσσάρια).
+Bitte warten, bis alle Seiten erkannt sind	Περιμένετε μέχρι να αναγνωριστούν όλες οι σελίδες
+Die Sprache „%s“ kann nicht übersetzt werden	Η γλώσσα «%s» δεν μπορεί να μεταφραστεί
+Übersetzung in die Seiten setzen	Τοποθέτηση της μετάφρασης στις σελίδες

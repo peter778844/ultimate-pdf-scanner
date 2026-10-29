@@ -1,0 +1,41 @@
+Ultimate PDF Scanner – Hardwarevoraussetzungen (Empfehlung)
+Stand: 29.10.2026, gemessen mit der Version dieses Datums
+
+MINDESTENS (die App läuft, aber langsam)
+- Android 8.0 (API 26) oder neuer
+- Prozessor: 2 Kerne, 64 Bit (arm64-v8a) – 32-Bit-ARM (armeabi-v7a) und x86_64 werden ebenfalls unterstützt
+- Arbeitsspeicher: 2 GB RAM
+- Speicherplatz: 400 MB frei (App ca. 160 MB, Rest für Scans)
+- Kamera: Rückkamera mit Autofokus, mind. 8 Megapixel
+
+EMPFOHLEN (flüssiges Arbeiten)
+- Android 11 oder neuer
+- Prozessor: 6–8 Kerne (Mittelklasse ab ca. 2021)
+- Arbeitsspeicher: 6 GB RAM oder mehr
+- Speicherplatz: 2 GB frei
+- Kamera: 12 Megapixel oder mehr mit Autofokus
+
+GEMESSENE VERARBEITUNGSZEITEN (aufgeschlagenes Buch, 12-MP-Foto, 2 Seiten inkl. Texterkennung)
+- Xiaomi 17T Pro (Android 16, 8 Kerne):                 ca. 25–40 s pro Foto, PDF-Seite ca. 9 s
+- Emulator Android 11, 4 Kerne, 3 GB RAM:               ca. 26 s pro Foto,    PDF-Seite ca. 10 s
+- Emulator Android 8.0, 2 Kerne, 1,5 GB RAM:            ca. 120 s pro Foto,   PDF-Seite ca. 15 s
+  (Emulatoren laufen auf einem PC-Prozessor; echte Geräte gleicher Ausstattung sind meist langsamer.)
+
+WIE SICH DIE APP AN DAS GERÄT ANPASST
+- Bis 4 Kerne oder unter 3 GB RAM: Start mit Scan-Qualität „Schnell“ (5 MP) statt „Standard“ (12 MP).
+- Unter 6 GB RAM: speichersparende Texterkennung (ca. 20 % langsamer, dafür ca. 650 MB weniger Speicher).
+- Anzahl gleichzeitig verarbeiteter Fotos nach Kernen und freiem Speicher (1–3); bei Speichermangel
+  automatisch nur noch ein Foto; bei Überhitzung (ab Android 10) ebenfalls nur noch ein Foto.
+
+SPEICHERBEDARF IM BETRIEB
+- Pro Foto ca. 2–4 MB (Original) plus ca. 1–2 MB pro Seite.
+- Zusätzliche OCR-Sprachen: 9–15 MB je Sprache, Chinesisch-Paket 17 MB.
+- Übersetzung: ca. 30 MB je Sprache (einmaliger Download).
+- Scan-Qualität „Maximal“ (bis 50 MP): deutlich mehr Speicher und Rechenzeit, nur für Geräte mit 8 GB RAM oder mehr sinnvoll.
+
+INTERNET
+- Nicht nötig für Scannen, Texterkennung (Deutsch, Englisch und die mitgelieferten Sprachen) und Export.
+- Nur für einmalige Downloads: weitere OCR-Sprachen, Übersetzungsmodelle, Import über einen Link.
+
+OPTIONAL
+- Bluetooth-Fernauslöser (z. B. „AB Shutter 3“) zum freihändigen Scannen von Büchern.

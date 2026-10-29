@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Fillimisht konfiguro gjurmën e gishtit, shkyçjen me fytyrë ose kyçjen e ekranit.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Kjo pajisje nuk mbështet shkyçjen biometrike.
+Ultimate PDF Scanner entsperren	Shkyç Ultimate PDF Scanner
+Deine Scans sind geschützt	Skanimet e tua janë të mbrojtura
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner është i kyçur
+Deine Scans bleiben auf diesem Gerät.	Skanimet e tua mbeten në këtë pajisje.
+  Entsperren	  Shkyç
+Systemsprache	Gjuha e sistemit
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importo foto
+Texterkennung vorbereiten	Po përgatitet njohja e tekstit
+Ein Foto konnte nicht verarbeitet werden: %s	Një foto nuk u përpunua dot: %s
+Foto laden	Ngarko foton
+Foto nicht lesbar	Fotoja nuk lexohet
+Filter anwenden	Zbato filtrin
+Schwärzen	Fshih
+Unterschrift einfügen	Fut nënshkrimin
+Unterschrift eingefügt	Nënshkrimi u fut
+Änderungen einfügen	Fut ndryshimet
+Seite bearbeitet	Faqja u redaktua
+Text gesichert	Teksti u ruajt
+Zusammenführen	Bashko
+%d Scans zusammengeführt	Skanime të bashkuara: %d
+Seiten verschieben	Zhvendos faqet
+Seiten kopieren	Kopjo faqet
+ (Teil)	 (pjesë)
+Zwischenspeicher leeren	Pastro memorien e përkohshme
+Zwischenspeicher geleert	Memoria e përkohshme u pastrua
+Originalfotos entfernen	Hiq fotot origjinale
+Sicherung erstellen	Krijo kopje rezervë
+Sicherung erstellen (%d/%d)	Krijo kopje rezervë (%d/%d)
+Sicherung gespeichert	Kopja rezervë u ruajt
+Sicherung wiederherstellen	Rikthe kopjen rezervë
+ (%d schon vorhanden)	 (%d ekzistojnë tashmë)
+Wiederherstellen fehlgeschlagen: %s	Rikthimi dështoi: %s
+PDF erstellen (%d/%d)	Po krijohet PDF (%d/%d)
+%s erstellen	Po krijohet: %s
+Export fehlgeschlagen: %s	Eksportimi dështoi: %s
+%s speichern	Ruaj: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF u ruajt (i mbrojtur me fjalëkalim, AES-256)
+%s gespeichert	U ruajt: %s
+Bilder speichern	Ruaj imazhet
+Bilder speichern (%d/%d)	Ruaj imazhet (%d/%d)
+%d Bilder gespeichert	Imazhe të ruajtura: %d
+Sprache erkennen	Dallo gjuhën
+Kein erkannter Text zum Übersetzen	Nuk ka tekst të njohur për përkthim
+Sprache nicht erkannt	Gjuha nuk u njoh
+Der Text ist bereits auf %s	Teksti është tashmë në: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Po ngarkohet modeli i gjuhës (herën e parë ~30 MB)
+Übersetzen (%d/%d)	Përkthim (%d/%d)
+Seite %d	Faqja %d
+Übersetzung fehlgeschlagen: %s	Përkthimi dështoi: %s
+1 Bereich unkenntlich gemacht	U fsheh 1 zonë
+%d Bereiche unkenntlich gemacht	Zona të fshehura: %d
+1 Scan wiederhergestellt	U rikthye 1 skanim
+%d Scans wiederhergestellt	Skanime të rikthyera: %d
+Server antwortet mit %d	Serveri përgjigjet me %d
+Datei unvollständig	Skedari është i paplotë
+Nicht gefunden	Nuk u gjet
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Skanime në telefon: %d · drejtpërdrejt përmes Wi-Fi, pa cloud
+Ausgangssprache „%s“ wird nicht unterstützt	Gjuha burimore «%s» nuk mbështetet
+Zielsprache „%s“ wird nicht unterstützt	Gjuha e synuar «%s» nuk mbështetet
+QR-CODE	KOD QR
+AUSWEIS	LETËRNJOFTIM
+DOKUMENT	DOKUMENT
+BUCH	LIBËR
+VISITENKARTE	KARTËVIZITË
+PASSFOTO	FOTO PASAPORTE
+PDF	PDF
+Word	Word
+Bilder	Imazhe
+ZIP	ZIP
+Text	Tekst
+Excel	Excel
+CSV	CSV
+Kontakt	Kontakt
+Wie gescannt	Siç u skanua
+Letter	Letter
+Mittel	Mesatare
+Englisch	Anglisht
+Französisch	Frëngjisht
+Italienisch	Italisht
+Spanisch	Spanjisht
+Portugiesisch	Portugalisht
+Niederländisch	Holandisht
+Polnisch	Polonisht
+Tschechisch	Çekisht
+Dänisch	Danisht
+Schwedisch	Suedisht
+Norwegisch	Norvegjisht
+Finnisch	Finlandisht
+Ungarisch	Hungarisht
+Rumänisch	Rumanisht
+Kroatisch	Kroatisht
+Türkisch	Turqisht
+Griechisch	Greqisht
+Russisch	Rusisht
+Ukrainisch	Ukrainisht
+Arabisch	Arabisht
+Hebräisch	Hebraisht
+Persisch	Persisht
+Chinesisch (vereinfacht)	Kinezisht (e thjeshtuar)
+Japanisch	Japonisht
+Koreanisch	Koreanisht
+Latein	Latinisht
+Deutsch (Fraktur)	Gjermanisht (Fraktur)
+1 Seite	1 faqe
+%d Seiten	%d faqe
+1 Scan	1 skanim
+%d Scans	%d skanime
+Abbrechen	Anulo
+Bearbeiten	Redakto
+Zurück	Prapa
+Rückgängig	Zhbëj
+Sichern	Ruaj
+Seite	Faqja
+Einfügen	Fut
+Änderungen sichern?	Të ruhen ndryshimet?
+Verwerfen	Hidh poshtë
+Schließen	Mbyll
+Fertig	U krye
+Öffnen	Hap
+Keine	Asnjë
+Alle	Të gjitha
+Umbenennen	Riemërto
+Mehr	Më shumë
+Löschen	Fshi
+Teilen	Ndaj
+Speichern	Ruaj
+Drucken	Printo
+Kopieren	Kopjo
+Drehen	Rrotullo
+Laden	Shkarko
+Entfernen	Hiq
+Verschieben	Zhvendos
+Name	Emri
+Aus	Joaktiv
+Leeren	Zbraz
+Wiederherstellen	Rikthe
+Text einfügen	Fut tekst
+z. B. Name, Datum …	p.sh. emër, datë …
+Kein Gesicht erkannt – bitte noch einmal	Nuk u njoh asnjë fytyrë – provo përsëri
+Seite erneut scannen	Skano sërish faqen
+Fernauslöser verbunden	Telekomanda u lidh
+Nach dem Umblättern auslösen	Shkrep pas kthimit të faqes
+Leserichtung rechts nach links	Drejtimi i leximit nga e djathta në të majtë
+Leserichtung links nach rechts	Drejtimi i leximit nga e majta në të djathtë
+Automatisch auslösen	Shkrepje automatike
+Kamera wechseln	Ndrysho kamerën
+Licht	Drita
+Bitte Kamerazugriff erlauben.	Lejo qasjen në kamerë.
+Passfoto wird zugeschnitten …	Po pritet fotoja e pasaportës …
+Ohne Rückseite fertig	U krye pa anën e pasme
+Kein Code im Bild gefunden	Nuk u gjet asnjë kod në imazh
+Aus Galerie	Nga galeria
+QR-Code oder Barcode in den Rahmen halten	Mbaj kodin QR ose barkodin brenda kornizës
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Fytyra në oval · shiko drejt · sfond i çelët
+Vorderseite des Ausweises in den Rahmen	Ana e përparme e letërnjoftimit në kornizë
+Jetzt die Rückseite	Tani ana e pasme
+Visitenkarte in den Rahmen legen	Vendose kartëvizitën në kornizë
+Aufgeschlagenes Buch ins Bild halten	Mbaje librin e hapur në kuadër
+Doppelseite erkannt	U njoh faqe e dyfishtë
+Umblättern – löst danach automatisch aus	Ktheje faqen – pastaj shkrep automatikisht
+Ruhig halten …	Mbaje të palëvizur …
+Ruhig halten – wird automatisch ausgelöst	Mbaje të palëvizur – do të shkrepë automatikisht
+Seite ins Bild halten	Mbaje faqen në kuadër
+Seite erkannt	Faqja u njoh
+Intervall-Timer	Kohëmatës me interval
+Serie starten	Nis serinë
+Farbe	Ngjyra
+Graustufen	Shkallë gri
+Schwarz-Weiß	Bardhë e zi
+Original	Origjinal
+Automatisch	Automatike
+Zuschnitt nicht möglich	Prerja nuk është e mundur
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Fotoja origjinale e kësaj faqeje u hoq për të kursyer hapësirë. Me «Skano sërish» faqja mund të fotografohet përsëri.
+Zuschnitt anpassen	Rregullo prerjen
+Übernehmen	Zbato
+Einzelseite	Faqe e vetme
+Doppelseite	Faqe e dyfishtë
+Auto	Auto
+  Automatisch	  Automatike
+Ecken auf die Seitenränder ziehen	Tërhiq qoshet te skajet e faqes
+Seiten ordnen	Rendit faqet
+%d ausgewählt	%d të zgjedhura
+Filter für alle Seiten	Filtër për të gjitha faqet
+Leserichtung umkehren	Kthe drejtimin e leximit
+Übersetzen…	Përkthe…
+Scan löschen	Fshi skanimin
+Scannen	Skano
+Import	Importo
+Ordnen	Rendit
+Exportieren	Eksporto
+Übersetzen in …	Përkthe në …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Përkthimi bëhet në pajisje. Herën e parë modeli i gjuhës shkarkohet një herë.
+Übersetzung teilen	Ndaj përkthimin
+Scan löschen?	Të fshihet skanimi?
+„%s“ wird endgültig gelöscht.	«%s» do të fshihet përgjithmonë.
+Kontakt erkannt	Kontakti u njoh
+Zu Kontakten	Te kontaktet
+Seiten werden verarbeitet (%d/%d)	Po përpunohen faqet (%d/%d)
+Nur diese	Vetëm këto
+Wird neu verarbeitet	Po ripërpunohet
+Erneut	Sërish
+Fehlgeschlagen	Dështoi
+Foto nicht verarbeitet	Fotoja nuk u përpunua
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Ndodhi një gabim gjatë përpunimit të imazhit.
+Keine Auffälligkeiten	Pa vërejtje
+Erneut scannen	Skano sërish
+Ersetzt beide Seiten dieser Doppelseite	Zëvendëson të dyja faqet e kësaj faqeje të dyfishtë
+Kamera öffnen und diese Seite ersetzen	Hap kamerën dhe zëvendëso këtë faqe
+Nach vorn	Përpara
+Nach hinten	Prapa
+Seite löschen	Fshi faqen
+Foto entfernen	Hiq foton
+1 Seite verschoben	U zhvendos 1 faqe
+%d Seiten verschoben	Faqe të zhvendosura: %d
+1 Seite kopiert	U kopjua 1 faqe
+%d Seiten kopiert	Faqe të kopjuara: %d
+1 Seite löschen?	Të fshihet 1 faqe?
+%d Seiten löschen?	Të fshihen %d faqe?
+1 Seite prüfen	Kontrollo 1 faqe
+%d Seiten prüfen	Kontrollo %d faqe
+Seite löschen?	Të fshihet faqja?
+Durchsuchbares PDF mit erkanntem Text	PDF i kërkueshëm me tekst të njohur
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Tekst i redaktueshëm për Word, LibreOffice dhe Google Docs
+Die Seite als JPG-Bild	Faqja si imazh JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Një imazh JPG për faqe (%d skedarë)
+Alle Seiten als JPG und der Text in einem Archiv	Të gjitha faqet si JPG dhe teksti në një arkiv
+Nur der erkannte Text	Vetëm teksti i njohur
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tabela të njohura, një fletë për faqe
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tabela të njohura si CSV (pikëpresje, për Excel)
+Visitenkarte als Kontakt (vCard)	Kartëvizitë si kontakt (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Ana e përparme dhe e pasme në madhësi reale në një faqe – gati për printim
+Seitenformat	Formati i faqes
+Mit Passwort schützen	Mbro me fjalëkalim
+AES-256-Verschlüsselung	Enkriptim AES-256
+Passwort	Fjalëkalimi
+Mindestens 4 Zeichen	Të paktën 4 karaktere
+Passwort wiederholen	Përsërit fjalëkalimin
+Passwörter stimmen nicht überein	Fjalëkalimet nuk përputhen
+Seitenbilder einfügen	Fut imazhet e faqeve
+Jede Seite als Bild über ihrem Text	Çdo faqe si imazh mbi tekstin e saj
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Kolonat njihen nga hapësirat në tekst – funksionon më mirë me kolona qartësisht të ndara. Numrat si «1.234,50» merren si numra.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Në këtë kartë nuk u njohën të dhëna kontakti.
+1 ausgewählte Seite	1 faqe e zgjedhur
+%d ausgewählte Seiten	%d faqe të zgjedhura
+Mobil	Celular
+Fax	Faks
+Telefon	Telefon
+%s teilen	Ndaj: %s
+Scan	Skanim
+Text teilen	Ndaj tekstin
+PDF teilen	Ndaj PDF-në
+In den Papierkorb verschoben	U zhvendos në kosh
+%d Scans in den Papierkorb verschoben	Skanime të zhvendosura në kosh: %d
+Auswahl beenden	Përfundo zgjedhjen
+Alle auswählen	Zgjidh të gjitha
+In Ordner verschieben	Zhvendos në dosje
+Ordner	Dosjet
+Ordner umbenennen	Riemërto dosjen
+Ordner auflösen	Shpërbëj dosjen
+Papierkorb (%d)	Koshi (%d)
+Papierkorb	Koshi
+An PC senden	Dërgo në kompjuter
+Speicher & Sicherung	Hapësira ruajtëse dhe kopja rezervë
+Einstellungen	Cilësimet
+Scans und Text durchsuchen	Kërko në skanime dhe tekst
+Alle Scans durchsuchen	Kërko në të gjitha skanimet
+Suche löschen	Pastro kërkimin
+%d Treffer	%d rezultate
+Alle Scans	Të gjitha skanimet
+Nichts gefunden	Nuk u gjet asgjë
+Weder ein Name noch ein erkannter Text passt zu „%s“.	As emri e as teksti i njohur nuk përputhet me «%s».
+Ordner ist leer	Dosja është bosh
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Zhvendos skanime këtu: shtyp gjatë një skanim dhe zgjidh «Zhvendos në dosje».
+Noch keine Scans	Ende pa skanime
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Prek «Skano» për të fotografuar faqe,\nose importo foto nga galeria.
+Ordnername	Emri i dosjes
+Neuer Ordner	Dosje e re
+%d Scans zusammenführen?	Të bashkohen %d skanime?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Të gjitha faqet i shtohen «%s» sipas radhës së zgjedhjes. Skanimet e tjera më pas zhduken.
+%d prüfen	Kontrollo %d
+Wird verarbeitet (%d/%d)	Po përpunohet (%d/%d)
+Als PDF teilen	Ndaj si PDF
+Kategorie ändern	Ndrysho kategorinë
+Kein Ordner	Pa dosje
+Neuer Ordner …	Dosje e re …
+Kategorie	Kategoria
+Download fehlgeschlagen: %s	Shkarkimi dështoi: %s
+keine Verbindung	pa lidhje
+Sprachen der Texterkennung	Gjuhët e njohjes së tekstit
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Gjuhët e zgjedhura njihen së bashku – zgjidh vetëm ato që duhen, secila shtesë e ngadalëson njohjen. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Gjuhët që mungojnë shkarkohen një herë (rreth 2–15 MB) dhe më pas punojnë pa internet.
+Wird geladen … %d %%	Po shkarkohet … %d %%
+Enthalten	E përfshirë
+Geladen · %s	E shkarkuar · %s
+Nicht geladen	E pashkarkuar
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Prek për të zgjedhur · mbaj shtypur dhe tërhiq për ta zhvendosur
+Neuer Scan	Skanim i ri
+Verschieben nach …	Zhvendos te …
+Kopieren nach …	Kopjo te …
+Seite %d von %d	Faqja %d nga %d
+Filter	Filtri
+Zuschnitt	Prerja
+Signieren	Nënshkruaj
+Code	Kodi
+Link	Lidhje
+E-Mail	Email
+Telefonnummer	Numri i telefonit
+Ort	Vendi
+Produktcode	Kodi i produktit
+Netzwerk: %s	Rrjeti: %s
+Passwort: %s	Fjalëkalimi: %s
+Verschlüsselung: %s	Enkriptimi: %s
+Passwort kopieren	Kopjo fjalëkalimin
+Verbinden	Lidhu
+E-Mail schreiben	Shkruaj email
+Anrufen	Telefono
+In Karten öffnen	Hap në Harta
+Suche sensible Daten…	Po kërkohen të dhëna të ndjeshme…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Nuk u gjet asgjë e ndjeshme. Shëno me gisht zonat për t’u fshehur.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	U gjetën – prek për ta zgjedhur ose hequr, shëno zona të tjera:
+Schwarzer Balken	Shirit i zi
+Verpixeln	Pikselizo
+Unkenntlich machen (%d)	Fshih (%d)
+Manuell	Manualisht
+Gesicht	Fytyrë
+Kein WLAN	Pa Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Lidh telefonin dhe kompjuterin në të njëjtin rrjet Wi-Fi (ose kompjuterin te hotspot-i i telefonit). Adresa do të shfaqet këtu.
+Am PC im Browser öffnen	Hape në shfletuesin e kompjuterit
+QR-Code der Adresse	Kodi QR i adresës
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Shkruaj adresën ose skano kodin QR me kamerën e kompjuterit. Aty mund t’i shkarkosh të gjitha skanimet si PDF ose tekst.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Vetëm në rrjetin lokal dhe vetëm sa kohë që ky ekran është i hapur. Asgjë nuk ngarkohet në internet.
+Heruntergeladen	U shkarkua
+App-Sperre nicht möglich	Kyçja e aplikacionit nuk është e mundur
+Sprache	Gjuha
+Sprache der App	Gjuha e aplikacionit
+Aufnahme	Fotografimi
+Doppelseiten im Dokument-Modus	Faqe të dyfishta në modalitetin dokument
+Automatisch teilen	Ndaj automatikisht
+Nie teilen	Mos ndaj kurrë
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Fotografon sapo faqja qëndron e palëvizur në kuadër.
+Buch-Modus	Modaliteti libër
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Njeh kthimin e faqes dhe fotografon sapo libri qëndron sërish i palëvizur.
+Leserichtung	Drejtimi i leximit
+Links → rechts	Majtas → djathtas
+Rechts → links	Djathtas → majtas
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Djathtas → majtas për arabisht, hebraisht, persisht dhe japonisht: faqja e djathtë vjen e para.
+Fernauslöser	Telekomanda
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Çifto telekomandën Bluetooth për kamerën (p.sh. «AB Shutter 3») te cilësimet Bluetooth të Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Në kamerë më pas shkrepin telekomanda dhe butonat e volumit.
+Bild	Imazhi
+Standardfilter	Filtri i parazgjedhur
+Handschrift entfernen	Hiq shkrimin me dorë
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Heq shënimet me stilolaps blu/të kuq dhe laps. Heq edhe shtypin në këto ngjyra.
+Texterkennung	Njohja e tekstit
+Sprachen	Gjuhët
+Sicherheit & Speicher	Siguria dhe hapësira
+App-Sperre	Kyçja e aplikacionit
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Në hapje shkyç me gjurmë gishti, fytyrë ose kyçje ekrani. Përmbajtja nuk shfaqet te pamja e aplikacioneve.
+Belegung, Backup als ZIP, Wiederherstellen	Hapësira e zënë, kopje rezervë si ZIP, rikthim
+Gelöschte Scans werden nach 30 Tagen entfernt	Skanimet e fshira hiqen pas 30 ditësh
+Offline	Pa internet
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Të gjitha fotot dhe tekstet mbeten në këtë pajisje. Interneti përdoret vetëm për shkarkimin e njëhershëm të gjuhëve, kur e nis ti.
+Über	Rreth
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Komponente me burim të hapur: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (të gjitha me licencë Apache 2.0); ML Kit (përkthim, njohje fytyre, në pajisje).
+Unterschrift zeichnen	Vizato nënshkrimin
+Mit dem Finger unterschreiben	Nënshkruaj me gisht
+Unterschrift platzieren	Vendos nënshkrimin
+Neu zeichnen	Vizato sërish
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Zhvendos me një gisht, ndrysho madhësinë me dy gishta.
+Unterschrift	Nënshkrimi
+Belegt von Ultimate PDF Scanner	E zënë nga Ultimate PDF Scanner
+%s frei auf dem Gerät	%s të lira në pajisje
+Seiten	Faqet
+Originalfotos	Fotot origjinale
+Zwischenspeicher	Memoria e përkohshme
+Platz schaffen	Liro hapësirë
+Exportierte Dateien zum Teilen	Skedarë të eksportuar për ndarje
+Gelöschte Scans der letzten 30 Tage	Skanime të fshira në 30 ditët e fundit
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Faqet e gatshme mbeten, por prerja më pas nuk mund të ndryshohet.
+Größte Scans	Skanimet më të mëdha
+Sicherung	Kopja rezervë
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Ruaji të gjitha skanimet në një skedar ZIP – p.sh. në kartë SD, USB ose kompjuter. Asgjë nuk ngarkohet.
+Papierkorb mitsichern	Përfshi edhe koshin
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-kopje-rezerve_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Gjatë rikthimit shtohen vetëm skanimet që mungojnë.
+Originalfotos entfernen?	Të hiqen fotot origjinale?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Kursen %s. Faqet më pas nuk mund të priten sërish, «Skano sërish» mbetet e mundur.
+Text bearbeiten · Seite %d	Redakto tekstin · faqja %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Korrigjimet hyjnë në kërkim dhe në shtresën e tekstit të PDF-së.
+Kein Text erkannt – hier eintippen	Nuk u njoh tekst – shkruaje këtu
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Skanimet e fshira hiqen përgjithmonë pas %d ditësh.
+Papierkorb ist leer	Koshi është bosh
+Endgültig löschen	Fshi përgjithmonë
+Papierkorb leeren?	Të zbrazet koshi?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d skanime do të fshihen përgjithmonë. Kjo nuk mund të zhbëhet.
+Endgültig löschen?	Të fshihet përgjithmonë?
+„%s“ wird sofort gelöscht.	«%s» do të fshihet menjëherë.
+noch 1 Tag	edhe 1 ditë
+noch %d Tage	edhe %d ditë
+Quittung	Kupon
+Quittungen	Kupona
+Rechnung	Faturë
+Rechnungen	Fatura
+Visitenkarte	Kartëvizitë
+Visitenkarten	Kartëvizita
+Vertrag	Kontratë
+Verträge	Kontrata
+Brief	Letër
+Briefe	Letra
+Ausweis	Letërnjoftim
+Ausweise	Letërnjoftime
+Buch	Libër
+Bücher	Libra
+Passfoto	Foto pasaporte
+Passfotos	Foto pasaporte
+Dokument	Dokument
+Dokumente	Dokumente
+Auflösung	Rezolucioni
+Kompression	Ngjeshja
+Gering	E ulët
+Stark	E fortë
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi dhe ngjeshje e ulët për printim dhe arkiv, 150 dpi dhe ngjeshje e fortë për email.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	I bën PDF-të të kërkueshme dhe tekstin të kopjueshëm. Joaktiv: përpunim më i shpejtë, PDF vetëm si imazh.
+Keine Seite erkannt	Nuk u njoh faqe
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Skaji i faqes nuk u gjet – u mor e gjithë fotoja.
+Unscharf	E paqartë
+Das Foto ist verwackelt oder unscharf.	Fotoja është e lëvizur ose e paqartë.
+Zu dunkel	Shumë e errët
+Die Seite ist schlecht ausgeleuchtet.	Faqja është e ndriçuar dobët.
+Text schlecht lesbar	Teksti lexohet keq
+Die Texterkennung war unsicher.	Njohja e tekstit ishte e pasigurt.
+Kein Text erkannt	Nuk u njoh tekst
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Në faqe nuk u gjet tekst – faqe bosh apo asnjë faqe në imazh?
+Hindi	Hindisht
+Bengalisch	Bengalisht
+Urdu	Urdu
+Indonesisch	Indonezisht
+Seite erkennen	Dallo faqen
+Seite entzerren	Drejto faqen
+Finger entfernen	Hiq gishtat
+Schärfe prüfen	Kontrollo mprehtësinë
+Ausrichtung	Orientimi
+Bild verbessern	Përmirëso imazhin
+Speicherort	Vendndodhja e ruajtjes
+Speicherort für Exporte	Vendndodhja e ruajtjes për eksportet
+Jedes Mal fragen	Pyet çdo herë
+Ordner wählen …	Zgjidh dosjen …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	«Ruaj» i vendos PDF-të dhe eksportet e tjera drejtpërdrejt në këtë dosje, pa pyetur çdo herë. Mund të jetë edhe kartë SD.
+Gespeichert in „%s“	U ruajt në «%s»
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Vendndodhja e ruajtjes nuk arrihet. Zgjidhe përsëri.
+Neu aufnehmen	Fotografo sërish
+Um 90° links drehen	Rrotullo 90° majtas
+Seite gelöscht	Faqja u fshi
+Lange drücken: neu aufnehmen, drehen oder löschen	Shtyp gjatë: fotografo sërish, rrotullo ose fshi
+Ersetzt beide Seiten	Zëvendëson të dyja faqet
+Ränder bereinigen	Pastro skajet
+Scan-Qualität	Cilësia e skanimit
+Schnell	E shpejtë
+Standard	Standarde
+Genau	E saktë
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Për shkrim të madh e të qartë si letra dhe printime: foto më të vogla, përpunimi më i shpejtë.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Për libra dhe shumicën e dokumenteve: njohje e mirë me shpejtësi normale.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Për shkronja të vogla, libra të vjetër, shënime fundi dhe formula: rezolucion i plotë i kamerës, më ngadalë, më shumë memorie.
+BILD	IMAZH
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Vendose imazhin rrafsh · pa blic · shmang reflektimet
+an	aktiv
+aus	joaktiv
+Automatische Auslösung an: nach dem Umblättern	Shkrepja automatike aktive: pas kthimit të faqes
+Automatische Auslösung an: sobald die Seite ruhig liegt	Shkrepja automatike aktive: sapo faqja të qëndrojë e palëvizur
+Automatische Auslösung aus	Shkrepja automatike joaktive
+PDF & Export	PDF dhe eksport
+Speicherort für PDFs und Bilder	Vendndodhja e ruajtjes për PDF dhe imazhe
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Gjatë eksportimit kjo mund të ndryshohet për skedarë të veçantë.
+Weitere Optionen …	Më shumë opsione …
+Automatische Verbesserung	Përmirësim automatik
+Schatten und Artefakte entfernen, Schrift schärfen	Hiq hijet dhe defektet, mpreh shkrimin
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Hiq hijet dhe defektet, mpreh shkrimin. Mund të çaktivizohet në çdo dokument.
+unkorrigiert	pa korrigjim
+Maximal	Maksimale
+Bildqualität	Cilësia e imazhit
+volle Auflösung	rezolucion i plotë
+Briefe, Ausdrucke, große Schrift	Letra, printime, shkrim i madh
+Bücher und die meisten Dokumente (empfohlen)	Libra dhe shumica e dokumenteve (rekomandohet)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Shkronja të vogla, formula, libra të vjetër – më ngadalë
+Gilt auch für alle weiteren Scans.	Vlen edhe për të gjitha skanimet e ardhshme.
+Ändern	Ndrysho
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Ku i vendos «Ruaj» eksportet e tua. «Ndaj» nuk varet nga kjo.
+Ordner und Dateiname beim Speichern wählen	Zgjidh dosjen dhe emrin e skedarit gjatë ruajtjes
+Exporte landen direkt hier	Eksportet shkojnë drejtpërdrejt këtu
+Anderen Ordner wählen …	Zgjidh një dosje tjetër …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Edhe kartë SD dhe dosje cloud, nëse janë konfiguruar në pajisje.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Qasja e përhershme në këtë dosje nuk është e mundur.
+Sehr hohe Auflösung	Rezolucion shumë i lartë
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Me %d MP përpunimi i çdo faqeje zgjat shumë më tepër dhe kërkon shumë memorie. Për shumicën e dokumenteve mjafton «Standarde». «Maksimale» ia vlen vetëm për shkronja shumë të vogla.
+Trotzdem verwenden	Përdore gjithsesi
+langsam	ngadalë
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Nuk ka telekomandë të lidhur – çiftoje te cilësimet Bluetooth
+Mit dem Fernauslöser auslösen	Shkrep me telekomandë
+Umblättern	Kthim faqeje
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Përfundon fotografimin. Faqet e fotografuara tashmë ruhen dhe përpunohen.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Ndez ose fik elektrikun e dorës. Letrën me shkëlqim është më mirë ta fotografosh pa dritë dhe pjerrtas ndaj dritares.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Përdor foto ekzistuese në vend të fotografimeve të reja.
+Serie	Seri
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Nis ose ndal serinë: kohëmatësi atëherë bën automatikisht një foto çdo disa sekonda.
+Auslöser	Shkrepësi
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Bën një foto. Edhe butonat e volumit dhe një telekomandë Bluetooth shkrepin.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Përfundon fotografimin dhe hap përmbledhjen; numri tregon fotot e këtij fotografimi.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Sa piksel ka çdo foto. E shpejtë (5 MP) për shkrim të madh, Standarde (12 MP) pothuajse për gjithçka, Maksimale për shkronja të vogla dhe formula – zgjat më shumë.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Prek për të ndryshuar: joaktiv, 3, 5 ose 10 sekonda. Shkrepësi atëherë nis një seri me një foto në këtë interval – praktike për libra.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Fotografon vetëm kur prek shkrepësin.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fotografon vetë sapo faqja qëndron e palëvizur 0,7 sekonda. Në modalitetin libër: pas çdo kthimi faqeje, sapo libri të qëndrojë sërish i palëvizur.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Fotografon me telekomandë Bluetooth (p.sh. «AB Shutter 3»). Fillimisht çifto telekomandën te cilësimet Bluetooth të telefonit.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	I jep dokumentit një emër të vetin; përdoret edhe si emër skedari gjatë eksportimit.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Kthe drejtimin e leximit të faqeve të dyfishta, përkthe në pajisje ose fshi skanimin.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Hap kamerën dhe i shton faqe të reja këtij dokumenti.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Merr foto nga galeria si faqe të reja; ato priten dhe njihen si fotot e kamerës.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Ndrysho radhën duke tërhequr; zgjidh faqe për t’i rrotulluar, zhvendosur, kopjuar, nxjerrë ose fshirë.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Ndaj, ruaj ose printo si PDF, Word, imazhe, ZIP, tekst ose tabelë.
+Farbe, Graustufen, Schwarz-Weiß	Ngjyra, shkallë gri, bardhë e zi
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Ndryshon të gjitha faqet e këtij dokumenti. Bardhë e zi jep skedarët më të vegjël, ngjyra riprodhon besnikërisht ilustrimet dhe vulat.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Aktiv: hijet, njollat dhe defektet hiqen dhe shkrimi bëhet më kontrastues. Joaktiv: faqet vetëm priten dhe drejtohen – për foto, vizatime ose kur përmirësimi shtrembëron diçka.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Krijon skedarin dhe ia jep një aplikacioni, p.sh. email-it, mesazheve ose cloud-it.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	E vendos skedarin në vendndodhjen e ruajtjes – në dosjen fikse ose, me «Pyet çdo herë», aty ku e vendos ti.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Printon përmes shërbimit të printimit të Android; aty mund të zgjidhet edhe «Ruaj si PDF».
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Ku i vendos «Ruaj» skedarët: pyet çdo herë ose gjithmonë në një dosje fikse, edhe në kartë SD ose dosje cloud.
+Hilfe & Anleitung	Ndihmë dhe udhëzime
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Këshillë: mbaj shtypur një buton për një sekondë për të parë çfarë bën.
+Startseite	Kreu
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Hap kamerën. Të gjitha fotot e një fotografimi shkojnë në një dokument të përbashkët.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Ikona e galerisë mbi «Skano» merr foto ekzistuese; ato priten dhe njihen si fotot e kamerës.
+Suchen	Kërko
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Gjen skanime sipas emrit dhe tekstit të njohur, me numrin e faqes.
+Ordner und Kategorien	Dosjet dhe kategoritë
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Dosjet grupojnë skanimet. Kategoritë (libra, kupona …) shfaqen vetë sapo ka skanime të atij lloji.
+Mehrere Scans	Disa skanime
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Shtyp gjatë një skanim: zgjidh, bashko, zhvendos në dosje ose fshi.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Skanimet e fshira mbeten 30 ditë në kosh (menyja ⋮) dhe mund të rikthehen.
+Modi	Modalitetet
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Zgjidh poshtë: Dokument (fletë të veçanta), Libër (faqet e dyfishta ndahen në dy), Letërnjoftim (ana e përparme dhe e pasme në madhësi reale në një fletë), Kartëvizitë (kontakti njihet), Imazh (ngjyra besnike, pa njohje teksti), Foto pasaporte (kamera e përparme, 35 × 45 mm) dhe kod QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Lart majtas: E shpejtë (5 MP) për shkrim të madh, Standarde (12 MP) pothuajse për gjithçka, Maksimale për shkronja të vogla dhe formula – më ngadalë.
+Auslösung	Shkrepja
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manualisht: me shkrepësin. Auto 0,7 s: sapo faqja qëndron e palëvizur 0,7 sekonda; në modalitetin libër pas çdo kthimi faqeje. Bluetooth: me telekomandë të çiftuar. Butonat e volumit shkrepin gjithmonë.
+Timer und Licht	Kohëmatësi dhe drita
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Ikona e orës bën një foto çdo 3, 5 ose 10 sekonda (nisja me shkrepësin). Blici ndez elektrikun e dorës.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Prek miniaturën poshtë djathtas: faqet përpunohen dhe hapet përmbledhja.
+Gute Fotos	Foto të mira
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Vendose faqen rrafsh dhe të ndriçuar njëtrajtësisht, mbaje telefonin paralel. Një sipërfaqe me ngjyrë të ndryshme nga letra ndihmon në prerje.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Vlen për të gjitha faqet e dokumentit. Faqet e veçanta mund të caktohen ndryshe te pamja e faqes.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Heq hijet dhe defektet dhe e bën shkrimin më kontrastues. Kur çaktivizohet, faqja vetëm pritet dhe drejtohet.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Prekja hap faqen. Shtypja e gjatë: fotografo sërish, rrotullo ose fshi. Faqet e shënuara me portokalli duhen kontrolluar (p.sh. të paqarta), të kuqet kanë dështuar.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Ndrysho radhën duke tërhequr, rrotullo disa faqe, zhvendosi ose kopjoji në një dokument tjetër ose nxirri si dokument të ri.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, imazhe, ZIP, tekst ose tabelë – ndaj, ruaj ose printo.
+Mehr (⋮)	Më shumë (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Kthe drejtimin e leximit të faqeve të dyfishta, përkthe në pajisje ose fshi skanimin. Lapsi lart ndryshon emrin.
+Seitenansicht	Pamja e faqes
+Blättern und Zoomen	Shfletim dhe zmadhim
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Rrëshqit për të ndryshuar faqen; prek dy herë ose përdor dy gishta për zmadhim.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Ngjyra, shkallë gri ose bardhë e zi vetëm për këtë faqe, me pamje paraprake. Poshtë saj përmirësimi automatik i kësaj faqeje.
+Drehen und Zuschnitt	Rrotullim dhe prerje
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Rrotullim 90°. Prerje: vendos përsëri qoshet e faqes në foton origjinale.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Shkruaj në faqe me stilolaps, theksues ose tekst.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Bëji të palexueshme të dhënat e ndjeshme – me shirita ose të pikselizuara. Propozohen numra llogarish, kartash dhe fytyra.
+Signieren und Text	Nënshkrim dhe tekst
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Nënshkruaj fut nënshkrimin tënd të ruajtur. Tekst tregon tekstin e njohur për korrigjim dhe kopjim.
+Formate	Formatet
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (i kërkueshëm), Word, imazhe (JPG), ZIP, tekst, Excel ose CSV; për kartëvizitat edhe si kontakt.
+PDF-Optionen	Opsionet e PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Formati i faqes, rezolucioni dhe ngjeshja përcaktojnë cilësinë dhe madhësinë e skedarit – madhësia vlerësohet lart djathtas. Opsionalisht me fjalëkalim (AES-256).
+Teilen oder Speichern	Ndaj apo ruaj
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Ndaj e dërgon skedarin te një aplikacion (email, mesazhe …). Ruaj e vendos në vendndodhjen e ruajtjes.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	«Pyet çdo herë» hap zgjedhjen e dosjes gjatë ruajtjes. Me një dosje fikse eksportet shkojnë aty pa pyetur – edhe në kartë SD ose dosje cloud.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Printon përmes shërbimit të printimit të Android ose ruan si PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Cilësia e imazhit, shkrepja dhe ndarja e faqeve të dyfishta për skanimet e reja. Në kamerë mund të ndryshohen në çdo kohë.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtri dhe përmirësimi automatik me të cilët nisin dokumentet e reja.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	I bën PDF-të të kërkueshme. Gjuhët përcaktojnë cilat shkronja njihen.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Vendndodhja e ruajtjes dhe vlerat e parazgjedhura për rezolucionin, ngjeshjen dhe formatin e faqes.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Kyçja e aplikacionit me gjurmë gishti, kopje rezervë si ZIP dhe koshi.
+Ecken setzen	Cakto qoshet
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Tërhiq katër qoshet te skajet e faqes; zmadhuesi tregon të zmadhuar vendin nën gisht.
+Einzel- oder Doppelseite	Faqe e vetme apo e dyfishtë
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Zgjidh poshtë nëse fotoja tregon një faqe apo një faqe të dyfishtë të hapur. Automatike e lë aplikacionin të vendosë.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Shenja e zgjedhjes lart e përpunon faqen me prerjen e re.
+Werkzeuge	Mjetet
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Stilolaps për të shkruar, theksues për të shënuar, tekst për shënime të shtypura. Ngjyrat janë poshtë.
+Korrigieren	Korrigjo
+Rückgängig nimmt den letzten Strich zurück.	Zhbëj heq vijën e fundit.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	I shkruan ndryshimet në faqe. Pa ruajtur, faqja mbetet e pandryshuar.
+Vorschläge	Sugjerime
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Numrat e gjetur të llogarive, kartave, numrat tatimorë dhe fytyrat janë të shënuara – prek për t’i hequr ose zgjedhur sërish.
+Eigene Bereiche	Zona të veta
+Mit dem Finger weitere Rechtecke aufziehen.	Shëno me gisht drejtkëndësha të tjerë.
+Balken oder Pixel	Shirita apo piksel
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Shirit i zi ose pikselizim. Teksti poshtë hiqet edhe nga njohja e tekstit dhe nga PDF-ja.
+Zeichnen	Vizato
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Nënshkruaj një herë me gisht – nënshkrimi ruhet në pajisje.
+Platzieren	Vendos
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Zhvendos me një gisht, ndrysho madhësinë me dy, pastaj fute.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Ikona e lapsit lart zëvendëson nënshkrimin e ruajtur.
+Text bearbeiten	Redakto tekstin
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Teksti i njohur i faqes është poshtë dhe mund të ndryshohet. Lart është imazhi i faqes për krahasim.
+Wirkung	Efekti
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Korrigjimet hyjnë në kërkim, në shtresën e tekstit të PDF-së dhe në eksportet Word dhe tekst.
+Holt einen gelöschten Scan zurück.	Rikthen një skanim të fshirë.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skanimet hiqen automatikisht pas 30 ditësh. «Zbraz» fshin gjithçka menjëherë.
+Belegung	Hapësira e zënë
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Tregon sa hapësirë zënë skanimet, fotot origjinale, koshi dhe memoria e përkohshme.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Heqja e fotove origjinale kursen shumë hapësirë; faqet e gatshme mbeten, vetëm prerja nuk mund të ndryshohet më.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Ruaji të gjitha skanimet si skedar ZIP dhe riktheji në këtë ose në një pajisje tjetër. Asgjë nuk ngarkohet.
+Auswahl	Zgjedhja
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Zgjidh gjuhët e dokumenteve të tua. Çdo gjuhë shtesë e ngadalëson njohjen.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Gjuhët që mungojnë shkarkohen një herë dhe pastaj punojnë pa internet.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Lidh telefonin dhe kompjuterin në të njëjtin rrjet Wi-Fi (ose kompjuterin te hotspot-i i telefonit).
+Herunterladen	Shkarko
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Hap adresën e shfaqur në shfletuesin e kompjuterit ose skano kodin QR; aty mund t’i shkarkosh të gjitha skanimet si PDF ose tekst.
+Sicherheit	Siguria
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Funksionon vetëm në rrjetin lokal dhe vetëm sa kohë që ky ekran është i hapur.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Gjuha, cilësia e imazhit, shkrepja, njohja e tekstit, vendndodhja e ruajtjes, kyçja e aplikacionit dhe kopja rezervë.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Merr foto nga galeria si dokument të ri; ato priten dhe njihen si fotot e kamerës.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Hap kamerën. Të gjitha fotot e një fotografimi shkojnë në një dokument të përbashkët.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Fshin këtë faqe nga dokumenti (pas konfirmimit).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Ngjyra, shkallë gri ose bardhë e zi dhe përmirësimi automatik vetëm për këtë faqe.
+Dreht die Seite um 90° im Uhrzeigersinn.	E rrotullon faqen 90° në drejtim të akrepave të orës.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Vendos përsëri qoshet e faqes në foton origjinale nëse mungon një skaj ose duket sfondi.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Bëji të palexueshme të dhënat e ndjeshme me shirita ose piksel; ato zhduken edhe nga teksti i PDF-së.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Vendos nënshkrimin tënd të ruajtur në faqe; herën e parë e vizaton.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Tregon tekstin e njohur të faqes për korrigjim dhe kopjim.
+Fotografiert beim Tippen auf den Auslöser.	Fotografon kur prek shkrepësin.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Fotografon sapo faqja qëndron e palëvizur 0,7 s; në modalitetin libër pas çdo kthimi faqeje.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Fotografon me një telekomandë Bluetooth të çiftuar.
+Lautstärketasten lösen immer aus.	Butonat e volumit shkrepin gjithmonë.
+Word erstellen, Formeln erkennen (%d/%d)	Po krijohet Word, po njihen formulat (%d/%d)
+Belarussisch	Bjellorusisht
+Bulgarisch	Bullgarisht
+Serbisch	Serbisht
+Mazedonisch	Maqedonisht
+Kein Link im geteilten Text	Nuk ka lidhje në tekstin e ndarë
+Import fehlgeschlagen: %s	Importimi dështoi: %s
+Link laden	Po ngarkohet lidhja
+Unter dem Link liegt keine PDF- oder Bilddatei.	Lidhja nuk të çon te një skedar PDF ose figurë.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Mund të importohen vetëm skedarë PDF dhe figura.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Skedarët PDF të mbrojtur nuk mund të importohen.
+PDF-Seite %d/%d importieren	Po importohet faqja PDF %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Fotografo pas %s s
+Wartezeit	Koha e pritjes
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Sa kohë duhet të qëndrojë faqja e palëvizur para fotos automatike. Më shkurt është më shpejt, më gjatë jep më pak foto të turbullta.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Bën vetë foton sapo faqja të jetë e palëvizur; kohën e pritjes (0,2–1,5 s) e cakton më poshtë. Në modalitetin libër: pas çdo kthimi faqeje, sapo libri të jetë sërish i palëvizur.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Shton foto, pamje ekrani, skedarë PDF ose një lidhje si faqe të tjera; fotot priten, gjithçka njihet.
+Senden an …	Dërgo te …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Ku i vendos „Ruaj“ eksportet. „Dërgo te …“ nuk varet nga kjo.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Zgjidh një nëndosje, p.sh. „Documents“ – Android nuk e lejon dosjen kryesore të hapësirës.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Krijon skedarin dhe e dërgon te një aplikacion, p.sh. WhatsApp, email, Telegram ose re.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuale: me butonin e shkrepjes. Auto: sapo faqja të jetë e palëvizur – kohën e pritjes (0,2–1,5 s, standarde 0,7 s) e cakton në dritaren e skanimit nën çelësin; në modalitetin libër pas çdo kthimi faqeje. Bluetooth: me telekomandë të çiftuar. Butonat e volumit shkrepin gjithmonë.
+Senden an oder Speichern	Dërgo ose ruaj
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Dërgo te …“ e dërgon skedarin te një aplikacion (WhatsApp, email, Telegram, re …). Ruaj e vendos në vendndodhjen e ruajtjes.
+Importieren	Importo
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Merr foto, pamje ekrani, skedarë PDF ose një lidhje si dokument të ri; fotot priten, gjithçka njihet.
+Bilder aus der Galerie	Figura nga galeria
+Fotos und Screenshots	Foto dhe pamje ekrani
+Dateien	Skedarë
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Skedarë PDF dhe figura, p.sh. nga Shkarkimet ose reja
+Eine PDF- oder Bilddatei aus dem Internet	Një skedar PDF ose figurë nga interneti
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Pastaj si faqet e skanuara: njohje teksti, përkthim dhe eksport në çdo format.
+Link importieren	Importo lidhje
+Internetadresse	Adresë uebi
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Fotografon sapo faqja të jetë e palëvizur për %s s (rregullohet në dritaren e skanimit); në modalitetin libër pas çdo kthimi faqeje.
+Fachwörterbuch laden	Po ngarkohet fjalori
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Mungon fjalori për %s ose %s – u përkthye pa terma të specializuar
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Nuk është skedar fjalori (glossary-xx.tsv.gz)
+Download nicht verfügbar	Shkarkimi nuk është i disponueshëm
+Estnisch	Estonisht
+Irisch	Irlandisht
+Litauisch	Lituanisht
+Lettisch	Letonisht
+Maltesisch	Maltisht
+Slowakisch	Sllovakisht
+Slowenisch	Sllovenisht
+Ohne Fachwörterbuch	Pa fjalor
+Alle Fachgebiete	Të gjitha fushat
+Fachgebiet: %s	Fusha: %s
+Fachwörterbücher verwalten …	Menaxho fjalorët …
+Fachwörterbücher	Fjalorë të specializuar
+Aus Datei importieren	Importo nga skedari
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Termat e specializuar nga drejtësia, mjekësia, teknika, ekonomia dhe 17 fusha të tjera (IATE, baza terminologjike e BE-së) ruhen saktësisht gjatë përkthimit. Duhet fjalori i gjuhës burim dhe i gjuhës së synuar, secili 0,3–9 MB.
+Einmal laden, danach offline.	Shkarko një herë, pastaj pa internet.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importo skedarët glossary-xx.tsv.gz me ikonën e dosjes lart.
+Fachwörterbücher für die Übersetzung	Fjalorë të specializuar për përkthim
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Drejtësi, mjekësi, teknikë dhe më shumë – 24 gjuhë të BE-së
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Të gjitha fotot dhe tekstet mbeten në këtë pajisje. Interneti përdoret vetëm për shkarkimin një herë të gjuhëve, modeleve të përkthimit dhe fjalorëve, kur e nis ti.
+Übersetzen	Përkthe
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Krijon në pajisje një kopje të përkthyer të dokumentit: të njëjtat faqe dhe figura, teksti në gjuhën e synuar në vendin e vet. Çdo paragraf përkthehet nga gjuha e vet. Me „Fushën“, termat e specializuar nga fjalorët merren saktësisht.
+Was nachgeladen werden kann	Çfarë mund të shkarkohet
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Gjithçka është fakultative dhe shkarkohet vetëm kur prek; pastaj punon pa internet:\n• Gjuhët e njohjes së tekstit: 1–15 MB secila (Cilësimet › Gjuhët). Gjermanishtja dhe anglishtja përfshihen.\n• Kinezisht: model njohjeje më vete, rreth 17 MB.\n• Modelet e përkthimit: rreth 30 MB për gjuhë, shkarkohen automatikisht me përkthimin e parë.\n• Fjalorët e specializuar: 0,3–9 MB për gjuhë, rreth 70 MB për të 24 gjuhët e BE-së (Cilësimet › Fjalorë të specializuar).\nSkedarët e shkarkuar mund të hiqen në çdo kohë.
+Wozu	Për çfarë
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Përkthyesit e përgjithshëm nuk njohin shumë terma ose i përkthejnë në mënyrë jokonsekuente. Fjalori fut termin e caktuar, p.sh. «Beweislast» → «barra e provës».
+Quelle	Burimi
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, baza terminologjike e institucioneve të BE-së, me terma nga 21 fusha (drejtësi, shëndetësi, teknikë, ekonomi, mjedis, transport …). Ekziston për 24 gjuhët zyrtare të BE-së.
+Was nötig ist	Çfarë duhet
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Një fjalor për gjuhën burim dhe një për gjuhën e synuar, p.sh. gjermanisht dhe anglisht. Një fjalor për gjuhë mjafton për të gjitha çiftet.
+Laden oder importieren	Shkarko ose importo
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Shkarko me shigjetën (një herë, pastaj pa internet) ose importo një skedar «glossary-xx.tsv.gz» me ikonën e dosjes, p.sh. nga kompjuteri ose karta SD.
+Benutzen	Përdorimi
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Gjatë përkthimit zgjidh fushën lart. «Të gjitha fushat» përdor vetëm terma që përkthehen njësoj kudo.
+Grenzen	Kufizimet
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Termat futen në formën bazë; format e lakuara nuk njihen gjithmonë.
+Politik	Politikë
+Internationale Beziehungen	Marrëdhënie ndërkombëtare
+Europäische Union	Bashkimi Evropian
+Recht	Drejtësi
+Wirtschaft	Ekonomi
+Handel	Tregti
+Finanzwesen	Financa
+Soziales und Gesundheit	Çështje sociale dhe shëndetësi
+Bildung und Kommunikation	Arsim dhe komunikim
+Wissenschaft	Shkencë
+Unternehmen und Wettbewerb	Biznes dhe konkurrencë
+Beschäftigung und Arbeitsbedingungen	Punësim dhe kushte pune
+Verkehr	Transport
+Umwelt	Mjedis
+Land-, Forst- und Fischereiwirtschaft	Bujqësi, pylltari dhe peshkim
+Agrarerzeugnisse und Lebensmittel	Produkte agroushqimore
+Produktion, Technologie und Forschung	Prodhim, teknologji dhe kërkim
+Energie	Energji
+Industrie	Industri
+Geografie	Gjeografi
+Internationale Organisationen	Organizata ndërkombëtare
+Wenig Licht – Lampe einschalten	Dritë e pakët – ndiz llambën
+Verarbeitung mehrfach abgebrochen	Përpunimi u ndërpre disa herë
+Bearbeitungen gehen verloren	Ndryshimet do të humbasin
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Faqja krijohet sërish nga fotoja. Fshehjet, nënshkrimi dhe shënimet duhet të shtohen përsëri.
+Neu zuschneiden	Prit sërish
+Sprachdaten	Të dhëna gjuhësore
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Tregon sa hapësirë zënë skanimet, fotot origjinale, koshi, memoria e përkohshme dhe të dhënat gjuhësore (njohja e tekstit, fjalorët).
+Bitte warten, bis alle Seiten erkannt sind	Prisni derisa të njihen të gjitha faqet
+Die Sprache „%s“ kann nicht übersetzt werden	Gjuha „%s“ nuk mund të përkthehet
+Übersetzung in die Seiten setzen	Vendosja e përkthimit në faqe

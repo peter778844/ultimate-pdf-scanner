@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	कृपया पहले फ़िंगरप्रिंट, फ़ेस अनलॉक या स्क्रीन लॉक सेट करें।
+Dieses Gerät unterstützt keine biometrische Entsperrung.	यह डिवाइस बायोमेट्रिक अनलॉक का समर्थन नहीं करता।
+Ultimate PDF Scanner entsperren	Ultimate PDF Scanner अनलॉक करें
+Deine Scans sind geschützt	आपके स्कैन सुरक्षित हैं
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner लॉक है
+Deine Scans bleiben auf diesem Gerät.	आपके स्कैन इसी डिवाइस पर रहते हैं।
+  Entsperren	  अनलॉक करें
+Systemsprache	सिस्टम की भाषा
+Deutsch	जर्मन
+English	अंग्रेज़ी
+Fotos importieren	फ़ोटो इंपोर्ट करें
+Texterkennung vorbereiten	टेक्स्ट पहचान तैयार हो रही है
+Ein Foto konnte nicht verarbeitet werden: %s	एक फ़ोटो प्रोसेस नहीं हो सकी: %s
+Foto laden	फ़ोटो लोड हो रही है
+Foto nicht lesbar	फ़ोटो पढ़ी नहीं जा सकती
+Filter anwenden	फ़िल्टर लगाया जा रहा है
+Schwärzen	छिपाएँ
+Unterschrift einfügen	हस्ताक्षर जोड़ा जा रहा है
+Unterschrift eingefügt	हस्ताक्षर जोड़ा गया
+Änderungen einfügen	बदलाव लागू हो रहे हैं
+Seite bearbeitet	पेज संपादित किया गया
+Text gesichert	टेक्स्ट सहेजा गया
+Zusammenführen	मिलाएँ
+%d Scans zusammengeführt	स्कैन मिलाए गए: %d
+Seiten verschieben	पेज ले जाए जा रहे हैं
+Seiten kopieren	पेज कॉपी हो रहे हैं
+ (Teil)	 (भाग)
+Zwischenspeicher leeren	कैश साफ़ करें
+Zwischenspeicher geleert	कैश साफ़ हो गया
+Originalfotos entfernen	मूल फ़ोटो हटाएँ
+Sicherung erstellen	बैकअप बनाया जा रहा है
+Sicherung erstellen (%d/%d)	बैकअप बनाया जा रहा है (%d/%d)
+Sicherung gespeichert	बैकअप सहेजा गया
+Sicherung wiederherstellen	बैकअप रीस्टोर हो रहा है
+ (%d schon vorhanden)	 (पहले से मौजूद: %d)
+Wiederherstellen fehlgeschlagen: %s	रीस्टोर विफल: %s
+PDF erstellen (%d/%d)	PDF बन रहा है (%d/%d)
+%s erstellen	%s बन रहा है
+Export fehlgeschlagen: %s	एक्सपोर्ट विफल: %s
+%s speichern	%s सहेजा जा रहा है
+PDF gespeichert (passwortgeschützt, AES-256)	PDF सहेजा गया (पासवर्ड से सुरक्षित, AES-256)
+%s gespeichert	%s सहेजा गया
+Bilder speichern	चित्र सहेजे जा रहे हैं
+Bilder speichern (%d/%d)	चित्र सहेजे जा रहे हैं (%d/%d)
+%d Bilder gespeichert	चित्र सहेजे गए: %d
+Sprache erkennen	भाषा पहचानी जा रही है
+Kein erkannter Text zum Übersetzen	अनुवाद के लिए कोई पहचाना गया टेक्स्ट नहीं
+Sprache nicht erkannt	भाषा पहचानी नहीं गई
+Der Text ist bereits auf %s	टेक्स्ट पहले से %s में है
+Sprachmodell laden (beim ersten Mal ~30 MB)	भाषा मॉडल लोड हो रहा है (पहली बार ~30 MB)
+Übersetzen (%d/%d)	अनुवाद हो रहा है (%d/%d)
+Seite %d	पेज %d
+Übersetzung fehlgeschlagen: %s	अनुवाद विफल: %s
+1 Bereich unkenntlich gemacht	1 हिस्सा छिपाया गया
+%d Bereiche unkenntlich gemacht	छिपाए गए हिस्से: %d
+1 Scan wiederhergestellt	1 स्कैन रीस्टोर हुआ
+%d Scans wiederhergestellt	रीस्टोर हुए स्कैन: %d
+Server antwortet mit %d	सर्वर का जवाब: %d
+Datei unvollständig	फ़ाइल अधूरी है
+Nicht gefunden	नहीं मिला
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	फ़ोन पर स्कैन: %d · सीधे Wi-Fi से, बिना क्लाउड
+Ausgangssprache „%s“ wird nicht unterstützt	स्रोत भाषा “%s” समर्थित नहीं है
+Zielsprache „%s“ wird nicht unterstützt	लक्ष्य भाषा “%s” समर्थित नहीं है
+QR-CODE	QR कोड
+AUSWEIS	पहचान पत्र
+DOKUMENT	दस्तावेज़
+BUCH	किताब
+VISITENKARTE	विज़िटिंग कार्ड
+PASSFOTO	पासपोर्ट फ़ोटो
+PDF	PDF
+Word	Word
+Bilder	चित्र
+ZIP	ZIP
+Text	टेक्स्ट
+Excel	Excel
+CSV	CSV
+Kontakt	संपर्क
+Wie gescannt	जैसा स्कैन हुआ
+Letter	Letter
+Mittel	मध्यम
+Englisch	अंग्रेज़ी
+Französisch	फ़्रेंच
+Italienisch	इतालवी
+Spanisch	स्पेनिश
+Portugiesisch	पुर्तगाली
+Niederländisch	डच
+Polnisch	पोलिश
+Tschechisch	चेक
+Dänisch	डेनिश
+Schwedisch	स्वीडिश
+Norwegisch	नॉर्वेजियन
+Finnisch	फ़िनिश
+Ungarisch	हंगेरियन
+Rumänisch	रोमानियाई
+Kroatisch	क्रोएशियाई
+Türkisch	तुर्की
+Griechisch	यूनानी
+Russisch	रूसी
+Ukrainisch	यूक्रेनी
+Arabisch	अरबी
+Hebräisch	हिब्रू
+Persisch	फ़ारसी
+Chinesisch (vereinfacht)	चीनी (सरलीकृत)
+Japanisch	जापानी
+Koreanisch	कोरियाई
+Latein	लैटिन
+Deutsch (Fraktur)	जर्मन (फ़्रैक्टूर)
+1 Seite	1 पेज
+%d Seiten	पेज: %d
+1 Scan	1 स्कैन
+%d Scans	स्कैन: %d
+Abbrechen	रद्द करें
+Bearbeiten	संपादित करें
+Zurück	वापस
+Rückgängig	पहले जैसा करें
+Sichern	सहेजें
+Seite	पेज
+Einfügen	जोड़ें
+Änderungen sichern?	बदलाव सहेजें?
+Verwerfen	छोड़ दें
+Schließen	बंद करें
+Fertig	हो गया
+Öffnen	खोलें
+Keine	कोई नहीं
+Alle	सभी
+Umbenennen	नाम बदलें
+Mehr	और
+Löschen	हटाएँ
+Teilen	शेयर करें
+Speichern	सहेजें
+Drucken	प्रिंट करें
+Kopieren	कॉपी करें
+Drehen	घुमाएँ
+Laden	डाउनलोड करें
+Entfernen	हटाएँ
+Verschieben	ले जाएँ
+Name	नाम
+Aus	बंद
+Leeren	खाली करें
+Wiederherstellen	वापस लाएँ
+Text einfügen	टेक्स्ट जोड़ें
+z. B. Name, Datum …	जैसे नाम, तारीख …
+Kein Gesicht erkannt – bitte noch einmal	कोई चेहरा नहीं मिला – कृपया फिर से कोशिश करें
+Seite erneut scannen	पेज फिर से स्कैन करें
+Fernauslöser verbunden	रिमोट शटर जुड़ा है
+Nach dem Umblättern auslösen	हर पेज पलटने के बाद फ़ोटो लें
+Leserichtung rechts nach links	पढ़ने का क्रम दाएँ से बाएँ
+Leserichtung links nach rechts	पढ़ने का क्रम बाएँ से दाएँ
+Automatisch auslösen	अपने-आप फ़ोटो
+Kamera wechseln	कैमरा बदलें
+Licht	लाइट
+Bitte Kamerazugriff erlauben.	कृपया कैमरे की अनुमति दें।
+Passfoto wird zugeschnitten …	पासपोर्ट फ़ोटो काटी जा रही है …
+Ohne Rückseite fertig	पिछले भाग के बिना पूरा करें
+Kein Code im Bild gefunden	चित्र में कोई कोड नहीं मिला
+Aus Galerie	गैलरी से
+QR-Code oder Barcode in den Rahmen halten	QR कोड या बारकोड को फ़्रेम में रखें
+Gesicht ins Oval · gerade schauen · heller Hintergrund	चेहरा अंडाकार में · सीधे देखें · हल्की पृष्ठभूमि
+Vorderseite des Ausweises in den Rahmen	पहचान पत्र का अगला भाग फ़्रेम में रखें
+Jetzt die Rückseite	अब पिछला भाग
+Visitenkarte in den Rahmen legen	विज़िटिंग कार्ड को फ़्रेम में रखें
+Aufgeschlagenes Buch ins Bild halten	खुली किताब को कैमरे के सामने रखें
+Doppelseite erkannt	दोहरा पेज पहचाना गया
+Umblättern – löst danach automatisch aus	पेज पलटें – उसके बाद अपने-आप फ़ोटो
+Ruhig halten …	स्थिर रखें …
+Ruhig halten – wird automatisch ausgelöst	स्थिर रखें – अपने-आप फ़ोटो ली जाएगी
+Seite ins Bild halten	पेज को कैमरे के सामने रखें
+Seite erkannt	पेज पहचाना गया
+Intervall-Timer	अंतराल टाइमर
+Serie starten	सीरीज़ शुरू करें
+Farbe	रंगीन
+Graustufen	ग्रेस्केल
+Schwarz-Weiß	श्वेत-श्याम
+Original	मूल
+Automatisch	स्वचालित
+Zuschnitt nicht möglich	काटना संभव नहीं
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	जगह बचाने के लिए इस पेज की मूल फ़ोटो हटा दी गई है। पेज दोबारा लेने के लिए “फिर से स्कैन करें” चुनें।
+Zuschnitt anpassen	कटाई समायोजित करें
+Übernehmen	लागू करें
+Einzelseite	एक पेज
+Doppelseite	दोहरा पेज
+Auto	ऑटो
+  Automatisch	  स्वचालित
+Ecken auf die Seitenränder ziehen	कोनों को पेज के किनारों तक खींचें
+Seiten ordnen	पेज व्यवस्थित करें
+%d ausgewählt	चुने गए: %d
+Filter für alle Seiten	सभी पेजों के लिए फ़िल्टर
+Leserichtung umkehren	पढ़ने का क्रम उलटें
+Übersetzen…	अनुवाद करें…
+Scan löschen	स्कैन हटाएँ
+Scannen	स्कैन करें
+Import	इंपोर्ट
+Ordnen	व्यवस्थित करें
+Exportieren	एक्सपोर्ट
+Übersetzen in …	इसमें अनुवाद करें …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	अनुवाद डिवाइस पर होता है। पहली बार भाषा मॉडल एक बार डाउनलोड होता है।
+Übersetzung teilen	अनुवाद शेयर करें
+Scan löschen?	स्कैन हटाएँ?
+„%s“ wird endgültig gelöscht.	“%s” हमेशा के लिए हटा दिया जाएगा।
+Kontakt erkannt	संपर्क पहचाना गया
+Zu Kontakten	संपर्कों में जोड़ें
+Seiten werden verarbeitet (%d/%d)	पेज प्रोसेस हो रहे हैं (%d/%d)
+Nur diese	केवल ये
+Wird neu verarbeitet	फिर से प्रोसेस हो रहा है
+Erneut	फिर से लें
+Fehlgeschlagen	विफल
+Foto nicht verarbeitet	फ़ोटो प्रोसेस नहीं हुई
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	चित्र प्रोसेसिंग में त्रुटि हुई।
+Keine Auffälligkeiten	कोई समस्या नहीं मिली
+Erneut scannen	फिर से स्कैन करें
+Ersetzt beide Seiten dieser Doppelseite	इस दोहरे पेज के दोनों पेज बदल देता है
+Kamera öffnen und diese Seite ersetzen	कैमरा खोलें और यह पेज बदलें
+Nach vorn	आगे ले जाएँ
+Nach hinten	पीछे ले जाएँ
+Seite löschen	पेज हटाएँ
+Foto entfernen	फ़ोटो हटाएँ
+1 Seite verschoben	1 पेज ले जाया गया
+%d Seiten verschoben	ले जाए गए पेज: %d
+1 Seite kopiert	1 पेज कॉपी हुआ
+%d Seiten kopiert	कॉपी हुए पेज: %d
+1 Seite löschen?	1 पेज हटाएँ?
+%d Seiten löschen?	पेज हटाएँ (%d)?
+1 Seite prüfen	1 पेज जाँचें
+%d Seiten prüfen	जाँचने वाले पेज: %d
+Seite löschen?	पेज हटाएँ?
+Durchsuchbares PDF mit erkanntem Text	पहचाने गए टेक्स्ट के साथ खोजने योग्य PDF
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Word, LibreOffice और Google Docs के लिए संपादन योग्य टेक्स्ट
+Die Seite als JPG-Bild	पेज JPG चित्र के रूप में
+Ein JPG-Bild pro Seite (%d Dateien)	हर पेज के लिए एक JPG चित्र (फ़ाइलें: %d)
+Alle Seiten als JPG und der Text in einem Archiv	सभी पेज JPG में और टेक्स्ट एक आर्काइव में
+Nur der erkannte Text	केवल पहचाना गया टेक्स्ट
+Erkannte Tabellen, ein Tabellenblatt pro Seite	पहचानी गई तालिकाएँ, हर पेज के लिए एक शीट
+Erkannte Tabellen als CSV (Semikolon, für Excel)	पहचानी गई तालिकाएँ CSV में (सेमीकोलन, Excel के लिए)
+Visitenkarte als Kontakt (vCard)	विज़िटिंग कार्ड संपर्क के रूप में (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	आगे और पीछे का भाग असली आकार में एक पेज पर – प्रिंट के लिए तैयार
+Seitenformat	पेज का आकार
+Mit Passwort schützen	पासवर्ड से सुरक्षित करें
+AES-256-Verschlüsselung	AES-256 एन्क्रिप्शन
+Passwort	पासवर्ड
+Mindestens 4 Zeichen	कम से कम 4 अक्षर
+Passwort wiederholen	पासवर्ड दोबारा लिखें
+Passwörter stimmen nicht überein	पासवर्ड मेल नहीं खाते
+Seitenbilder einfügen	पेज के चित्र जोड़ें
+Jede Seite als Bild über ihrem Text	हर पेज का चित्र उसके टेक्स्ट के ऊपर
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	कॉलम टेक्स्ट के खाली स्थानों से पहचाने जाते हैं – साफ़ अलग कॉलम के साथ सबसे अच्छा काम करता है। “1,234.50” जैसी संख्याएँ संख्या के रूप में रखी जाती हैं।
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	इस कार्ड पर कोई संपर्क जानकारी नहीं पहचानी गई।
+1 ausgewählte Seite	1 पेज चुना गया
+%d ausgewählte Seiten	चुने गए पेज: %d
+Mobil	मोबाइल
+Fax	फ़ैक्स
+Telefon	फ़ोन
+%s teilen	%s शेयर करें
+Scan	स्कैन
+Text teilen	टेक्स्ट शेयर करें
+PDF teilen	PDF शेयर करें
+In den Papierkorb verschoben	रीसायकल बिन में भेजा गया
+%d Scans in den Papierkorb verschoben	रीसायकल बिन में भेजे गए स्कैन: %d
+Auswahl beenden	चयन समाप्त करें
+Alle auswählen	सभी चुनें
+In Ordner verschieben	फ़ोल्डर में ले जाएँ
+Ordner	फ़ोल्डर
+Ordner umbenennen	फ़ोल्डर का नाम बदलें
+Ordner auflösen	फ़ोल्डर हटाएँ
+Papierkorb (%d)	रीसायकल बिन (%d)
+Papierkorb	रीसायकल बिन
+An PC senden	PC पर भेजें
+Speicher & Sicherung	स्टोरेज और बैकअप
+Einstellungen	सेटिंग्स
+Scans und Text durchsuchen	स्कैन और टेक्स्ट खोजें
+Alle Scans durchsuchen	सभी स्कैन खोजें
+Suche löschen	खोज साफ़ करें
+%d Treffer	परिणाम: %d
+Alle Scans	सभी स्कैन
+Nichts gefunden	कुछ नहीं मिला
+Weder ein Name noch ein erkannter Text passt zu „%s“.	कोई नाम या पहचाना गया टेक्स्ट “%s” से मेल नहीं खाता।
+Ordner ist leer	फ़ोल्डर खाली है
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	स्कैन यहाँ लाएँ: किसी स्कैन को देर तक दबाएँ और “फ़ोल्डर में ले जाएँ” चुनें।
+Noch keine Scans	अभी कोई स्कैन नहीं
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	पेजों की फ़ोटो लेने के लिए “स्कैन करें” दबाएँ,\nया गैलरी से फ़ोटो इंपोर्ट करें।
+Ordnername	फ़ोल्डर का नाम
+Neuer Ordner	नया फ़ोल्डर
+%d Scans zusammenführen?	स्कैन मिलाएँ (%d)?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	सभी पेज चुने गए क्रम में “%s” के अंत में जोड़े जाते हैं। बाकी स्कैन उसके बाद हटा दिए जाते हैं।
+%d prüfen	जाँचें: %d
+Wird verarbeitet (%d/%d)	प्रोसेस हो रहा है (%d/%d)
+Als PDF teilen	PDF के रूप में शेयर करें
+Kategorie ändern	श्रेणी बदलें
+Kein Ordner	कोई फ़ोल्डर नहीं
+Neuer Ordner …	नया फ़ोल्डर …
+Kategorie	श्रेणी
+Download fehlgeschlagen: %s	डाउनलोड विफल: %s
+keine Verbindung	कोई कनेक्शन नहीं
+Sprachen der Texterkennung	टेक्स्ट पहचान की भाषाएँ
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	चुनी गई भाषाएँ एक साथ पहचानी जाती हैं – केवल ज़रूरी भाषाएँ चुनें, हर भाषा पहचान को धीमा करती है।
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	ग़ायब भाषाएँ एक बार डाउनलोड होती हैं (लगभग 2–15 MB) और फिर ऑफ़लाइन चलती हैं।
+Wird geladen … %d %%	डाउनलोड हो रहा है … %d %%
+Enthalten	शामिल
+Geladen · %s	डाउनलोड हुआ · %s
+Nicht geladen	डाउनलोड नहीं हुआ
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	चुनने के लिए टैप करें · ले जाने के लिए दबाकर खींचें
+Neuer Scan	नया स्कैन
+Verschieben nach …	यहाँ ले जाएँ …
+Kopieren nach …	यहाँ कॉपी करें …
+Seite %d von %d	पेज %d / %d
+Filter	फ़िल्टर
+Zuschnitt	काटें
+Signieren	हस्ताक्षर करें
+Code	कोड
+Link	लिंक
+E-Mail	ईमेल
+Telefonnummer	फ़ोन नंबर
+Ort	स्थान
+Produktcode	उत्पाद कोड
+Netzwerk: %s	नेटवर्क: %s
+Passwort: %s	पासवर्ड: %s
+Verschlüsselung: %s	एन्क्रिप्शन: %s
+Passwort kopieren	पासवर्ड कॉपी करें
+Verbinden	कनेक्ट करें
+E-Mail schreiben	ईमेल लिखें
+Anrufen	कॉल करें
+In Karten öffnen	मैप में खोलें
+Suche sensible Daten…	संवेदनशील जानकारी खोजी जा रही है…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	कुछ संवेदनशील नहीं मिला। छिपाने वाले हिस्सों को उंगली से खींचकर चिह्नित करें।
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	मिला – चुनने/हटाने के लिए टैप करें, और हिस्से जोड़ने के लिए खींचें:
+Schwarzer Balken	काली पट्टी
+Verpixeln	पिक्सेलेट
+Unkenntlich machen (%d)	छिपाएँ (%d)
+Manuell	मैनुअल
+Gesicht	चेहरा
+Kein WLAN	Wi-Fi नहीं है
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	फ़ोन और PC को एक ही Wi-Fi से जोड़ें (या PC को फ़ोन के हॉटस्पॉट से)। फिर पता यहाँ दिखेगा।
+Am PC im Browser öffnen	PC के ब्राउज़र में खोलें
+QR-Code der Adresse	पते का QR कोड
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	पता लिखें या PC के कैमरे से QR कोड स्कैन करें। वहाँ सभी स्कैन PDF या टेक्स्ट के रूप में डाउनलोड किए जा सकते हैं।
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	केवल स्थानीय नेटवर्क में और केवल तब तक जब तक यह स्क्रीन खुली है। इंटरनेट पर कुछ भी अपलोड नहीं होता।
+Heruntergeladen	डाउनलोड हुआ
+App-Sperre nicht möglich	ऐप लॉक संभव नहीं
+Sprache	भाषा
+Sprache der App	ऐप की भाषा
+Aufnahme	फ़ोटो लेना
+Doppelseiten im Dokument-Modus	दस्तावेज़ मोड में दोहरे पेज
+Automatisch teilen	अपने-आप बाँटें
+Nie teilen	कभी न बाँटें
+Fotografiert, sobald die Seite ruhig im Bild liegt.	पेज के स्थिर होते ही फ़ोटो लेता है।
+Buch-Modus	किताब मोड
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	पेज पलटना पहचानता है और किताब के फिर से स्थिर होते ही फ़ोटो लेता है।
+Leserichtung	पढ़ने का क्रम
+Links → rechts	बाएँ → दाएँ
+Rechts → links	दाएँ → बाएँ
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	अरबी, हिब्रू, फ़ारसी और जापानी के लिए दाएँ → बाएँ: दायाँ पेज पहले आता है।
+Fernauslöser	रिमोट शटर
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Android की ब्लूटूथ सेटिंग में ब्लूटूथ कैमरा रिमोट (जैसे “AB Shutter 3”) पेयर करें।
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	फिर कैमरे में रिमोट और वॉल्यूम बटन से फ़ोटो ली जा सकती है।
+Bild	चित्र
+Standardfilter	डिफ़ॉल्ट फ़िल्टर
+Handschrift entfernen	हस्तलेख हटाएँ
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	नीले/लाल पेन और पेंसिल के नोट हटाता है। इन रंगों की छपाई भी हटाता है।
+Texterkennung	टेक्स्ट पहचान
+Sprachen	भाषाएँ
+Sicherheit & Speicher	सुरक्षा और स्टोरेज
+App-Sperre	ऐप लॉक
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	खोलते समय फ़िंगरप्रिंट, चेहरे या स्क्रीन लॉक से अनलॉक करें। हाल के ऐप्स की सूची में सामग्री छिपी रहती है।
+Belegung, Backup als ZIP, Wiederherstellen	उपयोग, ZIP में बैकअप, रीस्टोर
+Gelöschte Scans werden nach 30 Tagen entfernt	हटाए गए स्कैन 30 दिन बाद मिट जाते हैं
+Offline	ऑफ़लाइन
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	सभी फ़ोटो और टेक्स्ट इसी डिवाइस पर रहते हैं। इंटरनेट का उपयोग केवल आपके कहने पर भाषाएँ एक बार डाउनलोड करने के लिए होता है।
+Über	जानकारी
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	ओपन-सोर्स घटक: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (सभी Apache License 2.0); ML Kit (अनुवाद, चेहरा पहचान, डिवाइस पर)।
+Unterschrift zeichnen	हस्ताक्षर बनाएँ
+Mit dem Finger unterschreiben	उंगली से हस्ताक्षर करें
+Unterschrift platzieren	हस्ताक्षर रखें
+Neu zeichnen	फिर से बनाएँ
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	एक उंगली से खिसकाएँ, दो उंगलियों से आकार बदलें।
+Unterschrift	हस्ताक्षर
+Belegt von Ultimate PDF Scanner	Ultimate PDF Scanner द्वारा उपयोग
+%s frei auf dem Gerät	डिवाइस पर खाली जगह: %s
+Seiten	पेज
+Originalfotos	मूल फ़ोटो
+Zwischenspeicher	कैश
+Platz schaffen	जगह खाली करें
+Exportierte Dateien zum Teilen	शेयर करने के लिए एक्सपोर्ट की गई फ़ाइलें
+Gelöschte Scans der letzten 30 Tage	पिछले 30 दिनों में हटाए गए स्कैन
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	तैयार पेज बने रहते हैं, लेकिन कटाई अब बदली नहीं जा सकती।
+Größte Scans	सबसे बड़े स्कैन
+Sicherung	बैकअप
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	सभी स्कैन का एक ZIP फ़ाइल में बैकअप लें – जैसे SD कार्ड, USB स्टिक या PC पर। कुछ भी अपलोड नहीं होता।
+Papierkorb mitsichern	रीसायकल बिन भी शामिल करें
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Backup_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	रीस्टोर करते समय केवल ग़ायब स्कैन जोड़े जाते हैं।
+Originalfotos entfernen?	मूल फ़ोटो हटाएँ?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	%s बचेगा। इसके बाद पेज दोबारा काटे नहीं जा सकेंगे; “फिर से स्कैन करें” संभव रहेगा।
+Text bearbeiten · Seite %d	टेक्स्ट संपादित करें · पेज %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	सुधार खोज और PDF की टेक्स्ट परत में शामिल होते हैं।
+Kein Text erkannt – hier eintippen	कोई टेक्स्ट नहीं पहचाना गया – यहाँ लिखें
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	हटाए गए स्कैन %d दिन बाद हमेशा के लिए मिट जाते हैं।
+Papierkorb ist leer	रीसायकल बिन खाली है
+Endgültig löschen	हमेशा के लिए हटाएँ
+Papierkorb leeren?	रीसायकल बिन खाली करें?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	स्कैन (%d) हमेशा के लिए हटा दिए जाएँगे। इसे पहले जैसा नहीं किया जा सकता।
+Endgültig löschen?	हमेशा के लिए हटाएँ?
+„%s“ wird sofort gelöscht.	“%s” तुरंत हटा दिया जाएगा।
+noch 1 Tag	1 दिन बाकी
+noch %d Tage	बाकी दिन: %d
+Quittung	रसीद
+Quittungen	रसीदें
+Rechnung	बिल
+Rechnungen	बिल
+Visitenkarte	विज़िटिंग कार्ड
+Visitenkarten	विज़िटिंग कार्ड
+Vertrag	अनुबंध
+Verträge	अनुबंध
+Brief	पत्र
+Briefe	पत्र
+Ausweis	पहचान पत्र
+Ausweise	पहचान पत्र
+Buch	किताब
+Bücher	किताबें
+Passfoto	पासपोर्ट फ़ोटो
+Passfotos	पासपोर्ट फ़ोटो
+Dokument	दस्तावेज़
+Dokumente	दस्तावेज़
+Auflösung	रिज़ॉल्यूशन
+Kompression	कंप्रेशन
+Gering	कम
+Stark	ज़्यादा
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	प्रिंट और संग्रह के लिए 300 dpi और कम कंप्रेशन, ईमेल के लिए 150 dpi और ज़्यादा कंप्रेशन।
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	PDF को खोजने योग्य और टेक्स्ट को कॉपी करने योग्य बनाता है। बंद: तेज़ प्रोसेसिंग, PDF केवल चित्र के रूप में।
+Keine Seite erkannt	कोई पेज नहीं पहचाना गया
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	पेज का किनारा नहीं मिला – पूरी फ़ोटो इस्तेमाल की गई।
+Unscharf	धुंधला
+Das Foto ist verwackelt oder unscharf.	फ़ोटो हिली हुई या फ़ोकस से बाहर है।
+Zu dunkel	बहुत अंधेरा
+Die Seite ist schlecht ausgeleuchtet.	पेज पर रोशनी कम है।
+Text schlecht lesbar	टेक्स्ट पढ़ना कठिन
+Die Texterkennung war unsicher.	टेक्स्ट पहचान अनिश्चित थी।
+Kein Text erkannt	कोई टेक्स्ट नहीं पहचाना गया
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	पेज पर कोई टेक्स्ट नहीं मिला – खाली पेज है, या चित्र में कोई पेज ही नहीं है?
+Hindi	हिन्दी
+Bengalisch	बांग्ला
+Urdu	उर्दू
+Indonesisch	इंडोनेशियाई
+Seite erkennen	पेज पहचाना जा रहा है
+Seite entzerren	पेज सीधा किया जा रहा है
+Finger entfernen	उंगलियाँ हटाई जा रही हैं
+Schärfe prüfen	स्पष्टता जाँची जा रही है
+Ausrichtung	दिशा
+Bild verbessern	चित्र बेहतर किया जा रहा है
+Speicherort	सहेजने का स्थान
+Speicherort für Exporte	एक्सपोर्ट सहेजने का स्थान
+Jedes Mal fragen	हर बार पूछें
+Ordner wählen …	फ़ोल्डर चुनें …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	“सहेजें” PDF और अन्य एक्सपोर्ट को हर बार पूछे बिना सीधे इस फ़ोल्डर में रखता है। SD कार्ड भी चलेगा।
+Gespeichert in „%s“	“%s” में सहेजा गया
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	सहेजने का स्थान उपलब्ध नहीं है। कृपया फिर से चुनें।
+Neu aufnehmen	फिर से लें
+Um 90° links drehen	90° बाएँ घुमाएँ
+Seite gelöscht	पेज हटाया गया
+Lange drücken: neu aufnehmen, drehen oder löschen	देर तक दबाएँ: फिर से लें, घुमाएँ या हटाएँ
+Ersetzt beide Seiten	दोनों पेज बदलता है
+Ränder bereinigen	किनारे साफ़ किए जा रहे हैं
+Scan-Qualität	स्कैन गुणवत्ता
+Schnell	तेज़
+Standard	मानक
+Genau	सटीक
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	पत्र और प्रिंटआउट जैसे बड़े, साफ़ अक्षरों के लिए: छोटी फ़ोटो, सबसे तेज़ प्रोसेसिंग।
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	किताबों और ज़्यादातर दस्तावेज़ों के लिए: सामान्य गति पर अच्छी पहचान।
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	छोटे अक्षर, पुरानी किताबें, फ़ुटनोट और सूत्रों के लिए: कैमरे का पूरा रिज़ॉल्यूशन, धीमा, ज़्यादा मेमोरी।
+BILD	चित्र
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	चित्र को सपाट रखें · फ़्लैश नहीं · चमक से बचें
+an	चालू
+aus	बंद
+Automatische Auslösung an: nach dem Umblättern	स्वचालित कैप्चर चालू: पेज पलटने के बाद
+Automatische Auslösung an: sobald die Seite ruhig liegt	स्वचालित कैप्चर चालू: पेज स्थिर होते ही
+Automatische Auslösung aus	स्वचालित कैप्चर बंद
+PDF & Export	PDF और एक्सपोर्ट
+Speicherort für PDFs und Bilder	PDF और चित्रों का स्थान
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	एक्सपोर्ट करते समय इसे अलग-अलग फ़ाइलों के लिए बदला जा सकता है।
+Weitere Optionen …	और विकल्प …
+Automatische Verbesserung	स्वचालित सुधार
+Schatten und Artefakte entfernen, Schrift schärfen	छाया और गड़बड़ियाँ हटाएँ, टेक्स्ट को साफ़ करें
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	छाया और गड़बड़ियाँ हटाएँ, टेक्स्ट को साफ़ करें। हर दस्तावेज़ में अलग से बंद किया जा सकता है।
+unkorrigiert	बिना सुधार
+Maximal	अधिकतम
+Bildqualität	छवि गुणवत्ता
+volle Auflösung	पूरा रिज़ॉल्यूशन
+Briefe, Ausdrucke, große Schrift	पत्र, प्रिंटआउट, बड़े अक्षर
+Bücher und die meisten Dokumente (empfohlen)	किताबें और ज़्यादातर दस्तावेज़ (अनुशंसित)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	छोटे अक्षर, सूत्र, पुरानी किताबें – धीमा
+Gilt auch für alle weiteren Scans.	आगे के सभी स्कैन पर भी लागू होता है।
+Ändern	बदलें
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	“सहेजें” आपके एक्सपोर्ट कहाँ रखता है। “साझा करें” पर इसका असर नहीं होता।
+Ordner und Dateiname beim Speichern wählen	सहेजते समय फ़ोल्डर और फ़ाइल का नाम चुनें
+Exporte landen direkt hier	एक्सपोर्ट सीधे यहाँ सहेजे जाते हैं
+Anderen Ordner wählen …	दूसरा फ़ोल्डर चुनें …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	SD कार्ड और क्लाउड फ़ोल्डर भी, यदि डिवाइस पर सेट हैं।
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	इस फ़ोल्डर तक स्थायी पहुँच संभव नहीं है।
+Sehr hohe Auflösung	बहुत ऊँचा रिज़ॉल्यूशन
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	%d MP पर हर पेज को प्रोसेस करने में काफ़ी ज़्यादा समय लगता है और बहुत मेमोरी चाहिए। ज़्यादातर दस्तावेज़ों के लिए “मानक” काफ़ी है। “अधिकतम” सिर्फ़ बहुत छोटे अक्षरों के लिए फ़ायदेमंद है।
+Trotzdem verwenden	फिर भी इस्तेमाल करें
+langsam	धीमा
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	कोई रिमोट शटर जुड़ा नहीं है – ब्लूटूथ सेटिंग्स में पेयर करें
+Mit dem Fernauslöser auslösen	रिमोट शटर से फ़ोटो लें
+Umblättern	पन्ना पलटना
+Auto 0,7 s	ऑटो 0.7 से.
+Bluetooth	ब्लूटूथ
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	फ़ोटो लेना बंद करता है। लिए गए पेज रखे जाते हैं और प्रोसेस होते हैं।
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	टॉर्च चालू या बंद करता है। चमकदार कागज़ के लिए बिना रोशनी और खिड़की से तिरछे फ़ोटो लेना बेहतर है।
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	नई फ़ोटो की जगह मौजूदा फ़ोटो लेता है।
+Serie	सीरीज़
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	सीरीज़ शुरू या बंद करता है: टाइमर फिर हर कुछ सेकंड में अपने-आप फ़ोटो लेता है।
+Auslöser	शटर
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	फ़ोटो लेता है। वॉल्यूम बटन और ब्लूटूथ रिमोट शटर से भी फ़ोटो ली जा सकती है।
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	फ़ोटो लेना बंद करके ओवरव्यू खोलता है; संख्या इस बार ली गई फ़ोटो दिखाती है।
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	हर फ़ोटो में कितने पिक्सल हैं। तेज़ (5 MP) बड़े अक्षरों के लिए, मानक (12 MP) लगभग हर चीज़ के लिए, अधिकतम छोटे अक्षरों और सूत्रों के लिए – ज़्यादा समय लगता है।
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	टैप करके बदलें: बंद, 3, 5 या 10 सेकंड। फिर शटर इस अंतराल पर फ़ोटो की सीरीज़ शुरू करता है – किताबों के लिए उपयोगी।
+Fotografiert nur, wenn du auf den Auslöser tippst.	सिर्फ़ तब फ़ोटो लेता है जब आप शटर पर टैप करते हैं।
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	पेज के 0.7 सेकंड स्थिर रहते ही अपने-आप फ़ोटो लेता है। किताब मोड में: हर पन्ना पलटने के बाद, जैसे ही किताब फिर स्थिर हो।
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	ब्लूटूथ रिमोट शटर (जैसे “AB Shutter 3”) से फ़ोटो लेता है। पहले फ़ोन की ब्लूटूथ सेटिंग्स में रिमोट पेयर करें।
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	दस्तावेज़ को अपना नाम देता है; एक्सपोर्ट करते समय यही फ़ाइल का नाम होता है।
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	दोहरे पेज का पढ़ने का क्रम उलटें, डिवाइस पर अनुवाद करें या स्कैन हटाएँ।
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	कैमरा खोलकर इस दस्तावेज़ में और पेज जोड़ता है।
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	गैलरी की फ़ोटो को अतिरिक्त पेज के रूप में लेता है; वे कैमरा फ़ोटो की तरह काटी और पहचानी जाती हैं।
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	खींचकर क्रम बदलें; पेज चुनकर उन्हें घुमाएँ, ले जाएँ, कॉपी करें, अलग करें या हटाएँ।
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	PDF, Word, चित्र, ZIP, टेक्स्ट या तालिका के रूप में शेयर करें, सहेजें या प्रिंट करें।
+Farbe, Graustufen, Schwarz-Weiß	रंगीन, ग्रेस्केल, श्वेत-श्याम
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	इस दस्तावेज़ के सभी पेज बदलता है। श्वेत-श्याम से सबसे छोटी फ़ाइलें बनती हैं, रंगीन चित्रों और मुहरों को सही दिखाता है।
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	चालू: छाया, धब्बे और गड़बड़ियाँ हटती हैं और टेक्स्ट ज़्यादा स्पष्ट होता है। बंद: पेज सिर्फ़ काटे और सीधे किए जाते हैं – फ़ोटो, ड्रॉइंग के लिए या जब सुधार कुछ बिगाड़ दे।
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	फ़ाइल बनाकर किसी ऐप को देता है, जैसे ईमेल, मैसेंजर या क्लाउड।
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	फ़ाइल को सहेजने के स्थान पर रखता है – तय फ़ोल्डर में या, “हर बार पूछें” पर, जहाँ आप रखें।
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Android प्रिंट सेवा से प्रिंट करता है; वहाँ “PDF के रूप में सहेजें” भी चुना जा सकता है।
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	“सहेजें” फ़ाइलें कहाँ रखता है: हर बार पूछें या हमेशा तय फ़ोल्डर में, SD कार्ड या क्लाउड फ़ोल्डर में भी।
+Hilfe & Anleitung	मदद और निर्देश
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	सुझाव: किसी बटन को एक सेकंड दबाए रखें – वह क्या करता है, दिखेगा।
+Startseite	होम
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	कैमरा खोलता है। एक बार में ली गई सभी फ़ोटो एक ही दस्तावेज़ में जाती हैं।
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	“स्कैन करें” के ऊपर का गैलरी आइकन मौजूदा फ़ोटो लेता है; वे कैमरा फ़ोटो की तरह काटी और पहचानी जाती हैं।
+Suchen	खोजें
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	नाम और पहचाने गए टेक्स्ट से स्कैन ढूँढता है, पेज नंबर के साथ।
+Ordner und Kategorien	फ़ोल्डर और श्रेणियाँ
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	फ़ोल्डर स्कैन को एक साथ रखते हैं। श्रेणियाँ (किताबें, रसीदें …) अपने-आप दिखती हैं जैसे ही उस तरह के स्कैन हों।
+Mehrere Scans	कई स्कैन
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	किसी स्कैन पर देर तक दबाएँ: चुनें, जोड़ें, फ़ोल्डर में ले जाएँ या हटाएँ।
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	हटाए गए स्कैन 30 दिन रीसायकल बिन (मेनू ⋮) में रहते हैं और वापस लाए जा सकते हैं।
+Modi	मोड
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	नीचे चुनें: दस्तावेज़ (अकेले पन्ने), किताब (दोहरे पेज दो पेज में बँटते हैं), पहचान पत्र (आगे और पीछे असली आकार में एक पन्ने पर), विज़िटिंग कार्ड (संपर्क पहचाना जाता है), चित्र (असली रंग, टेक्स्ट पहचान नहीं), पासपोर्ट फ़ोटो (फ़्रंट कैमरा, 35 × 45 mm) और QR कोड।
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	ऊपर बाएँ: तेज़ (5 MP) बड़े अक्षरों के लिए, मानक (12 MP) लगभग हर चीज़ के लिए, अधिकतम छोटे अक्षरों और सूत्रों के लिए – धीमा।
+Auslösung	फ़ोटो लेने का तरीका
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	मैनुअल: शटर से। ऑटो 0.7 से.: पेज के 0.7 सेकंड स्थिर रहते ही; किताब मोड में हर पन्ना पलटने के बाद। ब्लूटूथ: पेयर किए गए रिमोट शटर से। वॉल्यूम बटन हमेशा फ़ोटो लेते हैं।
+Timer und Licht	टाइमर और रोशनी
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	घड़ी का आइकन हर 3, 5 या 10 सेकंड में फ़ोटो लेता है (शटर से शुरू)। फ़्लैश टॉर्च चालू करता है।
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	नीचे दाएँ थंबनेल पर टैप करें: पेज प्रोसेस होते हैं और ओवरव्यू खुलता है।
+Gute Fotos	अच्छी फ़ोटो
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	पेज को सपाट और बराबर रोशनी में रखें, फ़ोन समानांतर पकड़ें। कागज़ से अलग रंग की सतह काटने में मदद करती है।
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	दस्तावेज़ के सभी पेजों पर लागू होता है। अलग-अलग पेज पेज व्यू में अलग सेट किए जा सकते हैं।
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	छाया और गड़बड़ियाँ हटाता है और टेक्स्ट को ज़्यादा स्पष्ट करता है। बंद करने पर पेज सिर्फ़ काटा और सीधा किया जाता है।
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	टैप करने से पेज खुलता है। देर तक दबाएँ: फिर से लें, घुमाएँ या हटाएँ। नारंगी निशान वाले पेज जाँचें (जैसे धुँधले), लाल वाले विफल हुए।
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	खींचकर क्रम बदलें, कई पेज घुमाएँ, उन्हें दूसरे दस्तावेज़ में ले जाएँ या कॉपी करें, या नए दस्तावेज़ के रूप में अलग करें।
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, चित्र, ZIP, टेक्स्ट या तालिका – शेयर करें, सहेजें या प्रिंट करें।
+Mehr (⋮)	और (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	दोहरे पेज का पढ़ने का क्रम उलटें, डिवाइस पर अनुवाद करें या स्कैन हटाएँ। ऊपर का पेन नाम बदलता है।
+Seitenansicht	पेज व्यू
+Blättern und Zoomen	पलटना और ज़ूम
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	पेज बदलने के लिए स्वाइप करें, ज़ूम के लिए दो बार टैप करें या दो उँगलियाँ इस्तेमाल करें।
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	सिर्फ़ इस पेज के लिए रंगीन, ग्रेस्केल या श्वेत-श्याम, पूर्वावलोकन के साथ। नीचे इस पेज का स्वचालित सुधार।
+Drehen und Zuschnitt	घुमाना और काटना
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	90° घुमाएँ। काटना: मूल फ़ोटो में पेज के कोने फिर से सेट करें।
+Mit Stift, Marker oder Text auf die Seite schreiben.	पेन, हाइलाइटर या टेक्स्ट से पेज पर लिखें।
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	संवेदनशील डेटा छिपाएँ – पट्टी से या पिक्सल करके। खाता नंबर, कार्ड नंबर और चेहरे सुझाए जाते हैं।
+Signieren und Text	हस्ताक्षर और टेक्स्ट
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	हस्ताक्षर आपके सहेजे हस्ताक्षर जोड़ता है। टेक्स्ट पहचाना गया टेक्स्ट सुधारने और कॉपी करने के लिए दिखाता है।
+Formate	फ़ॉर्मैट
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (खोजने योग्य), Word, चित्र (JPG), ZIP, टेक्स्ट, Excel या CSV; विज़िटिंग कार्ड संपर्क के रूप में भी।
+PDF-Optionen	PDF विकल्प
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	पेज आकार, रिज़ॉल्यूशन और कम्प्रेशन गुणवत्ता और फ़ाइल आकार तय करते हैं – आकार ऊपर दाएँ अनुमानित दिखता है। चाहें तो पासवर्ड के साथ (AES-256)।
+Teilen oder Speichern	शेयर करें या सहेजें
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	शेयर फ़ाइल किसी ऐप को भेजता है (ईमेल, मैसेंजर …)। सहेजें उसे सहेजने के स्थान पर रखता है।
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	“हर बार पूछें” सहेजते समय फ़ोल्डर चुनने का विकल्प खोलता है। तय फ़ोल्डर होने पर एक्सपोर्ट बिना पूछे वहीं जाते हैं – SD कार्ड या क्लाउड फ़ोल्डर में भी।
+Druckt über den Android-Druckdienst oder speichert als PDF.	Android प्रिंट सेवा से प्रिंट करता है या PDF के रूप में सहेजता है।
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	नए स्कैन के लिए छवि गुणवत्ता, फ़ोटो लेने का तरीका और दोहरे पेज का बँटवारा। कैमरे में इसे कभी भी बदला जा सकता है।
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	फ़िल्टर और स्वचालित सुधार जिनसे नए दस्तावेज़ शुरू होते हैं।
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	PDF को खोजने योग्य बनाता है। भाषाएँ तय करती हैं कि कौन से अक्षर पहचाने जाएँगे।
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	सहेजने का स्थान और रिज़ॉल्यूशन, कम्प्रेशन व पेज आकार के डिफ़ॉल्ट।
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	फ़िंगरप्रिंट से ऐप लॉक, ZIP के रूप में बैकअप और रीसायकल बिन।
+Ecken setzen	कोने सेट करें
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	चारों कोनों को पेज के किनारों पर खींचें; मैग्नीफ़ायर उँगली के नीचे की जगह बड़ी दिखाता है।
+Einzel- oder Doppelseite	एक पेज या दोहरा पेज
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	नीचे चुनें कि फ़ोटो में एक पेज है या खुला दोहरा पेज। स्वचालित में ऐप तय करता है।
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	ऊपर का टिक नए कटाव के साथ पेज प्रोसेस करता है।
+Werkzeuge	टूल
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	पेन लिखने के लिए, हाइलाइटर चिह्नित करने के लिए, टेक्स्ट टाइप किए नोट्स के लिए। रंग नीचे हैं।
+Korrigieren	सुधारें
+Rückgängig nimmt den letzten Strich zurück.	पूर्ववत आखिरी रेखा हटाता है।
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	बदलाव पेज में लिखता है। बिना सहेजे पेज वैसा ही रहता है।
+Vorschläge	सुझाव
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	मिले खाता नंबर, कार्ड नंबर, टैक्स नंबर और चेहरे चिह्नित हैं – हटाने या फिर से चुनने के लिए टैप करें।
+Eigene Bereiche	अपने क्षेत्र
+Mit dem Finger weitere Rechtecke aufziehen.	उँगली से और आयत खींचें।
+Balken oder Pixel	पट्टी या पिक्सल
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	काली पट्टी या पिक्सल। नीचे का टेक्स्ट टेक्स्ट पहचान और PDF से भी हटा दिया जाता है।
+Zeichnen	बनाएँ
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	एक बार उँगली से हस्ताक्षर करें – हस्ताक्षर डिवाइस पर सहेजे जाते हैं।
+Platzieren	रखें
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	एक उँगली से खिसकाएँ, दो उँगलियों से आकार बदलें, फिर जोड़ें।
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	ऊपर का पेन आइकन सहेजे हस्ताक्षर बदल देता है।
+Text bearbeiten	टेक्स्ट संपादित करें
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	पेज का पहचाना गया टेक्स्ट नीचे है और बदला जा सकता है। ऊपर तुलना के लिए पेज की छवि।
+Wirkung	असर
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	सुधार खोज, PDF की टेक्स्ट परत और Word व टेक्स्ट एक्सपोर्ट में शामिल होते हैं।
+Holt einen gelöschten Scan zurück.	हटाए गए स्कैन को वापस लाता है।
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	स्कैन 30 दिन बाद अपने-आप हट जाते हैं। “खाली करें” तुरंत सब हटा देता है।
+Belegung	उपयोग
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	दिखाता है कि स्कैन, मूल फ़ोटो, रीसायकल बिन और कैश कितनी जगह लेते हैं।
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	मूल फ़ोटो हटाने से बहुत जगह बचती है; तैयार पेज रहते हैं, बस बाद में कटाव नहीं बदला जा सकता।
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	सभी स्कैन का ZIP फ़ाइल में बैकअप लें और इस या दूसरे डिवाइस पर वापस लाएँ। कुछ भी अपलोड नहीं होता।
+Auswahl	चयन
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	अपने दस्तावेज़ों की भाषाएँ चुनें। हर अतिरिक्त भाषा पहचान को धीमा करती है।
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	जो भाषाएँ नहीं हैं वे एक बार डाउनलोड होती हैं और फिर बिना इंटरनेट काम करती हैं।
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	फ़ोन और PC को एक ही Wi-Fi से जोड़ें (या PC को फ़ोन के हॉटस्पॉट से)।
+Herunterladen	डाउनलोड
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	दिखाया गया पता PC के ब्राउज़र में खोलें या QR कोड स्कैन करें; वहाँ सभी स्कैन PDF या टेक्स्ट के रूप में डाउनलोड हो सकते हैं।
+Sicherheit	सुरक्षा
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	सिर्फ़ लोकल नेटवर्क में और सिर्फ़ तब तक काम करता है जब तक यह स्क्रीन खुली है।
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	भाषा, छवि गुणवत्ता, फ़ोटो लेने का तरीका, टेक्स्ट पहचान, सहेजने का स्थान, ऐप लॉक और बैकअप।
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	गैलरी की फ़ोटो को नए दस्तावेज़ के रूप में लेता है; वे कैमरा फ़ोटो की तरह काटी और पहचानी जाती हैं।
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	कैमरा खोलता है। एक बार में ली गई सभी फ़ोटो एक ही दस्तावेज़ में जाती हैं।
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	इस पेज को दस्तावेज़ से हटाता है (पूछने के बाद)।
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	सिर्फ़ इस पेज के लिए रंगीन, ग्रेस्केल या श्वेत-श्याम और स्वचालित सुधार।
+Dreht die Seite um 90° im Uhrzeigersinn.	पेज को घड़ी की दिशा में 90° घुमाता है।
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	अगर कोई किनारा छूट गया हो या पृष्ठभूमि आ गई हो, तो मूल फ़ोटो में पेज के कोने फिर से सेट करें।
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	संवेदनशील डेटा को पट्टी या पिक्सल से छिपाएँ; वह PDF के टेक्स्ट से भी हट जाता है।
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	आपके सहेजे हस्ताक्षर पेज पर रखता है; पहली बार आप उन्हें बनाते हैं।
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	पेज का पहचाना गया टेक्स्ट सुधारने और कॉपी करने के लिए दिखाता है।
+Fotografiert beim Tippen auf den Auslöser.	शटर पर टैप करने पर फ़ोटो लेता है।
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	पेज के 0.7 से. स्थिर रहते ही फ़ोटो लेता है; किताब मोड में हर पन्ना पलटने के बाद।
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	पेयर किए गए ब्लूटूथ रिमोट शटर से फ़ोटो लेता है।
+Lautstärketasten lösen immer aus.	वॉल्यूम बटन हमेशा फ़ोटो लेते हैं।
+Word erstellen, Formeln erkennen (%d/%d)	Word बनाया जा रहा है, सूत्र पहचाने जा रहे हैं (%d/%d)
+Belarussisch	बेलारूसी
+Bulgarisch	बुल्गारियाई
+Serbisch	सर्बियाई
+Mazedonisch	मैसेडोनियाई
+Kein Link im geteilten Text	साझा किए गए टेक्स्ट में कोई लिंक नहीं
+Import fehlgeschlagen: %s	आयात विफल: %s
+Link laden	लिंक लोड हो रहा है
+Unter dem Link liegt keine PDF- oder Bilddatei.	लिंक किसी PDF या चित्र फ़ाइल तक नहीं ले जाता।
+Nur PDF-Dateien und Bilder lassen sich importieren.	केवल PDF फ़ाइलें और चित्र आयात किए जा सकते हैं।
+Geschützte PDF-Dateien lassen sich nicht importieren.	सुरक्षित PDF फ़ाइलें आयात नहीं की जा सकतीं।
+PDF-Seite %d/%d importieren	PDF पेज %d/%d आयात हो रहा है
+Auto %s s	ऑटो %s से.
+Auslösen nach %s s	%s से. बाद फ़ोटो
+Wartezeit	प्रतीक्षा समय
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	स्वचालित फ़ोटो से पहले पेज को कितनी देर स्थिर रहना चाहिए। कम समय तेज़ है, अधिक समय से कम धुंधली फ़ोटो बनती हैं।
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	पेज स्थिर होते ही अपने-आप फ़ोटो लेता है; प्रतीक्षा समय (0.2–1.5 से.) नीचे सेट करें। बुक मोड में: हर पेज पलटने के बाद, जैसे ही किताब फिर स्थिर हो।
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	फ़ोटो, स्क्रीनशॉट, PDF फ़ाइलें या एक लिंक अतिरिक्त पेजों के रूप में जोड़ता है; फ़ोटो काटी जाती हैं, सब कुछ पहचाना जाता है।
+Senden an …	इसे भेजें …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	„सहेजें“ आपके एक्सपोर्ट कहाँ रखता है। „इसे भेजें …“ इससे स्वतंत्र है।
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	एक सबफ़ोल्डर चुनें, जैसे „Documents“ – Android स्टोरेज का सबसे ऊपरी फ़ोल्डर नहीं देता।
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	फ़ाइल बनाता है और किसी ऐप को भेजता है, जैसे WhatsApp, ईमेल, Telegram या क्लाउड स्टोरेज।
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	मैन्युअल: शटर बटन से। ऑटो: पेज स्थिर होते ही – प्रतीक्षा समय (0.2–1.5 से., डिफ़ॉल्ट 0.7 से.) स्कैन विंडो में स्विच के नीचे सेट करें; बुक मोड में हर पेज पलटने के बाद। ब्लूटूथ: जोड़े गए रिमोट शटर से। वॉल्यूम बटन हमेशा फ़ोटो लेते हैं।
+Senden an oder Speichern	भेजें या सहेजें
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„इसे भेजें …“ फ़ाइल किसी ऐप को भेजता है (WhatsApp, ईमेल, Telegram, क्लाउड …)। सहेजें इसे सहेजने के स्थान पर रखता है।
+Importieren	आयात करें
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	फ़ोटो, स्क्रीनशॉट, PDF फ़ाइलें या एक लिंक नए दस्तावेज़ के रूप में लेता है; फ़ोटो काटी जाती हैं, सब कुछ पहचाना जाता है।
+Bilder aus der Galerie	गैलरी से चित्र
+Fotos und Screenshots	फ़ोटो और स्क्रीनशॉट
+Dateien	फ़ाइलें
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF फ़ाइलें और चित्र, जैसे डाउनलोड या क्लाउड से
+Eine PDF- oder Bilddatei aus dem Internet	इंटरनेट से एक PDF या चित्र फ़ाइल
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	फिर स्कैन किए गए पेजों की तरह: टेक्स्ट पहचान, अनुवाद और किसी भी फ़ॉर्मैट में एक्सपोर्ट।
+Link importieren	लिंक आयात करें
+Internetadresse	वेब पता
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	पेज %s से. स्थिर रहते ही फ़ोटो लेता है (स्कैन विंडो में बदला जा सकता है); बुक मोड में हर पेज पलटने के बाद।
+Fachwörterbuch laden	शब्दावली लोड हो रही है
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	%s या %s की शब्दावली नहीं है – विशेष शब्दों के बिना अनुवाद किया गया
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	शब्दावली फ़ाइल नहीं (glossary-xx.tsv.gz)
+Download nicht verfügbar	डाउनलोड उपलब्ध नहीं
+Estnisch	एस्टोनियाई
+Irisch	आयरिश
+Litauisch	लिथुआनियाई
+Lettisch	लातवियाई
+Maltesisch	माल्टीज़
+Slowakisch	स्लोवाक
+Slowenisch	स्लोवेनियाई
+Ohne Fachwörterbuch	शब्दावली के बिना
+Alle Fachgebiete	सभी क्षेत्र
+Fachgebiet: %s	क्षेत्र: %s
+Fachwörterbücher verwalten …	शब्दावलियाँ प्रबंधित करें …
+Fachwörterbücher	विशेष शब्दावलियाँ
+Aus Datei importieren	फ़ाइल से आयात करें
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	कानून, चिकित्सा, तकनीक, अर्थशास्त्र और 17 अन्य क्षेत्रों के विशेष शब्द (IATE, यूरोपीय संघ का शब्दावली डेटाबेस) अनुवाद में ठीक वैसे ही रखे जाते हैं। स्रोत और लक्ष्य भाषा दोनों की शब्दावली चाहिए, हर एक 0.3–9 MB।
+Einmal laden, danach offline.	एक बार लोड करें, फिर ऑफ़लाइन।
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	glossary-xx.tsv.gz फ़ाइलें ऊपर फ़ोल्डर आइकन से आयात करें।
+Fachwörterbücher für die Übersetzung	अनुवाद के लिए विशेष शब्दावलियाँ
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	कानून, चिकित्सा, तकनीक और अधिक – यूरोपीय संघ की 24 भाषाएँ
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	सभी फ़ोटो और टेक्स्ट इसी डिवाइस पर रहते हैं। इंटरनेट केवल भाषाएँ, अनुवाद मॉडल और शब्दावलियाँ एक बार लोड करने के लिए इस्तेमाल होता है, जब आप शुरू करें।
+Übersetzen	अनुवाद करें
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	डिवाइस पर ही दस्तावेज़ की अनूदित प्रति बनाता है: वही पृष्ठ और चित्र, पाठ लक्ष्य भाषा में अपनी जगह पर। हर अनुच्छेद उसकी अपनी भाषा से अनूदित होता है। „विषय-क्षेत्र“ से शब्दावलियों के विशेष शब्द ठीक वैसे ही रखे जाते हैं।
+Was nachgeladen werden kann	क्या डाउनलोड किया जा सकता है
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	सब कुछ वैकल्पिक है और केवल आपके टैप करने पर लोड होता है; उसके बाद बिना इंटरनेट काम करता है:\n• टेक्स्ट पहचान की भाषाएँ: हर एक 1–15 MB (सेटिंग्स › भाषाएँ)। जर्मन और अंग्रेज़ी शामिल हैं।\n• चीनी: अलग पहचान मॉडल, लगभग 17 MB।\n• अनुवाद मॉडल: प्रति भाषा लगभग 30 MB, पहले अनुवाद पर अपने आप लोड होते हैं।\n• विशेष शब्दावलियाँ: प्रति भाषा 0.3–9 MB, यूरोपीय संघ की सभी 24 भाषाओं के लिए कुल लगभग 70 MB (सेटिंग्स › विशेष शब्दावलियाँ)।\nलोड की गई फ़ाइलें कभी भी हटाई जा सकती हैं।
+Wozu	किसलिए
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	सामान्य अनुवादक कई विशेष शब्द नहीं जानते या उनका अनुवाद असंगत करते हैं। शब्दावली तय शब्द डालती है, जैसे «Beweislast» → «सबूत का भार»।
+Quelle	स्रोत
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, यूरोपीय संघ की संस्थाओं का शब्दावली डेटाबेस, 21 क्षेत्रों के शब्दों के साथ (कानून, स्वास्थ्य, तकनीक, अर्थशास्त्र, पर्यावरण, परिवहन …)। यह यूरोपीय संघ की 24 आधिकारिक भाषाओं के लिए उपलब्ध है।
+Was nötig ist	क्या चाहिए
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	स्रोत भाषा और लक्ष्य भाषा के लिए एक-एक शब्दावली, जैसे जर्मन और अंग्रेज़ी। प्रति भाषा एक शब्दावली सभी भाषा युग्मों के लिए काफ़ी है।
+Laden oder importieren	लोड या आयात करें
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	तीर से लोड करें (एक बार, फिर ऑफ़लाइन) या फ़ोल्डर आइकन से «glossary-xx.tsv.gz» फ़ाइल आयात करें, जैसे कंप्यूटर या SD कार्ड से।
+Benutzen	उपयोग
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	अनुवाद करते समय ऊपर क्षेत्र चुनें। «सभी क्षेत्र» केवल उन शब्दों का उपयोग करता है जिनका अनुवाद हर जगह एक जैसा होता है।
+Grenzen	सीमाएँ
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	विशेष शब्द अपने मूल रूप में डाले जाते हैं; बदले हुए रूप हमेशा नहीं पहचाने जाते।
+Politik	राजनीति
+Internationale Beziehungen	अंतरराष्ट्रीय संबंध
+Europäische Union	यूरोपीय संघ
+Recht	कानून
+Wirtschaft	अर्थशास्त्र
+Handel	व्यापार
+Finanzwesen	वित्त
+Soziales und Gesundheit	सामाजिक मुद्दे और स्वास्थ्य
+Bildung und Kommunikation	शिक्षा और संचार
+Wissenschaft	विज्ञान
+Unternehmen und Wettbewerb	व्यवसाय और प्रतिस्पर्धा
+Beschäftigung und Arbeitsbedingungen	रोज़गार और कार्य परिस्थितियाँ
+Verkehr	परिवहन
+Umwelt	पर्यावरण
+Land-, Forst- und Fischereiwirtschaft	कृषि, वानिकी और मत्स्य पालन
+Agrarerzeugnisse und Lebensmittel	कृषि-खाद्य उत्पाद
+Produktion, Technologie und Forschung	उत्पादन, प्रौद्योगिकी और अनुसंधान
+Energie	ऊर्जा
+Industrie	उद्योग
+Geografie	भूगोल
+Internationale Organisationen	अंतरराष्ट्रीय संगठन
+Wenig Licht – Lampe einschalten	रोशनी कम है – लैंप चालू करें
+Verarbeitung mehrfach abgebrochen	प्रोसेसिंग बार-बार रुक गई
+Bearbeitungen gehen verloren	बदलाव खो जाएँगे
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	पेज फ़ोटो से फिर से बनाया जाता है। छिपाव, हस्ताक्षर और नोट्स फिर से जोड़ने होंगे।
+Neu zuschneiden	फिर से क्रॉप करें
+Sprachdaten	भाषा डेटा
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	दिखाता है कि स्कैन, मूल फ़ोटो, ट्रैश, कैश और भाषा डेटा (टेक्स्ट पहचान, शब्दावलियाँ) कितनी जगह लेते हैं।
+Bitte warten, bis alle Seiten erkannt sind	कृपया सभी पृष्ठों की पहचान होने तक प्रतीक्षा करें
+Die Sprache „%s“ kann nicht übersetzt werden	भाषा „%s“ का अनुवाद नहीं किया जा सकता
+Übersetzung in die Seiten setzen	अनुवाद को पृष्ठों में रखा जा रहा है

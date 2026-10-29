@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	先に指紋認証、顔認証、または画面ロックを設定してください。
+Dieses Gerät unterstützt keine biometrische Entsperrung.	このデバイスは生体認証によるロック解除に対応していません。
+Ultimate PDF Scanner entsperren	Ultimate PDF Scanner のロックを解除
+Deine Scans sind geschützt	スキャンは保護されています
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner はロックされています
+Deine Scans bleiben auf diesem Gerät.	スキャンはこのデバイス内に保存されます。
+  Entsperren	  ロック解除
+Systemsprache	システムの言語
+Deutsch	ドイツ語
+English	英語
+Fotos importieren	写真をインポート
+Texterkennung vorbereiten	文字認識を準備中
+Ein Foto konnte nicht verarbeitet werden: %s	写真を処理できませんでした：%s
+Foto laden	写真を読み込み中
+Foto nicht lesbar	写真を読み取れません
+Filter anwenden	フィルターを適用中
+Schwärzen	墨消し
+Unterschrift einfügen	署名を挿入中
+Unterschrift eingefügt	署名を挿入しました
+Änderungen einfügen	変更を適用中
+Seite bearbeitet	ページを編集しました
+Text gesichert	テキストを保存しました
+Zusammenführen	結合
+%d Scans zusammengeführt	%d 件のスキャンを結合しました
+Seiten verschieben	ページを移動中
+Seiten kopieren	ページをコピー中
+ (Teil)	（一部）
+Zwischenspeicher leeren	キャッシュを削除
+Zwischenspeicher geleert	キャッシュを削除しました
+Originalfotos entfernen	元の写真を削除
+Sicherung erstellen	バックアップを作成中
+Sicherung erstellen (%d/%d)	バックアップを作成中（%d/%d）
+Sicherung gespeichert	バックアップを保存しました
+Sicherung wiederherstellen	バックアップを復元中
+ (%d schon vorhanden)	（%d 件は既に存在）
+Wiederherstellen fehlgeschlagen: %s	復元に失敗しました：%s
+PDF erstellen (%d/%d)	PDF を作成中（%d/%d）
+%s erstellen	%s を作成中
+Export fehlgeschlagen: %s	エクスポートに失敗しました：%s
+%s speichern	%s を保存中
+PDF gespeichert (passwortgeschützt, AES-256)	PDF を保存しました（パスワード保護、AES-256）
+%s gespeichert	%s を保存しました
+Bilder speichern	画像を保存中
+Bilder speichern (%d/%d)	画像を保存中（%d/%d）
+%d Bilder gespeichert	%d 枚の画像を保存しました
+Sprache erkennen	言語を判定中
+Kein erkannter Text zum Übersetzen	翻訳できる認識済みテキストがありません
+Sprache nicht erkannt	言語を判定できませんでした
+Der Text ist bereits auf %s	テキストはすでに%sです
+Sprachmodell laden (beim ersten Mal ~30 MB)	言語モデルを読み込み中（初回は約 30 MB）
+Übersetzen (%d/%d)	翻訳中（%d/%d）
+Seite %d	%d ページ
+Übersetzung fehlgeschlagen: %s	翻訳に失敗しました：%s
+1 Bereich unkenntlich gemacht	1 か所を墨消ししました
+%d Bereiche unkenntlich gemacht	%d か所を墨消ししました
+1 Scan wiederhergestellt	1 件のスキャンを復元しました
+%d Scans wiederhergestellt	%d 件のスキャンを復元しました
+Server antwortet mit %d	サーバーの応答：%d
+Datei unvollständig	ファイルが不完全です
+Nicht gefunden	見つかりません
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	スマートフォン内のスキャン %d 件 · Wi-Fi で直接、クラウドなし
+Ausgangssprache „%s“ wird nicht unterstützt	元の言語「%s」には対応していません
+Zielsprache „%s“ wird nicht unterstützt	翻訳先の言語「%s」には対応していません
+QR-CODE	QR コード
+AUSWEIS	身分証
+DOKUMENT	書類
+BUCH	本
+VISITENKARTE	名刺
+PASSFOTO	証明写真
+PDF	PDF
+Word	Word
+Bilder	画像
+ZIP	ZIP
+Text	テキスト
+Excel	Excel
+CSV	CSV
+Kontakt	連絡先
+Wie gescannt	スキャンのまま
+Letter	Letter
+Mittel	中
+Englisch	英語
+Französisch	フランス語
+Italienisch	イタリア語
+Spanisch	スペイン語
+Portugiesisch	ポルトガル語
+Niederländisch	オランダ語
+Polnisch	ポーランド語
+Tschechisch	チェコ語
+Dänisch	デンマーク語
+Schwedisch	スウェーデン語
+Norwegisch	ノルウェー語
+Finnisch	フィンランド語
+Ungarisch	ハンガリー語
+Rumänisch	ルーマニア語
+Kroatisch	クロアチア語
+Türkisch	トルコ語
+Griechisch	ギリシャ語
+Russisch	ロシア語
+Ukrainisch	ウクライナ語
+Arabisch	アラビア語
+Hebräisch	ヘブライ語
+Persisch	ペルシャ語
+Chinesisch (vereinfacht)	中国語（簡体字）
+Japanisch	日本語
+Koreanisch	韓国語
+Latein	ラテン語
+Deutsch (Fraktur)	ドイツ語（ドイツ文字）
+1 Seite	1 ページ
+%d Seiten	%d ページ
+1 Scan	1 件のスキャン
+%d Scans	%d 件のスキャン
+Abbrechen	キャンセル
+Bearbeiten	編集
+Zurück	戻る
+Rückgängig	元に戻す
+Sichern	保存
+Seite	ページ
+Einfügen	挿入
+Änderungen sichern?	変更を保存しますか？
+Verwerfen	破棄
+Schließen	閉じる
+Fertig	完了
+Öffnen	開く
+Keine	なし
+Alle	すべて
+Umbenennen	名前を変更
+Mehr	その他
+Löschen	削除
+Teilen	共有
+Speichern	保存
+Drucken	印刷
+Kopieren	コピー
+Drehen	回転
+Laden	ダウンロード
+Entfernen	削除
+Verschieben	移動
+Name	名前
+Aus	オフ
+Leeren	空にする
+Wiederherstellen	復元
+Text einfügen	テキストを追加
+z. B. Name, Datum …	例：氏名、日付…
+Kein Gesicht erkannt – bitte noch einmal	顔が見つかりません。もう一度お試しください
+Seite erneut scannen	ページを再スキャン
+Fernauslöser verbunden	リモートシャッター接続中
+Nach dem Umblättern auslösen	ページをめくるたびに撮影
+Leserichtung rechts nach links	右から左に読む
+Leserichtung links nach rechts	左から右に読む
+Automatisch auslösen	自動撮影
+Kamera wechseln	カメラを切り替え
+Licht	ライト
+Bitte Kamerazugriff erlauben.	カメラへのアクセスを許可してください。
+Passfoto wird zugeschnitten …	証明写真をトリミング中…
+Ohne Rückseite fertig	裏面なしで完了
+Kein Code im Bild gefunden	画像内にコードが見つかりません
+Aus Galerie	ギャラリーから
+QR-Code oder Barcode in den Rahmen halten	QR コードまたはバーコードを枠内に入れてください
+Gesicht ins Oval · gerade schauen · heller Hintergrund	顔を楕円内に · 正面を向く · 明るい背景
+Vorderseite des Ausweises in den Rahmen	身分証の表面を枠内に入れてください
+Jetzt die Rückseite	次に裏面を撮影
+Visitenkarte in den Rahmen legen	名刺を枠内に置いてください
+Aufgeschlagenes Buch ins Bild halten	開いた本を画面内に入れてください
+Doppelseite erkannt	見開きを検出しました
+Umblättern – löst danach automatisch aus	ページをめくってください。その後自動で撮影します
+Ruhig halten …	そのまま動かないでください…
+Ruhig halten – wird automatisch ausgelöst	そのまま動かないでください。自動で撮影します
+Seite ins Bild halten	ページを画面内に入れてください
+Seite erkannt	ページを検出しました
+Intervall-Timer	インターバルタイマー
+Serie starten	連続撮影を開始
+Farbe	カラー
+Graustufen	グレースケール
+Schwarz-Weiß	白黒
+Original	オリジナル
+Automatisch	自動
+Zuschnitt nicht möglich	トリミングできません
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	容量を節約するため、このページの元の写真は削除されています。「再スキャン」でページを撮り直してください。
+Zuschnitt anpassen	トリミングを調整
+Übernehmen	適用
+Einzelseite	単ページ
+Doppelseite	見開き
+Auto	自動
+  Automatisch	  自動
+Ecken auf die Seitenränder ziehen	四隅をページの端までドラッグしてください
+Seiten ordnen	ページを整理
+%d ausgewählt	%d 件選択中
+Filter für alle Seiten	全ページのフィルター
+Leserichtung umkehren	読み順を反転
+Übersetzen…	翻訳…
+Scan löschen	スキャンを削除
+Scannen	スキャン
+Import	インポート
+Ordnen	整理
+Exportieren	エクスポート
+Übersetzen in …	翻訳先…
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	翻訳はデバイス上で行われます。初回のみ言語モデルをダウンロードします。
+Übersetzung teilen	翻訳を共有
+Scan löschen?	スキャンを削除しますか？
+„%s“ wird endgültig gelöscht.	「%s」は完全に削除されます。
+Kontakt erkannt	連絡先を認識しました
+Zu Kontakten	連絡先に追加
+Seiten werden verarbeitet (%d/%d)	ページを処理中（%d/%d）
+Nur diese	これだけ表示
+Wird neu verarbeitet	再処理中
+Erneut	撮り直す
+Fehlgeschlagen	失敗
+Foto nicht verarbeitet	写真は処理されていません
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	画像処理中にエラーが発生しました。
+Keine Auffälligkeiten	問題は見つかりませんでした
+Erneut scannen	再スキャン
+Ersetzt beide Seiten dieser Doppelseite	この見開きの両ページを置き換えます
+Kamera öffnen und diese Seite ersetzen	カメラを開いてこのページを置き換えます
+Nach vorn	前へ移動
+Nach hinten	後ろへ移動
+Seite löschen	ページを削除
+Foto entfernen	写真を削除
+1 Seite verschoben	1 ページを移動しました
+%d Seiten verschoben	%d ページを移動しました
+1 Seite kopiert	1 ページをコピーしました
+%d Seiten kopiert	%d ページをコピーしました
+1 Seite löschen?	1 ページを削除しますか？
+%d Seiten löschen?	%d ページを削除しますか？
+1 Seite prüfen	1 ページを確認してください
+%d Seiten prüfen	%d ページを確認してください
+Seite löschen?	ページを削除しますか？
+Durchsuchbares PDF mit erkanntem Text	認識したテキスト付きの検索可能な PDF
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Word、LibreOffice、Google ドキュメント用の編集可能なテキスト
+Die Seite als JPG-Bild	ページを JPG 画像で
+Ein JPG-Bild pro Seite (%d Dateien)	1 ページにつき 1 枚の JPG 画像（%d ファイル）
+Alle Seiten als JPG und der Text in einem Archiv	全ページの JPG とテキストを 1 つのアーカイブに
+Nur der erkannte Text	認識したテキストのみ
+Erkannte Tabellen, ein Tabellenblatt pro Seite	認識した表（1 ページにつき 1 シート）
+Erkannte Tabellen als CSV (Semikolon, für Excel)	認識した表を CSV で（セミコロン区切り、Excel 用）
+Visitenkarte als Kontakt (vCard)	名刺を連絡先（vCard）として
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	表面と裏面を実寸で 1 ページに配置。そのまま印刷できます
+Seitenformat	用紙サイズ
+Mit Passwort schützen	パスワードで保護
+AES-256-Verschlüsselung	AES-256 暗号化
+Passwort	パスワード
+Mindestens 4 Zeichen	4 文字以上
+Passwort wiederholen	パスワードを再入力
+Passwörter stimmen nicht überein	パスワードが一致しません
+Seitenbilder einfügen	ページ画像を含める
+Jede Seite als Bild über ihrem Text	各ページの画像をテキストの上に配置
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	列はテキストの間隔から認識されます。列がはっきり分かれていると最もうまくいきます。「1,234.50」のような数値は数値として扱われます。
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	この名刺から連絡先情報を認識できませんでした。
+1 ausgewählte Seite	1 ページを選択中
+%d ausgewählte Seiten	%d ページを選択中
+Mobil	携帯
+Fax	FAX
+Telefon	電話
+%s teilen	%s を共有
+Scan	スキャン
+Text teilen	テキストを共有
+PDF teilen	PDF を共有
+In den Papierkorb verschoben	ゴミ箱に移動しました
+%d Scans in den Papierkorb verschoben	%d 件のスキャンをゴミ箱に移動しました
+Auswahl beenden	選択を終了
+Alle auswählen	すべて選択
+In Ordner verschieben	フォルダに移動
+Ordner	フォルダ
+Ordner umbenennen	フォルダ名を変更
+Ordner auflösen	フォルダを削除
+Papierkorb (%d)	ゴミ箱（%d）
+Papierkorb	ゴミ箱
+An PC senden	PC に送信
+Speicher & Sicherung	ストレージとバックアップ
+Einstellungen	設定
+Scans und Text durchsuchen	スキャンとテキストを検索
+Alle Scans durchsuchen	すべてのスキャンを検索
+Suche löschen	検索をクリア
+%d Treffer	%d 件の結果
+Alle Scans	すべてのスキャン
+Nichts gefunden	見つかりませんでした
+Weder ein Name noch ein erkannter Text passt zu „%s“.	「%s」に一致する名前や認識テキストはありません。
+Ordner ist leer	フォルダは空です
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	ここにスキャンを移動するには、スキャンを長押しして「フォルダに移動」を選びます。
+Noch keine Scans	まだスキャンがありません
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	「スキャン」をタップしてページを撮影するか、\nギャラリーから写真をインポートしてください。
+Ordnername	フォルダ名
+Neuer Ordner	新しいフォルダ
+%d Scans zusammenführen?	%d 件のスキャンを結合しますか？
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	すべてのページが選択順に「%s」に追加されます。他のスキャンはその後削除されます。
+%d prüfen	要確認 %d
+Wird verarbeitet (%d/%d)	処理中（%d/%d）
+Als PDF teilen	PDF で共有
+Kategorie ändern	カテゴリを変更
+Kein Ordner	フォルダなし
+Neuer Ordner …	新しいフォルダ…
+Kategorie	カテゴリ
+Download fehlgeschlagen: %s	ダウンロードに失敗しました：%s
+keine Verbindung	接続なし
+Sprachen der Texterkennung	文字認識の言語
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	選択した言語はまとめて認識されます。必要な言語だけを選んでください。言語が増えるほど認識が遅くなります。
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	未導入の言語は 1 回だけダウンロードされ（約 2〜15 MB）、その後はオフラインで使えます。
+Wird geladen … %d %%	ダウンロード中… %d %%
+Enthalten	内蔵
+Geladen · %s	ダウンロード済み · %s
+Nicht geladen	未ダウンロード
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	タップで選択 · 長押ししてドラッグで移動
+Neuer Scan	新しいスキャン
+Verschieben nach …	移動先…
+Kopieren nach …	コピー先…
+Seite %d von %d	%d / %d ページ
+Filter	フィルター
+Zuschnitt	トリミング
+Signieren	署名
+Code	コード
+Link	リンク
+E-Mail	メール
+Telefonnummer	電話番号
+Ort	場所
+Produktcode	商品コード
+Netzwerk: %s	ネットワーク：%s
+Passwort: %s	パスワード：%s
+Verschlüsselung: %s	暗号化：%s
+Passwort kopieren	パスワードをコピー
+Verbinden	接続
+E-Mail schreiben	メールを書く
+Anrufen	電話をかける
+In Karten öffnen	地図で開く
+Suche sensible Daten…	機密情報を検索中…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	機密情報は見つかりませんでした。墨消しする範囲を指でドラッグしてください。
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	見つかりました。タップで選択/解除、ドラッグで範囲を追加できます：
+Schwarzer Balken	黒塗り
+Verpixeln	モザイク
+Unkenntlich machen (%d)	墨消し（%d）
+Manuell	手動
+Gesicht	顔
+Kein WLAN	Wi-Fi がありません
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	スマートフォンと PC を同じ Wi-Fi に接続してください（または PC をスマートフォンのテザリングに接続）。アドレスがここに表示されます。
+Am PC im Browser öffnen	PC のブラウザで開く
+QR-Code der Adresse	アドレスの QR コード
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	アドレスを入力するか、PC のカメラで QR コードを読み取ってください。すべてのスキャンを PDF またはテキストでダウンロードできます。
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	ローカルネットワーク内で、この画面を開いている間だけ有効です。インターネットにはアップロードされません。
+Heruntergeladen	ダウンロード済み
+App-Sperre nicht möglich	アプリのロックを設定できません
+Sprache	言語
+Sprache der App	アプリの言語
+Aufnahme	撮影
+Doppelseiten im Dokument-Modus	書類モードの見開き
+Automatisch teilen	自動で分割
+Nie teilen	分割しない
+Fotografiert, sobald die Seite ruhig im Bild liegt.	ページが画面内で静止したら撮影します。
+Buch-Modus	本モード
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	ページめくりを検知し、本が再び静止したら撮影します。
+Leserichtung	読み順
+Links → rechts	左 → 右
+Rechts → links	右 → 左
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	右 → 左はアラビア語、ヘブライ語、ペルシャ語、日本語向けです：右ページが先になります。
+Fernauslöser	リモートシャッター
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Android の Bluetooth 設定で Bluetooth カメラリモコン（例：「AB Shutter 3」）をペアリングしてください。
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	カメラではリモコンと音量ボタンで撮影できるようになります。
+Bild	画像
+Standardfilter	既定のフィルター
+Handschrift entfernen	手書きを除去
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	青/赤ペンや鉛筆の書き込みを除去します。この色の印刷も除去されます。
+Texterkennung	文字認識
+Sprachen	言語
+Sicherheit & Speicher	セキュリティとストレージ
+App-Sperre	アプリのロック
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	起動時に指紋、顔、または画面ロックで解除します。最近使ったアプリの一覧では内容が非表示になります。
+Belegung, Backup als ZIP, Wiederherstellen	使用量、ZIP バックアップ、復元
+Gelöschte Scans werden nach 30 Tagen entfernt	削除したスキャンは 30 日後に消去されます
+Offline	オフライン
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	写真とテキストはすべてこのデバイスに保存されます。インターネットは、ご希望時に言語を 1 回ダウンロードするときだけ使います。
+Über	このアプリについて
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	オープンソースコンポーネント：OpenCV、Tesseract OCR、PdfBox-Android、ZXing（いずれも Apache License 2.0）、ML Kit（翻訳、顔検出、デバイス上で動作）。
+Unterschrift zeichnen	署名を描く
+Mit dem Finger unterschreiben	指で署名してください
+Unterschrift platzieren	署名を配置
+Neu zeichnen	描き直す
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	1 本指で移動、2 本指でサイズ変更。
+Unterschrift	署名
+Belegt von Ultimate PDF Scanner	Ultimate PDF Scanner の使用量
+%s frei auf dem Gerät	デバイスの空き容量 %s
+Seiten	ページ
+Originalfotos	元の写真
+Zwischenspeicher	キャッシュ
+Platz schaffen	空き容量を増やす
+Exportierte Dateien zum Teilen	共有用にエクスポートしたファイル
+Gelöschte Scans der letzten 30 Tage	過去 30 日間に削除したスキャン
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	完成したページは残りますが、トリミングは変更できなくなります。
+Größte Scans	サイズの大きいスキャン
+Sicherung	バックアップ
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	すべてのスキャンを 1 つの ZIP ファイルにバックアップします（SD カード、USB メモリ、PC など）。アップロードはされません。
+Papierkorb mitsichern	ゴミ箱も含める
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-バックアップ_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	復元では、存在しないスキャンだけが追加されます。
+Originalfotos entfernen?	元の写真を削除しますか？
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	%s を節約できます。ページは再トリミングできなくなりますが、「再スキャン」は引き続き可能です。
+Text bearbeiten · Seite %d	テキストを編集 · %d ページ
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	修正内容は検索と PDF のテキストレイヤーに反映されます。
+Kein Text erkannt – hier eintippen	テキストを認識できませんでした。ここに入力してください
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	削除したスキャンは %d 日後に完全に消去されます。
+Papierkorb ist leer	ゴミ箱は空です
+Endgültig löschen	完全に削除
+Papierkorb leeren?	ゴミ箱を空にしますか？
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d 件のスキャンが完全に削除されます。この操作は元に戻せません。
+Endgültig löschen?	完全に削除しますか？
+„%s“ wird sofort gelöscht.	「%s」はすぐに削除されます。
+noch 1 Tag	残り 1 日
+noch %d Tage	残り %d 日
+Quittung	レシート
+Quittungen	レシート
+Rechnung	請求書
+Rechnungen	請求書
+Visitenkarte	名刺
+Visitenkarten	名刺
+Vertrag	契約書
+Verträge	契約書
+Brief	手紙
+Briefe	手紙
+Ausweis	身分証
+Ausweise	身分証
+Buch	本
+Bücher	本
+Passfoto	証明写真
+Passfotos	証明写真
+Dokument	書類
+Dokumente	書類
+Auflösung	解像度
+Kompression	圧縮
+Gering	低
+Stark	高
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	印刷・保存用は 300 dpi と低圧縮、メール用は 150 dpi と高圧縮がおすすめです。
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	PDF を検索可能にし、テキストをコピーできるようにします。オフ：処理が速くなり、PDF は画像のみになります。
+Keine Seite erkannt	ページが検出されません
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	ページの端が見つからなかったため、写真全体を使用しました。
+Unscharf	ぼやけ
+Das Foto ist verwackelt oder unscharf.	写真がぶれているか、ピントが合っていません。
+Zu dunkel	暗すぎる
+Die Seite ist schlecht ausgeleuchtet.	ページの照明が不十分です。
+Text schlecht lesbar	文字が読みにくい
+Die Texterkennung war unsicher.	文字認識の確実性が低いです。
+Kein Text erkannt	テキストが認識されません
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	ページにテキストが見つかりません。白紙のページか、画像にページが写っていない可能性があります。
+Hindi	ヒンディー語
+Bengalisch	ベンガル語
+Urdu	ウルドゥー語
+Indonesisch	インドネシア語
+Seite erkennen	ページを検出中
+Seite entzerren	ページを補正中
+Finger entfernen	指を除去中
+Schärfe prüfen	シャープさを確認中
+Ausrichtung	向き
+Bild verbessern	画像を補正中
+Speicherort	保存先
+Speicherort für Exporte	エクスポートの保存先
+Jedes Mal fragen	毎回確認する
+Ordner wählen …	フォルダを選択…
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	「保存」で PDF などのエクスポートを毎回確認せずにこのフォルダへ直接保存します。SD カードも使えます。
+Gespeichert in „%s“	「%s」に保存しました
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	保存先にアクセスできません。もう一度選択してください。
+Neu aufnehmen	撮り直す
+Um 90° links drehen	左に90°回転
+Seite gelöscht	ページを削除しました
+Lange drücken: neu aufnehmen, drehen oder löschen	長押し：撮り直し・回転・削除
+Ersetzt beide Seiten	両方のページを置き換えます
+Ränder bereinigen	余白を整えています
+Scan-Qualität	スキャン品質
+Schnell	高速
+Standard	標準
+Genau	高精度
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	手紙や印刷物など大きくはっきりした文字向け：写真は小さく、処理は最速。
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	本やほとんどの書類向け：通常の速度で良好に認識。
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	小さな文字、古い本、脚注、数式向け：カメラの最大解像度、処理は遅く、メモリを多く使用。
+BILD	画像
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	画像を平らに置く · フラッシュなし · 反射を避ける
+an	オン
+aus	オフ
+Automatische Auslösung an: nach dem Umblättern	自動撮影オン：ページをめくった後
+Automatische Auslösung an: sobald die Seite ruhig liegt	自動撮影オン：ページが静止したら
+Automatische Auslösung aus	自動撮影オフ
+PDF & Export	PDF とエクスポート
+Speicherort für PDFs und Bilder	PDF と画像の保存先
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	エクスポート時にファイルごとに変更できます。
+Weitere Optionen …	その他のオプション …
+Automatische Verbesserung	自動補正
+Schatten und Artefakte entfernen, Schrift schärfen	影やノイズを除去し、文字をくっきりさせます
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	影やノイズを除去し、文字をくっきりさせます。文書ごとにオフにできます。
+unkorrigiert	補正なし
+Maximal	最高
+Bildqualität	画質
+volle Auflösung	最大解像度
+Briefe, Ausdrucke, große Schrift	手紙、印刷物、大きな文字
+Bücher und die meisten Dokumente (empfohlen)	本とほとんどの文書（推奨）
+Kleingedrucktes, Formeln, alte Bücher – langsamer	小さな文字、数式、古い本 – 時間がかかります
+Gilt auch für alle weiteren Scans.	以降のすべてのスキャンにも適用されます。
+Ändern	変更
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	「保存」でエクスポートしたファイルの保存先です。「共有」には影響しません。
+Ordner und Dateiname beim Speichern wählen	保存時にフォルダーとファイル名を選ぶ
+Exporte landen direkt hier	エクスポートはここに直接保存されます
+Anderen Ordner wählen …	別のフォルダーを選ぶ …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	端末で設定されていれば、SD カードやクラウドのフォルダーも選べます。
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	このフォルダーへの継続的なアクセスはできません。
+Sehr hohe Auflösung	非常に高い解像度
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	%d MP では各ページの処理に大幅に時間がかかり、多くのメモリを使います。ほとんどの文書は「標準」で十分です。「最高」が役立つのは非常に小さな文字だけです。
+Trotzdem verwenden	それでも使用する
+langsam	遅い
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	リモートシャッターが接続されていません – Bluetooth 設定でペアリングしてください
+Mit dem Fernauslöser auslösen	リモートシャッターで撮影
+Umblättern	ページめくり
+Auto 0,7 s	自動 0.7 秒
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	撮影を終了します。撮影済みのページは保存され、処理されます。
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	ライトをオン／オフします。光沢紙はライトなしで、窓に対して斜めに撮影すると良いです。
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	新しく撮影する代わりに既存の写真を使います。
+Serie	連続撮影
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	連続撮影を開始・停止します。タイマーが数秒ごとに自動で撮影します。
+Auslöser	シャッター
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	写真を撮影します。音量ボタンや Bluetooth リモートシャッターでも撮影できます。
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	撮影を終了して一覧を開きます。数字はこの撮影の写真枚数です。
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	各写真の画素数です。高速（5 MP）は大きな文字、標準（12 MP）はほぼすべて、最高は小さな文字や数式向け – 時間がかかります。
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	タップで切り替え：オフ、3、5、10 秒。その後シャッターでこの間隔の連続撮影が始まります – 本に便利です。
+Fotografiert nur, wenn du auf den Auslöser tippst.	シャッターをタップしたときだけ撮影します。
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	ページが 0.7 秒静止すると自動で撮影します。本モードでは、ページをめくって本が再び静止するたびに撮影します。
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Bluetooth リモートシャッター（例：「AB Shutter 3」）で撮影します。先にスマートフォンの Bluetooth 設定でペアリングしてください。
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	文書に名前を付けます。エクスポート時のファイル名にも使われます。
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	見開きの読む順序を反転、端末上で翻訳、またはスキャンを削除します。
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	カメラを開き、この文書にページを追加します。
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	ギャラリーの写真をページとして追加します。カメラの写真と同様にトリミング・認識されます。
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	ドラッグで順序を変更。ページを選んで回転、移動、コピー、分割、削除できます。
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	PDF、Word、画像、ZIP、テキスト、表として共有・保存・印刷します。
+Farbe, Graustufen, Schwarz-Weiß	カラー、グレースケール、白黒
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	この文書の全ページを切り替えます。白黒はファイルが最小、カラーは図や印鑑を忠実に再現します。
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	オン：影、汚れ、ノイズを除去し、文字のコントラストを高めます。オフ：トリミングと補正のみ – 写真や図、補正で何かが変わってしまう場合に。
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	ファイルを作成し、メール、メッセンジャー、クラウドなどのアプリに渡します。
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	ファイルを保存先に置きます – 固定フォルダー、または「毎回確認する」の場合は指定した場所。
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Android の印刷サービスで印刷します。そこで「PDF として保存」も選べます。
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	「保存」でファイルを置く場所：毎回確認する、または常に固定フォルダー（SD カードやクラウドフォルダーも可）。
+Hilfe & Anleitung	ヘルプと使い方
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	ヒント：ボタンを 1 秒長押しすると、その機能が表示されます。
+Startseite	ホーム
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	カメラを開きます。1 回の撮影の写真はすべて 1 つの文書にまとまります。
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	「スキャン」の上のギャラリーアイコンで既存の写真を取り込みます。カメラの写真と同様にトリミング・認識されます。
+Suchen	検索
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	名前と認識されたテキストでスキャンを探し、ページ番号も表示します。
+Ordner und Kategorien	フォルダーとカテゴリー
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	フォルダーでスキャンをまとめます。カテゴリー（本、領収書など）は該当するスキャンがあると自動で表示されます。
+Mehrere Scans	複数のスキャン
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	スキャンを長押し：選択、結合、フォルダーへ移動、削除。
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	削除したスキャンはゴミ箱（メニュー ⋮）に 30 日間残り、復元できます。
+Modi	モード
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	下部で選択：文書（1 枚の紙）、本（見開きを 2 ページに分割）、身分証（表裏を実物大で 1 枚に）、名刺（連絡先を認識）、画像（色を忠実に、文字認識なし）、証明写真（前面カメラ、35 × 45 mm）、QR コード。
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	左上：高速（5 MP）は大きな文字、標準（12 MP）はほぼすべて、最高は小さな文字や数式向け – 遅くなります。
+Auslösung	撮影方法
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	手動：シャッターで撮影。自動 0.7 秒：ページが 0.7 秒静止すると撮影。本モードではページをめくるたびに撮影。Bluetooth：ペアリングしたリモートシャッターで撮影。音量ボタンは常に撮影できます。
+Timer und Licht	タイマーとライト
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	時計アイコンで 3、5、10 秒ごとに撮影します（シャッターで開始）。フラッシュでライトが点灯します。
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	右下のサムネイルをタップ：ページが処理され、一覧が開きます。
+Gute Fotos	きれいに撮るには
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	ページを平らに置いて均一に照らし、スマートフォンを平行に構えます。紙と色の違う下敷きはトリミングに役立ちます。
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	文書の全ページに適用されます。個別のページはページ表示で別に設定できます。
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	影やノイズを除去し、文字のコントラストを高めます。オフにするとトリミングと補正のみになります。
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	タップでページを開きます。長押し：撮り直し、回転、削除。オレンジの印のページは確認が必要（ぼやけなど）、赤は処理に失敗しています。
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	ドラッグで順序を変更、複数ページを回転、別の文書に移動・コピー、または新しい文書として分割できます。
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF、Word、画像、ZIP、テキスト、表 – 共有・保存・印刷。
+Mehr (⋮)	その他（⋮）
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	見開きの読む順序を反転、端末上で翻訳、またはスキャンを削除。上部のペンで名前を変更します。
+Seitenansicht	ページ表示
+Blättern und Zoomen	ページ送りと拡大
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	スワイプでページ切り替え、ダブルタップまたは 2 本指で拡大します。
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	このページだけのカラー、グレースケール、白黒をプレビュー付きで選べます。その下はこのページの自動補正です。
+Drehen und Zuschnitt	回転とトリミング
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	90° 回転。トリミング：元の写真でページの角を設定し直します。
+Mit Stift, Marker oder Text auf die Seite schreiben.	ペン、マーカー、テキストでページに書き込みます。
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	機密データを読めなくします – 黒塗りまたはモザイク。口座番号、カード番号、顔が候補として表示されます。
+Signieren und Text	署名とテキスト
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	署名は保存した署名を挿入します。テキストは認識した文字を修正・コピー用に表示します。
+Formate	形式
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF（検索可能）、Word、画像（JPG）、ZIP、テキスト、Excel、CSV。名刺は連絡先としても出力できます。
+PDF-Optionen	PDF オプション
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	ページサイズ、解像度、圧縮で画質とファイルサイズが決まります – サイズは右上に目安が表示されます。パスワードも設定可能（AES-256）。
+Teilen oder Speichern	共有か保存か
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	共有はファイルをアプリ（メール、メッセンジャーなど）に送ります。保存は保存先に置きます。
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	「毎回確認する」は保存時にフォルダー選択を開きます。固定フォルダーにすると確認なしでそこに保存されます（SD カードやクラウドフォルダーも可）。
+Druckt über den Android-Druckdienst oder speichert als PDF.	Android の印刷サービスで印刷するか、PDF として保存します。
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	新しいスキャンの画質、撮影方法、見開きの分割。カメラ内でいつでも変更できます。
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	新しい文書の初期フィルターと自動補正。
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	PDF を検索可能にします。言語によって認識される文字が決まります。
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	保存先と、解像度・圧縮・ページサイズの初期値。
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	指紋によるアプリロック、ZIP バックアップ、ゴミ箱。
+Ecken setzen	角の設定
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	4 つの角をページの端にドラッグします。拡大鏡で指の下の部分が拡大表示されます。
+Einzel- oder Doppelseite	1 ページか見開きか
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	写真が 1 ページか開いた見開きかを下部で選びます。「自動」ではアプリが判断します。
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	上部のチェックで新しいトリミングを適用してページを処理します。
+Werkzeuge	ツール
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	ペンは書き込み、マーカーは強調、テキストは入力メモ用です。色はその下にあります。
+Korrigieren	修正
+Rückgängig nimmt den letzten Strich zurück.	元に戻すで最後の線を取り消します。
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	変更をページに書き込みます。保存しないとページは変わりません。
+Vorschläge	候補
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	見つかった口座番号、カード番号、税番号、顔に印が付いています – タップで選択を解除・再選択できます。
+Eigene Bereiche	独自の範囲
+Mit dem Finger weitere Rechtecke aufziehen.	指でさらに長方形を描きます。
+Balken oder Pixel	黒塗りかモザイクか
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	黒いバーまたはモザイク。その下の文字は文字認識と PDF からも削除されます。
+Zeichnen	描く
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	指で一度署名します – 署名は端末に保存されます。
+Platzieren	配置
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	1 本指で移動、2 本指でサイズ変更して挿入します。
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	上部のペンアイコンで保存済みの署名を置き換えます。
+Text bearbeiten	テキストを編集
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	ページの認識テキストは下にあり、編集できます。上は比較用のページ画像です。
+Wirkung	反映先
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	修正は検索、PDF のテキストレイヤー、Word とテキストのエクスポートに反映されます。
+Holt einen gelöschten Scan zurück.	削除したスキャンを元に戻します。
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	スキャンは 30 日後に自動で削除されます。「空にする」ですぐにすべて削除します。
+Belegung	使用量
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	スキャン、元の写真、ゴミ箱、キャッシュの使用容量を表示します。
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	元の写真を削除すると大きく容量を節約できます。完成したページは残りますが、トリミングは変更できなくなります。
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	すべてのスキャンを ZIP ファイルにバックアップし、この端末または別の端末で復元します。何もアップロードされません。
+Auswahl	選択
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	文書の言語を選びます。言語を追加するごとに認識が遅くなります。
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	不足している言語は一度だけダウンロードされ、その後はインターネットなしで使えます。
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	スマートフォンと PC を同じ Wi-Fi に接続します（または PC をスマートフォンのテザリングに接続）。
+Herunterladen	ダウンロード
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	表示されたアドレスを PC のブラウザーで開くか QR コードを読み取ります。そこですべてのスキャンを PDF またはテキストでダウンロードできます。
+Sicherheit	セキュリティ
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	ローカルネットワーク内で、この画面を開いている間だけ機能します。
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	言語、画質、撮影方法、文字認識、保存先、アプリロック、バックアップ。
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	ギャラリーの写真を新しい文書として取り込みます。カメラの写真と同様にトリミング・認識されます。
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	カメラを開きます。1 回の撮影の写真はすべて 1 つの文書にまとまります。
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	このページを文書から削除します（確認あり）。
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	このページだけのカラー、グレースケール、白黒と自動補正。
+Dreht die Seite um 90° im Uhrzeigersinn.	ページを時計回りに 90° 回転します。
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	端が欠けたり背景が写り込んだりした場合に、元の写真でページの角を設定し直します。
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	機密データを黒塗りまたはモザイクで読めなくします。PDF のテキストからも消えます。
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	保存した署名をページに配置します。初回は署名を描きます。
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	ページの認識テキストを修正・コピー用に表示します。
+Fotografiert beim Tippen auf den Auslöser.	シャッターをタップすると撮影します。
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	ページが 0.7 秒静止すると撮影します。本モードではページをめくるたびに撮影します。
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	ペアリングした Bluetooth リモートシャッターで撮影します。
+Lautstärketasten lösen immer aus.	音量ボタンは常に撮影できます。
+Word erstellen, Formeln erkennen (%d/%d)	Word を作成中、数式を認識中 (%d/%d)
+Belarussisch	ベラルーシ語
+Bulgarisch	ブルガリア語
+Serbisch	セルビア語
+Mazedonisch	マケドニア語
+Kein Link im geteilten Text	共有されたテキストにリンクがありません
+Import fehlgeschlagen: %s	インポートに失敗しました：%s
+Link laden	リンクを読み込み中
+Unter dem Link liegt keine PDF- oder Bilddatei.	リンク先は PDF や画像ファイルではありません。
+Nur PDF-Dateien und Bilder lassen sich importieren.	インポートできるのは PDF ファイルと画像だけです。
+Geschützte PDF-Dateien lassen sich nicht importieren.	保護された PDF ファイルはインポートできません。
+PDF-Seite %d/%d importieren	PDF ページ %d/%d をインポート中
+Auto %s s	自動 %s 秒
+Auslösen nach %s s	%s 秒後に撮影
+Wartezeit	待ち時間
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	自動撮影の前にページが静止している必要がある時間。短いほど速く、長いほどブレた写真が減ります。
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	ページが静止したら自動で撮影します。待ち時間（0.2～1.5 秒）は下で設定します。ブックモードでは、ページをめくるたびに本が再び静止したら撮影します。
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	写真、スクリーンショット、PDF ファイル、リンクをページとして追加します。写真はトリミングされ、すべて認識されます。
+Senden an …	送信先 …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	「保存」がエクスポートを置く場所です。「送信先 …」とは関係ありません。
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	サブフォルダ（例：「Documents」）を選んでください。Android ではストレージの最上位フォルダは使えません。
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	ファイルを作成してアプリに送ります（例：WhatsApp、メール、Telegram、クラウドストレージ）。
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	手動：シャッターボタンで。自動：ページが静止したら撮影。待ち時間（0.2～1.5 秒、標準 0.7 秒）はスキャン画面のスイッチの下で設定します。ブックモードではページをめくるたびに撮影。Bluetooth：ペアリングしたリモートシャッターで。音量ボタンは常に撮影します。
+Senden an oder Speichern	送信または保存
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	「送信先 …」はファイルをアプリに送ります（WhatsApp、メール、Telegram、クラウド …）。「保存」は保存先に置きます。
+Importieren	インポート
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	写真、スクリーンショット、PDF ファイル、リンクを新しいドキュメントとして取り込みます。写真はトリミングされ、すべて認識されます。
+Bilder aus der Galerie	ギャラリーの画像
+Fotos und Screenshots	写真とスクリーンショット
+Dateien	ファイル
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF ファイルと画像（ダウンロードやクラウドなど）
+Eine PDF- oder Bilddatei aus dem Internet	インターネット上の PDF または画像ファイル
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	その後はスキャンしたページと同じく、文字認識・翻訳・任意の形式へのエクスポートができます。
+Link importieren	リンクをインポート
+Internetadresse	ウェブアドレス
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	ページが %s 秒静止したら撮影します（スキャン画面で調整可能）。ブックモードではページをめくるたびに撮影。
+Fachwörterbuch laden	用語集を読み込み中
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	%s または %s の用語集がありません – 専門用語なしで翻訳しました
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	用語集ファイルではありません (glossary-xx.tsv.gz)
+Download nicht verfügbar	ダウンロードは利用できません
+Estnisch	エストニア語
+Irisch	アイルランド語
+Litauisch	リトアニア語
+Lettisch	ラトビア語
+Maltesisch	マルタ語
+Slowakisch	スロバキア語
+Slowenisch	スロベニア語
+Ohne Fachwörterbuch	用語集なし
+Alle Fachgebiete	すべての分野
+Fachgebiet: %s	分野: %s
+Fachwörterbücher verwalten …	用語集を管理 …
+Fachwörterbücher	専門用語集
+Aus Datei importieren	ファイルから読み込む
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	法律、医療、技術、経済など21分野の専門用語(IATE、EUの用語データベース)が翻訳時にそのまま使われます。原文と訳文の言語の用語集が必要で、それぞれ0.3〜9 MBです。
+Einmal laden, danach offline.	一度ダウンロードすれば、その後はオフライン。
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	glossary-xx.tsv.gz ファイルを上のフォルダアイコンから読み込みます。
+Fachwörterbücher für die Übersetzung	翻訳用の専門用語集
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	法律、医療、技術など – EUの24言語
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	写真とテキストはすべてこの端末に残ります。インターネットは、言語・翻訳モデル・用語集をあなたの操作で一度だけダウンロードするときにのみ使います。
+Übersetzen	翻訳
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	端末上で文書の翻訳コピーを作成します。ページと画像はそのままで、テキストは元の位置に翻訳先の言語で入ります。各段落はそれぞれの言語から翻訳されます。「分野」を選ぶと、用語集の専門用語がそのまま使われます。
+Was nachgeladen werden kann	ダウンロードできるもの
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	すべて任意で、タップしたときだけ読み込まれ、その後はインターネットなしで動作します:\n• 文字認識の言語:各1〜15 MB(設定 › 言語)。ドイツ語と英語は内蔵です。\n• 中国語:専用の認識モデル、約17 MB。\n• 翻訳モデル:1言語あたり約30 MB、最初の翻訳時に自動で読み込まれます。\n• 専門用語集:1言語あたり0.3〜9 MB、EUの24言語すべてで約70 MB(設定 › 専門用語集)。\n読み込んだファイルはいつでも削除できます。
+Wozu	目的
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	一般的な翻訳は多くの専門用語を知らないか、訳がばらつきます。用語集は定められた用語を挿入します。例:「Beweislast」→「立証責任」。
+Quelle	出典
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE は EU 機関の用語データベースで、21分野(法律、保健、技術、経済、環境、交通 …)の用語を収録しています。EU の24の公用語に対応しています。
+Was nötig ist	必要なもの
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	原文の言語と訳文の言語の用語集を1つずつ(例:ドイツ語と英語)。1言語につき1つの用語集で、すべての言語の組み合わせに使えます。
+Laden oder importieren	ダウンロードまたは読み込み
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	矢印でダウンロード(一度だけ、その後はオフライン)するか、フォルダアイコンで「glossary-xx.tsv.gz」ファイルを PC や SD カードなどから読み込みます。
+Benutzen	使い方
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	翻訳時に上で分野を選びます。「すべての分野」は、どの分野でも同じ訳になる用語だけを使います。
+Grenzen	制限
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	専門用語は基本形で挿入されます。活用形は認識されないことがあります。
+Politik	政治
+Internationale Beziehungen	国際関係
+Europäische Union	欧州連合
+Recht	法律
+Wirtschaft	経済
+Handel	貿易
+Finanzwesen	金融
+Soziales und Gesundheit	社会問題と保健
+Bildung und Kommunikation	教育とコミュニケーション
+Wissenschaft	科学
+Unternehmen und Wettbewerb	ビジネスと競争
+Beschäftigung und Arbeitsbedingungen	雇用と労働条件
+Verkehr	交通
+Umwelt	環境
+Land-, Forst- und Fischereiwirtschaft	農林水産業
+Agrarerzeugnisse und Lebensmittel	農産食品
+Produktion, Technologie und Forschung	生産・技術・研究
+Energie	エネルギー
+Industrie	産業
+Geografie	地理
+Internationale Organisationen	国際機関
+Wenig Licht – Lampe einschalten	暗すぎます – ライトをオン
+Verarbeitung mehrfach abgebrochen	処理が繰り返し中断されました
+Bearbeitungen gehen verloren	編集内容は失われます
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	ページは写真から作り直されます。黒塗り、署名、メモは後で再度追加する必要があります。
+Neu zuschneiden	再トリミング
+Sprachdaten	言語データ
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	スキャン、元の写真、ゴミ箱、キャッシュ、言語データ(文字認識、用語集)が使用している容量を表示します。
+Bitte warten, bis alle Seiten erkannt sind	すべてのページが認識されるまでお待ちください
+Die Sprache „%s“ kann nicht übersetzt werden	言語「%s」は翻訳できません
+Übersetzung in die Seiten setzen	翻訳をページに配置中

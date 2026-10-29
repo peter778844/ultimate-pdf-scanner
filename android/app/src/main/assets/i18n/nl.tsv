@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Stel eerst een vingerafdruk, gezichtsontgrendeling of schermvergrendeling in.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Dit apparaat ondersteunt geen biometrische ontgrendeling.
+Ultimate PDF Scanner entsperren	Ultimate PDF Scanner ontgrendelen
+Deine Scans sind geschützt	Je scans zijn beveiligd
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner is vergrendeld
+Deine Scans bleiben auf diesem Gerät.	Je scans blijven op dit apparaat.
+  Entsperren	  Ontgrendelen
+Systemsprache	Systeemtaal
+Deutsch	Deutsch
+English	English
+Fotos importieren	Foto’s importeren
+Texterkennung vorbereiten	Tekstherkenning voorbereiden
+Ein Foto konnte nicht verarbeitet werden: %s	Een foto kon niet worden verwerkt: %s
+Foto laden	Foto laden
+Foto nicht lesbar	Foto onleesbaar
+Filter anwenden	Filter toepassen
+Schwärzen	Onleesbaar maken
+Unterschrift einfügen	Handtekening invoegen
+Unterschrift eingefügt	Handtekening ingevoegd
+Änderungen einfügen	Wijzigingen invoegen
+Seite bearbeitet	Pagina bewerkt
+Text gesichert	Tekst opgeslagen
+Zusammenführen	Samenvoegen
+%d Scans zusammengeführt	%d scans samengevoegd
+Seiten verschieben	Pagina’s verplaatsen
+Seiten kopieren	Pagina’s kopiëren
+ (Teil)	 (deel)
+Zwischenspeicher leeren	Cache wissen
+Zwischenspeicher geleert	Cache gewist
+Originalfotos entfernen	Originele foto’s verwijderen
+Sicherung erstellen	Back-up maken
+Sicherung erstellen (%d/%d)	Back-up maken (%d/%d)
+Sicherung gespeichert	Back-up opgeslagen
+Sicherung wiederherstellen	Back-up terugzetten
+ (%d schon vorhanden)	 (%d al aanwezig)
+Wiederherstellen fehlgeschlagen: %s	Terugzetten mislukt: %s
+PDF erstellen (%d/%d)	PDF maken (%d/%d)
+%s erstellen	%s maken
+Export fehlgeschlagen: %s	Exporteren mislukt: %s
+%s speichern	%s opslaan
+PDF gespeichert (passwortgeschützt, AES-256)	PDF opgeslagen (met wachtwoord beveiligd, AES-256)
+%s gespeichert	%s opgeslagen
+Bilder speichern	Afbeeldingen opslaan
+Bilder speichern (%d/%d)	Afbeeldingen opslaan (%d/%d)
+%d Bilder gespeichert	%d afbeeldingen opgeslagen
+Sprache erkennen	Taal herkennen
+Kein erkannter Text zum Übersetzen	Geen herkende tekst om te vertalen
+Sprache nicht erkannt	Taal niet herkend
+Der Text ist bereits auf %s	De tekst is al in het %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Taalmodel laden (eerste keer ~30 MB)
+Übersetzen (%d/%d)	Vertalen (%d/%d)
+Seite %d	Pagina %d
+Übersetzung fehlgeschlagen: %s	Vertalen mislukt: %s
+1 Bereich unkenntlich gemacht	1 gebied onleesbaar gemaakt
+%d Bereiche unkenntlich gemacht	%d gebieden onleesbaar gemaakt
+1 Scan wiederhergestellt	1 scan teruggezet
+%d Scans wiederhergestellt	%d scans teruggezet
+Server antwortet mit %d	Server antwoordt met %d
+Datei unvollständig	Bestand onvolledig
+Nicht gefunden	Niet gevonden
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	%d scans op de telefoon · rechtstreeks via wifi, zonder cloud
+Ausgangssprache „%s“ wird nicht unterstützt	Brontaal ‘%s’ wordt niet ondersteund
+Zielsprache „%s“ wird nicht unterstützt	Doeltaal ‘%s’ wordt niet ondersteund
+QR-CODE	QR-CODE
+AUSWEIS	ID-KAART
+DOKUMENT	DOCUMENT
+BUCH	BOEK
+VISITENKARTE	VISITEKAARTJE
+PASSFOTO	PASFOTO
+PDF	PDF
+Word	Word
+Bilder	Afbeeldingen
+ZIP	ZIP
+Text	Tekst
+Excel	Excel
+CSV	CSV
+Kontakt	Contact
+Wie gescannt	Zoals gescand
+Letter	Letter
+Mittel	Gemiddeld
+Englisch	Engels
+Französisch	Frans
+Italienisch	Italiaans
+Spanisch	Spaans
+Portugiesisch	Portugees
+Niederländisch	Nederlands
+Polnisch	Pools
+Tschechisch	Tsjechisch
+Dänisch	Deens
+Schwedisch	Zweeds
+Norwegisch	Noors
+Finnisch	Fins
+Ungarisch	Hongaars
+Rumänisch	Roemeens
+Kroatisch	Kroatisch
+Türkisch	Turks
+Griechisch	Grieks
+Russisch	Russisch
+Ukrainisch	Oekraïens
+Arabisch	Arabisch
+Hebräisch	Hebreeuws
+Persisch	Perzisch
+Chinesisch (vereinfacht)	Chinees (vereenvoudigd)
+Japanisch	Japans
+Koreanisch	Koreaans
+Latein	Latijn
+Deutsch (Fraktur)	Duits (Fraktur)
+1 Seite	1 pagina
+%d Seiten	%d pagina’s
+1 Scan	1 scan
+%d Scans	%d scans
+Abbrechen	Annuleren
+Bearbeiten	Bewerken
+Zurück	Terug
+Rückgängig	Ongedaan maken
+Sichern	Opslaan
+Seite	Pagina
+Einfügen	Invoegen
+Änderungen sichern?	Wijzigingen opslaan?
+Verwerfen	Verwerpen
+Schließen	Sluiten
+Fertig	Klaar
+Öffnen	Openen
+Keine	Geen
+Alle	Alle
+Umbenennen	Naam wijzigen
+Mehr	Meer
+Löschen	Verwijderen
+Teilen	Delen
+Speichern	Opslaan
+Drucken	Afdrukken
+Kopieren	Kopiëren
+Drehen	Draaien
+Laden	Downloaden
+Entfernen	Verwijderen
+Verschieben	Verplaatsen
+Name	Naam
+Aus	Uit
+Leeren	Legen
+Wiederherstellen	Terugzetten
+Text einfügen	Tekst invoegen
+z. B. Name, Datum …	bijv. naam, datum …
+Kein Gesicht erkannt – bitte noch einmal	Geen gezicht herkend – probeer het opnieuw
+Seite erneut scannen	Pagina opnieuw scannen
+Fernauslöser verbunden	Afstandsontspanner verbonden
+Nach dem Umblättern auslösen	Na het omslaan van de pagina afdrukken
+Leserichtung rechts nach links	Leesrichting van rechts naar links
+Leserichtung links nach rechts	Leesrichting van links naar rechts
+Automatisch auslösen	Automatisch afdrukken
+Kamera wechseln	Camera wisselen
+Licht	Licht
+Bitte Kamerazugriff erlauben.	Geef toegang tot de camera.
+Passfoto wird zugeschnitten …	Pasfoto wordt bijgesneden …
+Ohne Rückseite fertig	Klaar zonder achterkant
+Kein Code im Bild gefunden	Geen code in de afbeelding gevonden
+Aus Galerie	Uit galerij
+QR-Code oder Barcode in den Rahmen halten	Houd de QR-code of barcode in het kader
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Gezicht in het ovaal · recht vooruit kijken · lichte achtergrond
+Vorderseite des Ausweises in den Rahmen	Voorkant van de ID-kaart in het kader
+Jetzt die Rückseite	Nu de achterkant
+Visitenkarte in den Rahmen legen	Leg het visitekaartje in het kader
+Aufgeschlagenes Buch ins Bild halten	Houd het opengeslagen boek in beeld
+Doppelseite erkannt	Dubbele pagina herkend
+Umblättern – löst danach automatisch aus	Pagina omslaan – daarna wordt automatisch afgedrukt
+Ruhig halten …	Stil houden …
+Ruhig halten – wird automatisch ausgelöst	Stil houden – wordt automatisch afgedrukt
+Seite ins Bild halten	Houd de pagina in beeld
+Seite erkannt	Pagina herkend
+Intervall-Timer	Intervaltimer
+Serie starten	Serie starten
+Farbe	Kleur
+Graustufen	Grijstinten
+Schwarz-Weiß	Zwart-wit
+Original	Origineel
+Automatisch	Automatisch
+Zuschnitt nicht möglich	Bijsnijden niet mogelijk
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	De originele foto van deze pagina is verwijderd om ruimte te besparen. Met ‘Opnieuw scannen’ kun je de pagina opnieuw vastleggen.
+Zuschnitt anpassen	Bijsnijden aanpassen
+Übernehmen	Toepassen
+Einzelseite	Enkele pagina
+Doppelseite	Dubbele pagina
+Auto	Auto
+  Automatisch	  Automatisch
+Ecken auf die Seitenränder ziehen	Sleep de hoeken naar de paginaranden
+Seiten ordnen	Pagina’s ordenen
+%d ausgewählt	%d geselecteerd
+Filter für alle Seiten	Filter voor alle pagina’s
+Leserichtung umkehren	Leesrichting omkeren
+Übersetzen…	Vertalen…
+Scan löschen	Scan verwijderen
+Scannen	Scannen
+Import	Importeren
+Ordnen	Ordenen
+Exportieren	Exporteren
+Übersetzen in …	Vertalen naar …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	De vertaling gebeurt op het apparaat. De eerste keer wordt het taalmodel eenmalig gedownload.
+Übersetzung teilen	Vertaling delen
+Scan löschen?	Scan verwijderen?
+„%s“ wird endgültig gelöscht.	‘%s’ wordt definitief verwijderd.
+Kontakt erkannt	Contact herkend
+Zu Kontakten	Naar contacten
+Seiten werden verarbeitet (%d/%d)	Pagina’s worden verwerkt (%d/%d)
+Nur diese	Alleen deze
+Wird neu verarbeitet	Wordt opnieuw verwerkt
+Erneut	Opnieuw
+Fehlgeschlagen	Mislukt
+Foto nicht verarbeitet	Foto niet verwerkt
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Er is een fout opgetreden bij de beeldverwerking.
+Keine Auffälligkeiten	Geen bijzonderheden
+Erneut scannen	Opnieuw scannen
+Ersetzt beide Seiten dieser Doppelseite	Vervangt beide pagina’s van deze dubbele pagina
+Kamera öffnen und diese Seite ersetzen	Camera openen en deze pagina vervangen
+Nach vorn	Naar voren
+Nach hinten	Naar achteren
+Seite löschen	Pagina verwijderen
+Foto entfernen	Foto verwijderen
+1 Seite verschoben	1 pagina verplaatst
+%d Seiten verschoben	%d pagina’s verplaatst
+1 Seite kopiert	1 pagina gekopieerd
+%d Seiten kopiert	%d pagina’s gekopieerd
+1 Seite löschen?	1 pagina verwijderen?
+%d Seiten löschen?	%d pagina’s verwijderen?
+1 Seite prüfen	1 pagina controleren
+%d Seiten prüfen	%d pagina’s controleren
+Seite löschen?	Pagina verwijderen?
+Durchsuchbares PDF mit erkanntem Text	Doorzoekbare PDF met herkende tekst
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Bewerkbare tekst voor Word, LibreOffice en Google Docs
+Die Seite als JPG-Bild	De pagina als JPG-afbeelding
+Ein JPG-Bild pro Seite (%d Dateien)	Eén JPG-afbeelding per pagina (%d bestanden)
+Alle Seiten als JPG und der Text in einem Archiv	Alle pagina’s als JPG en de tekst in één archief
+Nur der erkannte Text	Alleen de herkende tekst
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Herkende tabellen, één werkblad per pagina
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Herkende tabellen als CSV (puntkomma, voor Excel)
+Visitenkarte als Kontakt (vCard)	Visitekaartje als contact (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Voor- en achterkant op ware grootte op één pagina – klaar om af te drukken
+Seitenformat	Paginaformaat
+Mit Passwort schützen	Met wachtwoord beveiligen
+AES-256-Verschlüsselung	AES-256-versleuteling
+Passwort	Wachtwoord
+Mindestens 4 Zeichen	Minstens 4 tekens
+Passwort wiederholen	Wachtwoord herhalen
+Passwörter stimmen nicht überein	Wachtwoorden komen niet overeen
+Seitenbilder einfügen	Pagina-afbeeldingen invoegen
+Jede Seite als Bild über ihrem Text	Elke pagina als afbeelding boven de tekst
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Kolommen worden herkend aan de witruimte in de tekst – dat werkt het best bij duidelijk gescheiden kolommen. Getallen als ‘1.234,50’ worden als getallen overgenomen.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Op dit kaartje zijn geen contactgegevens herkend.
+1 ausgewählte Seite	1 geselecteerde pagina
+%d ausgewählte Seiten	%d geselecteerde pagina’s
+Mobil	Mobiel
+Fax	Fax
+Telefon	Telefoon
+%s teilen	%s delen
+Scan	Scan
+Text teilen	Tekst delen
+PDF teilen	PDF delen
+In den Papierkorb verschoben	Naar de prullenbak verplaatst
+%d Scans in den Papierkorb verschoben	%d scans naar de prullenbak verplaatst
+Auswahl beenden	Selectie beëindigen
+Alle auswählen	Alles selecteren
+In Ordner verschieben	Naar map verplaatsen
+Ordner	Mappen
+Ordner umbenennen	Map hernoemen
+Ordner auflösen	Map opheffen
+Papierkorb (%d)	Prullenbak (%d)
+Papierkorb	Prullenbak
+An PC senden	Naar pc sturen
+Speicher & Sicherung	Opslag en back-up
+Einstellungen	Instellingen
+Scans und Text durchsuchen	Scans en tekst doorzoeken
+Alle Scans durchsuchen	Alle scans doorzoeken
+Suche löschen	Zoekopdracht wissen
+%d Treffer	%d resultaten
+Alle Scans	Alle scans
+Nichts gefunden	Niets gevonden
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Geen naam en geen herkende tekst komt overeen met ‘%s’.
+Ordner ist leer	Map is leeg
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Verplaats scans hierheen: houd een scan lang ingedrukt en kies ‘Naar map verplaatsen’.
+Noch keine Scans	Nog geen scans
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Tik op ‘Scannen’ om pagina’s te fotograferen,\nof importeer foto’s uit de galerij.
+Ordnername	Mapnaam
+Neuer Ordner	Nieuwe map
+%d Scans zusammenführen?	%d scans samenvoegen?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Alle pagina’s worden in de volgorde van selectie aan ‘%s’ toegevoegd. De overige scans vervallen daarna.
+%d prüfen	%d controleren
+Wird verarbeitet (%d/%d)	Wordt verwerkt (%d/%d)
+Als PDF teilen	Delen als PDF
+Kategorie ändern	Categorie wijzigen
+Kein Ordner	Geen map
+Neuer Ordner …	Nieuwe map …
+Kategorie	Categorie
+Download fehlgeschlagen: %s	Downloaden mislukt: %s
+keine Verbindung	geen verbinding
+Sprachen der Texterkennung	Talen voor tekstherkenning
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Gekozen talen worden samen herkend – kies alleen de nodige, elke extra taal maakt de herkenning trager. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Ontbrekende talen worden eenmalig gedownload (ca. 2–15 MB) en werken daarna offline.
+Wird geladen … %d %%	Wordt gedownload … %d %%
+Enthalten	Inbegrepen
+Geladen · %s	Gedownload · %s
+Nicht geladen	Niet gedownload
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Tik om te selecteren · ingedrukt houden en slepen om te verplaatsen
+Neuer Scan	Nieuwe scan
+Verschieben nach …	Verplaatsen naar …
+Kopieren nach …	Kopiëren naar …
+Seite %d von %d	Pagina %d van %d
+Filter	Filter
+Zuschnitt	Bijsnijden
+Signieren	Ondertekenen
+Code	Code
+Link	Link
+E-Mail	E-mail
+Telefonnummer	Telefoonnummer
+Ort	Locatie
+Produktcode	Productcode
+Netzwerk: %s	Netwerk: %s
+Passwort: %s	Wachtwoord: %s
+Verschlüsselung: %s	Versleuteling: %s
+Passwort kopieren	Wachtwoord kopiëren
+Verbinden	Verbinden
+E-Mail schreiben	E-mail schrijven
+Anrufen	Bellen
+In Karten öffnen	Openen in Kaarten
+Suche sensible Daten…	Zoeken naar gevoelige gegevens…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Niets gevoeligs gevonden. Trek met je vinger gebieden om onleesbaar te maken.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Gevonden – tik om te selecteren of deselecteren, trek meer gebieden:
+Schwarzer Balken	Zwarte balk
+Verpixeln	Pixeleren
+Unkenntlich machen (%d)	Onleesbaar maken (%d)
+Manuell	Handmatig
+Gesicht	Gezicht
+Kein WLAN	Geen wifi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Verbind telefoon en pc met hetzelfde wifi-netwerk (of de pc met de hotspot van de telefoon). Het adres verschijnt dan hier.
+Am PC im Browser öffnen	Openen in de browser op de pc
+QR-Code der Adresse	QR-code van het adres
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Typ het adres of scan de QR-code met de camera van de pc. Daar kun je alle scans als PDF of tekst downloaden.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Alleen in het lokale netwerk en alleen zolang dit scherm open is. Er wordt niets naar internet geüpload.
+Heruntergeladen	Gedownload
+App-Sperre nicht möglich	App-vergrendeling niet mogelijk
+Sprache	Taal
+Sprache der App	Taal van de app
+Aufnahme	Opname
+Doppelseiten im Dokument-Modus	Dubbele pagina’s in documentmodus
+Automatisch teilen	Automatisch splitsen
+Nie teilen	Nooit splitsen
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Maakt een foto zodra de pagina stil in beeld ligt.
+Buch-Modus	Boekmodus
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Herkent het omslaan en maakt een foto zodra het boek weer stil ligt.
+Leserichtung	Leesrichting
+Links → rechts	Links → rechts
+Rechts → links	Rechts → links
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Rechts → links voor Arabisch, Hebreeuws, Perzisch en Japans: de rechterpagina komt eerst.
+Fernauslöser	Afstandsontspanner
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Koppel een Bluetooth-camera-afstandsontspanner (bijv. ‘AB Shutter 3’) in de Bluetooth-instellingen van Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	In de camera drukken dan de afstandsontspanner en de volumeknoppen af.
+Bild	Afbeelding
+Standardfilter	Standaardfilter
+Handschrift entfernen	Handschrift verwijderen
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Verwijdert notities met blauwe/rode pen en potlood. Verwijdert ook druk in deze kleuren.
+Texterkennung	Tekstherkenning
+Sprachen	Talen
+Sicherheit & Speicher	Beveiliging en opslag
+App-Sperre	App-vergrendeling
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Bij het openen ontgrendelen met vingerafdruk, gezicht of schermvergrendeling. Inhoud verschijnt niet in het app-overzicht.
+Belegung, Backup als ZIP, Wiederherstellen	Gebruik, back-up als ZIP, terugzetten
+Gelöschte Scans werden nach 30 Tagen entfernt	Verwijderde scans worden na 30 dagen gewist
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Alle foto’s en teksten blijven op dit apparaat. Internet wordt alleen gebruikt om talen eenmalig te downloaden, als jij dat start.
+Über	Over
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Opensourcecomponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (alle Apache-licentie 2.0); ML Kit (vertaling, gezichtsherkenning, op het apparaat).
+Unterschrift zeichnen	Handtekening tekenen
+Mit dem Finger unterschreiben	Onderteken met je vinger
+Unterschrift platzieren	Handtekening plaatsen
+Neu zeichnen	Opnieuw tekenen
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Verplaatsen met één vinger, grootte wijzigen met twee vingers.
+Unterschrift	Handtekening
+Belegt von Ultimate PDF Scanner	In gebruik door Ultimate PDF Scanner
+%s frei auf dem Gerät	%s vrij op het apparaat
+Seiten	Pagina’s
+Originalfotos	Originele foto’s
+Zwischenspeicher	Cache
+Platz schaffen	Ruimte vrijmaken
+Exportierte Dateien zum Teilen	Geëxporteerde bestanden om te delen
+Gelöschte Scans der letzten 30 Tage	Verwijderde scans van de laatste 30 dagen
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	De afgewerkte pagina’s blijven behouden; het bijsnijden kan daarna niet meer worden gewijzigd.
+Größte Scans	Grootste scans
+Sicherung	Back-up
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Alle scans als één ZIP-bestand bewaren – bijv. op een SD-kaart, een USB-stick of de pc. Er wordt niets geüpload.
+Papierkorb mitsichern	Prullenbak meenemen
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-back-up_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Bij het terugzetten worden alleen ontbrekende scans toegevoegd.
+Originalfotos entfernen?	Originele foto’s verwijderen?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Bespaart %s. Pagina’s kunnen daarna niet opnieuw worden bijgesneden; ‘Opnieuw scannen’ blijft mogelijk.
+Text bearbeiten · Seite %d	Tekst bewerken · pagina %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Correcties worden gebruikt in de zoekfunctie en de tekstlaag van de PDF.
+Kein Text erkannt – hier eintippen	Geen tekst herkend – typ hier
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Verwijderde scans worden na %d dagen definitief gewist.
+Papierkorb ist leer	Prullenbak is leeg
+Endgültig löschen	Definitief verwijderen
+Papierkorb leeren?	Prullenbak legen?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d scans worden definitief verwijderd. Dit kan niet ongedaan worden gemaakt.
+Endgültig löschen?	Definitief verwijderen?
+„%s“ wird sofort gelöscht.	‘%s’ wordt meteen verwijderd.
+noch 1 Tag	nog 1 dag
+noch %d Tage	nog %d dagen
+Quittung	Kassabon
+Quittungen	Kassabonnen
+Rechnung	Factuur
+Rechnungen	Facturen
+Visitenkarte	Visitekaartje
+Visitenkarten	Visitekaartjes
+Vertrag	Contract
+Verträge	Contracten
+Brief	Brief
+Briefe	Brieven
+Ausweis	Identiteitsbewijs
+Ausweise	Identiteitsbewijzen
+Buch	Boek
+Bücher	Boeken
+Passfoto	Pasfoto
+Passfotos	Pasfoto’s
+Dokument	Document
+Dokumente	Documenten
+Auflösung	Resolutie
+Kompression	Compressie
+Gering	Laag
+Stark	Sterk
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi en lage compressie voor afdrukken en archief, 150 dpi en sterke compressie voor e-mail.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Maakt PDF’s doorzoekbaar en tekst kopieerbaar. Uit: snellere verwerking, PDF alleen als afbeelding.
+Keine Seite erkannt	Geen pagina herkend
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	De paginarand is niet gevonden – de hele foto is overgenomen.
+Unscharf	Onscherp
+Das Foto ist verwackelt oder unscharf.	De foto is bewogen of onscherp.
+Zu dunkel	Te donker
+Die Seite ist schlecht ausgeleuchtet.	De pagina is slecht verlicht.
+Text schlecht lesbar	Tekst slecht leesbaar
+Die Texterkennung war unsicher.	De tekstherkenning was onzeker.
+Kein Text erkannt	Geen tekst herkend
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Er is geen tekst op de pagina gevonden – een lege pagina of helemaal geen pagina in beeld?
+Hindi	Hindi
+Bengalisch	Bengaals
+Urdu	Urdu
+Indonesisch	Indonesisch
+Seite erkennen	Pagina herkennen
+Seite entzerren	Pagina rechttrekken
+Finger entfernen	Vingers verwijderen
+Schärfe prüfen	Scherpte controleren
+Ausrichtung	Oriëntatie
+Bild verbessern	Afbeelding verbeteren
+Speicherort	Opslaglocatie
+Speicherort für Exporte	Opslaglocatie voor exports
+Jedes Mal fragen	Elke keer vragen
+Ordner wählen …	Map kiezen …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	‘Opslaan’ zet PDF’s en andere exports direct in deze map, zonder elke keer te vragen. Een SD-kaart kan ook.
+Gespeichert in „%s“	Opgeslagen in ‘%s’
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	De opslaglocatie is niet bereikbaar. Kies opnieuw.
+Neu aufnehmen	Opnieuw vastleggen
+Um 90° links drehen	90° naar links draaien
+Seite gelöscht	Pagina verwijderd
+Lange drücken: neu aufnehmen, drehen oder löschen	Lang indrukken: opnieuw vastleggen, draaien of verwijderen
+Ersetzt beide Seiten	Vervangt beide pagina’s
+Ränder bereinigen	Randen opschonen
+Scan-Qualität	Scankwaliteit
+Schnell	Snel
+Standard	Standaard
+Genau	Nauwkeurig
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Voor grote, duidelijke tekst zoals brieven en afdrukken: kleinere foto’s, snelste verwerking.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Voor boeken en de meeste documenten: goede herkenning bij normale snelheid.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Voor kleine letters, oude boeken, voetnoten en formules: volledige cameraresolutie, trager, meer geheugen.
+BILD	AFBEELDING
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Afbeelding plat neerleggen · geen flits · reflecties vermijden
+an	aan
+aus	uit
+Automatische Auslösung an: nach dem Umblättern	Automatisch afdrukken aan: na het omslaan
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automatisch afdrukken aan: zodra de pagina stil ligt
+Automatische Auslösung aus	Automatisch afdrukken uit
+PDF & Export	PDF en export
+Speicherort für PDFs und Bilder	Opslaglocatie voor PDF’s en afbeeldingen
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Bij het exporteren kun je dit per bestand wijzigen.
+Weitere Optionen …	Meer opties …
+Automatische Verbesserung	Automatische verbetering
+Schatten und Artefakte entfernen, Schrift schärfen	Schaduwen en artefacten verwijderen, tekst verscherpen
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Schaduwen en artefacten verwijderen, tekst verscherpen. Per document uit te schakelen.
+unkorrigiert	ongecorrigeerd
+Maximal	Maximaal
+Bildqualität	Beeldkwaliteit
+volle Auflösung	volledige resolutie
+Briefe, Ausdrucke, große Schrift	Brieven, afdrukken, grote letters
+Bücher und die meisten Dokumente (empfohlen)	Boeken en de meeste documenten (aanbevolen)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Kleine letters, formules, oude boeken – trager
+Gilt auch für alle weiteren Scans.	Geldt ook voor alle volgende scans.
+Ändern	Wijzigen
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Waar ‘Opslaan’ je exports neerzet. ‘Delen’ staat daar los van.
+Ordner und Dateiname beim Speichern wählen	Map en bestandsnaam kiezen bij het opslaan
+Exporte landen direkt hier	Exports komen direct hier terecht
+Anderen Ordner wählen …	Andere map kiezen …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Ook SD-kaart en cloudmappen, als die op het apparaat zijn ingesteld.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Blijvende toegang tot deze map is niet mogelijk.
+Sehr hohe Auflösung	Zeer hoge resolutie
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Met %d MP duurt de verwerking van elke pagina veel langer en is veel geheugen nodig. ‘Standaard’ volstaat voor de meeste documenten. ‘Maximaal’ loont alleen bij heel kleine letters.
+Trotzdem verwenden	Toch gebruiken
+langsam	traag
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Geen afstandsontspanner verbonden – koppel hem in de Bluetooth-instellingen
+Mit dem Fernauslöser auslösen	Afdrukken met de afstandsontspanner
+Umblättern	Omslaan
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Beëindigt de opname. Al gefotografeerde pagina’s blijven bewaard en worden verwerkt.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Zet de zaklamp aan of uit. Bij glanzend papier beter zonder licht en schuin ten opzichte van het raam fotograferen.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Neemt bestaande foto’s in plaats van nieuwe opnamen.
+Serie	Serie
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Start of stopt de serie: de timer maakt dan om de paar seconden automatisch een foto.
+Auslöser	Ontspanknop
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Maakt een foto. De volumeknoppen en een Bluetooth-afstandsontspanner drukken ook af.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Beëindigt de opname en opent het overzicht; het getal toont de foto’s van deze opname.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Hoeveel pixels elke foto heeft. Snel (5 MP) voor grote letters, Standaard (12 MP) voor bijna alles, Maximaal voor kleine letters en formules – duurt langer.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Tik om te wisselen: uit, 3, 5 of 10 seconden. De ontspanknop start dan een serie met een foto op deze afstand – handig voor boeken.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Maakt alleen een foto als je op de ontspanknop tikt.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Maakt vanzelf een foto zodra de pagina 0,7 seconde stil in beeld ligt. In boekmodus: na elke keer omslaan, zodra het boek weer stil ligt.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Maakt foto’s met een Bluetooth-afstandsontspanner (bijv. ‘AB Shutter 3’). Koppel de ontspanner eerst in de Bluetooth-instellingen van de telefoon.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Geeft het document een eigen naam; die wordt ook als bestandsnaam bij het exporteren gebruikt.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Leesrichting van dubbele pagina’s omkeren, op het apparaat vertalen of de scan verwijderen.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Opent de camera en voegt meer pagina’s aan dit document toe.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Neemt foto’s uit de galerij over als extra pagina’s; ze worden bijgesneden en herkend zoals camerafoto’s.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Volgorde wijzigen door te slepen; pagina’s selecteren om ze te draaien, verplaatsen, kopiëren, los te maken of verwijderen.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Delen, opslaan of afdrukken als PDF, Word, afbeeldingen, ZIP, tekst of tabel.
+Farbe, Graustufen, Schwarz-Weiß	Kleur, grijstinten, zwart-wit
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Zet alle pagina’s van dit document om. Zwart-wit geeft de kleinste bestanden, kleur geeft afbeeldingen en stempels getrouw weer.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Aan: schaduwen, vlekken en artefacten worden verwijderd, de tekst krijgt meer contrast. Uit: de pagina’s worden alleen bijgesneden en rechtgetrokken – voor foto’s, tekeningen of als de verbetering iets vervormt.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Maakt het bestand en geeft het door aan een app, bijv. e-mail, messenger of cloud.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Zet het bestand op de opslaglocatie – in de vaste map of, bij ‘Elke keer vragen’, waar jij het neerzet.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Drukt af via de afdrukservice van Android; daar kun je ook ‘Opslaan als PDF’ kiezen.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Waar ‘Opslaan’ de bestanden neerzet: elke keer vragen of altijd in een vaste map, ook op een SD-kaart of in een cloudmap.
+Hilfe & Anleitung	Hulp en uitleg
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Tip: houd een knop een seconde ingedrukt om te zien wat hij doet.
+Startseite	Start
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Opent de camera. Alle foto’s van één opname komen in één gezamenlijk document.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Het galerijpictogram boven ‘Scannen’ neemt bestaande foto’s over; ze worden bijgesneden en herkend zoals camerafoto’s.
+Suchen	Zoeken
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Vindt scans op naam en op herkende tekst, met paginanummer.
+Ordner und Kategorien	Mappen en categorieën
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Mappen groeperen scans. De categorieën (boeken, kassabonnen …) verschijnen vanzelf zodra er scans van die soort zijn.
+Mehrere Scans	Meerdere scans
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Houd een scan lang ingedrukt: selecteren, samenvoegen, naar een map verplaatsen of verwijderen.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Verwijderde scans blijven 30 dagen in de prullenbak (menu ⋮) en kunnen worden teruggezet.
+Modi	Modi
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Onderaan kiezen: Document (losse vellen), Boek (dubbele pagina’s worden in twee pagina’s gesplitst), ID-kaart (voor- en achterkant op ware grootte op één vel), Visitekaartje (het contact wordt herkend), Afbeelding (kleurecht, zonder tekstherkenning), Pasfoto (frontcamera, 35 × 45 mm) en QR-code.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Linksboven: Snel (5 MP) voor grote letters, Standaard (12 MP) voor bijna alles, Maximaal voor kleine letters en formules – trager.
+Auslösung	Afdrukken
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Handmatig: met de ontspanknop. Auto 0,7 s: zodra de pagina 0,7 seconde stil ligt; in boekmodus na elke keer omslaan. Bluetooth: met een gekoppelde afstandsontspanner. De volumeknoppen drukken altijd af.
+Timer und Licht	Timer en licht
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Het klokpictogram maakt elke 3, 5 of 10 seconden een foto (start met de ontspanknop). De flits zet de zaklamp aan.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Tik op de miniatuur rechtsonder: de pagina’s worden verwerkt en het overzicht opent.
+Gute Fotos	Goede foto’s
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Leg de pagina plat en gelijkmatig belicht neer, houd de telefoon evenwijdig. Een ondergrond die qua kleur afsteekt tegen het papier helpt bij het bijsnijden.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Geldt voor alle pagina’s van het document. Losse pagina’s kun je in de paginaweergave anders instellen.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Verwijdert schaduwen en artefacten en geeft de tekst meer contrast. Uitgeschakeld wordt de pagina alleen bijgesneden en rechtgetrokken.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Tikken opent de pagina. Lang indrukken: opnieuw vastleggen, draaien of verwijderen. Oranje gemarkeerde pagina’s moeten worden gecontroleerd (bijv. onscherp), rode zijn mislukt.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Volgorde wijzigen door te slepen, meerdere pagina’s draaien, naar een ander document verplaatsen of kopiëren, of als nieuw document losmaken.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, afbeeldingen, ZIP, tekst of tabel – delen, opslaan of afdrukken.
+Mehr (⋮)	Meer (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Leesrichting van dubbele pagina’s omkeren, op het apparaat vertalen of de scan verwijderen. Het potlood bovenaan wijzigt de naam.
+Seitenansicht	Paginaweergave
+Blättern und Zoomen	Bladeren en zoomen
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Veeg om van pagina te wisselen; dubbeltik of gebruik twee vingers om te zoomen.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Kleur, grijstinten of zwart-wit alleen voor deze pagina, met voorbeeld. Daaronder de automatische verbetering van deze pagina.
+Drehen und Zuschnitt	Draaien en bijsnijden
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	90° draaien. Bijsnijden: de hoeken van de pagina in de originele foto opnieuw zetten.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Met pen, markeerstift of tekst op de pagina schrijven.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Gevoelige gegevens onleesbaar maken – met balken of gepixeld. Rekeningnummers, kaartnummers en gezichten worden voorgesteld.
+Signieren und Text	Ondertekenen en tekst
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Ondertekenen voegt je opgeslagen handtekening in. Tekst toont de herkende tekst om te corrigeren en te kopiëren.
+Formate	Formaten
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (doorzoekbaar), Word, afbeeldingen (JPG), ZIP, tekst, Excel of CSV; voor visitekaartjes ook als contact.
+PDF-Optionen	PDF-opties
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Paginaformaat, resolutie en compressie bepalen kwaliteit en bestandsgrootte – de grootte wordt rechtsboven geschat. Optioneel met wachtwoord (AES-256).
+Teilen oder Speichern	Delen of opslaan
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Delen stuurt het bestand naar een app (e-mail, messenger …). Opslaan zet het op de opslaglocatie.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	‘Elke keer vragen’ opent bij het opslaan de mapkeuze. Met een vaste map komen exports er zonder vragen terecht – ook op een SD-kaart of in een cloudmap.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Drukt af via de afdrukservice van Android of slaat op als PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Beeldkwaliteit, afdrukken en splitsen van dubbele pagina’s voor nieuwe scans. In de camera kun je dat altijd wijzigen.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filter en automatische verbetering waarmee nieuwe documenten beginnen.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Maakt PDF’s doorzoekbaar. De talen bepalen welke tekens worden herkend.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Opslaglocatie en de standaardwaarden voor resolutie, compressie en paginaformaat.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	App-vergrendeling met vingerafdruk, back-up als ZIP en de prullenbak.
+Ecken setzen	Hoeken zetten
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Sleep de vier hoeken naar de paginaranden; de loep toont de plek onder je vinger vergroot.
+Einzel- oder Doppelseite	Enkele of dubbele pagina
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Kies onderaan of de foto één pagina of een opengeslagen dubbele pagina toont. Bij Automatisch beslist de app.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Het vinkje bovenaan verwerkt de pagina met de nieuwe uitsnede.
+Werkzeuge	Gereedschap
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Pen om te schrijven, markeerstift om te markeren, tekst voor getypte notities. De kleuren staan eronder.
+Korrigieren	Corrigeren
+Rückgängig nimmt den letzten Strich zurück.	Ongedaan maken verwijdert de laatste lijn.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Schrijft de wijzigingen in de pagina. Zonder opslaan blijft de pagina ongewijzigd.
+Vorschläge	Voorstellen
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Gevonden rekeningnummers, kaartnummers, fiscale nummers en gezichten zijn gemarkeerd – tik om ze te deselecteren of opnieuw te selecteren.
+Eigene Bereiche	Eigen gebieden
+Mit dem Finger weitere Rechtecke aufziehen.	Trek met je vinger meer rechthoeken.
+Balken oder Pixel	Balken of pixels
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Zwarte balk of pixelen. De tekst eronder wordt ook uit de tekstherkenning en de PDF verwijderd.
+Zeichnen	Tekenen
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Onderteken één keer met je vinger – de handtekening wordt op het apparaat opgeslagen.
+Platzieren	Plaatsen
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Verplaatsen met één vinger, grootte wijzigen met twee vingers, dan invoegen.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Het potloodpictogram bovenaan vervangt de opgeslagen handtekening.
+Text bearbeiten	Tekst bewerken
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	De herkende tekst van de pagina staat onderaan en kan worden gewijzigd. Bovenaan de paginabeeld om te vergelijken.
+Wirkung	Werking
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Correcties gaan mee in de zoekfunctie, de tekstlaag van de PDF en de Word- en tekstexports.
+Holt einen gelöschten Scan zurück.	Haalt een verwijderde scan terug.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Scans worden na 30 dagen automatisch gewist. ‘Legen’ verwijdert alles meteen.
+Belegung	Gebruik
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Toont hoeveel ruimte scans, originele foto’s, prullenbak en cache innemen.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Originele foto’s verwijderen bespaart veel ruimte; de afgewerkte pagina’s blijven, alleen het bijsnijden kan daarna niet meer worden gewijzigd.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Alle scans als ZIP-bestand bewaren en op dit of een ander apparaat terugzetten. Er wordt niets geüpload.
+Auswahl	Keuze
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Kies de talen van je documenten. Elke extra taal maakt de herkenning trager.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Ontbrekende talen worden eenmalig gedownload en werken daarna zonder internet.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Breng telefoon en pc op hetzelfde wifi-netwerk (of verbind de pc met de hotspot van de telefoon).
+Herunterladen	Downloaden
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Open het getoonde adres in de browser op de pc of scan de QR-code; daar kun je alle scans als PDF of tekst downloaden.
+Sicherheit	Beveiliging
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Werkt alleen in het lokale netwerk en alleen zolang dit scherm open is.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Taal, beeldkwaliteit, afdrukken, tekstherkenning, opslaglocatie, app-vergrendeling en back-up.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Neemt foto’s uit de galerij over als nieuw document; ze worden bijgesneden en herkend zoals camerafoto’s.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Opent de camera. Alle foto’s van één opname komen in één gezamenlijk document.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Verwijdert deze pagina uit het document (na bevestiging).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Kleur, grijstinten of zwart-wit en de automatische verbetering alleen voor deze pagina.
+Dreht die Seite um 90° im Uhrzeigersinn.	Draait de pagina 90° met de klok mee.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	De hoeken van de pagina in de originele foto opnieuw zetten als er een rand ontbreekt of achtergrond meekomt.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Gevoelige gegevens onleesbaar maken met balken of pixels; ze verdwijnen ook uit de tekst van de PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Zet je opgeslagen handtekening op de pagina; de eerste keer teken je die.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Toont de herkende tekst van de pagina om te corrigeren en te kopiëren.
+Fotografiert beim Tippen auf den Auslöser.	Maakt een foto als je op de ontspanknop tikt.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Maakt een foto zodra de pagina 0,7 s stil in beeld ligt; in boekmodus na elke keer omslaan.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Maakt foto’s met een gekoppelde Bluetooth-afstandsontspanner.
+Lautstärketasten lösen immer aus.	De volumeknoppen drukken altijd af.
+Word erstellen, Formeln erkennen (%d/%d)	Word maken, formules herkennen (%d/%d)
+Belarussisch	Wit-Russisch
+Bulgarisch	Bulgaars
+Serbisch	Servisch
+Mazedonisch	Macedonisch
+Kein Link im geteilten Text	Geen link in de gedeelde tekst
+Import fehlgeschlagen: %s	Importeren mislukt: %s
+Link laden	Link laden
+Unter dem Link liegt keine PDF- oder Bilddatei.	De link verwijst niet naar een PDF- of afbeeldingsbestand.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Alleen PDF-bestanden en afbeeldingen kunnen worden geïmporteerd.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Beveiligde PDF-bestanden kunnen niet worden geïmporteerd.
+PDF-Seite %d/%d importieren	PDF-pagina %d/%d importeren
+Auto %s s	Auto %s s
+Auslösen nach %s s	Opname na %s s
+Wartezeit	Wachttijd
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Hoe lang de pagina stil moet liggen voor de automatische opname. Korter is sneller, langer geeft minder bewogen foto’s.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Maakt zelf de foto zodra de pagina stil ligt; stel de wachttijd (0,2–1,5 s) hieronder in. In boekmodus: na elke bladzijde, zodra het boek weer stil ligt.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Voegt foto’s, schermafbeeldingen, PDF-bestanden of een link toe als extra pagina’s; foto’s worden bijgesneden, alles wordt herkend.
+Senden an …	Verzenden naar …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Waar „Opslaan” je exports neerzet. „Verzenden naar …” staat daar los van.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Kies een submap, bijv. „Documents” – de hoofdmap van de opslag staat Android niet toe.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Maakt het bestand en stuurt het naar een app, bijv. WhatsApp, e-mail, Telegram of een cloudopslag.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Handmatig: met de ontspanknop. Auto: zodra de pagina stil ligt – de wachttijd (0,2–1,5 s, standaard 0,7 s) stel je in het scanvenster onder de schakelaar in; in boekmodus na elke bladzijde. Bluetooth: met een gekoppelde afstandsontspanner. De volumeknoppen maken altijd een foto.
+Senden an oder Speichern	Verzenden naar of opslaan
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Verzenden naar …” stuurt het bestand naar een app (WhatsApp, e-mail, Telegram, cloud …). Opslaan zet het op de opslaglocatie.
+Importieren	Importeren
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Voegt foto’s, schermafbeeldingen, PDF-bestanden of een link toe als nieuw document; foto’s worden bijgesneden, alles wordt herkend.
+Bilder aus der Galerie	Afbeeldingen uit de galerij
+Fotos und Screenshots	Foto’s en schermafbeeldingen
+Dateien	Bestanden
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF-bestanden en afbeeldingen, bijv. uit Downloads of de cloud
+Eine PDF- oder Bilddatei aus dem Internet	Een PDF- of afbeeldingsbestand van internet
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Daarna zoals gescande pagina’s: tekstherkenning, vertaling en export naar elk formaat.
+Link importieren	Link importeren
+Internetadresse	Webadres
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Maakt een foto zodra de pagina %s s stil ligt (instelbaar in het scanvenster); in boekmodus na elke bladzijde.
+Fachwörterbuch laden	Woordenlijst laden
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Woordenlijst voor %s of %s ontbreekt – vertaald zonder vaktermen
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Geen woordenlijstbestand (glossary-xx.tsv.gz)
+Download nicht verfügbar	Download niet beschikbaar
+Estnisch	Estisch
+Irisch	Iers
+Litauisch	Litouws
+Lettisch	Lets
+Maltesisch	Maltees
+Slowakisch	Slowaaks
+Slowenisch	Sloveens
+Ohne Fachwörterbuch	Zonder woordenlijst
+Alle Fachgebiete	Alle vakgebieden
+Fachgebiet: %s	Vakgebied: %s
+Fachwörterbücher verwalten …	Woordenlijsten beheren …
+Fachwörterbücher	Vakwoordenlijsten
+Aus Datei importieren	Uit bestand importeren
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Vaktermen uit recht, geneeskunde, techniek, economie en 17 andere vakgebieden (IATE, de terminologiedatabank van de EU) worden bij het vertalen precies overgenomen. Nodig is de woordenlijst van de bron- en van de doeltaal, elk 0,3–9 MB.
+Einmal laden, danach offline.	Eenmaal laden, daarna offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Bestanden glossary-xx.tsv.gz importeren met het mapsymbool bovenaan.
+Fachwörterbücher für die Übersetzung	Vakwoordenlijsten voor de vertaling
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Recht, geneeskunde, techniek en meer – 24 EU-talen
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Alle foto’s en teksten blijven op dit apparaat. Internet wordt alleen gebruikt om talen, vertaalmodellen en woordenlijsten eenmalig te laden, als jij dat start.
+Übersetzen	Vertalen
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Maakt op het apparaat een vertaalde kopie van het document: dezelfde pagina’s en afbeeldingen, de tekst in de doeltaal op zijn plaats. Elke alinea wordt vanuit zijn eigen taal vertaald. Met ‘Vakgebied’ worden vaktermen uit de woordenlijsten exact overgenomen.
+Was nachgeladen werden kann	Wat kan worden gedownload
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Alles is vrijwillig en wordt alleen geladen als je erop tikt; daarna werkt het zonder internet:\n• Talen van de tekstherkenning: elk 1–15 MB (Instellingen › Talen). Duits en Engels zijn inbegrepen.\n• Chinees: een eigen herkenningsmodel, ca. 17 MB.\n• Vertaalmodellen: ca. 30 MB per taal, automatisch geladen bij de eerste vertaling.\n• Vakwoordenlijsten: 0,3–9 MB per taal, ca. 70 MB voor alle 24 EU-talen samen (Instellingen › Vakwoordenlijsten).\nGeladen bestanden kunnen altijd weer worden verwijderd.
+Wozu	Waarvoor
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Algemene vertalers kennen veel vaktermen niet of vertalen ze inconsequent. Een woordenlijst zet de vastgelegde term in, bijv. „Beweislast” → „bewijslast”.
+Quelle	Bron
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, de terminologiedatabank van de EU-instellingen, met termen uit 21 vakgebieden (recht, gezondheid, techniek, economie, milieu, vervoer …). Ze bestaat voor de 24 officiële EU-talen.
+Was nötig ist	Wat nodig is
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Eén woordenlijst voor de brontaal en één voor de doeltaal, bijv. Duits en Engels. Eén woordenlijst per taal volstaat voor alle taalparen.
+Laden oder importieren	Laden of importeren
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Met de pijl laden (eenmalig, daarna offline) of met het mapsymbool een bestand „glossary-xx.tsv.gz” importeren, bijv. van een pc of SD-kaart.
+Benutzen	Gebruik
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Kies bij het vertalen bovenaan het vakgebied. „Alle vakgebieden” gebruikt alleen termen die overal hetzelfde worden vertaald.
+Grenzen	Grenzen
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Vaktermen worden in hun grondvorm ingezet; verbogen vormen worden niet altijd herkend.
+Politik	Politiek
+Internationale Beziehungen	Internationale betrekkingen
+Europäische Union	Europese Unie
+Recht	Recht
+Wirtschaft	Economie
+Handel	Handel
+Finanzwesen	Financiën
+Soziales und Gesundheit	Sociale vraagstukken en gezondheid
+Bildung und Kommunikation	Onderwijs en communicatie
+Wissenschaft	Wetenschap
+Unternehmen und Wettbewerb	Ondernemingen en mededinging
+Beschäftigung und Arbeitsbedingungen	Werkgelegenheid en arbeidsvoorwaarden
+Verkehr	Vervoer
+Umwelt	Milieu
+Land-, Forst- und Fischereiwirtschaft	Land-, bos- en visserijbouw
+Agrarerzeugnisse und Lebensmittel	Agrovoeding
+Produktion, Technologie und Forschung	Productie, technologie en onderzoek
+Energie	Energie
+Industrie	Industrie
+Geografie	Geografie
+Internationale Organisationen	Internationale organisaties
+Wenig Licht – Lampe einschalten	Weinig licht – lamp aanzetten
+Verarbeitung mehrfach abgebrochen	De verwerking is herhaaldelijk afgebroken
+Bearbeitungen gehen verloren	Bewerkingen gaan verloren
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	De pagina wordt opnieuw uit de foto gemaakt. Zwartmakingen, handtekening en notities moeten daarna opnieuw worden toegevoegd.
+Neu zuschneiden	Opnieuw bijsnijden
+Sprachdaten	Taalgegevens
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Toont hoeveel ruimte scans, originele foto’s, prullenbak, cache en taalgegevens (tekstherkenning, woordenlijsten) innemen.
+Bitte warten, bis alle Seiten erkannt sind	Wacht tot alle pagina’s zijn herkend
+Die Sprache „%s“ kann nicht übersetzt werden	De taal ‘%s’ kan niet worden vertaald
+Übersetzung in die Seiten setzen	Vertaling in de pagina’s plaatsen

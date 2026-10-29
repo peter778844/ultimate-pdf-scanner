@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Konfigurera först fingeravtryck, ansiktsupplåsning eller skärmlås.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Den här enheten stöder inte biometrisk upplåsning.
+Ultimate PDF Scanner entsperren	Lås upp Ultimate PDF Scanner
+Deine Scans sind geschützt	Dina skanningar är skyddade
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner är låst
+Deine Scans bleiben auf diesem Gerät.	Dina skanningar stannar på den här enheten.
+  Entsperren	  Lås upp
+Systemsprache	Systemspråk
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importera foton
+Texterkennung vorbereiten	Förbereder textigenkänning
+Ein Foto konnte nicht verarbeitet werden: %s	Ett foto kunde inte bearbetas: %s
+Foto laden	Läs in foto
+Foto nicht lesbar	Fotot är oläsligt
+Filter anwenden	Använd filter
+Schwärzen	Maskera
+Unterschrift einfügen	Infoga signatur
+Unterschrift eingefügt	Signatur infogad
+Änderungen einfügen	Infoga ändringar
+Seite bearbeitet	Sidan redigerad
+Text gesichert	Text sparad
+Zusammenführen	Slå ihop
+%d Scans zusammengeführt	%d skanningar sammanslagna
+Seiten verschieben	Flytta sidor
+Seiten kopieren	Kopiera sidor
+ (Teil)	 (del)
+Zwischenspeicher leeren	Töm cache
+Zwischenspeicher geleert	Cache tömd
+Originalfotos entfernen	Ta bort originalfoton
+Sicherung erstellen	Skapa säkerhetskopia
+Sicherung erstellen (%d/%d)	Skapar säkerhetskopia (%d/%d)
+Sicherung gespeichert	Säkerhetskopia sparad
+Sicherung wiederherstellen	Återställ säkerhetskopia
+ (%d schon vorhanden)	 (%d finns redan)
+Wiederherstellen fehlgeschlagen: %s	Återställningen misslyckades: %s
+PDF erstellen (%d/%d)	Skapar PDF (%d/%d)
+%s erstellen	Skapar %s
+Export fehlgeschlagen: %s	Exporten misslyckades: %s
+%s speichern	Spara %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF sparad (lösenordsskyddad, AES-256)
+%s gespeichert	%s sparad
+Bilder speichern	Spara bilder
+Bilder speichern (%d/%d)	Sparar bilder (%d/%d)
+%d Bilder gespeichert	%d bilder sparade
+Sprache erkennen	Identifiera språk
+Kein erkannter Text zum Übersetzen	Ingen igenkänd text att översätta
+Sprache nicht erkannt	Språket identifierades inte
+Der Text ist bereits auf %s	Texten är redan på %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Läser in språkmodell (första gången ~30 MB)
+Übersetzen (%d/%d)	Översätter (%d/%d)
+Seite %d	Sida %d
+Übersetzung fehlgeschlagen: %s	Översättningen misslyckades: %s
+1 Bereich unkenntlich gemacht	1 område maskerat
+%d Bereiche unkenntlich gemacht	%d områden maskerade
+1 Scan wiederhergestellt	1 skanning återställd
+%d Scans wiederhergestellt	%d skanningar återställda
+Server antwortet mit %d	Servern svarar med %d
+Datei unvollständig	Filen är ofullständig
+Nicht gefunden	Hittades inte
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	%d skanningar på mobilen · direkt via wifi, utan moln
+Ausgangssprache „%s“ wird nicht unterstützt	Källspråket ”%s” stöds inte
+Zielsprache „%s“ wird nicht unterstützt	Målspråket ”%s” stöds inte
+QR-CODE	QR-KOD
+AUSWEIS	ID-KORT
+DOKUMENT	DOKUMENT
+BUCH	BOK
+VISITENKARTE	VISITKORT
+PASSFOTO	PASSFOTO
+PDF	PDF
+Word	Word
+Bilder	Bilder
+ZIP	ZIP
+Text	Text
+Excel	Excel
+CSV	CSV
+Kontakt	Kontakt
+Wie gescannt	Som skannat
+Letter	Letter
+Mittel	Medel
+Englisch	Engelska
+Französisch	Franska
+Italienisch	Italienska
+Spanisch	Spanska
+Portugiesisch	Portugisiska
+Niederländisch	Nederländska
+Polnisch	Polska
+Tschechisch	Tjeckiska
+Dänisch	Danska
+Schwedisch	Svenska
+Norwegisch	Norska
+Finnisch	Finska
+Ungarisch	Ungerska
+Rumänisch	Rumänska
+Kroatisch	Kroatiska
+Türkisch	Turkiska
+Griechisch	Grekiska
+Russisch	Ryska
+Ukrainisch	Ukrainska
+Arabisch	Arabiska
+Hebräisch	Hebreiska
+Persisch	Persiska
+Chinesisch (vereinfacht)	Kinesiska (förenklad)
+Japanisch	Japanska
+Koreanisch	Koreanska
+Latein	Latin
+Deutsch (Fraktur)	Tyska (fraktur)
+1 Seite	1 sida
+%d Seiten	%d sidor
+1 Scan	1 skanning
+%d Scans	%d skanningar
+Abbrechen	Avbryt
+Bearbeiten	Redigera
+Zurück	Tillbaka
+Rückgängig	Ångra
+Sichern	Spara
+Seite	Sida
+Einfügen	Infoga
+Änderungen sichern?	Spara ändringarna?
+Verwerfen	Förkasta
+Schließen	Stäng
+Fertig	Klar
+Öffnen	Öppna
+Keine	Inga
+Alle	Alla
+Umbenennen	Byt namn
+Mehr	Mer
+Löschen	Ta bort
+Teilen	Dela
+Speichern	Spara
+Drucken	Skriv ut
+Kopieren	Kopiera
+Drehen	Rotera
+Laden	Ladda ned
+Entfernen	Ta bort
+Verschieben	Flytta
+Name	Namn
+Aus	Av
+Leeren	Töm
+Wiederherstellen	Återställ
+Text einfügen	Infoga text
+z. B. Name, Datum …	t.ex. namn, datum …
+Kein Gesicht erkannt – bitte noch einmal	Inget ansikte känns igen – försök igen
+Seite erneut scannen	Skanna sidan igen
+Fernauslöser verbunden	Fjärrutlösare ansluten
+Nach dem Umblättern auslösen	Ta bild efter sidvändning
+Leserichtung rechts nach links	Läsriktning från höger till vänster
+Leserichtung links nach rechts	Läsriktning från vänster till höger
+Automatisch auslösen	Automatisk utlösning
+Kamera wechseln	Byt kamera
+Licht	Ljus
+Bitte Kamerazugriff erlauben.	Tillåt åtkomst till kameran.
+Passfoto wird zugeschnitten …	Passfotot beskärs …
+Ohne Rückseite fertig	Klar utan baksida
+Kein Code im Bild gefunden	Ingen kod hittades i bilden
+Aus Galerie	Från galleriet
+QR-Code oder Barcode in den Rahmen halten	Håll QR-koden eller streckkoden i ramen
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Ansiktet i ovalen · titta rakt fram · ljus bakgrund
+Vorderseite des Ausweises in den Rahmen	ID-kortets framsida i ramen
+Jetzt die Rückseite	Nu baksidan
+Visitenkarte in den Rahmen legen	Lägg visitkortet i ramen
+Aufgeschlagenes Buch ins Bild halten	Håll den uppslagna boken i bild
+Doppelseite erkannt	Uppslag identifierat
+Umblättern – löst danach automatisch aus	Vänd sidan – sedan tas bilden automatiskt
+Ruhig halten …	Håll stilla …
+Ruhig halten – wird automatisch ausgelöst	Håll stilla – bilden tas automatiskt
+Seite ins Bild halten	Håll sidan i bild
+Seite erkannt	Sidan identifierad
+Intervall-Timer	Intervalltimer
+Serie starten	Starta serie
+Farbe	Färg
+Graustufen	Gråskala
+Schwarz-Weiß	Svartvitt
+Original	Original
+Automatisch	Automatiskt
+Zuschnitt nicht möglich	Beskärning inte möjlig
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Originalfotot för den här sidan har tagits bort för att spara utrymme. Med ”Skanna igen” kan sidan tas om.
+Zuschnitt anpassen	Justera beskärning
+Übernehmen	Använd
+Einzelseite	Enkelsida
+Doppelseite	Uppslag
+Auto	Auto
+  Automatisch	  Automatiskt
+Ecken auf die Seitenränder ziehen	Dra hörnen till sidans kanter
+Seiten ordnen	Ordna sidor
+%d ausgewählt	%d markerade
+Filter für alle Seiten	Filter för alla sidor
+Leserichtung umkehren	Vänd läsriktning
+Übersetzen…	Översätt…
+Scan löschen	Ta bort skanning
+Scannen	Skanna
+Import	Importera
+Ordnen	Ordna
+Exportieren	Exportera
+Übersetzen in …	Översätt till …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Översättningen görs på enheten. Första gången laddas språkmodellen ned en gång.
+Übersetzung teilen	Dela översättning
+Scan löschen?	Ta bort skanningen?
+„%s“ wird endgültig gelöscht.	”%s” tas bort permanent.
+Kontakt erkannt	Kontakt identifierad
+Zu Kontakten	Till kontakter
+Seiten werden verarbeitet (%d/%d)	Sidor bearbetas (%d/%d)
+Nur diese	Bara dessa
+Wird neu verarbeitet	Bearbetas på nytt
+Erneut	Igen
+Fehlgeschlagen	Misslyckades
+Foto nicht verarbeitet	Fotot har inte bearbetats
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Ett fel uppstod vid bildbehandlingen.
+Keine Auffälligkeiten	Inga anmärkningar
+Erneut scannen	Skanna igen
+Ersetzt beide Seiten dieser Doppelseite	Ersätter båda sidorna i det här uppslaget
+Kamera öffnen und diese Seite ersetzen	Öppna kameran och ersätt den här sidan
+Nach vorn	Framåt
+Nach hinten	Bakåt
+Seite löschen	Ta bort sida
+Foto entfernen	Ta bort foto
+1 Seite verschoben	1 sida flyttad
+%d Seiten verschoben	%d sidor flyttade
+1 Seite kopiert	1 sida kopierad
+%d Seiten kopiert	%d sidor kopierade
+1 Seite löschen?	Ta bort 1 sida?
+%d Seiten löschen?	Ta bort %d sidor?
+1 Seite prüfen	Kontrollera 1 sida
+%d Seiten prüfen	Kontrollera %d sidor
+Seite löschen?	Ta bort sidan?
+Durchsuchbares PDF mit erkanntem Text	Sökbar PDF med igenkänd text
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Redigerbar text för Word, LibreOffice och Google Docs
+Die Seite als JPG-Bild	Sidan som JPG-bild
+Ein JPG-Bild pro Seite (%d Dateien)	En JPG-bild per sida (%d filer)
+Alle Seiten als JPG und der Text in einem Archiv	Alla sidor som JPG och texten i ett arkiv
+Nur der erkannte Text	Bara den igenkända texten
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Igenkända tabeller, ett kalkylblad per sida
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Igenkända tabeller som CSV (semikolon, för Excel)
+Visitenkarte als Kontakt (vCard)	Visitkort som kontakt (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Fram- och baksida i verklig storlek på en sida – klar att skriva ut
+Seitenformat	Sidformat
+Mit Passwort schützen	Skydda med lösenord
+AES-256-Verschlüsselung	AES-256-kryptering
+Passwort	Lösenord
+Mindestens 4 Zeichen	Minst 4 tecken
+Passwort wiederholen	Upprepa lösenord
+Passwörter stimmen nicht überein	Lösenorden matchar inte
+Seitenbilder einfügen	Infoga sidbilder
+Jede Seite als Bild über ihrem Text	Varje sida som bild ovanför sin text
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Kolumner känns igen på mellanrummen i texten – fungerar bäst med tydligt åtskilda kolumner. Tal som ”1.234,50” tas över som tal.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Inga kontaktuppgifter känns igen på det här kortet.
+1 ausgewählte Seite	1 markerad sida
+%d ausgewählte Seiten	%d markerade sidor
+Mobil	Mobil
+Fax	Fax
+Telefon	Telefon
+%s teilen	Dela %s
+Scan	Skanning
+Text teilen	Dela text
+PDF teilen	Dela PDF
+In den Papierkorb verschoben	Flyttad till papperskorgen
+%d Scans in den Papierkorb verschoben	%d skanningar flyttade till papperskorgen
+Auswahl beenden	Avsluta markering
+Alle auswählen	Markera alla
+In Ordner verschieben	Flytta till mapp
+Ordner	Mappar
+Ordner umbenennen	Byt namn på mapp
+Ordner auflösen	Upplös mapp
+Papierkorb (%d)	Papperskorg (%d)
+Papierkorb	Papperskorg
+An PC senden	Skicka till dator
+Speicher & Sicherung	Lagring och säkerhetskopiering
+Einstellungen	Inställningar
+Scans und Text durchsuchen	Sök i skanningar och text
+Alle Scans durchsuchen	Sök i alla skanningar
+Suche löschen	Rensa sökning
+%d Treffer	%d träffar
+Alle Scans	Alla skanningar
+Nichts gefunden	Inget hittades
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Varken ett namn eller en igenkänd text matchar ”%s”.
+Ordner ist leer	Mappen är tom
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Flytta skanningar hit: tryck länge på en skanning och välj ”Flytta till mapp”.
+Noch keine Scans	Inga skanningar ännu
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Tryck på ”Skanna” för att fotografera sidor,\neller importera foton från galleriet.
+Ordnername	Mappnamn
+Neuer Ordner	Ny mapp
+%d Scans zusammenführen?	Slå ihop %d skanningar?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Alla sidor läggs till i ”%s” i markeringsordning. De övriga skanningarna försvinner sedan.
+%d prüfen	Kontrollera %d
+Wird verarbeitet (%d/%d)	Bearbetas (%d/%d)
+Als PDF teilen	Dela som PDF
+Kategorie ändern	Ändra kategori
+Kein Ordner	Ingen mapp
+Neuer Ordner …	Ny mapp …
+Kategorie	Kategori
+Download fehlgeschlagen: %s	Nedladdningen misslyckades: %s
+keine Verbindung	ingen anslutning
+Sprachen der Texterkennung	Språk för textigenkänning
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Valda språk känns igen tillsammans – välj bara de som behövs, varje extra språk gör igenkänningen långsammare. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Saknade språk laddas ned en gång (ca 2–15 MB) och fungerar sedan offline.
+Wird geladen … %d %%	Laddar ned … %d %%
+Enthalten	Ingår
+Geladen · %s	Nedladdat · %s
+Nicht geladen	Inte nedladdat
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Tryck för att markera · håll och dra för att flytta
+Neuer Scan	Ny skanning
+Verschieben nach …	Flytta till …
+Kopieren nach …	Kopiera till …
+Seite %d von %d	Sida %d av %d
+Filter	Filter
+Zuschnitt	Beskärning
+Signieren	Signera
+Code	Kod
+Link	Länk
+E-Mail	E-post
+Telefonnummer	Telefonnummer
+Ort	Plats
+Produktcode	Produktkod
+Netzwerk: %s	Nätverk: %s
+Passwort: %s	Lösenord: %s
+Verschlüsselung: %s	Kryptering: %s
+Passwort kopieren	Kopiera lösenord
+Verbinden	Anslut
+E-Mail schreiben	Skriv e-post
+Anrufen	Ring
+In Karten öffnen	Öppna i Kartor
+Suche sensible Daten…	Söker efter känsliga uppgifter…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Inget känsligt hittades. Dra med fingret över områden som ska maskeras.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Hittat – tryck för att markera eller avmarkera, dra fler områden:
+Schwarzer Balken	Svart balk
+Verpixeln	Pixla
+Unkenntlich machen (%d)	Maskera (%d)
+Manuell	Manuellt
+Gesicht	Ansikte
+Kein WLAN	Inget wifi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Anslut mobilen och datorn till samma wifi (eller datorn till mobilens surfzon). Adressen visas då här.
+Am PC im Browser öffnen	Öppna i datorns webbläsare
+QR-Code der Adresse	Adressens QR-kod
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Skriv in adressen eller skanna QR-koden med datorns kamera. Där kan du ladda ned alla skanningar som PDF eller text.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Bara i det lokala nätverket och bara medan den här skärmen är öppen. Inget laddas upp till internet.
+Heruntergeladen	Nedladdat
+App-Sperre nicht möglich	Applås inte möjligt
+Sprache	Språk
+Sprache der App	Appens språk
+Aufnahme	Fotografering
+Doppelseiten im Dokument-Modus	Uppslag i dokumentläge
+Automatisch teilen	Dela automatiskt
+Nie teilen	Dela aldrig
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Fotograferar så snart sidan ligger stilla i bild.
+Buch-Modus	Bokläge
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Känner igen sidvändningen och fotograferar så snart boken ligger stilla igen.
+Leserichtung	Läsriktning
+Links → rechts	Vänster → höger
+Rechts → links	Höger → vänster
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Höger → vänster för arabiska, hebreiska, persiska och japanska: den högra sidan kommer först.
+Fernauslöser	Fjärrutlösare
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Parkoppla en Bluetooth-fjärrutlösare för kamera (t.ex. ”AB Shutter 3”) i Androids Bluetooth-inställningar. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	I kameran tar sedan fjärrutlösaren och volymknapparna bilder.
+Bild	Bild
+Standardfilter	Standardfilter
+Handschrift entfernen	Ta bort handskrift
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Tar bort anteckningar med blå/röd penna och blyerts. Tar även bort tryck i de färgerna.
+Texterkennung	Textigenkänning
+Sprachen	Språk
+Sicherheit & Speicher	Säkerhet och lagring
+App-Sperre	Applås
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Lås upp vid öppning med fingeravtryck, ansikte eller skärmlås. Innehållet visas inte i appöversikten.
+Belegung, Backup als ZIP, Wiederherstellen	Användning, säkerhetskopia som ZIP, återställning
+Gelöschte Scans werden nach 30 Tagen entfernt	Borttagna skanningar raderas efter 30 dagar
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Alla foton och texter stannar på den här enheten. Internet används bara för att ladda ned språk en gång, när du själv startar det.
+Über	Om
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Komponenter med öppen källkod: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (alla Apache-licens 2.0); ML Kit (översättning, ansiktsigenkänning, på enheten).
+Unterschrift zeichnen	Rita signatur
+Mit dem Finger unterschreiben	Signera med fingret
+Unterschrift platzieren	Placera signatur
+Neu zeichnen	Rita igen
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Flytta med ett finger, ändra storlek med två fingrar.
+Unterschrift	Signatur
+Belegt von Ultimate PDF Scanner	Används av Ultimate PDF Scanner
+%s frei auf dem Gerät	%s ledigt på enheten
+Seiten	Sidor
+Originalfotos	Originalfoton
+Zwischenspeicher	Cache
+Platz schaffen	Frigör utrymme
+Exportierte Dateien zum Teilen	Exporterade filer för delning
+Gelöschte Scans der letzten 30 Tage	Borttagna skanningar de senaste 30 dagarna
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	De färdiga sidorna finns kvar, men beskärningen kan inte ändras efteråt.
+Größte Scans	Största skanningar
+Sicherung	Säkerhetskopia
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Spara alla skanningar som en ZIP-fil – t.ex. på ett SD-kort, ett USB-minne eller datorn. Inget laddas upp.
+Papierkorb mitsichern	Säkerhetskopiera papperskorgen också
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-sakerhetskopia_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Vid återställning läggs bara skanningar som saknas till.
+Originalfotos entfernen?	Ta bort originalfoton?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Sparar %s. Sidorna kan sedan inte beskäras på nytt, ”Skanna igen” fungerar fortfarande.
+Text bearbeiten · Seite %d	Redigera text · sida %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Rättelser används i sökningen och i PDF-filens textlager.
+Kein Text erkannt – hier eintippen	Ingen text känns igen – skriv in den här
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Borttagna skanningar raderas permanent efter %d dagar.
+Papierkorb ist leer	Papperskorgen är tom
+Endgültig löschen	Ta bort permanent
+Papierkorb leeren?	Töm papperskorgen?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d skanningar tas bort permanent. Det går inte att ångra.
+Endgültig löschen?	Ta bort permanent?
+„%s“ wird sofort gelöscht.	”%s” tas bort direkt.
+noch 1 Tag	1 dag kvar
+noch %d Tage	%d dagar kvar
+Quittung	Kvitto
+Quittungen	Kvitton
+Rechnung	Faktura
+Rechnungen	Fakturor
+Visitenkarte	Visitkort
+Visitenkarten	Visitkort
+Vertrag	Avtal
+Verträge	Avtal
+Brief	Brev
+Briefe	Brev
+Ausweis	ID-kort
+Ausweise	ID-kort
+Buch	Bok
+Bücher	Böcker
+Passfoto	Passfoto
+Passfotos	Passfoton
+Dokument	Dokument
+Dokumente	Dokument
+Auflösung	Upplösning
+Kompression	Komprimering
+Gering	Låg
+Stark	Hög
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi och låg komprimering för utskrift och arkiv, 150 dpi och hög komprimering för e-post.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Gör PDF:er sökbara och texten kopierbar. Av: snabbare bearbetning, PDF endast som bild.
+Keine Seite erkannt	Ingen sida identifierad
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Sidkanten hittades inte – hela fotot användes.
+Unscharf	Oskarpt
+Das Foto ist verwackelt oder unscharf.	Fotot är skakat eller oskarpt.
+Zu dunkel	För mörkt
+Die Seite ist schlecht ausgeleuchtet.	Sidan är dåligt belyst.
+Text schlecht lesbar	Texten är svårläst
+Die Texterkennung war unsicher.	Textigenkänningen var osäker.
+Kein Text erkannt	Ingen text identifierad
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Ingen text hittades på sidan – en tom sida eller ingen sida alls i bilden?
+Hindi	Hindi
+Bengalisch	Bengali
+Urdu	Urdu
+Indonesisch	Indonesiska
+Seite erkennen	Identifiera sida
+Seite entzerren	Räta ut sidan
+Finger entfernen	Ta bort fingrar
+Schärfe prüfen	Kontrollera skärpa
+Ausrichtung	Orientering
+Bild verbessern	Förbättra bild
+Speicherort	Lagringsplats
+Speicherort für Exporte	Lagringsplats för exporter
+Jedes Mal fragen	Fråga varje gång
+Ordner wählen …	Välj mapp …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	”Spara” lägger PDF:er och andra exporter direkt i den här mappen, utan att fråga varje gång. Ett SD-kort går också.
+Gespeichert in „%s“	Sparad i ”%s”
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Lagringsplatsen är inte tillgänglig. Välj den igen.
+Neu aufnehmen	Ta om
+Um 90° links drehen	Rotera 90° åt vänster
+Seite gelöscht	Sidan borttagen
+Lange drücken: neu aufnehmen, drehen oder löschen	Tryck länge: ta om, rotera eller ta bort
+Ersetzt beide Seiten	Ersätter båda sidorna
+Ränder bereinigen	Rensa kanter
+Scan-Qualität	Skanningskvalitet
+Schnell	Snabb
+Standard	Standard
+Genau	Noggrann
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	För stor, tydlig text som brev och utskrifter: mindre foton, snabbast bearbetning.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	För böcker och de flesta dokument: bra igenkänning i normal hastighet.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	För finstilt, gamla böcker, fotnoter och formler: kamerans fulla upplösning, långsammare, mer minne.
+BILD	BILD
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Lägg bilden plant · ingen blixt · undvik reflexer
+an	på
+aus	av
+Automatische Auslösung an: nach dem Umblättern	Automatisk utlösning på: efter sidvändning
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automatisk utlösning på: så snart sidan ligger stilla
+Automatische Auslösung aus	Automatisk utlösning av
+PDF & Export	PDF och export
+Speicherort für PDFs und Bilder	Lagringsplats för PDF:er och bilder
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Vid export kan detta ändras för enskilda filer.
+Weitere Optionen …	Fler alternativ …
+Automatische Verbesserung	Automatisk förbättring
+Schatten und Artefakte entfernen, Schrift schärfen	Ta bort skuggor och artefakter, gör texten skarpare
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Ta bort skuggor och artefakter, gör texten skarpare. Kan stängas av i varje dokument.
+unkorrigiert	okorrigerad
+Maximal	Maximal
+Bildqualität	Bildkvalitet
+volle Auflösung	full upplösning
+Briefe, Ausdrucke, große Schrift	Brev, utskrifter, stor text
+Bücher und die meisten Dokumente (empfohlen)	Böcker och de flesta dokument (rekommenderas)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Finstilt, formler, gamla böcker – långsammare
+Gilt auch für alle weiteren Scans.	Gäller även alla kommande skanningar.
+Ändern	Ändra
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Var ”Spara” lägger dina exporter. ”Dela” påverkas inte.
+Ordner und Dateiname beim Speichern wählen	Välj mapp och filnamn vid sparande
+Exporte landen direkt hier	Exporter hamnar direkt här
+Anderen Ordner wählen …	Välj en annan mapp …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Även SD-kort och molnmappar, om de är konfigurerade på enheten.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Permanent åtkomst till den här mappen är inte möjlig.
+Sehr hohe Auflösung	Mycket hög upplösning
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Med %d MP tar bearbetningen av varje sida betydligt längre tid och kräver mycket minne. ”Standard” räcker för de flesta dokument. ”Maximal” lönar sig bara för mycket finstilt text.
+Trotzdem verwenden	Använd ändå
+langsam	långsamt
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Ingen fjärrutlösare ansluten – parkoppla den i Bluetooth-inställningarna
+Mit dem Fernauslöser auslösen	Ta bild med fjärrutlösaren
+Umblättern	Sidvändning
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Avslutar fotograferingen. Redan fotograferade sidor behålls och bearbetas.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Slår på eller av ficklampan. Blankt papper fotograferas bäst utan ljus och snett mot fönstret.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Använder befintliga foton i stället för nya bilder.
+Serie	Serie
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Startar eller stoppar serien: timern tar då automatiskt en bild med några sekunders mellanrum.
+Auslöser	Avtryckare
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Tar en bild. Volymknapparna och en Bluetooth-fjärrutlösare tar också bilder.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Avslutar fotograferingen och öppnar översikten; siffran visar fotona från den här fotograferingen.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Hur många pixlar varje foto har. Snabb (5 MP) för stor text, Standard (12 MP) för nästan allt, Maximal för finstilt och formler – tar längre tid.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Tryck för att växla: av, 3, 5 eller 10 sekunder. Avtryckaren startar sedan en serie med en bild med det intervallet – praktiskt för böcker.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Tar bara bild när du trycker på avtryckaren.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Tar bild av sig själv så snart sidan legat stilla i 0,7 sekunder. I bokläge: efter varje sidvändning, så snart boken ligger stilla igen.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Tar bild med en Bluetooth-fjärrutlösare (t.ex. ”AB Shutter 3”). Parkoppla först utlösaren i mobilens Bluetooth-inställningar.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Ger dokumentet ett eget namn; det används också som filnamn vid export.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Vänd läsriktningen för uppslag, översätt på enheten eller ta bort skanningen.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Öppnar kameran och lägger till fler sidor i det här dokumentet.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Tar foton från galleriet som nya sidor; de beskärs och känns igen som kamerafoton.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Ändra ordningen genom att dra; markera sidor för att rotera, flytta, kopiera, bryta ut eller ta bort dem.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Dela, spara eller skriv ut som PDF, Word, bilder, ZIP, text eller tabell.
+Farbe, Graustufen, Schwarz-Weiß	Färg, gråskala, svartvitt
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Ändrar alla sidor i det här dokumentet. Svartvitt ger de minsta filerna, färg återger illustrationer och stämplar troget.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	På: skuggor, fläckar och artefakter tas bort och texten får mer kontrast. Av: sidorna beskärs och rätas bara ut – för foton, ritningar eller när förbättringen förvränger något.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Skapar filen och lämnar den till en app, t.ex. e-post, meddelanden eller moln.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Lägger filen på lagringsplatsen – i den fasta mappen eller, med ”Fråga varje gång”, där du lägger den.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Skriver ut via Androids utskriftstjänst; där kan du även välja ”Spara som PDF”.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Var ”Spara” lägger filerna: fråga varje gång eller alltid i en fast mapp, även på SD-kort eller i en molnmapp.
+Hilfe & Anleitung	Hjälp och instruktioner
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Tips: håll in en knapp i en sekund för att se vad den gör.
+Startseite	Start
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Öppnar kameran. Alla foton från en fotografering hamnar i ett gemensamt dokument.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Galleriikonen ovanför ”Skanna” tar befintliga foton; de beskärs och känns igen som kamerafoton.
+Suchen	Sök
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Hittar skanningar efter namn och igenkänd text, med sidnummer.
+Ordner und Kategorien	Mappar och kategorier
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Mappar grupperar skanningar. Kategorierna (böcker, kvitton …) visas automatiskt så snart det finns skanningar av det slaget.
+Mehrere Scans	Flera skanningar
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Tryck länge på en skanning: markera, slå ihop, flytta till mapp eller ta bort.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Borttagna skanningar ligger kvar i papperskorgen (meny ⋮) i 30 dagar och kan återställas.
+Modi	Lägen
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Välj längst ned: Dokument (enskilda blad), Bok (uppslag delas i två sidor), ID-kort (fram- och baksida i verklig storlek på ett blad), Visitkort (kontakten känns igen), Bild (trogna färger, ingen textigenkänning), Passfoto (frontkamera, 35 × 45 mm) och QR-kod.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Uppe till vänster: Snabb (5 MP) för stor text, Standard (12 MP) för nästan allt, Maximal för finstilt och formler – långsammare.
+Auslösung	Utlösning
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuellt: med avtryckaren. Auto 0,7 s: så snart sidan legat stilla i 0,7 sekunder; i bokläge efter varje sidvändning. Bluetooth: med en parkopplad fjärrutlösare. Volymknapparna tar alltid bilder.
+Timer und Licht	Timer och ljus
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Klockikonen tar en bild var 3:e, 5:e eller 10:e sekund (start med avtryckaren). Blixten tänder ficklampan.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Tryck på miniatyren nere till höger: sidorna bearbetas och översikten öppnas.
+Gute Fotos	Bra foton
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Lägg sidan plant och jämnt belyst, håll mobilen parallellt. Ett underlag som skiljer sig i färg från papperet hjälper vid beskärningen.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Gäller alla sidor i dokumentet. Enskilda sidor kan ställas in annorlunda i sidvyn.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Tar bort skuggor och artefakter och ger texten mer kontrast. Avstängd beskärs och rätas sidan bara ut.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Tryck öppnar sidan. Långt tryck: ta om, rotera eller ta bort. Orangemarkerade sidor bör kontrolleras (t.ex. oskarpa), röda har misslyckats.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Ändra ordningen genom att dra, rotera flera sidor, flytta eller kopiera dem till ett annat dokument eller bryt ut dem som nytt dokument.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, bilder, ZIP, text eller tabell – dela, spara eller skriv ut.
+Mehr (⋮)	Mer (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Vänd läsriktningen för uppslag, översätt på enheten eller ta bort skanningen. Pennan överst ändrar namnet.
+Seitenansicht	Sidvy
+Blättern und Zoomen	Bläddra och zooma
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Svep för att byta sida; dubbeltryck eller använd två fingrar för att zooma.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Färg, gråskala eller svartvitt bara för den här sidan, med förhandsvisning. Nedanför den automatiska förbättringen för den här sidan.
+Drehen und Zuschnitt	Rotera och beskära
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Rotera 90°. Beskär: sätt sidans hörn på nytt i originalfotot.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Skriv på sidan med penna, överstrykningspenna eller text.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Gör känsliga uppgifter oläsliga – med balkar eller pixlade. Kontonummer, kortnummer och ansikten föreslås.
+Signieren und Text	Signatur och text
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Signera infogar din sparade signatur. Text visar den igenkända texten för rättning och kopiering.
+Formate	Format
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (sökbar), Word, bilder (JPG), ZIP, text, Excel eller CSV; för visitkort även som kontakt.
+PDF-Optionen	PDF-alternativ
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Sidformat, upplösning och komprimering avgör kvalitet och filstorlek – storleken uppskattas uppe till höger. Valfritt med lösenord (AES-256).
+Teilen oder Speichern	Dela eller spara
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Dela skickar filen till en app (e-post, meddelanden …). Spara lägger den på lagringsplatsen.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	”Fråga varje gång” öppnar mappvalet när du sparar. Med en fast mapp hamnar exporter där utan att fråga – även på SD-kort eller i en molnmapp.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Skriver ut via Androids utskriftstjänst eller sparar som PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Bildkvalitet, utlösning och delning av uppslag för nya skanningar. I kameran kan det ändras när som helst.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filter och automatisk förbättring som nya dokument börjar med.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Gör PDF:er sökbara. Språken avgör vilka tecken som känns igen.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Lagringsplats och standardvärden för upplösning, komprimering och sidformat.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Applås med fingeravtryck, säkerhetskopia som ZIP och papperskorgen.
+Ecken setzen	Sätt hörn
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Dra de fyra hörnen till sidans kanter; förstoringsglaset visar platsen under fingret förstorad.
+Einzel- oder Doppelseite	Enkelsida eller uppslag
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Välj längst ned om fotot visar en sida eller ett uppslaget uppslag. Automatiskt låter appen avgöra.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Bocken överst bearbetar sidan med den nya beskärningen.
+Werkzeuge	Verktyg
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Penna för att skriva, överstrykningspenna för att markera, text för skrivna anteckningar. Färgerna finns nedanför.
+Korrigieren	Rätta
+Rückgängig nimmt den letzten Strich zurück.	Ångra tar bort det senaste draget.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Skriver in ändringarna på sidan. Utan att spara förblir sidan oförändrad.
+Vorschläge	Förslag
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Hittade kontonummer, kortnummer, skattenummer och ansikten är markerade – tryck för att avmarkera eller markera igen.
+Eigene Bereiche	Egna områden
+Mit dem Finger weitere Rechtecke aufziehen.	Dra fler rektanglar med fingret.
+Balken oder Pixel	Balkar eller pixlar
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Svart balk eller pixling. Texten under tas också bort från textigenkänningen och från PDF:en.
+Zeichnen	Rita
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Signera en gång med fingret – signaturen sparas på enheten.
+Platzieren	Placera
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Flytta med ett finger, ändra storlek med två och infoga sedan.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Pennikonen överst ersätter den sparade signaturen.
+Text bearbeiten	Redigera text
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Sidans igenkända text står nedanför och kan ändras. Överst sidbilden för jämförelse.
+Wirkung	Effekt
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Rättelser används i sökningen, i PDF:ens textlager och i Word- och textexporter.
+Holt einen gelöschten Scan zurück.	Hämtar tillbaka en borttagen skanning.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skanningar tas bort automatiskt efter 30 dagar. ”Töm” tar bort allt direkt.
+Belegung	Användning
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Visar hur mycket utrymme skanningar, originalfoton, papperskorgen och cachen tar.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Att ta bort originalfoton sparar mycket utrymme; de färdiga sidorna finns kvar, bara beskärningen kan inte längre ändras.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Spara alla skanningar som en ZIP-fil och återställ dem på den här eller en annan enhet. Inget laddas upp.
+Auswahl	Urval
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Välj språken i dina dokument. Varje extra språk gör igenkänningen långsammare.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Saknade språk laddas ned en gång och fungerar sedan utan internet.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Anslut mobilen och datorn till samma wifi (eller datorn till mobilens surfzon).
+Herunterladen	Ladda ned
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Öppna den visade adressen i datorns webbläsare eller skanna QR-koden; där kan du ladda ned alla skanningar som PDF eller text.
+Sicherheit	Säkerhet
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Fungerar bara i det lokala nätverket och bara medan den här skärmen är öppen.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Språk, bildkvalitet, utlösning, textigenkänning, lagringsplats, applås och säkerhetskopiering.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Tar foton från galleriet som nytt dokument; de beskärs och känns igen som kamerafoton.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Öppnar kameran. Alla foton från en fotografering hamnar i ett gemensamt dokument.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Tar bort den här sidan från dokumentet (efter bekräftelse).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Färg, gråskala eller svartvitt och den automatiska förbättringen bara för den här sidan.
+Dreht die Seite um 90° im Uhrzeigersinn.	Roterar sidan 90° medurs.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Sätt sidans hörn på nytt i originalfotot om en kant saknas eller bakgrund syns.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Gör känsliga uppgifter oläsliga med balkar eller pixlar; de försvinner även ur PDF:ens text.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Placerar din sparade signatur på sidan; första gången ritar du den.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Visar sidans igenkända text för rättning och kopiering.
+Fotografiert beim Tippen auf den Auslöser.	Tar bild när du trycker på avtryckaren.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Tar bild så snart sidan legat stilla i 0,7 s; i bokläge efter varje sidvändning.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Tar bild med en parkopplad Bluetooth-fjärrutlösare.
+Lautstärketasten lösen immer aus.	Volymknapparna tar alltid bilder.
+Word erstellen, Formeln erkennen (%d/%d)	Skapar Word, känner igen formler (%d/%d)
+Belarussisch	Belarusiska
+Bulgarisch	Bulgariska
+Serbisch	Serbiska
+Mazedonisch	Makedonska
+Kein Link im geteilten Text	Ingen länk i den delade texten
+Import fehlgeschlagen: %s	Importen misslyckades: %s
+Link laden	Läser in länk
+Unter dem Link liegt keine PDF- oder Bilddatei.	Länken leder inte till en PDF- eller bildfil.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Endast PDF-filer och bilder kan importeras.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Skyddade PDF-filer kan inte importeras.
+PDF-Seite %d/%d importieren	Importerar PDF-sida %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Ta bild efter %s s
+Wartezeit	Väntetid
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Hur länge sidan måste ligga stilla före den automatiska bilden. Kortare går snabbare, längre ger färre suddiga bilder.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Tar bilden själv så snart sidan ligger stilla; väntetiden (0,2–1,5 s) ställer du in nedanför. I bokläge: efter varje sidvändning, så snart boken ligger stilla igen.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Lägger till foton, skärmbilder, PDF-filer eller en länk som fler sidor; foton beskärs, allt känns igen.
+Senden an …	Skicka till …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Var ”Spara” lägger dina exporter. ”Skicka till …” är oberoende av det.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Välj en undermapp, t.ex. ”Documents” – Android tillåter inte lagringens översta mapp.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Skapar filen och skickar den till en app, t.ex. WhatsApp, e-post, Telegram eller en molnlagring.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuell: med avtryckaren. Auto: så snart sidan ligger stilla – väntetiden (0,2–1,5 s, standard 0,7 s) ställer du in i skanningsfönstret under reglaget; i bokläge efter varje sidvändning. Bluetooth: med en parkopplad fjärrutlösare. Volymknapparna tar alltid en bild.
+Senden an oder Speichern	Skicka till eller spara
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	”Skicka till …” skickar filen till en app (WhatsApp, e-post, Telegram, moln …). Spara lägger den på lagringsplatsen.
+Importieren	Importera
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Lägger till foton, skärmbilder, PDF-filer eller en länk som nytt dokument; foton beskärs, allt känns igen.
+Bilder aus der Galerie	Bilder från galleriet
+Fotos und Screenshots	Foton och skärmbilder
+Dateien	Filer
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF-filer och bilder, t.ex. från Hämtade filer eller molnet
+Eine PDF- oder Bilddatei aus dem Internet	En PDF- eller bildfil från internet
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Sedan som skannade sidor: textigenkänning, översättning och export till valfritt format.
+Link importieren	Importera länk
+Internetadresse	Webbadress
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Tar bilden så snart sidan ligger stilla i %s s (går att ställa in i skanningsfönstret); i bokläge efter varje sidvändning.
+Fachwörterbuch laden	Läser in ordlista
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Ordlista för %s eller %s saknas – översatt utan facktermer
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Ingen ordlistefil (glossary-xx.tsv.gz)
+Download nicht verfügbar	Nedladdning inte tillgänglig
+Estnisch	Estniska
+Irisch	Iriska
+Litauisch	Litauiska
+Lettisch	Lettiska
+Maltesisch	Maltesiska
+Slowakisch	Slovakiska
+Slowenisch	Slovenska
+Ohne Fachwörterbuch	Utan ordlista
+Alle Fachgebiete	Alla fackområden
+Fachgebiet: %s	Fackområde: %s
+Fachwörterbücher verwalten …	Hantera ordlistor …
+Fachwörterbücher	Fackordlistor
+Aus Datei importieren	Importera från fil
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Facktermer från juridik, medicin, teknik, ekonomi och 17 andra fackområden (IATE, EU:s termdatabas) behålls exakt vid översättning. Du behöver ordlistan för käll- och målspråket, vardera 0,3–9 MB.
+Einmal laden, danach offline.	Ladda ner en gång, sedan offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importera filer glossary-xx.tsv.gz med mappikonen överst.
+Fachwörterbücher für die Übersetzung	Fackordlistor för översättning
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Juridik, medicin, teknik och mer – 24 EU-språk
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Alla foton och texter stannar på den här enheten. Internet används bara för att ladda ner språk, översättningsmodeller och fackordlistor en gång, när du startar det.
+Übersetzen	Översätt
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Skapar en översatt kopia av dokumentet på enheten: samma sidor och bilder, texten på målspråket på sin plats. Varje stycke översätts från sitt eget språk. Med ”Fackområde” tas facktermer från ordlistorna över exakt.
+Was nachgeladen werden kann	Vad som kan laddas ner
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Allt är frivilligt och laddas bara ner när du trycker; sedan fungerar det utan internet:\n• Språk för textigenkänning: vardera 1–15 MB (Inställningar › Språk). Tyska och engelska ingår.\n• Kinesiska: en egen igenkänningsmodell, ca 17 MB.\n• Översättningsmodeller: ca 30 MB per språk, laddas ner automatiskt vid första översättningen.\n• Fackordlistor: 0,3–9 MB per språk, ca 70 MB för alla 24 EU-språk (Inställningar › Fackordlistor).\nNedladdade filer kan tas bort när som helst.
+Wozu	Varför
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Allmänna översättare känner inte till många facktermer eller översätter dem inkonsekvent. En ordlista sätter in den fastställda termen, t.ex. ”Beweislast” → ”bevisbörda”.
+Quelle	Källa
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, EU-institutionernas termdatabas, med termer från 21 fackområden (juridik, hälsa, teknik, ekonomi, miljö, transport …). Den finns för EU:s 24 officiella språk.
+Was nötig ist	Vad som behövs
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	En ordlista för källspråket och en för målspråket, t.ex. tyska och engelska. En ordlista per språk räcker för alla språkpar.
+Laden oder importieren	Ladda ner eller importera
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Ladda ner med pilen (en gång, sedan offline) eller importera en fil ”glossary-xx.tsv.gz” med mappikonen, t.ex. från en dator eller ett SD-kort.
+Benutzen	Användning
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Välj fackområde överst när du översätter. ”Alla fackområden” använder bara termer som översätts likadant överallt.
+Grenzen	Begränsningar
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Facktermer sätts in i grundform; böjda former känns inte alltid igen.
+Politik	Politik
+Internationale Beziehungen	Internationella förbindelser
+Europäische Union	Europeiska unionen
+Recht	Juridik
+Wirtschaft	Ekonomi
+Handel	Handel
+Finanzwesen	Finanser
+Soziales und Gesundheit	Sociala frågor och hälsa
+Bildung und Kommunikation	Utbildning och kommunikation
+Wissenschaft	Vetenskap
+Unternehmen und Wettbewerb	Företag och konkurrens
+Beschäftigung und Arbeitsbedingungen	Sysselsättning och arbetsvillkor
+Verkehr	Transport
+Umwelt	Miljö
+Land-, Forst- und Fischereiwirtschaft	Jordbruk, skogsbruk och fiske
+Agrarerzeugnisse und Lebensmittel	Livsmedel
+Produktion, Technologie und Forschung	Produktion, teknik och forskning
+Energie	Energi
+Industrie	Industri
+Geografie	Geografi
+Internationale Organisationen	Internationella organisationer
+Wenig Licht – Lampe einschalten	Lite ljus – tänd lampan
+Verarbeitung mehrfach abgebrochen	Bearbetningen avbröts flera gånger
+Bearbeitungen gehen verloren	Ändringar går förlorade
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Sidan skapas på nytt från fotot. Maskeringar, signatur och anteckningar måste läggas till igen.
+Neu zuschneiden	Beskär igen
+Sprachdaten	Språkdata
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Visar hur mycket utrymme skanningar, originalfoton, papperskorg, cache och språkdata (textigenkänning, ordlistor) tar.
+Bitte warten, bis alle Seiten erkannt sind	Vänta tills alla sidor har känts igen
+Die Sprache „%s“ kann nicht übersetzt werden	Språket ”%s” kan inte översättas
+Übersetzung in die Seiten setzen	Placerar översättningen på sidorna

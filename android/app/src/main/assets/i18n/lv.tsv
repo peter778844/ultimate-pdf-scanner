@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Vispirms iestatiet pirksta nospiedumu, atbloķēšanu ar seju vai ekrāna bloķēšanu.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Šī ierīce neatbalsta biometrisko atbloķēšanu.
+Ultimate PDF Scanner entsperren	Atbloķēt Ultimate PDF Scanner
+Deine Scans sind geschützt	Jūsu skenējumi ir aizsargāti
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner ir bloķēts
+Deine Scans bleiben auf diesem Gerät.	Jūsu skenējumi paliek šajā ierīcē.
+  Entsperren	  Atbloķēt
+Systemsprache	Sistēmas valoda
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importēt fotoattēlus
+Texterkennung vorbereiten	Sagatavo teksta atpazīšanu
+Ein Foto konnte nicht verarbeitet werden: %s	Fotoattēlu neizdevās apstrādāt: %s
+Foto laden	Ielādēt fotoattēlu
+Foto nicht lesbar	Fotoattēls nav nolasāms
+Filter anwenden	Lietot filtru
+Schwärzen	Aizklāt
+Unterschrift einfügen	Ievietot parakstu
+Unterschrift eingefügt	Paraksts ievietots
+Änderungen einfügen	Ievietot izmaiņas
+Seite bearbeitet	Lapa rediģēta
+Text gesichert	Teksts saglabāts
+Zusammenführen	Apvienot
+%d Scans zusammengeführt	Apvienoti skenējumi: %d
+Seiten verschieben	Pārvietot lapas
+Seiten kopieren	Kopēt lapas
+ (Teil)	 (daļa)
+Zwischenspeicher leeren	Notīrīt kešatmiņu
+Zwischenspeicher geleert	Kešatmiņa notīrīta
+Originalfotos entfernen	Noņemt oriģinālos fotoattēlus
+Sicherung erstellen	Izveidot rezerves kopiju
+Sicherung erstellen (%d/%d)	Izveido rezerves kopiju (%d/%d)
+Sicherung gespeichert	Rezerves kopija saglabāta
+Sicherung wiederherstellen	Atjaunot no rezerves kopijas
+ (%d schon vorhanden)	 (%d jau ir)
+Wiederherstellen fehlgeschlagen: %s	Atjaunošana neizdevās: %s
+PDF erstellen (%d/%d)	Veido PDF (%d/%d)
+%s erstellen	Veido: %s
+Export fehlgeschlagen: %s	Eksportēšana neizdevās: %s
+%s speichern	Saglabāt: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF saglabāts (aizsargāts ar paroli, AES-256)
+%s gespeichert	Saglabāts: %s
+Bilder speichern	Saglabāt attēlus
+Bilder speichern (%d/%d)	Saglabā attēlus (%d/%d)
+%d Bilder gespeichert	Saglabāti attēli: %d
+Sprache erkennen	Noteikt valodu
+Kein erkannter Text zum Übersetzen	Nav atpazīta teksta tulkošanai
+Sprache nicht erkannt	Valoda nav atpazīta
+Der Text ist bereits auf %s	Teksts jau ir šajā valodā: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Ielādē valodas modeli (pirmo reizi ~30 MB)
+Übersetzen (%d/%d)	Tulkošana (%d/%d)
+Seite %d	%d. lapa
+Übersetzung fehlgeschlagen: %s	Tulkošana neizdevās: %s
+1 Bereich unkenntlich gemacht	Aizklāts 1 apgabals
+%d Bereiche unkenntlich gemacht	Aizklāti apgabali: %d
+1 Scan wiederhergestellt	Atjaunots 1 skenējums
+%d Scans wiederhergestellt	Atjaunoti skenējumi: %d
+Server antwortet mit %d	Serveris atbild ar %d
+Datei unvollständig	Fails nav pilnīgs
+Nicht gefunden	Nav atrasts
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Skenējumi tālrunī: %d · tieši caur Wi-Fi, bez mākoņa
+Ausgangssprache „%s“ wird nicht unterstützt	Avota valoda “%s” netiek atbalstīta
+Zielsprache „%s“ wird nicht unterstützt	Mērķa valoda “%s” netiek atbalstīta
+QR-CODE	QR KODS
+AUSWEIS	PERSONAS APLIECĪBA
+DOKUMENT	DOKUMENTS
+BUCH	GRĀMATA
+VISITENKARTE	VIZĪTKARTE
+PASSFOTO	DOKUMENTA FOTO
+PDF	PDF
+Word	Word
+Bilder	Attēli
+ZIP	ZIP
+Text	Teksts
+Excel	Excel
+CSV	CSV
+Kontakt	Kontakts
+Wie gescannt	Kā skenēts
+Letter	Letter
+Mittel	Vidēja
+Englisch	Angļu
+Französisch	Franču
+Italienisch	Itāļu
+Spanisch	Spāņu
+Portugiesisch	Portugāļu
+Niederländisch	Nīderlandiešu
+Polnisch	Poļu
+Tschechisch	Čehu
+Dänisch	Dāņu
+Schwedisch	Zviedru
+Norwegisch	Norvēģu
+Finnisch	Somu
+Ungarisch	Ungāru
+Rumänisch	Rumāņu
+Kroatisch	Horvātu
+Türkisch	Turku
+Griechisch	Grieķu
+Russisch	Krievu
+Ukrainisch	Ukraiņu
+Arabisch	Arābu
+Hebräisch	Ivrits
+Persisch	Persiešu
+Chinesisch (vereinfacht)	Ķīniešu (vienkāršotā)
+Japanisch	Japāņu
+Koreanisch	Korejiešu
+Latein	Latīņu
+Deutsch (Fraktur)	Vācu (fraktūra)
+1 Seite	1 lapa
+%d Seiten	Lapas: %d
+1 Scan	1 skenējums
+%d Scans	Skenējumi: %d
+Abbrechen	Atcelt
+Bearbeiten	Rediģēt
+Zurück	Atpakaļ
+Rückgängig	Atsaukt
+Sichern	Saglabāt
+Seite	Lapa
+Einfügen	Ievietot
+Änderungen sichern?	Vai saglabāt izmaiņas?
+Verwerfen	Atmest
+Schließen	Aizvērt
+Fertig	Gatavs
+Öffnen	Atvērt
+Keine	Neviena
+Alle	Visas
+Umbenennen	Pārdēvēt
+Mehr	Vairāk
+Löschen	Dzēst
+Teilen	Kopīgot
+Speichern	Saglabāt
+Drucken	Drukāt
+Kopieren	Kopēt
+Drehen	Pagriezt
+Laden	Lejupielādēt
+Entfernen	Noņemt
+Verschieben	Pārvietot
+Name	Nosaukums
+Aus	Izslēgts
+Leeren	Iztukšot
+Wiederherstellen	Atjaunot
+Text einfügen	Ievietot tekstu
+z. B. Name, Datum …	piem., vārds, datums …
+Kein Gesicht erkannt – bitte noch einmal	Seja nav atpazīta – mēģiniet vēlreiz
+Seite erneut scannen	Skenēt lapu vēlreiz
+Fernauslöser verbunden	Tālvadības slēdzis pievienots
+Nach dem Umblättern auslösen	Fotografēt pēc lapas pāršķiršanas
+Leserichtung rechts nach links	Lasīšanas virziens no labās uz kreiso
+Leserichtung links nach rechts	Lasīšanas virziens no kreisās uz labo
+Automatisch auslösen	Automātiska fotografēšana
+Kamera wechseln	Pārslēgt kameru
+Licht	Gaisma
+Bitte Kamerazugriff erlauben.	Lūdzu, atļaujiet piekļuvi kamerai.
+Passfoto wird zugeschnitten …	Apgriež dokumenta foto …
+Ohne Rückseite fertig	Gatavs bez otrās puses
+Kein Code im Bild gefunden	Attēlā kods netika atrasts
+Aus Galerie	No galerijas
+QR-Code oder Barcode in den Rahmen halten	Turiet QR kodu vai svītrkodu rāmī
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Seja ovālā · skatieties taisni · gaišs fons
+Vorderseite des Ausweises in den Rahmen	Apliecības priekšpuse rāmī
+Jetzt die Rückseite	Tagad otrā puse
+Visitenkarte in den Rahmen legen	Novietojiet vizītkarti rāmī
+Aufgeschlagenes Buch ins Bild halten	Turiet atvērto grāmatu kadrā
+Doppelseite erkannt	Atpazīts atvērums
+Umblättern – löst danach automatisch aus	Pāršķiriet lapu – pēc tam fotografē automātiski
+Ruhig halten …	Turiet nekustīgi …
+Ruhig halten – wird automatisch ausgelöst	Turiet nekustīgi – fotografēs automātiski
+Seite ins Bild halten	Turiet lapu kadrā
+Seite erkannt	Lapa atpazīta
+Intervall-Timer	Intervāla taimeris
+Serie starten	Sākt sēriju
+Farbe	Krāsains
+Graustufen	Pelēktoņi
+Schwarz-Weiß	Melnbalts
+Original	Oriģināls
+Automatisch	Automātiski
+Zuschnitt nicht möglich	Apgriešana nav iespējama
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Šīs lapas oriģinālais foto ir noņemts, lai ietaupītu vietu. Ar “Skenēt vēlreiz” lapu var uzņemt no jauna.
+Zuschnitt anpassen	Pielāgot apgriešanu
+Übernehmen	Lietot
+Einzelseite	Viena lapa
+Doppelseite	Atvērums
+Auto	Auto
+  Automatisch	  Automātiski
+Ecken auf die Seitenränder ziehen	Velciet stūrus uz lapas malām
+Seiten ordnen	Kārtot lapas
+%d ausgewählt	Atlasītas: %d
+Filter für alle Seiten	Filtrs visām lapām
+Leserichtung umkehren	Mainīt lasīšanas virzienu
+Übersetzen…	Tulkot…
+Scan löschen	Dzēst skenējumu
+Scannen	Skenēt
+Import	Importēt
+Ordnen	Kārtot
+Exportieren	Eksportēt
+Übersetzen in …	Tulkot uz …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Tulkošana notiek ierīcē. Pirmo reizi valodas modelis tiek lejupielādēts vienreiz.
+Übersetzung teilen	Kopīgot tulkojumu
+Scan löschen?	Vai dzēst skenējumu?
+„%s“ wird endgültig gelöscht.	“%s” tiks neatgriezeniski izdzēsts.
+Kontakt erkannt	Kontakts atpazīts
+Zu Kontakten	Uz kontaktiem
+Seiten werden verarbeitet (%d/%d)	Apstrādā lapas (%d/%d)
+Nur diese	Tikai šīs
+Wird neu verarbeitet	Tiek apstrādāts no jauna
+Erneut	Vēlreiz
+Fehlgeschlagen	Neizdevās
+Foto nicht verarbeitet	Foto nav apstrādāts
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Apstrādājot attēlu, radās kļūda.
+Keine Auffälligkeiten	Bez piezīmēm
+Erneut scannen	Skenēt vēlreiz
+Ersetzt beide Seiten dieser Doppelseite	Aizstāj abas šī atvēruma lapas
+Kamera öffnen und diese Seite ersetzen	Atvērt kameru un aizstāt šo lapu
+Nach vorn	Uz priekšu
+Nach hinten	Atpakaļ
+Seite löschen	Dzēst lapu
+Foto entfernen	Noņemt foto
+1 Seite verschoben	Pārvietota 1 lapa
+%d Seiten verschoben	Pārvietotas lapas: %d
+1 Seite kopiert	Nokopēta 1 lapa
+%d Seiten kopiert	Nokopētas lapas: %d
+1 Seite löschen?	Vai dzēst 1 lapu?
+%d Seiten löschen?	Vai dzēst lapas (%d)?
+1 Seite prüfen	Pārbaudīt 1 lapu
+%d Seiten prüfen	Pārbaudīt lapas: %d
+Seite löschen?	Vai dzēst lapu?
+Durchsuchbares PDF mit erkanntem Text	Meklējams PDF ar atpazītu tekstu
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Rediģējams teksts Word, LibreOffice un Google Docs
+Die Seite als JPG-Bild	Lapa kā JPG attēls
+Ein JPG-Bild pro Seite (%d Dateien)	Viens JPG attēls katrai lapai (faili: %d)
+Alle Seiten als JPG und der Text in einem Archiv	Visas lapas kā JPG un teksts vienā arhīvā
+Nur der erkannte Text	Tikai atpazītais teksts
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Atpazītas tabulas, viena lapa katrai lappusei
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Atpazītas tabulas kā CSV (semikols, Excel)
+Visitenkarte als Kontakt (vCard)	Vizītkarte kā kontakts (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Priekšpuse un otrā puse reālā izmērā vienā lapā – gatavs drukāšanai
+Seitenformat	Lapas formāts
+Mit Passwort schützen	Aizsargāt ar paroli
+AES-256-Verschlüsselung	AES-256 šifrēšana
+Passwort	Parole
+Mindestens 4 Zeichen	Vismaz 4 rakstzīmes
+Passwort wiederholen	Atkārtojiet paroli
+Passwörter stimmen nicht überein	Paroles nesakrīt
+Seitenbilder einfügen	Ievietot lapu attēlus
+Jede Seite als Bild über ihrem Text	Katra lapa kā attēls virs sava teksta
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Kolonnas tiek atpazītas pēc atstarpēm tekstā – vislabāk darbojas ar skaidri atdalītām kolonnām. Skaitļi, piem., “1.234,50”, tiek pārņemti kā skaitļi.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Šajā vizītkartē kontaktinformācija netika atpazīta.
+1 ausgewählte Seite	1 atlasīta lapa
+%d ausgewählte Seiten	Atlasītas lapas: %d
+Mobil	Mobilais
+Fax	Fakss
+Telefon	Tālrunis
+%s teilen	Kopīgot: %s
+Scan	Skenējums
+Text teilen	Kopīgot tekstu
+PDF teilen	Kopīgot PDF
+In den Papierkorb verschoben	Pārvietots uz atkritni
+%d Scans in den Papierkorb verschoben	Uz atkritni pārvietoti skenējumi: %d
+Auswahl beenden	Beigt atlasi
+Alle auswählen	Atlasīt visu
+In Ordner verschieben	Pārvietot uz mapi
+Ordner	Mapes
+Ordner umbenennen	Pārdēvēt mapi
+Ordner auflösen	Izjaukt mapi
+Papierkorb (%d)	Atkritne (%d)
+Papierkorb	Atkritne
+An PC senden	Sūtīt uz datoru
+Speicher & Sicherung	Krātuve un rezerves kopija
+Einstellungen	Iestatījumi
+Scans und Text durchsuchen	Meklēt skenējumos un tekstā
+Alle Scans durchsuchen	Meklēt visos skenējumos
+Suche löschen	Notīrīt meklēšanu
+%d Treffer	Rezultāti: %d
+Alle Scans	Visi skenējumi
+Nichts gefunden	Nekas netika atrasts
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Ne nosaukums, ne atpazītais teksts neatbilst “%s”.
+Ordner ist leer	Mape ir tukša
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Pārvietojiet skenējumus šeit: ilgi turiet skenējumu un izvēlieties “Pārvietot uz mapi”.
+Noch keine Scans	Vēl nav skenējumu
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Pieskarieties “Skenēt”, lai fotografētu lapas,\nvai importējiet fotoattēlus no galerijas.
+Ordnername	Mapes nosaukums
+Neuer Ordner	Jauna mape
+%d Scans zusammenführen?	Vai apvienot skenējumus (%d)?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Visas lapas tiek pievienotas “%s” atlases secībā. Pārējie skenējumi pēc tam izzūd.
+%d prüfen	Pārbaudīt: %d
+Wird verarbeitet (%d/%d)	Apstrādā (%d/%d)
+Als PDF teilen	Kopīgot kā PDF
+Kategorie ändern	Mainīt kategoriju
+Kein Ordner	Bez mapes
+Neuer Ordner …	Jauna mape …
+Kategorie	Kategorija
+Download fehlgeschlagen: %s	Lejupielāde neizdevās: %s
+keine Verbindung	nav savienojuma
+Sprachen der Texterkennung	Teksta atpazīšanas valodas
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Izvēlētās valodas tiek atpazītas kopā – izvēlieties tikai vajadzīgās, katra papildu valoda palēnina atpazīšanu. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Trūkstošās valodas tiek lejupielādētas vienreiz (apm. 2–15 MB) un pēc tam darbojas bezsaistē.
+Wird geladen … %d %%	Lejupielādē … %d %%
+Enthalten	Iekļauta
+Geladen · %s	Lejupielādēta · %s
+Nicht geladen	Nav lejupielādēta
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Pieskarieties, lai atlasītu · turiet un velciet, lai pārvietotu
+Neuer Scan	Jauns skenējums
+Verschieben nach …	Pārvietot uz …
+Kopieren nach …	Kopēt uz …
+Seite %d von %d	%d. lapa no %d
+Filter	Filtrs
+Zuschnitt	Apgriešana
+Signieren	Parakstīt
+Code	Kods
+Link	Saite
+E-Mail	E-pasts
+Telefonnummer	Tālruņa numurs
+Ort	Vieta
+Produktcode	Preces kods
+Netzwerk: %s	Tīkls: %s
+Passwort: %s	Parole: %s
+Verschlüsselung: %s	Šifrēšana: %s
+Passwort kopieren	Kopēt paroli
+Verbinden	Savienot
+E-Mail schreiben	Rakstīt e-pastu
+Anrufen	Zvanīt
+In Karten öffnen	Atvērt Kartēs
+Suche sensible Daten…	Meklē sensitīvus datus…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Sensitīvi dati netika atrasti. Ar pirkstu atzīmējiet apgabalus, kurus aizklāt.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Atrasts – pieskarieties, lai atlasītu vai noņemtu, atzīmējiet vēl apgabalus:
+Schwarzer Balken	Melna josla
+Verpixeln	Pikselizēt
+Unkenntlich machen (%d)	Aizklāt (%d)
+Manuell	Manuāli
+Gesicht	Seja
+Kein WLAN	Nav Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Savienojiet tālruni un datoru ar to pašu Wi-Fi (vai datoru ar tālruņa tīklāju). Tad šeit parādīsies adrese.
+Am PC im Browser öffnen	Atvērt datora pārlūkā
+QR-Code der Adresse	Adreses QR kods
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Ievadiet adresi vai noskenējiet QR kodu ar datora kameru. Tur visus skenējumus var lejupielādēt kā PDF vai tekstu.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Tikai lokālajā tīklā un tikai, kamēr šis ekrāns ir atvērts. Nekas netiek augšupielādēts internetā.
+Heruntergeladen	Lejupielādēts
+App-Sperre nicht möglich	Lietotnes bloķēšana nav iespējama
+Sprache	Valoda
+Sprache der App	Lietotnes valoda
+Aufnahme	Uzņemšana
+Doppelseiten im Dokument-Modus	Atvērumi dokumenta režīmā
+Automatisch teilen	Sadalīt automātiski
+Nie teilen	Nekad nesadalīt
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Fotografē, tiklīdz lapa kadrā nekustīgi guļ.
+Buch-Modus	Grāmatas režīms
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Atpazīst lapas pāršķiršanu un fotografē, tiklīdz grāmata atkal ir nekustīga.
+Leserichtung	Lasīšanas virziens
+Links → rechts	No kreisās → uz labo
+Rechts → links	No labās → uz kreiso
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	No labās uz kreiso arābu, ivrita, persiešu un japāņu valodai: vispirms nāk labā lapa.
+Fernauslöser	Tālvadības slēdzis
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Savienojiet pārī Bluetooth kameras tālvadības slēdzi (piem., “AB Shutter 3”) Android Bluetooth iestatījumos. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Tad kamerā fotografē tālvadības slēdzis un skaļuma pogas.
+Bild	Attēls
+Standardfilter	Noklusējuma filtrs
+Handschrift entfernen	Noņemt rokrakstu
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Noņem zilas/sarkanas pildspalvas un zīmuļa piezīmes. Noņem arī šo krāsu iespiedumu.
+Texterkennung	Teksta atpazīšana
+Sprachen	Valodas
+Sicherheit & Speicher	Drošība un krātuve
+App-Sperre	Lietotnes bloķēšana
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Atverot atbloķēt ar pirksta nospiedumu, seju vai ekrāna bloķēšanu. Saturs netiek rādīts lietotņu pārskatā.
+Belegung, Backup als ZIP, Wiederherstellen	Aizņemtā vieta, rezerves kopija kā ZIP, atjaunošana
+Gelöschte Scans werden nach 30 Tagen entfernt	Dzēstie skenējumi tiek noņemti pēc 30 dienām
+Offline	Bezsaistē
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Visi fotoattēli un teksti paliek šajā ierīcē. Internets tiek izmantots tikai vienreizējai valodu lejupielādei, kad to sākat.
+Über	Par lietotni
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Atvērtā pirmkoda komponenti: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (visi ar Apache 2.0 licenci); ML Kit (tulkošana, seju noteikšana, ierīcē).
+Unterschrift zeichnen	Uzzīmēt parakstu
+Mit dem Finger unterschreiben	Parakstieties ar pirkstu
+Unterschrift platzieren	Novietot parakstu
+Neu zeichnen	Zīmēt vēlreiz
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Pārvietojiet ar vienu pirkstu, mainiet izmēru ar diviem pirkstiem.
+Unterschrift	Paraksts
+Belegt von Ultimate PDF Scanner	Aizņem Ultimate PDF Scanner
+%s frei auf dem Gerät	Brīvs ierīcē: %s
+Seiten	Lapas
+Originalfotos	Oriģinālie fotoattēli
+Zwischenspeicher	Kešatmiņa
+Platz schaffen	Atbrīvot vietu
+Exportierte Dateien zum Teilen	Eksportētie faili kopīgošanai
+Gelöschte Scans der letzten 30 Tage	Pēdējo 30 dienu dzēstie skenējumi
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Gatavās lapas paliek, bet apgriešanu vēlāk vairs nevar mainīt.
+Größte Scans	Lielākie skenējumi
+Sicherung	Rezerves kopija
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Saglabājiet visus skenējumus vienā ZIP failā – piem., SD kartē, USB zibatmiņā vai datorā. Nekas netiek augšupielādēts.
+Papierkorb mitsichern	Iekļaut atkritni
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-rezerves-kopija_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Atjaunojot tiek pievienoti tikai trūkstošie skenējumi.
+Originalfotos entfernen?	Vai noņemt oriģinālos fotoattēlus?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Ietaupa %s. Lapas vēlāk vairs nevarēs apgriezt no jauna, “Skenēt vēlreiz” paliek iespējams.
+Text bearbeiten · Seite %d	Rediģēt tekstu · %d. lapa
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Labojumi tiek izmantoti meklēšanā un PDF teksta slānī.
+Kein Text erkannt – hier eintippen	Teksts nav atpazīts – ierakstiet to šeit
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Dzēstie skenējumi tiek neatgriezeniski noņemti pēc %d dienām.
+Papierkorb ist leer	Atkritne ir tukša
+Endgültig löschen	Dzēst neatgriezeniski
+Papierkorb leeren?	Vai iztukšot atkritni?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	Skenējumi (%d) tiks neatgriezeniski izdzēsti. To nevar atsaukt.
+Endgültig löschen?	Vai dzēst neatgriezeniski?
+„%s“ wird sofort gelöscht.	“%s” tiks nekavējoties izdzēsts.
+noch 1 Tag	vēl 1 diena
+noch %d Tage	vēl dienas: %d
+Quittung	Kvīts
+Quittungen	Kvītis
+Rechnung	Rēķins
+Rechnungen	Rēķini
+Visitenkarte	Vizītkarte
+Visitenkarten	Vizītkartes
+Vertrag	Līgums
+Verträge	Līgumi
+Brief	Vēstule
+Briefe	Vēstules
+Ausweis	Personas apliecība
+Ausweise	Personas apliecības
+Buch	Grāmata
+Bücher	Grāmatas
+Passfoto	Dokumenta foto
+Passfotos	Dokumenta foto
+Dokument	Dokuments
+Dokumente	Dokumenti
+Auflösung	Izšķirtspēja
+Kompression	Saspiešana
+Gering	Zema
+Stark	Spēcīga
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi un zema saspiešana drukai un arhīvam, 150 dpi un spēcīga saspiešana e-pastam.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Padara PDF meklējamus un tekstu kopējamu. Izslēgts: ātrāka apstrāde, PDF tikai kā attēls.
+Keine Seite erkannt	Lapa nav atpazīta
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Lapas mala netika atrasta – izmantots viss foto.
+Unscharf	Izplūdis
+Das Foto ist verwackelt oder unscharf.	Foto ir izkustējies vai izplūdis.
+Zu dunkel	Pārāk tumšs
+Die Seite ist schlecht ausgeleuchtet.	Lapa ir vāji apgaismota.
+Text schlecht lesbar	Teksts slikti salasāms
+Die Texterkennung war unsicher.	Teksta atpazīšana bija nedroša.
+Kein Text erkannt	Teksts nav atpazīts
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Lapā teksts netika atrasts – tukša lapa vai kadrā vispār nav lapas?
+Hindi	Hindi
+Bengalisch	Bengāļu
+Urdu	Urdu
+Indonesisch	Indonēziešu
+Seite erkennen	Noteikt lapu
+Seite entzerren	Iztaisnot lapu
+Finger entfernen	Noņemt pirkstus
+Schärfe prüfen	Pārbaudīt asumu
+Ausrichtung	Orientācija
+Bild verbessern	Uzlabot attēlu
+Speicherort	Saglabāšanas vieta
+Speicherort für Exporte	Eksportu saglabāšanas vieta
+Jedes Mal fragen	Jautāt katru reizi
+Ordner wählen …	Izvēlēties mapi …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	“Saglabāt” ieliek PDF un citus eksportus tieši šajā mapē, katru reizi nejautājot. Iespējama arī SD karte.
+Gespeichert in „%s“	Saglabāts mapē “%s”
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Saglabāšanas vieta nav pieejama. Izvēlieties to vēlreiz.
+Neu aufnehmen	Uzņemt vēlreiz
+Um 90° links drehen	Pagriezt par 90° pa kreisi
+Seite gelöscht	Lapa izdzēsta
+Lange drücken: neu aufnehmen, drehen oder löschen	Ilgi turiet: uzņemt vēlreiz, pagriezt vai dzēst
+Ersetzt beide Seiten	Aizstāj abas lapas
+Ränder bereinigen	Notīrīt malas
+Scan-Qualität	Skenēšanas kvalitāte
+Schnell	Ātra
+Standard	Standarta
+Genau	Precīza
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Lielam, skaidram rakstam, piem., vēstulēm un izdrukām: mazāki foto, ātrākā apstrāde.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Grāmatām un vairumam dokumentu: laba atpazīšana ar parastu ātrumu.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Sīkam drukam, vecām grāmatām, zemsvītras piezīmēm un formulām: pilna kameras izšķirtspēja, lēnāk, vairāk atmiņas.
+BILD	ATTĒLS
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Novietojiet attēlu līdzeni · bez zibspuldzes · izvairieties no atspīdumiem
+an	ieslēgts
+aus	izslēgts
+Automatische Auslösung an: nach dem Umblättern	Automātiska fotografēšana ieslēgta: pēc lapas pāršķiršanas
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automātiska fotografēšana ieslēgta: tiklīdz lapa ir nekustīga
+Automatische Auslösung aus	Automātiska fotografēšana izslēgta
+PDF & Export	PDF un eksports
+Speicherort für PDFs und Bilder	PDF un attēlu saglabāšanas vieta
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Eksportējot to var mainīt atsevišķiem failiem.
+Weitere Optionen …	Citas opcijas …
+Automatische Verbesserung	Automātiska uzlabošana
+Schatten und Artefakte entfernen, Schrift schärfen	Noņemt ēnas un artefaktus, padarīt rakstu asāku
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Noņemt ēnas un artefaktus, padarīt rakstu asāku. Var izslēgt katrā dokumentā atsevišķi.
+unkorrigiert	nelabots
+Maximal	Maksimālā
+Bildqualität	Attēla kvalitāte
+volle Auflösung	pilna izšķirtspēja
+Briefe, Ausdrucke, große Schrift	Vēstules, izdrukas, liels raksts
+Bücher und die meisten Dokumente (empfohlen)	Grāmatas un vairums dokumentu (ieteicams)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Sīka druka, formulas, vecas grāmatas – lēnāk
+Gilt auch für alle weiteren Scans.	Attiecas arī uz visiem turpmākajiem skenējumiem.
+Ändern	Mainīt
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Kur “Saglabāt” ieliek jūsu eksportus. “Kopīgot” no tā nav atkarīgs.
+Ordner und Dateiname beim Speichern wählen	Saglabājot izvēlēties mapi un faila nosaukumu
+Exporte landen direkt hier	Eksporti nonāk tieši šeit
+Anderen Ordner wählen …	Izvēlēties citu mapi …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Arī SD karte un mākoņa mapes, ja tās ir iestatītas ierīcē.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Pastāvīga piekļuve šai mapei nav iespējama.
+Sehr hohe Auflösung	Ļoti augsta izšķirtspēja
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Ar %d MP katras lapas apstrāde ilgst daudz ilgāk un prasa daudz atmiņas. Vairumam dokumentu pietiek ar “Standarta”. “Maksimālā” atmaksājas tikai ļoti sīkam drukam.
+Trotzdem verwenden	Tomēr izmantot
+langsam	lēni
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Tālvadības slēdzis nav pievienots – savienojiet to pārī Bluetooth iestatījumos
+Mit dem Fernauslöser auslösen	Fotografēt ar tālvadības slēdzi
+Umblättern	Pāršķiršana
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Beidz uzņemšanu. Jau nofotografētās lapas paliek un tiek apstrādātas.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Ieslēdz vai izslēdz lukturīti. Spīdīgu papīru labāk fotografēt bez gaismas un slīpi pret logu.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Izmanto esošus fotoattēlus jaunu uzņēmumu vietā.
+Serie	Sērija
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Sāk vai aptur sēriju: taimeris tad ik pēc dažām sekundēm automātiski fotografē.
+Auslöser	Slēdzis
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Uzņem foto. Fotografē arī skaļuma pogas un Bluetooth tālvadības slēdzis.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Beidz uzņemšanu un atver pārskatu; skaitlis rāda šīs uzņemšanas fotoattēlus.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Cik pikseļu ir katram foto. Ātra (5 MP) lielam rakstam, Standarta (12 MP) gandrīz visam, Maksimālā sīkam drukam un formulām – ilgst ilgāk.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Pieskarieties, lai pārslēgtu: izslēgts, 3, 5 vai 10 sekundes. Slēdzis tad sāk sēriju ar foto šajā intervālā – ērti grāmatām.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Fotografē tikai tad, kad pieskaraties slēdzim.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fotografē pats, tiklīdz lapa 0,7 sekundes ir nekustīga. Grāmatas režīmā: pēc katras lapas pāršķiršanas, tiklīdz grāmata atkal ir nekustīga.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Fotografē ar Bluetooth tālvadības slēdzi (piem., “AB Shutter 3”). Vispirms savienojiet slēdzi pārī tālruņa Bluetooth iestatījumos.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Piešķir dokumentam savu nosaukumu; to izmanto arī kā faila nosaukumu eksportējot.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Mainīt atvērumu lasīšanas virzienu, tulkot ierīcē vai dzēst skenējumu.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Atver kameru un pievieno šim dokumentam jaunas lapas.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Pārņem fotoattēlus no galerijas kā jaunas lapas; tās tiek apgrieztas un atpazītas kā kameras foto.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Mainiet secību, velkot; atlasiet lapas, lai tās pagrieztu, pārvietotu, kopētu, atdalītu vai dzēstu.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Kopīgot, saglabāt vai drukāt kā PDF, Word, attēlus, ZIP, tekstu vai tabulu.
+Farbe, Graustufen, Schwarz-Weiß	Krāsains, pelēktoņi, melnbalts
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Pārslēdz visas šī dokumenta lapas. Melnbalts dod mazākos failus, krāsains precīzi attēlo ilustrācijas un zīmogus.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Ieslēgts: ēnas, traipi un artefakti tiek noņemti, raksts kļūst kontrastaināks. Izslēgts: lapas tikai apgriež un iztaisno – fotoattēliem, zīmējumiem vai ja uzlabošana kaut ko izkropļo.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Izveido failu un nodod to lietotnei, piem., e-pastam, ziņapmaiņai vai mākonim.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Ieliek failu saglabāšanas vietā – pastāvīgajā mapē vai, ar “Jautāt katru reizi”, tur, kur jūs to noliekat.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Drukā ar Android drukāšanas pakalpojumu; tur var izvēlēties arī “Saglabāt kā PDF”.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Kur “Saglabāt” ieliek failus: jautāt katru reizi vai vienmēr pastāvīgā mapē, arī SD kartē vai mākoņa mapē.
+Hilfe & Anleitung	Palīdzība un instrukcija
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Padoms: turiet pogu vienu sekundi, lai redzētu, ko tā dara.
+Startseite	Sākums
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Atver kameru. Visi vienas uzņemšanas fotoattēli nonāk vienā kopīgā dokumentā.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Galerijas ikona virs “Skenēt” pārņem esošus fotoattēlus; tie tiek apgriezti un atpazīti kā kameras foto.
+Suchen	Meklēt
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Atrod skenējumus pēc nosaukuma un atpazītā teksta, ar lapas numuru.
+Ordner und Kategorien	Mapes un kategorijas
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Mapes grupē skenējumus. Kategorijas (grāmatas, kvītis …) parādās pašas, tiklīdz ir šāda veida skenējumi.
+Mehrere Scans	Vairāki skenējumi
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Ilgi turiet skenējumu: atlasīt, apvienot, pārvietot uz mapi vai dzēst.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Dzēstie skenējumi 30 dienas paliek atkritnē (izvēlne ⋮) un tos var atjaunot.
+Modi	Režīmi
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Izvēlieties apakšā: Dokuments (atsevišķas lapas), Grāmata (atvērumi tiek sadalīti divās lapās), Personas apliecība (priekšpuse un otrā puse reālā izmērā vienā lapā), Vizītkarte (kontakts tiek atpazīts), Attēls (precīzas krāsas, bez teksta atpazīšanas), Dokumenta foto (priekšējā kamera, 35 × 45 mm) un QR kods.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Augšā pa kreisi: Ātra (5 MP) lielam rakstam, Standarta (12 MP) gandrīz visam, Maksimālā sīkam drukam un formulām – lēnāk.
+Auslösung	Fotografēšana
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuāli: ar slēdzi. Auto 0,7 s: tiklīdz lapa 0,7 sekundes ir nekustīga; grāmatas režīmā pēc katras lapas pāršķiršanas. Bluetooth: ar pārī savienotu tālvadības slēdzi. Skaļuma pogas fotografē vienmēr.
+Timer und Licht	Taimeris un gaisma
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Pulksteņa ikona fotografē ik pēc 3, 5 vai 10 sekundēm (sākums ar slēdzi). Zibspuldze ieslēdz lukturīti.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Pieskarieties sīktēlam apakšā pa labi: lapas tiek apstrādātas un atveras pārskats.
+Gute Fotos	Labi foto
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Novietojiet lapu līdzeni un vienmērīgi apgaismotu, turiet tālruni paralēli. Pamatne, kas pēc krāsas atšķiras no papīra, palīdz apgriešanā.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Attiecas uz visām dokumenta lapām. Atsevišķas lapas var iestatīt citādi lapas skatā.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Noņem ēnas un artefaktus un padara rakstu kontrastaināku. Izslēdzot lapa tiek tikai apgriezta un iztaisnota.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Pieskāriens atver lapu. Ilgs pieskāriens: uzņemt vēlreiz, pagriezt vai dzēst. Ar oranžu atzīmētās lapas jāpārbauda (piem., izplūdušas), sarkanās neizdevās.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Mainiet secību, velkot, pagrieziet vairākas lapas, pārvietojiet vai kopējiet tās citā dokumentā vai atdaliet kā jaunu dokumentu.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, attēli, ZIP, teksts vai tabula – kopīgot, saglabāt vai drukāt.
+Mehr (⋮)	Vairāk (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Mainīt atvērumu lasīšanas virzienu, tulkot ierīcē vai dzēst skenējumu. Zīmulis augšā maina nosaukumu.
+Seitenansicht	Lapas skats
+Blättern und Zoomen	Šķiršana un tālummaiņa
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Pārvelciet, lai mainītu lapu; pieskarieties divreiz vai izmantojiet divus pirkstus, lai tuvinātu.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Krāsains, pelēktoņi vai melnbalts tikai šai lapai, ar priekšskatījumu. Zemāk – šīs lapas automātiskā uzlabošana.
+Drehen und Zuschnitt	Pagriešana un apgriešana
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Pagriezt par 90°. Apgriezt: no jauna iestatīt lapas stūrus oriģinālajā foto.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Rakstiet uz lapas ar pildspalvu, marķieri vai tekstu.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Padariet sensitīvus datus nesalasāmus – ar joslām vai pikselizējot. Tiek ieteikti kontu, karšu numuri un sejas.
+Signieren und Text	Paraksts un teksts
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	“Parakstīt” ievieto jūsu saglabāto parakstu. “Teksts” rāda atpazīto tekstu labošanai un kopēšanai.
+Formate	Formāti
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (meklējams), Word, attēli (JPG), ZIP, teksts, Excel vai CSV; vizītkartēm arī kā kontakts.
+PDF-Optionen	PDF opcijas
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Lapas formāts, izšķirtspēja un saspiešana nosaka kvalitāti un faila izmēru – izmērs tiek novērtēts augšā pa labi. Pēc izvēles ar paroli (AES-256).
+Teilen oder Speichern	Kopīgot vai saglabāt
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	“Kopīgot” nosūta failu lietotnei (e-pasts, ziņapmaiņa …). “Saglabāt” ieliek to saglabāšanas vietā.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	“Jautāt katru reizi” saglabājot atver mapes izvēli. Ar pastāvīgu mapi eksporti nonāk tur bez jautāšanas – arī SD kartē vai mākoņa mapē.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Drukā ar Android drukāšanas pakalpojumu vai saglabā kā PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Attēla kvalitāte, fotografēšana un atvērumu sadalīšana jauniem skenējumiem. Kamerā to var mainīt jebkurā laikā.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtrs un automātiskā uzlabošana, ar ko sākas jauni dokumenti.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Padara PDF meklējamus. Valodas nosaka, kuras rakstzīmes tiek atpazītas.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Saglabāšanas vieta un izšķirtspējas, saspiešanas un lapas formāta noklusējumi.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Lietotnes bloķēšana ar pirksta nospiedumu, rezerves kopija kā ZIP un atkritne.
+Ecken setzen	Iestatīt stūrus
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Velciet četrus stūrus uz lapas malām; lupa rāda palielinātu vietu zem pirksta.
+Einzel- oder Doppelseite	Viena lapa vai atvērums
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Izvēlieties apakšā, vai foto rāda vienu lapu vai atvērtu atvērumu. “Automātiski” ļauj izlemt lietotnei.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Ķeksītis augšā apstrādā lapu ar jauno apgriezumu.
+Werkzeuge	Rīki
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Pildspalva rakstīšanai, marķieris izcelšanai, teksts ierakstītām piezīmēm. Krāsas ir zemāk.
+Korrigieren	Labot
+Rückgängig nimmt den letzten Strich zurück.	“Atsaukt” noņem pēdējo vilkumu.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Ieraksta izmaiņas lapā. Nesaglabājot lapa paliek nemainīta.
+Vorschläge	Ieteikumi
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Atrastie kontu, karšu numuri, nodokļu numuri un sejas ir atzīmēti – pieskarieties, lai noņemtu vai atkal atlasītu.
+Eigene Bereiche	Savi apgabali
+Mit dem Finger weitere Rechtecke aufziehen.	Ar pirkstu atzīmējiet vēl taisnstūrus.
+Balken oder Pixel	Joslas vai pikseļi
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Melna josla vai pikselizācija. Teksts zem tās tiek noņemts arī no teksta atpazīšanas un no PDF.
+Zeichnen	Zīmēt
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Parakstieties vienreiz ar pirkstu – paraksts tiek saglabāts ierīcē.
+Platzieren	Novietot
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Pārvietojiet ar vienu pirkstu, mainiet izmēru ar diviem, tad ievietojiet.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Zīmuļa ikona augšā aizstāj saglabāto parakstu.
+Text bearbeiten	Rediģēt tekstu
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Lapas atpazītais teksts ir apakšā, un to var mainīt. Augšā lapas attēls salīdzināšanai.
+Wirkung	Iedarbība
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Labojumi nonāk meklēšanā, PDF teksta slānī un Word un teksta eksportos.
+Holt einen gelöschten Scan zurück.	Atgūst dzēstu skenējumu.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skenējumi tiek automātiski noņemti pēc 30 dienām. “Iztukšot” uzreiz izdzēš visu.
+Belegung	Aizņemtā vieta
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Rāda, cik vietas aizņem skenējumi, oriģinālie fotoattēli, atkritne un kešatmiņa.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Oriģinālo fotoattēlu noņemšana ietaupa daudz vietas; gatavās lapas paliek, tikai apgriešanu vēlāk vairs nevar mainīt.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Saglabājiet visus skenējumus kā ZIP failu un atjaunojiet tos šajā vai citā ierīcē. Nekas netiek augšupielādēts.
+Auswahl	Izvēle
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Izvēlieties savu dokumentu valodas. Katra papildu valoda palēnina atpazīšanu.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Trūkstošās valodas tiek lejupielādētas vienreiz un pēc tam darbojas bez interneta.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Savienojiet tālruni un datoru ar to pašu Wi-Fi (vai datoru ar tālruņa tīklāju).
+Herunterladen	Lejupielādēt
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Atveriet parādīto adresi datora pārlūkā vai noskenējiet QR kodu; tur visus skenējumus var lejupielādēt kā PDF vai tekstu.
+Sicherheit	Drošība
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Darbojas tikai lokālajā tīklā un tikai, kamēr šis ekrāns ir atvērts.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Valoda, attēla kvalitāte, fotografēšana, teksta atpazīšana, saglabāšanas vieta, lietotnes bloķēšana un rezerves kopija.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Pārņem fotoattēlus no galerijas kā jaunu dokumentu; tie tiek apgriezti un atpazīti kā kameras foto.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Atver kameru. Visi vienas uzņemšanas fotoattēli nonāk vienā kopīgā dokumentā.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Dzēš šo lapu no dokumenta (pēc apstiprinājuma).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Krāsains, pelēktoņi vai melnbalts un automātiskā uzlabošana tikai šai lapai.
+Dreht die Seite um 90° im Uhrzeigersinn.	Pagriež lapu par 90° pulksteņrādītāja virzienā.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	No jauna iestatiet lapas stūrus oriģinālajā foto, ja trūkst malas vai redzams fons.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Padariet sensitīvus datus nesalasāmus ar joslām vai pikseļiem; tie pazūd arī no PDF teksta.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Novieto jūsu saglabāto parakstu lapā; pirmo reizi jūs to uzzīmējat.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Rāda lapas atpazīto tekstu labošanai un kopēšanai.
+Fotografiert beim Tippen auf den Auslöser.	Fotografē, kad pieskaraties slēdzim.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Fotografē, tiklīdz lapa 0,7 s ir nekustīga; grāmatas režīmā pēc katras lapas pāršķiršanas.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Fotografē ar pārī savienotu Bluetooth tālvadības slēdzi.
+Lautstärketasten lösen immer aus.	Skaļuma pogas fotografē vienmēr.
+Word erstellen, Formeln erkennen (%d/%d)	Veido Word, atpazīst formulas (%d/%d)
+Belarussisch	Baltkrievu
+Bulgarisch	Bulgāru
+Serbisch	Serbu
+Mazedonisch	Maķedoniešu
+Kein Link im geteilten Text	Kopīgotajā tekstā nav saites
+Import fehlgeschlagen: %s	Importēšana neizdevās: %s
+Link laden	Ielādē saiti
+Unter dem Link liegt keine PDF- oder Bilddatei.	Saite neved uz PDF vai attēla failu.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Importēt var tikai PDF failus un attēlus.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Aizsargātus PDF failus nevar importēt.
+PDF-Seite %d/%d importieren	Importē PDF lapu %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Uzņemt pēc %s s
+Wartezeit	Gaidīšanas laiks
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Cik ilgi lapai jāatrodas nekustīgi pirms automātiskās uzņemšanas. Īsāks ir ātrāk, garāks dod mazāk izplūdušu foto.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Uzņem pats, tiklīdz lapa ir nekustīga; gaidīšanas laiku (0,2–1,5 s) iestati zemāk. Grāmatas režīmā: pēc katras lapas pāršķiršanas, tiklīdz grāmata atkal ir nekustīga.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Pievieno fotoattēlus, ekrānuzņēmumus, PDF failus vai saiti kā papildu lapas; fotoattēli tiek apgriezti, viss tiek atpazīts.
+Senden an …	Sūtīt uz …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Kur „Saglabāt“ liek eksportus. „Sūtīt uz …“ no tā nav atkarīgs.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Izvēlies apakšmapi, piem., „Documents“ – krātuves augšējo mapi Android neatļauj.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Izveido failu un nosūta to lietotnei, piem., WhatsApp, e-pastam, Telegram vai mākonim.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuāli: ar slēdzi. Auto: tiklīdz lapa ir nekustīga – gaidīšanas laiku (0,2–1,5 s, noklusējumā 0,7 s) iestati skenēšanas logā zem slēdža; grāmatas režīmā pēc katras lapas pāršķiršanas. Bluetooth: ar savienotu tālvadības slēdzi. Skaļuma pogas vienmēr uzņem.
+Senden an oder Speichern	Sūtīt vai saglabāt
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Sūtīt uz …“ nosūta failu lietotnei (WhatsApp, e-pasts, Telegram, mākonis …). Saglabāt to novieto saglabāšanas vietā.
+Importieren	Importēt
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Pievieno fotoattēlus, ekrānuzņēmumus, PDF failus vai saiti kā jaunu dokumentu; fotoattēli tiek apgriezti, viss tiek atpazīts.
+Bilder aus der Galerie	Attēli no galerijas
+Fotos und Screenshots	Fotoattēli un ekrānuzņēmumi
+Dateien	Faili
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF faili un attēli, piem., no Lejupielādēm vai mākoņa
+Eine PDF- oder Bilddatei aus dem Internet	PDF vai attēla fails no interneta
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Pēc tam kā skenētas lapas: teksta atpazīšana, tulkošana un eksports jebkurā formātā.
+Link importieren	Importēt saiti
+Internetadresse	Tīmekļa adrese
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Uzņem, tiklīdz lapa %s s ir nekustīga (iestatāms skenēšanas logā); grāmatas režīmā pēc katras lapas pāršķiršanas.
+Fachwörterbuch laden	Ielādē vārdnīcu
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Trūkst vārdnīcas valodai %s vai %s – tulkots bez speciālajiem terminiem
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Nav vārdnīcas fails (glossary-xx.tsv.gz)
+Download nicht verfügbar	Lejupielāde nav pieejama
+Estnisch	Igauņu
+Irisch	Īru
+Litauisch	Lietuviešu
+Lettisch	Latviešu
+Maltesisch	Maltiešu
+Slowakisch	Slovāku
+Slowenisch	Slovēņu
+Ohne Fachwörterbuch	Bez vārdnīcas
+Alle Fachgebiete	Visas jomas
+Fachgebiet: %s	Joma: %s
+Fachwörterbücher verwalten …	Pārvaldīt vārdnīcas …
+Fachwörterbücher	Terminu vārdnīcas
+Aus Datei importieren	Importēt no faila
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Tiesību, medicīnas, tehnikas, ekonomikas un vēl 17 jomu termini (IATE, ES terminu datubāze) tulkojot tiek pārņemti precīzi. Vajadzīga avota un mērķa valodas vārdnīca, katra 0,3–9 MB.
+Einmal laden, danach offline.	Lejupielādēt vienreiz, tad bezsaistē.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importējiet failus glossary-xx.tsv.gz ar mapes ikonu augšā.
+Fachwörterbücher für die Übersetzung	Terminu vārdnīcas tulkošanai
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Tiesības, medicīna, tehnika un citas – 24 ES valodas
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Visi foto un teksti paliek šajā ierīcē. Internets tiek izmantots tikai valodu, tulkošanas modeļu un vārdnīcu vienreizējai lejupielādei, kad jūs to sākat.
+Übersetzen	Tulkot
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Ierīcē izveido dokumenta tulkotu kopiju: tās pašas lapas un attēli, teksts mērķvalodā savā vietā. Katra rindkopa tiek tulkota no savas valodas. Ar “Jomu” speciālie termini no vārdnīcām tiek pārņemti precīzi.
+Was nachgeladen werden kann	Ko var lejupielādēt
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Viss ir brīvprātīgi un tiek lejupielādēts tikai pēc pieskāriena; pēc tam darbojas bez interneta:\n• Teksta atpazīšanas valodas: katra 1–15 MB (Iestatījumi › Valodas). Vācu un angļu valoda ir iekļautas.\n• Ķīniešu: savs atpazīšanas modelis, apm. 17 MB.\n• Tulkošanas modeļi: apm. 30 MB katrai valodai, tiek lejupielādēti automātiski pirmajā tulkošanā.\n• Terminu vārdnīcas: 0,3–9 MB katrai valodai, visām 24 ES valodām kopā apm. 70 MB (Iestatījumi › Terminu vārdnīcas).\nLejupielādētos failus var jebkurā laikā noņemt.
+Wozu	Kam tas
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Vispārīgi tulkotāji daudzus terminus nezina vai tulko tos nekonsekventi. Vārdnīca ievieto noteikto terminu, piem., „Beweislast“ → „pierādīšanas pienākums“.
+Quelle	Avots
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, ES iestāžu terminu datubāze ar terminiem no 21 jomas (tiesības, veselība, tehnika, ekonomika, vide, transports …). Tā pieejama 24 ES oficiālajās valodās.
+Was nötig ist	Kas vajadzīgs
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Pa vienai vārdnīcai avota un mērķa valodai, piem., vācu un angļu. Viena vārdnīca katrai valodai der visiem valodu pāriem.
+Laden oder importieren	Lejupielādēt vai importēt
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Lejupielādējiet ar bultiņu (vienreiz, tad bezsaistē) vai ar mapes ikonu importējiet failu „glossary-xx.tsv.gz“, piem., no datora vai SD kartes.
+Benutzen	Lietošana
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Tulkojot augšā izvēlieties jomu. „Visas jomas“ izmanto tikai terminus, kas visur tiek tulkoti vienādi.
+Grenzen	Ierobežojumi
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Termini tiek ievietoti pamatformā; locītās formas ne vienmēr tiek atpazītas.
+Politik	Politika
+Internationale Beziehungen	Starptautiskās attiecības
+Europäische Union	Eiropas Savienība
+Recht	Tiesības
+Wirtschaft	Ekonomika
+Handel	Tirdzniecība
+Finanzwesen	Finanses
+Soziales und Gesundheit	Sociālie jautājumi un veselība
+Bildung und Kommunikation	Izglītība un komunikācija
+Wissenschaft	Zinātne
+Unternehmen und Wettbewerb	Uzņēmējdarbība un konkurence
+Beschäftigung und Arbeitsbedingungen	Nodarbinātība un darba apstākļi
+Verkehr	Transports
+Umwelt	Vide
+Land-, Forst- und Fischereiwirtschaft	Lauksaimniecība, mežsaimniecība un zivsaimniecība
+Agrarerzeugnisse und Lebensmittel	Lauksaimniecības pārtikas produkti
+Produktion, Technologie und Forschung	Ražošana, tehnoloģija un pētniecība
+Energie	Enerģētika
+Industrie	Rūpniecība
+Geografie	Ģeogrāfija
+Internationale Organisationen	Starptautiskās organizācijas
+Wenig Licht – Lampe einschalten	Maz gaismas – ieslēgt lukturi
+Verarbeitung mehrfach abgebrochen	Apstrāde tika vairākkārt pārtraukta
+Bearbeitungen gehen verloren	Labojumi tiks zaudēti
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Lapa tiek izveidota no jauna no fotoattēla. Aizklājumi, paraksts un piezīmes būs jāpievieno vēlreiz.
+Neu zuschneiden	Apgriezt vēlreiz
+Sprachdaten	Valodu dati
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Rāda, cik vietas aizņem skenējumi, oriģinālie foto, atkritne, kešatmiņa un valodu dati (teksta atpazīšana, vārdnīcas).
+Bitte warten, bis alle Seiten erkannt sind	Uzgaidiet, līdz visas lapas ir atpazītas
+Die Sprache „%s“ kann nicht übersetzt werden	Valodu “%s” nevar iztulkot
+Übersetzung in die Seiten setzen	Tulkojums tiek ievietots lapās

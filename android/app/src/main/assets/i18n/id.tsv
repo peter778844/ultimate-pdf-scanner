@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Siapkan sidik jari, buka kunci wajah, atau kunci layar terlebih dahulu.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Perangkat ini tidak mendukung buka kunci biometrik.
+Ultimate PDF Scanner entsperren	Buka kunci Ultimate PDF Scanner
+Deine Scans sind geschützt	Pindaian Anda terlindungi
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner terkunci
+Deine Scans bleiben auf diesem Gerät.	Pindaian Anda tetap di perangkat ini.
+  Entsperren	  Buka kunci
+Systemsprache	Bahasa sistem
+Deutsch	Jerman
+English	Inggris
+Fotos importieren	Impor foto
+Texterkennung vorbereiten	Menyiapkan pengenalan teks
+Ein Foto konnte nicht verarbeitet werden: %s	Foto tidak dapat diproses: %s
+Foto laden	Memuat foto
+Foto nicht lesbar	Foto tidak terbaca
+Filter anwenden	Menerapkan filter
+Schwärzen	Sensor
+Unterschrift einfügen	Menambahkan tanda tangan
+Unterschrift eingefügt	Tanda tangan ditambahkan
+Änderungen einfügen	Menerapkan perubahan
+Seite bearbeitet	Halaman diedit
+Text gesichert	Teks disimpan
+Zusammenführen	Gabungkan
+%d Scans zusammengeführt	%d pindaian digabungkan
+Seiten verschieben	Memindahkan halaman
+Seiten kopieren	Menyalin halaman
+ (Teil)	 (bagian)
+Zwischenspeicher leeren	Bersihkan cache
+Zwischenspeicher geleert	Cache dibersihkan
+Originalfotos entfernen	Hapus foto asli
+Sicherung erstellen	Membuat cadangan
+Sicherung erstellen (%d/%d)	Membuat cadangan (%d/%d)
+Sicherung gespeichert	Cadangan disimpan
+Sicherung wiederherstellen	Memulihkan cadangan
+ (%d schon vorhanden)	 (%d sudah ada)
+Wiederherstellen fehlgeschlagen: %s	Pemulihan gagal: %s
+PDF erstellen (%d/%d)	Membuat PDF (%d/%d)
+%s erstellen	Membuat %s
+Export fehlgeschlagen: %s	Ekspor gagal: %s
+%s speichern	Menyimpan %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF disimpan (dilindungi kata sandi, AES-256)
+%s gespeichert	%s disimpan
+Bilder speichern	Menyimpan gambar
+Bilder speichern (%d/%d)	Menyimpan gambar (%d/%d)
+%d Bilder gespeichert	%d gambar disimpan
+Sprache erkennen	Mendeteksi bahasa
+Kein erkannter Text zum Übersetzen	Tidak ada teks yang dikenali untuk diterjemahkan
+Sprache nicht erkannt	Bahasa tidak dikenali
+Der Text ist bereits auf %s	Teks sudah dalam bahasa %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Memuat model bahasa (~30 MB pertama kali)
+Übersetzen (%d/%d)	Menerjemahkan (%d/%d)
+Seite %d	Halaman %d
+Übersetzung fehlgeschlagen: %s	Terjemahan gagal: %s
+1 Bereich unkenntlich gemacht	1 area disensor
+%d Bereiche unkenntlich gemacht	%d area disensor
+1 Scan wiederhergestellt	1 pindaian dipulihkan
+%d Scans wiederhergestellt	%d pindaian dipulihkan
+Server antwortet mit %d	Server menjawab %d
+Datei unvollständig	Berkas tidak lengkap
+Nicht gefunden	Tidak ditemukan
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	%d pindaian di ponsel · langsung lewat Wi-Fi, tanpa cloud
+Ausgangssprache „%s“ wird nicht unterstützt	Bahasa sumber “%s” tidak didukung
+Zielsprache „%s“ wird nicht unterstützt	Bahasa tujuan “%s” tidak didukung
+QR-CODE	KODE QR
+AUSWEIS	KARTU IDENTITAS
+DOKUMENT	DOKUMEN
+BUCH	BUKU
+VISITENKARTE	KARTU NAMA
+PASSFOTO	PASFOTO
+PDF	PDF
+Word	Word
+Bilder	Gambar
+ZIP	ZIP
+Text	Teks
+Excel	Excel
+CSV	CSV
+Kontakt	Kontak
+Wie gescannt	Seperti dipindai
+Letter	Letter
+Mittel	Sedang
+Englisch	Inggris
+Französisch	Prancis
+Italienisch	Italia
+Spanisch	Spanyol
+Portugiesisch	Portugis
+Niederländisch	Belanda
+Polnisch	Polandia
+Tschechisch	Ceko
+Dänisch	Denmark
+Schwedisch	Swedia
+Norwegisch	Norwegia
+Finnisch	Finlandia
+Ungarisch	Hungaria
+Rumänisch	Rumania
+Kroatisch	Kroasia
+Türkisch	Turki
+Griechisch	Yunani
+Russisch	Rusia
+Ukrainisch	Ukraina
+Arabisch	Arab
+Hebräisch	Ibrani
+Persisch	Persia
+Chinesisch (vereinfacht)	Tionghoa (sederhana)
+Japanisch	Jepang
+Koreanisch	Korea
+Latein	Latin
+Deutsch (Fraktur)	Jerman (Fraktur)
+1 Seite	1 halaman
+%d Seiten	%d halaman
+1 Scan	1 pindaian
+%d Scans	%d pindaian
+Abbrechen	Batal
+Bearbeiten	Edit
+Zurück	Kembali
+Rückgängig	Urungkan
+Sichern	Simpan
+Seite	Halaman
+Einfügen	Sisipkan
+Änderungen sichern?	Simpan perubahan?
+Verwerfen	Buang
+Schließen	Tutup
+Fertig	Selesai
+Öffnen	Buka
+Keine	Tidak ada
+Alle	Semua
+Umbenennen	Ganti nama
+Mehr	Lainnya
+Löschen	Hapus
+Teilen	Bagikan
+Speichern	Simpan
+Drucken	Cetak
+Kopieren	Salin
+Drehen	Putar
+Laden	Unduh
+Entfernen	Hapus
+Verschieben	Pindahkan
+Name	Nama
+Aus	Mati
+Leeren	Kosongkan
+Wiederherstellen	Pulihkan
+Text einfügen	Tambah teks
+z. B. Name, Datum …	mis. nama, tanggal …
+Kein Gesicht erkannt – bitte noch einmal	Wajah tidak ditemukan – coba lagi
+Seite erneut scannen	Pindai ulang halaman
+Fernauslöser verbunden	Pelepas rana jarak jauh terhubung
+Nach dem Umblättern auslösen	Potret setelah setiap halaman dibalik
+Leserichtung rechts nach links	Urutan baca kanan ke kiri
+Leserichtung links nach rechts	Urutan baca kiri ke kanan
+Automatisch auslösen	Potret otomatis
+Kamera wechseln	Ganti kamera
+Licht	Lampu
+Bitte Kamerazugriff erlauben.	Izinkan akses kamera.
+Passfoto wird zugeschnitten …	Memotong pasfoto …
+Ohne Rückseite fertig	Selesai tanpa sisi belakang
+Kein Code im Bild gefunden	Tidak ada kode di gambar
+Aus Galerie	Dari galeri
+QR-Code oder Barcode in den Rahmen halten	Arahkan kode QR atau barcode ke dalam bingkai
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Wajah di dalam oval · lihat lurus · latar terang
+Vorderseite des Ausweises in den Rahmen	Sisi depan kartu identitas di dalam bingkai
+Jetzt die Rückseite	Sekarang sisi belakang
+Visitenkarte in den Rahmen legen	Letakkan kartu nama di dalam bingkai
+Aufgeschlagenes Buch ins Bild halten	Arahkan buku yang terbuka ke kamera
+Doppelseite erkannt	Halaman ganda terdeteksi
+Umblättern – löst danach automatisch aus	Balik halaman – lalu memotret otomatis
+Ruhig halten …	Tahan diam …
+Ruhig halten – wird automatisch ausgelöst	Tahan diam – memotret otomatis
+Seite ins Bild halten	Arahkan halaman ke kamera
+Seite erkannt	Halaman terdeteksi
+Intervall-Timer	Timer interval
+Serie starten	Mulai seri
+Farbe	Warna
+Graustufen	Skala abu-abu
+Schwarz-Weiß	Hitam putih
+Original	Asli
+Automatisch	Otomatis
+Zuschnitt nicht möglich	Tidak dapat memotong
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Foto asli halaman ini dihapus untuk menghemat ruang. Gunakan “Pindai ulang” untuk memotret halaman lagi.
+Zuschnitt anpassen	Sesuaikan potongan
+Übernehmen	Terapkan
+Einzelseite	Satu halaman
+Doppelseite	Halaman ganda
+Auto	Otomatis
+  Automatisch	  Otomatis
+Ecken auf die Seitenränder ziehen	Seret sudut ke tepi halaman
+Seiten ordnen	Atur halaman
+%d ausgewählt	%d dipilih
+Filter für alle Seiten	Filter untuk semua halaman
+Leserichtung umkehren	Balik urutan baca
+Übersetzen…	Terjemahkan…
+Scan löschen	Hapus pindaian
+Scannen	Pindai
+Import	Impor
+Ordnen	Atur
+Exportieren	Ekspor
+Übersetzen in …	Terjemahkan ke …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Terjemahan berjalan di perangkat. Model bahasa diunduh sekali pada penggunaan pertama.
+Übersetzung teilen	Bagikan terjemahan
+Scan löschen?	Hapus pindaian?
+„%s“ wird endgültig gelöscht.	“%s” akan dihapus permanen.
+Kontakt erkannt	Kontak dikenali
+Zu Kontakten	Tambah ke kontak
+Seiten werden verarbeitet (%d/%d)	Memproses halaman (%d/%d)
+Nur diese	Hanya ini
+Wird neu verarbeitet	Diproses ulang
+Erneut	Ulangi
+Fehlgeschlagen	Gagal
+Foto nicht verarbeitet	Foto tidak diproses
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Terjadi kesalahan saat memproses gambar.
+Keine Auffälligkeiten	Tidak ada masalah
+Erneut scannen	Pindai ulang
+Ersetzt beide Seiten dieser Doppelseite	Mengganti kedua halaman dari halaman ganda ini
+Kamera öffnen und diese Seite ersetzen	Buka kamera dan ganti halaman ini
+Nach vorn	Pindah ke depan
+Nach hinten	Pindah ke belakang
+Seite löschen	Hapus halaman
+Foto entfernen	Hapus foto
+1 Seite verschoben	1 halaman dipindahkan
+%d Seiten verschoben	%d halaman dipindahkan
+1 Seite kopiert	1 halaman disalin
+%d Seiten kopiert	%d halaman disalin
+1 Seite löschen?	Hapus 1 halaman?
+%d Seiten löschen?	Hapus %d halaman?
+1 Seite prüfen	Periksa 1 halaman
+%d Seiten prüfen	Periksa %d halaman
+Seite löschen?	Hapus halaman?
+Durchsuchbares PDF mit erkanntem Text	PDF yang dapat dicari dengan teks yang dikenali
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Teks yang dapat diedit untuk Word, LibreOffice, dan Google Docs
+Die Seite als JPG-Bild	Halaman sebagai gambar JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Satu gambar JPG per halaman (%d berkas)
+Alle Seiten als JPG und der Text in einem Archiv	Semua halaman sebagai JPG dan teks dalam satu arsip
+Nur der erkannte Text	Hanya teks yang dikenali
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tabel yang dikenali, satu lembar per halaman
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tabel yang dikenali sebagai CSV (titik koma, untuk Excel)
+Visitenkarte als Kontakt (vCard)	Kartu nama sebagai kontak (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Sisi depan dan belakang ukuran asli dalam satu halaman – siap cetak
+Seitenformat	Ukuran halaman
+Mit Passwort schützen	Lindungi dengan kata sandi
+AES-256-Verschlüsselung	Enkripsi AES-256
+Passwort	Kata sandi
+Mindestens 4 Zeichen	Minimal 4 karakter
+Passwort wiederholen	Ulangi kata sandi
+Passwörter stimmen nicht überein	Kata sandi tidak cocok
+Seitenbilder einfügen	Sertakan gambar halaman
+Jede Seite als Bild über ihrem Text	Setiap halaman sebagai gambar di atas teksnya
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Kolom dikenali dari jarak di dalam teks – paling baik dengan kolom yang terpisah jelas. Angka seperti “1.234,50” tetap menjadi angka.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Tidak ada data kontak yang dikenali pada kartu ini.
+1 ausgewählte Seite	1 halaman dipilih
+%d ausgewählte Seiten	%d halaman dipilih
+Mobil	Ponsel
+Fax	Faks
+Telefon	Telepon
+%s teilen	Bagikan %s
+Scan	Pindaian
+Text teilen	Bagikan teks
+PDF teilen	Bagikan PDF
+In den Papierkorb verschoben	Dipindahkan ke sampah
+%d Scans in den Papierkorb verschoben	%d pindaian dipindahkan ke sampah
+Auswahl beenden	Akhiri pilihan
+Alle auswählen	Pilih semua
+In Ordner verschieben	Pindahkan ke folder
+Ordner	Folder
+Ordner umbenennen	Ganti nama folder
+Ordner auflösen	Hapus folder
+Papierkorb (%d)	Sampah (%d)
+Papierkorb	Sampah
+An PC senden	Kirim ke PC
+Speicher & Sicherung	Penyimpanan & cadangan
+Einstellungen	Pengaturan
+Scans und Text durchsuchen	Cari pindaian dan teks
+Alle Scans durchsuchen	Cari semua pindaian
+Suche löschen	Hapus pencarian
+%d Treffer	%d hasil
+Alle Scans	Semua pindaian
+Nichts gefunden	Tidak ditemukan
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Tidak ada nama atau teks yang cocok dengan “%s”.
+Ordner ist leer	Folder kosong
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Pindahkan pindaian ke sini: tekan lama pindaian lalu pilih “Pindahkan ke folder”.
+Noch keine Scans	Belum ada pindaian
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Ketuk “Pindai” untuk memotret halaman,\natau impor foto dari galeri.
+Ordnername	Nama folder
+Neuer Ordner	Folder baru
+%d Scans zusammenführen?	Gabungkan %d pindaian?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Semua halaman ditambahkan ke “%s” sesuai urutan pilihan. Pindaian lainnya lalu dihapus.
+%d prüfen	%d perlu diperiksa
+Wird verarbeitet (%d/%d)	Memproses (%d/%d)
+Als PDF teilen	Bagikan sebagai PDF
+Kategorie ändern	Ubah kategori
+Kein Ordner	Tanpa folder
+Neuer Ordner …	Folder baru …
+Kategorie	Kategori
+Download fehlgeschlagen: %s	Unduhan gagal: %s
+keine Verbindung	tidak ada koneksi
+Sprachen der Texterkennung	Bahasa pengenalan teks
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Bahasa yang dipilih dikenali bersamaan – pilih yang perlu saja, setiap bahasa memperlambat pengenalan.
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Bahasa yang belum ada diunduh sekali (sekitar 2–15 MB) lalu berfungsi offline.
+Wird geladen … %d %%	Mengunduh … %d %%
+Enthalten	Termasuk
+Geladen · %s	Diunduh · %s
+Nicht geladen	Belum diunduh
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Ketuk untuk memilih · tekan dan seret untuk memindahkan
+Neuer Scan	Pindaian baru
+Verschieben nach …	Pindahkan ke …
+Kopieren nach …	Salin ke …
+Seite %d von %d	Halaman %d dari %d
+Filter	Filter
+Zuschnitt	Potong
+Signieren	Tanda tangani
+Code	Kode
+Link	Tautan
+E-Mail	Email
+Telefonnummer	Nomor telepon
+Ort	Lokasi
+Produktcode	Kode produk
+Netzwerk: %s	Jaringan: %s
+Passwort: %s	Kata sandi: %s
+Verschlüsselung: %s	Enkripsi: %s
+Passwort kopieren	Salin kata sandi
+Verbinden	Sambungkan
+E-Mail schreiben	Tulis email
+Anrufen	Telepon
+In Karten öffnen	Buka di peta
+Suche sensible Daten…	Mencari data sensitif…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Tidak ada yang sensitif. Seret dengan jari untuk menandai area yang disensor.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Ditemukan – ketuk untuk memilih/membatalkan, seret untuk menambah area:
+Schwarzer Balken	Bilah hitam
+Verpixeln	Piksel
+Unkenntlich machen (%d)	Sensor (%d)
+Manuell	Manual
+Gesicht	Wajah
+Kein WLAN	Tidak ada Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Hubungkan ponsel dan PC ke Wi-Fi yang sama (atau PC ke hotspot ponsel). Alamatnya lalu muncul di sini.
+Am PC im Browser öffnen	Buka di browser PC
+QR-Code der Adresse	Kode QR alamat
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Ketik alamat atau pindai kode QR dengan kamera PC. Di sana semua pindaian dapat diunduh sebagai PDF atau teks.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Hanya di jaringan lokal dan hanya selama layar ini terbuka. Tidak ada yang diunggah ke internet.
+Heruntergeladen	Diunduh
+App-Sperre nicht möglich	Kunci aplikasi tidak memungkinkan
+Sprache	Bahasa
+Sprache der App	Bahasa aplikasi
+Aufnahme	Pengambilan
+Doppelseiten im Dokument-Modus	Halaman ganda di mode dokumen
+Automatisch teilen	Pisahkan otomatis
+Nie teilen	Jangan pisahkan
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Memotret begitu halaman diam di dalam bingkai.
+Buch-Modus	Mode buku
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Mengenali halaman dibalik dan memotret begitu buku diam lagi.
+Leserichtung	Urutan baca
+Links → rechts	Kiri → kanan
+Rechts → links	Kanan → kiri
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Kanan → kiri untuk Arab, Ibrani, Persia, dan Jepang: halaman kanan lebih dulu.
+Fernauslöser	Pelepas rana jarak jauh
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Pasangkan pelepas rana Bluetooth (mis. “AB Shutter 3”) di pengaturan Bluetooth Android.
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Di kamera, pelepas rana dan tombol volume lalu mengambil foto.
+Bild	Gambar
+Standardfilter	Filter bawaan
+Handschrift entfernen	Hapus tulisan tangan
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Menghapus catatan pena biru/merah dan pensil. Juga menghapus cetakan dengan warna tersebut.
+Texterkennung	Pengenalan teks
+Sprachen	Bahasa
+Sicherheit & Speicher	Keamanan & penyimpanan
+App-Sperre	Kunci aplikasi
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Buka dengan sidik jari, wajah, atau kunci layar saat dibuka. Isi disembunyikan di daftar aplikasi terbaru.
+Belegung, Backup als ZIP, Wiederherstellen	Penggunaan, cadangan ZIP, pemulihan
+Gelöschte Scans werden nach 30 Tagen entfernt	Pindaian yang dihapus dibuang setelah 30 hari
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Semua foto dan teks tetap di perangkat ini. Internet hanya dipakai untuk mengunduh bahasa sekali, atas permintaan Anda.
+Über	Tentang
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Komponen sumber terbuka: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (semua berlisensi Apache 2.0); ML Kit (terjemahan, deteksi wajah, di perangkat).
+Unterschrift zeichnen	Gambar tanda tangan
+Mit dem Finger unterschreiben	Tanda tangani dengan jari
+Unterschrift platzieren	Tempatkan tanda tangan
+Neu zeichnen	Gambar ulang
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Geser dengan satu jari, ubah ukuran dengan dua jari.
+Unterschrift	Tanda tangan
+Belegt von Ultimate PDF Scanner	Dipakai oleh Ultimate PDF Scanner
+%s frei auf dem Gerät	%s tersedia di perangkat
+Seiten	Halaman
+Originalfotos	Foto asli
+Zwischenspeicher	Cache
+Platz schaffen	Kosongkan ruang
+Exportierte Dateien zum Teilen	Berkas yang diekspor untuk dibagikan
+Gelöschte Scans der letzten 30 Tage	Pindaian yang dihapus dalam 30 hari terakhir
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Halaman jadi tetap ada, tetapi potongan tidak dapat diubah lagi.
+Größte Scans	Pindaian terbesar
+Sicherung	Cadangan
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Cadangkan semua pindaian dalam satu berkas ZIP – mis. ke kartu SD, flashdisk USB, atau PC. Tidak ada yang diunggah.
+Papierkorb mitsichern	Sertakan sampah
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Cadangan_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Pemulihan hanya menambahkan pindaian yang belum ada.
+Originalfotos entfernen?	Hapus foto asli?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Menghemat %s. Halaman tidak dapat dipotong ulang; “Pindai ulang” tetap bisa.
+Text bearbeiten · Seite %d	Edit teks · halaman %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Koreksi masuk ke pencarian dan lapisan teks PDF.
+Kein Text erkannt – hier eintippen	Tidak ada teks yang dikenali – ketik di sini
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Pindaian yang dihapus dibuang permanen setelah %d hari.
+Papierkorb ist leer	Sampah kosong
+Endgültig löschen	Hapus permanen
+Papierkorb leeren?	Kosongkan sampah?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d pindaian akan dihapus permanen. Ini tidak dapat diurungkan.
+Endgültig löschen?	Hapus permanen?
+„%s“ wird sofort gelöscht.	“%s” akan langsung dihapus.
+noch 1 Tag	tersisa 1 hari
+noch %d Tage	tersisa %d hari
+Quittung	Struk
+Quittungen	Struk
+Rechnung	Faktur
+Rechnungen	Faktur
+Visitenkarte	Kartu nama
+Visitenkarten	Kartu nama
+Vertrag	Kontrak
+Verträge	Kontrak
+Brief	Surat
+Briefe	Surat
+Ausweis	Kartu identitas
+Ausweise	Kartu identitas
+Buch	Buku
+Bücher	Buku
+Passfoto	Pasfoto
+Passfotos	Pasfoto
+Dokument	Dokumen
+Dokumente	Dokumen
+Auflösung	Resolusi
+Kompression	Kompresi
+Gering	Rendah
+Stark	Tinggi
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi dan kompresi rendah untuk cetak dan arsip, 150 dpi dan kompresi tinggi untuk email.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Membuat PDF dapat dicari dan teks dapat disalin. Mati: pemrosesan lebih cepat, PDF hanya gambar.
+Keine Seite erkannt	Halaman tidak terdeteksi
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Tepi halaman tidak ditemukan – seluruh foto dipakai.
+Unscharf	Buram
+Das Foto ist verwackelt oder unscharf.	Foto goyang atau tidak fokus.
+Zu dunkel	Terlalu gelap
+Die Seite ist schlecht ausgeleuchtet.	Halaman kurang cahaya.
+Text schlecht lesbar	Teks sulit dibaca
+Die Texterkennung war unsicher.	Pengenalan teks tidak yakin.
+Kein Text erkannt	Tidak ada teks yang dikenali
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Tidak ada teks di halaman ini – halaman kosong, atau tidak ada halaman di gambar?
+Hindi	Hindi
+Bengalisch	Bengali
+Urdu	Urdu
+Indonesisch	Indonesia
+Seite erkennen	Mendeteksi halaman
+Seite entzerren	Meratakan halaman
+Finger entfernen	Menghapus jari
+Schärfe prüfen	Memeriksa ketajaman
+Ausrichtung	Orientasi
+Bild verbessern	Menyempurnakan gambar
+Speicherort	Lokasi penyimpanan
+Speicherort für Exporte	Lokasi penyimpanan ekspor
+Jedes Mal fragen	Tanya setiap kali
+Ordner wählen …	Pilih folder …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	“Simpan” langsung menaruh PDF dan ekspor lain di folder ini tanpa bertanya setiap kali. Kartu SD juga bisa.
+Gespeichert in „%s“	Disimpan di “%s”
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Lokasi penyimpanan tidak dapat dijangkau. Silakan pilih lagi.
+Neu aufnehmen	Ambil ulang
+Um 90° links drehen	Putar 90° ke kiri
+Seite gelöscht	Halaman dihapus
+Lange drücken: neu aufnehmen, drehen oder löschen	Tekan lama: ambil ulang, putar, atau hapus
+Ersetzt beide Seiten	Mengganti kedua halaman
+Ränder bereinigen	Membersihkan tepi
+Scan-Qualität	Kualitas pindai
+Schnell	Cepat
+Standard	Standar
+Genau	Akurat
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Untuk tulisan besar dan jelas seperti surat dan cetakan: foto lebih kecil, pemrosesan tercepat.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Untuk buku dan sebagian besar dokumen: pengenalan baik dengan kecepatan normal.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Untuk huruf kecil, buku lama, catatan kaki, dan rumus: resolusi kamera penuh, lebih lambat, lebih banyak memori.
+BILD	GAMBAR
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Letakkan gambar rata · tanpa lampu kilat · hindari pantulan
+an	aktif
+aus	nonaktif
+Automatische Auslösung an: nach dem Umblättern	Jepret otomatis aktif: setelah halaman dibalik
+Automatische Auslösung an: sobald die Seite ruhig liegt	Jepret otomatis aktif: begitu halaman diam
+Automatische Auslösung aus	Jepret otomatis nonaktif
+PDF & Export	PDF & ekspor
+Speicherort für PDFs und Bilder	Lokasi penyimpanan PDF dan gambar
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Dapat diubah untuk tiap file saat mengekspor.
+Weitere Optionen …	Opsi lainnya …
+Automatische Verbesserung	Peningkatan otomatis
+Schatten und Artefakte entfernen, Schrift schärfen	Hapus bayangan dan artefak, pertajam teks
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Hapus bayangan dan artefak, pertajam teks. Dapat dimatikan untuk setiap dokumen.
+unkorrigiert	tanpa koreksi
+Maximal	Maksimal
+Bildqualität	Kualitas gambar
+volle Auflösung	resolusi penuh
+Briefe, Ausdrucke, große Schrift	Surat, cetakan, huruf besar
+Bücher und die meisten Dokumente (empfohlen)	Buku dan sebagian besar dokumen (disarankan)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Huruf kecil, rumus, buku lama – lebih lambat
+Gilt auch für alle weiteren Scans.	Berlaku juga untuk semua pindaian berikutnya.
+Ändern	Ubah
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Tempat “Simpan” menaruh hasil ekspor. “Bagikan” tidak terpengaruh.
+Ordner und Dateiname beim Speichern wählen	Pilih folder dan nama file saat menyimpan
+Exporte landen direkt hier	Hasil ekspor langsung disimpan di sini
+Anderen Ordner wählen …	Pilih folder lain …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Juga kartu SD dan folder cloud, jika sudah diatur di perangkat.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Akses permanen ke folder ini tidak memungkinkan.
+Sehr hohe Auflösung	Resolusi sangat tinggi
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Dengan %d MP, setiap halaman butuh waktu proses jauh lebih lama dan banyak memori. “Standar” sudah cukup untuk sebagian besar dokumen. “Maksimal” hanya berguna untuk tulisan yang sangat kecil.
+Trotzdem verwenden	Tetap gunakan
+langsam	lambat
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Tidak ada remote shutter yang terhubung – pasangkan di pengaturan Bluetooth
+Mit dem Fernauslöser auslösen	Potret dengan remote shutter
+Umblättern	Balik halaman
+Auto 0,7 s	Otomatis 0,7 dtk
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Mengakhiri pemotretan. Halaman yang sudah difoto tetap disimpan dan diproses.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Menyalakan atau mematikan senter. Untuk kertas mengilap, lebih baik memotret tanpa cahaya dan miring terhadap jendela.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Mengambil foto yang sudah ada alih-alih memotret baru.
+Serie	Seri
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Memulai atau menghentikan seri: timer lalu otomatis mengambil foto setiap beberapa detik.
+Auslöser	Tombol rana
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Mengambil foto. Tombol volume dan remote shutter Bluetooth juga bisa memotret.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Mengakhiri pemotretan dan membuka ringkasan; angka menunjukkan foto dari sesi ini.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Berapa piksel setiap foto. Cepat (5 MP) untuk tulisan besar, Standar (12 MP) untuk hampir semuanya, Maksimal untuk tulisan kecil dan rumus – lebih lama.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Ketuk untuk mengganti: mati, 3, 5 atau 10 detik. Tombol rana lalu memulai seri dengan satu foto pada jeda itu – praktis untuk buku.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Hanya memotret saat Anda mengetuk tombol rana.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Memotret sendiri begitu halaman diam 0,7 detik di gambar. Dalam mode buku: setelah setiap halaman dibalik, begitu buku diam lagi.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Memotret dengan remote shutter Bluetooth (mis. “AB Shutter 3”). Pasangkan dulu remote di pengaturan Bluetooth ponsel.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Memberi dokumen nama sendiri; nama ini juga dipakai sebagai nama file saat ekspor.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Membalik urutan baca halaman ganda, menerjemahkan di perangkat atau menghapus pindaian.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Membuka kamera dan menambahkan halaman ke dokumen ini.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Mengambil foto dari galeri sebagai halaman tambahan; foto dipotong dan dikenali seperti foto kamera.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Ubah urutan dengan menyeret; pilih halaman untuk diputar, dipindahkan, disalin, dipisahkan atau dihapus.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Bagikan, simpan atau cetak sebagai PDF, Word, gambar, ZIP, teks atau tabel.
+Farbe, Graustufen, Schwarz-Weiß	Warna, skala abu-abu, hitam putih
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Mengubah semua halaman dokumen ini. Hitam putih menghasilkan file terkecil, warna menampilkan gambar dan stempel dengan setia.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Aktif: bayangan, noda dan artefak dihapus, teks menjadi lebih kontras. Mati: halaman hanya dipotong dan diluruskan – untuk foto, gambar atau bila peningkatan mengubah sesuatu.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Membuat file dan meneruskannya ke aplikasi, mis. email, messenger atau cloud.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Menaruh file di lokasi penyimpanan – di folder tetap atau, dengan “Tanya setiap kali”, di tempat yang Anda pilih.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Mencetak lewat layanan cetak Android; di sana juga bisa memilih “Simpan sebagai PDF”.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Ke mana “Simpan” menaruh file: tanya setiap kali atau selalu ke folder tetap, juga di kartu SD atau folder cloud.
+Hilfe & Anleitung	Bantuan & petunjuk
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Tips: tahan tombol selama satu detik untuk melihat fungsinya.
+Startseite	Beranda
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Membuka kamera. Semua foto dari satu sesi masuk ke satu dokumen bersama.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Ikon galeri di atas “Pindai” mengambil foto yang ada; foto dipotong dan dikenali seperti foto kamera.
+Suchen	Cari
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Menemukan pindaian berdasarkan nama dan teks yang dikenali, beserta nomor halaman.
+Ordner und Kategorien	Folder dan kategori
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Folder mengelompokkan pindaian. Kategori (buku, kuitansi …) muncul otomatis begitu ada pindaian jenis itu.
+Mehrere Scans	Beberapa pindaian
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Tekan lama pada pindaian: pilih, gabungkan, pindahkan ke folder atau hapus.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Pindaian yang dihapus tetap 30 hari di sampah (menu ⋮) dan bisa dipulihkan.
+Modi	Mode
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Pilih di bawah: Dokumen (lembar tunggal), Buku (halaman ganda dibagi menjadi dua halaman), Kartu identitas (depan dan belakang ukuran asli di satu lembar), Kartu nama (kontak dikenali), Gambar (warna setia, tanpa pengenalan teks), Pasfoto (kamera depan, 35 × 45 mm) dan kode QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Kiri atas: Cepat (5 MP) untuk tulisan besar, Standar (12 MP) untuk hampir semuanya, Maksimal untuk tulisan kecil dan rumus – lebih lambat.
+Auslösung	Pemotretan
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manual: dengan tombol rana. Otomatis 0,7 dtk: begitu halaman diam 0,7 detik; dalam mode buku setelah setiap halaman dibalik. Bluetooth: dengan remote shutter yang dipasangkan. Tombol volume selalu memotret.
+Timer und Licht	Timer dan cahaya
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Ikon jam mengambil foto setiap 3, 5 atau 10 detik (mulai dengan tombol rana). Lampu kilat menyalakan senter.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Ketuk gambar kecil di kanan bawah: halaman diproses dan ringkasan terbuka.
+Gute Fotos	Foto yang baik
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Letakkan halaman rata dengan cahaya merata, pegang ponsel sejajar. Alas yang warnanya berbeda dari kertas membantu pemotongan.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Berlaku untuk semua halaman dokumen. Halaman tertentu bisa diatur berbeda di tampilan halaman.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Menghapus bayangan dan artefak serta membuat teks lebih kontras. Jika dimatikan, halaman hanya dipotong dan diluruskan.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Ketuk untuk membuka halaman. Tekan lama: potret ulang, putar atau hapus. Halaman bertanda oranye perlu diperiksa (mis. buram), yang merah gagal.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Ubah urutan dengan menyeret, putar beberapa halaman, pindahkan atau salin ke dokumen lain, atau pisahkan sebagai dokumen baru.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, gambar, ZIP, teks atau tabel – bagikan, simpan atau cetak.
+Mehr (⋮)	Lainnya (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Membalik urutan baca halaman ganda, menerjemahkan di perangkat atau menghapus pindaian. Pensil di atas mengubah nama.
+Seitenansicht	Tampilan halaman
+Blättern und Zoomen	Membalik dan memperbesar
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Geser untuk ganti halaman, ketuk dua kali atau pakai dua jari untuk memperbesar.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Warna, skala abu-abu atau hitam putih hanya untuk halaman ini, dengan pratinjau. Di bawahnya peningkatan otomatis untuk halaman ini.
+Drehen und Zuschnitt	Putar dan potong
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Putar 90°. Potong: atur ulang sudut halaman pada foto asli.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Menulis di halaman dengan pena, stabilo atau teks.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Menyamarkan data sensitif – dengan balok atau piksel. Nomor rekening, nomor kartu dan wajah diusulkan.
+Signieren und Text	Tanda tangan dan teks
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Tanda tangan menyisipkan tanda tangan Anda yang tersimpan. Teks menampilkan teks yang dikenali untuk dikoreksi dan disalin.
+Formate	Format
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (bisa dicari), Word, gambar (JPG), ZIP, teks, Excel atau CSV; untuk kartu nama juga sebagai kontak.
+PDF-Optionen	Opsi PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Ukuran halaman, resolusi dan kompresi menentukan kualitas dan ukuran file – ukuran diperkirakan di kanan atas. Opsional dengan kata sandi (AES-256).
+Teilen oder Speichern	Bagikan atau simpan
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Bagikan mengirim file ke aplikasi (email, messenger …). Simpan menaruhnya di lokasi penyimpanan.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	“Tanya setiap kali” membuka pilihan folder saat menyimpan. Dengan folder tetap, ekspor masuk ke sana tanpa bertanya – juga di kartu SD atau folder cloud.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Mencetak lewat layanan cetak Android atau menyimpan sebagai PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Kualitas gambar, pemotretan dan pembagian halaman ganda untuk pindaian baru. Di kamera ini bisa diubah kapan saja.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filter dan peningkatan otomatis yang dipakai dokumen baru.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Membuat PDF bisa dicari. Bahasa menentukan karakter mana yang dikenali.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Lokasi penyimpanan dan nilai bawaan untuk resolusi, kompresi dan ukuran halaman.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Kunci aplikasi dengan sidik jari, cadangan sebagai ZIP dan sampah.
+Ecken setzen	Atur sudut
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Seret keempat sudut ke tepi halaman; kaca pembesar memperbesar titik di bawah jari.
+Einzel- oder Doppelseite	Halaman tunggal atau ganda
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Pilih di bawah apakah foto menunjukkan satu halaman atau halaman ganda terbuka. Otomatis membiarkan aplikasi memutuskan.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Tanda centang di atas memproses halaman dengan potongan baru.
+Werkzeuge	Alat
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Pena untuk menulis, stabilo untuk menandai, teks untuk catatan ketikan. Warnanya di bawah.
+Korrigieren	Koreksi
+Rückgängig nimmt den letzten Strich zurück.	Urungkan menghapus goresan terakhir.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Menulis perubahan ke halaman. Tanpa menyimpan, halaman tetap tidak berubah.
+Vorschläge	Saran
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Nomor rekening, nomor kartu, nomor pajak dan wajah yang ditemukan sudah ditandai – ketuk untuk membatalkan atau memilih lagi.
+Eigene Bereiche	Area sendiri
+Mit dem Finger weitere Rechtecke aufziehen.	Tarik persegi panjang lain dengan jari.
+Balken oder Pixel	Balok atau piksel
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Balok hitam atau pikselasi. Teks di bawahnya juga dihapus dari pengenalan teks dan PDF.
+Zeichnen	Gambar
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Tanda tangan sekali dengan jari – tanda tangan disimpan di perangkat.
+Platzieren	Tempatkan
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Geser dengan satu jari, ubah ukuran dengan dua jari, lalu sisipkan.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Ikon pensil di atas mengganti tanda tangan yang tersimpan.
+Text bearbeiten	Edit teks
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Teks halaman yang dikenali ada di bawah dan bisa diubah. Di atas gambar halaman untuk membandingkan.
+Wirkung	Pengaruh
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Koreksi masuk ke pencarian, lapisan teks PDF serta ekspor Word dan teks.
+Holt einen gelöschten Scan zurück.	Mengembalikan pindaian yang dihapus.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Pindaian dihapus otomatis setelah 30 hari. “Kosongkan” langsung menghapus semuanya.
+Belegung	Pemakaian
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Menunjukkan berapa ruang yang dipakai pindaian, foto asli, sampah dan cache.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Menghapus foto asli menghemat banyak ruang; halaman jadi tetap ada, hanya potongannya tidak bisa diubah lagi.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Cadangkan semua pindaian sebagai file ZIP dan pulihkan di perangkat ini atau lainnya. Tidak ada yang diunggah.
+Auswahl	Pilihan
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Pilih bahasa dokumen Anda. Setiap bahasa tambahan membuat pengenalan lebih lambat.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Bahasa yang belum ada diunduh sekali lalu bekerja tanpa internet.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Hubungkan ponsel dan PC ke Wi-Fi yang sama (atau hubungkan PC ke hotspot ponsel).
+Herunterladen	Unduh
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Buka alamat yang tampil di browser PC atau pindai kode QR; di sana semua pindaian bisa diunduh sebagai PDF atau teks.
+Sicherheit	Keamanan
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Hanya berfungsi di jaringan lokal dan hanya selama layar ini terbuka.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Bahasa, kualitas gambar, pemotretan, pengenalan teks, lokasi penyimpanan, kunci aplikasi dan cadangan.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Mengambil foto dari galeri sebagai dokumen baru; foto dipotong dan dikenali seperti foto kamera.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Membuka kamera. Semua foto dari satu sesi masuk ke satu dokumen bersama.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Menghapus halaman ini dari dokumen (dengan konfirmasi).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Warna, skala abu-abu atau hitam putih dan peningkatan otomatis hanya untuk halaman ini.
+Dreht die Seite um 90° im Uhrzeigersinn.	Memutar halaman 90° searah jarum jam.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Atur ulang sudut halaman pada foto asli bila ada tepi yang hilang atau latar ikut terambil.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Menyamarkan data sensitif dengan balok atau piksel; data juga hilang dari teks PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Menempatkan tanda tangan Anda yang tersimpan di halaman; pertama kali Anda menggambarnya.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Menampilkan teks halaman yang dikenali untuk dikoreksi dan disalin.
+Fotografiert beim Tippen auf den Auslöser.	Memotret saat Anda mengetuk tombol rana.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Memotret begitu halaman diam 0,7 dtk di gambar; dalam mode buku setelah setiap halaman dibalik.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Memotret dengan remote shutter Bluetooth yang dipasangkan.
+Lautstärketasten lösen immer aus.	Tombol volume selalu memotret.
+Word erstellen, Formeln erkennen (%d/%d)	Membuat Word, mengenali rumus (%d/%d)
+Belarussisch	Belarusia
+Bulgarisch	Bulgaria
+Serbisch	Serbia
+Mazedonisch	Makedonia
+Kein Link im geteilten Text	Tidak ada tautan di teks yang dibagikan
+Import fehlgeschlagen: %s	Impor gagal: %s
+Link laden	Memuat tautan
+Unter dem Link liegt keine PDF- oder Bilddatei.	Tautan tidak mengarah ke file PDF atau gambar.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Hanya file PDF dan gambar yang bisa diimpor.
+Geschützte PDF-Dateien lassen sich nicht importieren.	File PDF yang dilindungi tidak bisa diimpor.
+PDF-Seite %d/%d importieren	Mengimpor halaman PDF %d/%d
+Auto %s s	Otomatis %s dtk
+Auslösen nach %s s	Foto setelah %s dtk
+Wartezeit	Waktu tunggu
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Berapa lama halaman harus diam sebelum foto otomatis. Lebih singkat lebih cepat, lebih lama memberi lebih sedikit foto buram.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Memotret sendiri begitu halaman diam; waktu tunggu (0,2–1,5 dtk) diatur di bawah. Dalam mode buku: setelah setiap balik halaman, begitu buku diam lagi.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Menambahkan foto, tangkapan layar, file PDF, atau tautan sebagai halaman tambahan; foto dipangkas, semuanya dikenali.
+Senden an …	Kirim ke …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Tempat „Simpan“ menaruh ekspor Anda. „Kirim ke …“ tidak bergantung pada ini.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Pilih subfolder, mis. „Documents“ – Android tidak mengizinkan folder teratas penyimpanan.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Membuat file dan mengirimkannya ke aplikasi, mis. WhatsApp, email, Telegram, atau penyimpanan cloud.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manual: dengan tombol rana. Otomatis: begitu halaman diam – waktu tunggu (0,2–1,5 dtk, standar 0,7 dtk) diatur di jendela pindai di bawah sakelar; dalam mode buku setelah setiap balik halaman. Bluetooth: dengan remote rana yang dipasangkan. Tombol volume selalu memotret.
+Senden an oder Speichern	Kirim ke atau simpan
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Kirim ke …“ mengirim file ke aplikasi (WhatsApp, email, Telegram, cloud …). Simpan menaruhnya di lokasi penyimpanan.
+Importieren	Impor
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Mengambil foto, tangkapan layar, file PDF, atau tautan sebagai dokumen baru; foto dipangkas, semuanya dikenali.
+Bilder aus der Galerie	Gambar dari galeri
+Fotos und Screenshots	Foto dan tangkapan layar
+Dateien	File
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	File PDF dan gambar, mis. dari Unduhan atau cloud
+Eine PDF- oder Bilddatei aus dem Internet	File PDF atau gambar dari internet
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Lalu seperti halaman pindaian: pengenalan teks, terjemahan, dan ekspor ke format apa pun.
+Link importieren	Impor tautan
+Internetadresse	Alamat web
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Memotret begitu halaman diam selama %s dtk (dapat diatur di jendela pindai); dalam mode buku setelah setiap balik halaman.
+Fachwörterbuch laden	Memuat glosarium
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Glosarium untuk %s atau %s tidak ada – diterjemahkan tanpa istilah khusus
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Bukan file glosarium (glossary-xx.tsv.gz)
+Download nicht verfügbar	Unduhan tidak tersedia
+Estnisch	Estonia
+Irisch	Irlandia
+Litauisch	Lituania
+Lettisch	Latvia
+Maltesisch	Malta
+Slowakisch	Slowakia
+Slowenisch	Slovenia
+Ohne Fachwörterbuch	Tanpa glosarium
+Alle Fachgebiete	Semua bidang
+Fachgebiet: %s	Bidang: %s
+Fachwörterbücher verwalten …	Kelola glosarium …
+Fachwörterbücher	Glosarium khusus
+Aus Datei importieren	Impor dari file
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Istilah khusus hukum, kedokteran, teknik, ekonomi, dan 17 bidang lain (IATE, basis data terminologi UE) dipertahankan persis saat menerjemahkan. Diperlukan glosarium bahasa sumber dan bahasa tujuan, masing-masing 0,3–9 MB.
+Einmal laden, danach offline.	Muat sekali, lalu offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Impor file glossary-xx.tsv.gz dengan ikon folder di atas.
+Fachwörterbücher für die Übersetzung	Glosarium khusus untuk terjemahan
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Hukum, kedokteran, teknik, dan lainnya – 24 bahasa UE
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Semua foto dan teks tetap di perangkat ini. Internet hanya dipakai untuk memuat bahasa, model terjemahan, dan glosarium sekali, saat Anda memulainya.
+Übersetzen	Terjemahkan
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Membuat salinan terjemahan dokumen di perangkat: halaman dan gambar yang sama, teks dalam bahasa tujuan di tempatnya. Setiap paragraf diterjemahkan dari bahasanya sendiri. Dengan “Bidang”, istilah khusus dari glosarium dipertahankan persis.
+Was nachgeladen werden kann	Apa yang bisa diunduh
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Semua opsional dan hanya dimuat saat Anda mengetuk; setelah itu berfungsi tanpa internet:\n• Bahasa pengenalan teks: masing-masing 1–15 MB (Setelan › Bahasa). Jerman dan Inggris sudah termasuk.\n• Mandarin: model pengenalan tersendiri, sekitar 17 MB.\n• Model terjemahan: sekitar 30 MB per bahasa, dimuat otomatis pada terjemahan pertama.\n• Glosarium khusus: 0,3–9 MB per bahasa, sekitar 70 MB untuk ke-24 bahasa UE (Setelan › Glosarium khusus).\nFile yang dimuat dapat dihapus kapan saja.
+Wozu	Untuk apa
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Penerjemah umum tidak mengenal banyak istilah khusus atau menerjemahkannya tidak konsisten. Glosarium menyisipkan istilah yang ditetapkan, mis. «Beweislast» → «beban pembuktian».
+Quelle	Sumber
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, basis data terminologi lembaga-lembaga UE, dengan istilah dari 21 bidang (hukum, kesehatan, teknik, ekonomi, lingkungan, transportasi …). Tersedia untuk 24 bahasa resmi UE.
+Was nötig ist	Yang diperlukan
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Satu glosarium untuk bahasa sumber dan satu untuk bahasa tujuan, mis. Jerman dan Inggris. Satu glosarium per bahasa cukup untuk semua pasangan bahasa.
+Laden oder importieren	Muat atau impor
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Muat dengan panah (sekali, lalu offline) atau impor file «glossary-xx.tsv.gz» dengan ikon folder, mis. dari PC atau kartu SD.
+Benutzen	Penggunaan
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Saat menerjemahkan, pilih bidang di atas. «Semua bidang» hanya memakai istilah yang diterjemahkan sama di mana-mana.
+Grenzen	Batasan
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Istilah disisipkan dalam bentuk dasar; bentuk berimbuhan tidak selalu dikenali.
+Politik	Politik
+Internationale Beziehungen	Hubungan internasional
+Europäische Union	Uni Eropa
+Recht	Hukum
+Wirtschaft	Ekonomi
+Handel	Perdagangan
+Finanzwesen	Keuangan
+Soziales und Gesundheit	Masalah sosial dan kesehatan
+Bildung und Kommunikation	Pendidikan dan komunikasi
+Wissenschaft	Ilmu pengetahuan
+Unternehmen und Wettbewerb	Bisnis dan persaingan
+Beschäftigung und Arbeitsbedingungen	Ketenagakerjaan dan kondisi kerja
+Verkehr	Transportasi
+Umwelt	Lingkungan
+Land-, Forst- und Fischereiwirtschaft	Pertanian, kehutanan, dan perikanan
+Agrarerzeugnisse und Lebensmittel	Pangan pertanian
+Produktion, Technologie und Forschung	Produksi, teknologi, dan riset
+Energie	Energi
+Industrie	Industri
+Geografie	Geografi
+Internationale Organisationen	Organisasi internasional
+Wenig Licht – Lampe einschalten	Cahaya redup – nyalakan lampu
+Verarbeitung mehrfach abgebrochen	Pemrosesan terhenti berulang kali
+Bearbeitungen gehen verloren	Perubahan akan hilang
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Halaman dibuat ulang dari foto. Sensor, tanda tangan, dan catatan harus ditambahkan lagi.
+Neu zuschneiden	Pangkas lagi
+Sprachdaten	Data bahasa
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Menampilkan berapa banyak ruang yang dipakai pindaian, foto asli, sampah, cache, dan data bahasa (pengenalan teks, glosarium).
+Bitte warten, bis alle Seiten erkannt sind	Harap tunggu hingga semua halaman dikenali
+Die Sprache „%s“ kann nicht übersetzt werden	Bahasa “%s” tidak dapat diterjemahkan
+Übersetzung in die Seiten setzen	Menempatkan terjemahan ke halaman

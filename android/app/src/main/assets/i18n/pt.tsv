@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Configure primeiro uma impressão digital, o desbloqueio facial ou um bloqueio de ecrã.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Este dispositivo não suporta desbloqueio biométrico.
+Ultimate PDF Scanner entsperren	Desbloquear o Ultimate PDF Scanner
+Deine Scans sind geschützt	As suas digitalizações estão protegidas
+Ultimate PDF Scanner ist gesperrt	O Ultimate PDF Scanner está bloqueado
+Deine Scans bleiben auf diesem Gerät.	As suas digitalizações ficam neste dispositivo.
+  Entsperren	  Desbloquear
+Systemsprache	Idioma do sistema
+Deutsch	Alemão
+English	Inglês
+Fotos importieren	Importar fotos
+Texterkennung vorbereiten	A preparar o reconhecimento de texto
+Ein Foto konnte nicht verarbeitet werden: %s	Não foi possível processar uma foto: %s
+Foto laden	A carregar a foto
+Foto nicht lesbar	Foto ilegível
+Filter anwenden	A aplicar o filtro
+Schwärzen	Ocultar
+Unterschrift einfügen	A inserir a assinatura
+Unterschrift eingefügt	Assinatura inserida
+Änderungen einfügen	A aplicar as alterações
+Seite bearbeitet	Página editada
+Text gesichert	Texto guardado
+Zusammenführen	Juntar
+%d Scans zusammengeführt	%d digitalizações juntas
+Seiten verschieben	A mover páginas
+Seiten kopieren	A copiar páginas
+ (Teil)	 (parte)
+Zwischenspeicher leeren	Limpar a cache
+Zwischenspeicher geleert	Cache limpa
+Originalfotos entfernen	Remover fotos originais
+Sicherung erstellen	A criar cópia de segurança
+Sicherung erstellen (%d/%d)	A criar cópia de segurança (%d/%d)
+Sicherung gespeichert	Cópia de segurança guardada
+Sicherung wiederherstellen	A restaurar a cópia de segurança
+ (%d schon vorhanden)	 (%d já existentes)
+Wiederherstellen fehlgeschlagen: %s	Falha ao restaurar: %s
+PDF erstellen (%d/%d)	A criar PDF (%d/%d)
+%s erstellen	A criar: %s
+Export fehlgeschlagen: %s	Falha na exportação: %s
+%s speichern	A guardar: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF guardado (protegido por palavra-passe, AES-256)
+%s gespeichert	%s guardado
+Bilder speichern	A guardar imagens
+Bilder speichern (%d/%d)	A guardar imagens (%d/%d)
+%d Bilder gespeichert	%d imagens guardadas
+Sprache erkennen	A detetar o idioma
+Kein erkannter Text zum Übersetzen	Nenhum texto reconhecido para traduzir
+Sprache nicht erkannt	Idioma não reconhecido
+Der Text ist bereits auf %s	O texto já está em %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	A carregar o modelo de idioma (~30 MB na primeira vez)
+Übersetzen (%d/%d)	A traduzir (%d/%d)
+Seite %d	Página %d
+Übersetzung fehlgeschlagen: %s	Falha na tradução: %s
+1 Bereich unkenntlich gemacht	1 área ocultada
+%d Bereiche unkenntlich gemacht	%d áreas ocultadas
+1 Scan wiederhergestellt	1 digitalização restaurada
+%d Scans wiederhergestellt	%d digitalizações restauradas
+Server antwortet mit %d	O servidor respondeu %d
+Datei unvollständig	Ficheiro incompleto
+Nicht gefunden	Não encontrado
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	%d digitalizações no telemóvel · diretamente por Wi-Fi, sem nuvem
+Ausgangssprache „%s“ wird nicht unterstützt	O idioma de origem “%s” não é suportado
+Zielsprache „%s“ wird nicht unterstützt	O idioma de destino “%s” não é suportado
+QR-CODE	CÓDIGO QR
+AUSWEIS	DOCUMENTO DE IDENTIDADE
+DOKUMENT	DOCUMENTO
+BUCH	LIVRO
+VISITENKARTE	CARTÃO DE VISITA
+PASSFOTO	FOTO TIPO PASSE
+PDF	PDF
+Word	Word
+Bilder	Imagens
+ZIP	ZIP
+Text	Texto
+Excel	Excel
+CSV	CSV
+Kontakt	Contacto
+Wie gescannt	Como digitalizado
+Letter	Letter
+Mittel	Média
+Englisch	Inglês
+Französisch	Francês
+Italienisch	Italiano
+Spanisch	Espanhol
+Portugiesisch	Português
+Niederländisch	Neerlandês
+Polnisch	Polaco
+Tschechisch	Checo
+Dänisch	Dinamarquês
+Schwedisch	Sueco
+Norwegisch	Norueguês
+Finnisch	Finlandês
+Ungarisch	Húngaro
+Rumänisch	Romeno
+Kroatisch	Croata
+Türkisch	Turco
+Griechisch	Grego
+Russisch	Russo
+Ukrainisch	Ucraniano
+Arabisch	Árabe
+Hebräisch	Hebraico
+Persisch	Persa
+Chinesisch (vereinfacht)	Chinês (simplificado)
+Japanisch	Japonês
+Koreanisch	Coreano
+Latein	Latim
+Deutsch (Fraktur)	Alemão (Fraktur)
+1 Seite	1 página
+%d Seiten	%d páginas
+1 Scan	1 digitalização
+%d Scans	%d digitalizações
+Abbrechen	Cancelar
+Bearbeiten	Editar
+Zurück	Voltar
+Rückgängig	Anular
+Sichern	Guardar
+Seite	Página
+Einfügen	Inserir
+Änderungen sichern?	Guardar as alterações?
+Verwerfen	Descartar
+Schließen	Fechar
+Fertig	Concluído
+Öffnen	Abrir
+Keine	Nenhuma
+Alle	Todas
+Umbenennen	Mudar o nome
+Mehr	Mais
+Löschen	Eliminar
+Teilen	Partilhar
+Speichern	Guardar
+Drucken	Imprimir
+Kopieren	Copiar
+Drehen	Rodar
+Laden	Transferir
+Entfernen	Remover
+Verschieben	Mover
+Name	Nome
+Aus	Desligado
+Leeren	Esvaziar
+Wiederherstellen	Restaurar
+Text einfügen	Adicionar texto
+z. B. Name, Datum …	p. ex. nome, data …
+Kein Gesicht erkannt – bitte noch einmal	Nenhum rosto detetado – tente novamente
+Seite erneut scannen	Digitalizar a página de novo
+Fernauslöser verbunden	Disparador remoto ligado
+Nach dem Umblättern auslösen	Disparar depois de cada página virada
+Leserichtung rechts nach links	Ordem de leitura da direita para a esquerda
+Leserichtung links nach rechts	Ordem de leitura da esquerda para a direita
+Automatisch auslösen	Disparo automático
+Kamera wechseln	Mudar de câmara
+Licht	Luz
+Bitte Kamerazugriff erlauben.	Permita o acesso à câmara.
+Passfoto wird zugeschnitten …	A recortar a foto tipo passe …
+Ohne Rückseite fertig	Concluir sem verso
+Kein Code im Bild gefunden	Nenhum código encontrado na imagem
+Aus Galerie	Da galeria
+QR-Code oder Barcode in den Rahmen halten	Coloque um código QR ou de barras na moldura
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Rosto na oval · olhar em frente · fundo claro
+Vorderseite des Ausweises in den Rahmen	Frente do documento de identidade na moldura
+Jetzt die Rückseite	Agora o verso
+Visitenkarte in den Rahmen legen	Coloque o cartão de visita na moldura
+Aufgeschlagenes Buch ins Bild halten	Mostre o livro aberto na imagem
+Doppelseite erkannt	Página dupla detetada
+Umblättern – löst danach automatisch aus	Vire a página – dispara automaticamente depois
+Ruhig halten …	Fique quieto …
+Ruhig halten – wird automatisch ausgelöst	Fique quieto – disparo automático
+Seite ins Bild halten	Mostre a página na imagem
+Seite erkannt	Página detetada
+Intervall-Timer	Temporizador de intervalo
+Serie starten	Iniciar série
+Farbe	Cor
+Graustufen	Tons de cinzento
+Schwarz-Weiß	Preto e branco
+Original	Original
+Automatisch	Automático
+Zuschnitt nicht möglich	Não é possível recortar
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	A foto original desta página foi removida para poupar espaço. Use “Digitalizar de novo” para voltar a captar a página.
+Zuschnitt anpassen	Ajustar o recorte
+Übernehmen	Aplicar
+Einzelseite	Página simples
+Doppelseite	Página dupla
+Auto	Auto
+  Automatisch	  Automático
+Ecken auf die Seitenränder ziehen	Arraste os cantos para as margens da página
+Seiten ordnen	Organizar páginas
+%d ausgewählt	%d selecionadas
+Filter für alle Seiten	Filtro para todas as páginas
+Leserichtung umkehren	Inverter a ordem de leitura
+Übersetzen…	Traduzir…
+Scan löschen	Eliminar digitalização
+Scannen	Digitalizar
+Import	Importar
+Ordnen	Organizar
+Exportieren	Exportar
+Übersetzen in …	Traduzir para …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	A tradução é feita no dispositivo. O modelo de idioma é transferido uma única vez na primeira utilização.
+Übersetzung teilen	Partilhar a tradução
+Scan löschen?	Eliminar a digitalização?
+„%s“ wird endgültig gelöscht.	“%s” será eliminado definitivamente.
+Kontakt erkannt	Contacto reconhecido
+Zu Kontakten	Adicionar aos contactos
+Seiten werden verarbeitet (%d/%d)	A processar páginas (%d/%d)
+Nur diese	Só estas
+Wird neu verarbeitet	A processar de novo
+Erneut	Repetir
+Fehlgeschlagen	Falhou
+Foto nicht verarbeitet	Foto não processada
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Ocorreu um erro no processamento da imagem.
+Keine Auffälligkeiten	Nenhum problema encontrado
+Erneut scannen	Digitalizar de novo
+Ersetzt beide Seiten dieser Doppelseite	Substitui as duas páginas desta página dupla
+Kamera öffnen und diese Seite ersetzen	Abrir a câmara e substituir esta página
+Nach vorn	Mover para a frente
+Nach hinten	Mover para trás
+Seite löschen	Eliminar página
+Foto entfernen	Remover foto
+1 Seite verschoben	1 página movida
+%d Seiten verschoben	%d páginas movidas
+1 Seite kopiert	1 página copiada
+%d Seiten kopiert	%d páginas copiadas
+1 Seite löschen?	Eliminar 1 página?
+%d Seiten löschen?	Eliminar %d páginas?
+1 Seite prüfen	Verificar 1 página
+%d Seiten prüfen	Verificar %d páginas
+Seite löschen?	Eliminar a página?
+Durchsuchbares PDF mit erkanntem Text	PDF pesquisável com o texto reconhecido
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Texto editável para Word, LibreOffice e Google Docs
+Die Seite als JPG-Bild	A página como imagem JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Uma imagem JPG por página (%d ficheiros)
+Alle Seiten als JPG und der Text in einem Archiv	Todas as páginas em JPG e o texto num arquivo
+Nur der erkannte Text	Apenas o texto reconhecido
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tabelas reconhecidas, uma folha por página
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tabelas reconhecidas em CSV (ponto e vírgula, para Excel)
+Visitenkarte als Kontakt (vCard)	Cartão de visita como contacto (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Frente e verso em tamanho real numa página – pronto a imprimir
+Seitenformat	Formato da página
+Mit Passwort schützen	Proteger com palavra-passe
+AES-256-Verschlüsselung	Encriptação AES-256
+Passwort	Palavra-passe
+Mindestens 4 Zeichen	Pelo menos 4 caracteres
+Passwort wiederholen	Repetir a palavra-passe
+Passwörter stimmen nicht überein	As palavras-passe não coincidem
+Seitenbilder einfügen	Incluir imagens das páginas
+Jede Seite als Bild über ihrem Text	Cada página como imagem por cima do seu texto
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	As colunas são reconhecidas pelos espaços no texto – funciona melhor com colunas bem separadas. Números como “1.234,50” são mantidos como números.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Não foram reconhecidos dados de contacto neste cartão.
+1 ausgewählte Seite	1 página selecionada
+%d ausgewählte Seiten	%d páginas selecionadas
+Mobil	Telemóvel
+Fax	Fax
+Telefon	Telefone
+%s teilen	Partilhar %s
+Scan	Digitalização
+Text teilen	Partilhar texto
+PDF teilen	Partilhar PDF
+In den Papierkorb verschoben	Movido para o lixo
+%d Scans in den Papierkorb verschoben	%d digitalizações movidas para o lixo
+Auswahl beenden	Terminar seleção
+Alle auswählen	Selecionar tudo
+In Ordner verschieben	Mover para pasta
+Ordner	Pastas
+Ordner umbenennen	Mudar o nome da pasta
+Ordner auflösen	Remover a pasta
+Papierkorb (%d)	Lixo (%d)
+Papierkorb	Lixo
+An PC senden	Enviar para o PC
+Speicher & Sicherung	Armazenamento e cópia de segurança
+Einstellungen	Definições
+Scans und Text durchsuchen	Pesquisar digitalizações e texto
+Alle Scans durchsuchen	Pesquisar em todas as digitalizações
+Suche löschen	Limpar pesquisa
+%d Treffer	%d resultados
+Alle Scans	Todas as digitalizações
+Nichts gefunden	Nada encontrado
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Nenhum nome ou texto reconhecido corresponde a “%s”.
+Ordner ist leer	A pasta está vazia
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Mova digitalizações para aqui: toque longo numa digitalização e escolha “Mover para pasta”.
+Noch keine Scans	Ainda sem digitalizações
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Toque em “Digitalizar” para fotografar páginas,\nou importe fotos da galeria.
+Ordnername	Nome da pasta
+Neuer Ordner	Nova pasta
+%d Scans zusammenführen?	Juntar %d digitalizações?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Todas as páginas são acrescentadas a “%s” pela ordem de seleção. As restantes digitalizações são removidas depois.
+%d prüfen	%d a verificar
+Wird verarbeitet (%d/%d)	A processar (%d/%d)
+Als PDF teilen	Partilhar como PDF
+Kategorie ändern	Mudar a categoria
+Kein Ordner	Sem pasta
+Neuer Ordner …	Nova pasta …
+Kategorie	Categoria
+Download fehlgeschlagen: %s	Falha na transferência: %s
+keine Verbindung	sem ligação
+Sprachen der Texterkennung	Idiomas do reconhecimento de texto
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Os idiomas escolhidos são reconhecidos em conjunto – escolha apenas os necessários, cada um torna o reconhecimento mais lento.
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Os idiomas em falta são transferidos uma vez (cerca de 2–15 MB) e depois funcionam offline.
+Wird geladen … %d %%	A transferir … %d %%
+Enthalten	Incluído
+Geladen · %s	Transferido · %s
+Nicht geladen	Não transferido
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Toque para selecionar · mantenha premido e arraste para mover
+Neuer Scan	Nova digitalização
+Verschieben nach …	Mover para …
+Kopieren nach …	Copiar para …
+Seite %d von %d	Página %d de %d
+Filter	Filtro
+Zuschnitt	Recortar
+Signieren	Assinar
+Code	Código
+Link	Ligação
+E-Mail	E-mail
+Telefonnummer	Número de telefone
+Ort	Local
+Produktcode	Código de produto
+Netzwerk: %s	Rede: %s
+Passwort: %s	Palavra-passe: %s
+Verschlüsselung: %s	Encriptação: %s
+Passwort kopieren	Copiar palavra-passe
+Verbinden	Ligar
+E-Mail schreiben	Escrever e-mail
+Anrufen	Telefonar
+In Karten öffnen	Abrir no mapa
+Suche sensible Daten…	A procurar dados sensíveis…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Nada sensível encontrado. Arraste com o dedo para marcar áreas a ocultar.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Encontrado – toque para (des)selecionar, arraste para adicionar áreas:
+Schwarzer Balken	Barra preta
+Verpixeln	Pixelizar
+Unkenntlich machen (%d)	Ocultar (%d)
+Manuell	Manual
+Gesicht	Rosto
+Kein WLAN	Sem Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Ligue o telemóvel e o PC à mesma rede Wi-Fi (ou o PC ao hotspot do telemóvel). O endereço aparece então aqui.
+Am PC im Browser öffnen	Abrir no navegador do PC
+QR-Code der Adresse	Código QR do endereço
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Escreva o endereço ou digitalize o código QR com a câmara do PC. Aí pode transferir todas as digitalizações em PDF ou texto.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Só na rede local e só enquanto este ecrã estiver aberto. Nada é enviado para a Internet.
+Heruntergeladen	Transferido
+App-Sperre nicht möglich	Não é possível bloquear a app
+Sprache	Idioma
+Sprache der App	Idioma da app
+Aufnahme	Captura
+Doppelseiten im Dokument-Modus	Páginas duplas no modo documento
+Automatisch teilen	Dividir automaticamente
+Nie teilen	Nunca dividir
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Tira a foto assim que a página estiver estável na imagem.
+Buch-Modus	Modo livro
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Deteta quando a página é virada e dispara assim que o livro volta a estar estável.
+Leserichtung	Ordem de leitura
+Links → rechts	Esquerda → direita
+Rechts → links	Direita → esquerda
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Direita → esquerda para árabe, hebraico, persa e japonês: a página da direita vem primeiro.
+Fernauslöser	Disparador remoto
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Emparelhe um disparador Bluetooth (p. ex. “AB Shutter 3”) nas definições de Bluetooth do Android.
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Na câmara, o disparador e as teclas de volume tiram então a foto.
+Bild	Imagem
+Standardfilter	Filtro predefinido
+Handschrift entfernen	Remover escrita à mão
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Remove notas a caneta azul/vermelha e a lápis. Também remove impressão nessas cores.
+Texterkennung	Reconhecimento de texto
+Sprachen	Idiomas
+Sicherheit & Speicher	Segurança e armazenamento
+App-Sperre	Bloqueio da app
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Desbloquear com impressão digital, rosto ou bloqueio de ecrã ao abrir. O conteúdo fica oculto na lista de apps recentes.
+Belegung, Backup als ZIP, Wiederherstellen	Ocupação, cópia de segurança em ZIP, restaurar
+Gelöschte Scans werden nach 30 Tagen entfernt	As digitalizações eliminadas são removidas após 30 dias
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Todas as fotos e textos ficam neste dispositivo. A Internet só é usada para transferir idiomas uma vez, quando o pedir.
+Über	Sobre
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Componentes de código aberto: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (todos com licença Apache 2.0); ML Kit (tradução, deteção de rostos, no dispositivo).
+Unterschrift zeichnen	Desenhar assinatura
+Mit dem Finger unterschreiben	Assine com o dedo
+Unterschrift platzieren	Colocar assinatura
+Neu zeichnen	Desenhar de novo
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Mova com um dedo, redimensione com dois dedos.
+Unterschrift	Assinatura
+Belegt von Ultimate PDF Scanner	Ocupado pelo Ultimate PDF Scanner
+%s frei auf dem Gerät	%s livres no dispositivo
+Seiten	Páginas
+Originalfotos	Fotos originais
+Zwischenspeicher	Cache
+Platz schaffen	Libertar espaço
+Exportierte Dateien zum Teilen	Ficheiros exportados para partilhar
+Gelöschte Scans der letzten 30 Tage	Digitalizações eliminadas nos últimos 30 dias
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	As páginas prontas mantêm-se, mas o recorte deixa de poder ser alterado.
+Größte Scans	Maiores digitalizações
+Sicherung	Cópia de segurança
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Guarde todas as digitalizações num ficheiro ZIP – p. ex. num cartão SD, numa pen USB ou no PC. Nada é enviado.
+Papierkorb mitsichern	Incluir o lixo
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Copia_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	A restauração só acrescenta as digitalizações em falta.
+Originalfotos entfernen?	Remover as fotos originais?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Poupa %s. As páginas deixam de poder ser recortadas de novo; “Digitalizar de novo” continua possível.
+Text bearbeiten · Seite %d	Editar texto · página %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	As correções entram na pesquisa e na camada de texto do PDF.
+Kein Text erkannt – hier eintippen	Nenhum texto reconhecido – escreva aqui
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	As digitalizações eliminadas são removidas definitivamente após %d dias.
+Papierkorb ist leer	O lixo está vazio
+Endgültig löschen	Eliminar definitivamente
+Papierkorb leeren?	Esvaziar o lixo?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d digitalizações serão eliminadas definitivamente. Não é possível anular.
+Endgültig löschen?	Eliminar definitivamente?
+„%s“ wird sofort gelöscht.	“%s” será eliminado imediatamente.
+noch 1 Tag	falta 1 dia
+noch %d Tage	faltam %d dias
+Quittung	Recibo
+Quittungen	Recibos
+Rechnung	Fatura
+Rechnungen	Faturas
+Visitenkarte	Cartão de visita
+Visitenkarten	Cartões de visita
+Vertrag	Contrato
+Verträge	Contratos
+Brief	Carta
+Briefe	Cartas
+Ausweis	Documento de identidade
+Ausweise	Documentos de identidade
+Buch	Livro
+Bücher	Livros
+Passfoto	Foto tipo passe
+Passfotos	Fotos tipo passe
+Dokument	Documento
+Dokumente	Documentos
+Auflösung	Resolução
+Kompression	Compressão
+Gering	Baixa
+Stark	Alta
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi e compressão baixa para impressão e arquivo, 150 dpi e compressão alta para e-mail.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Torna os PDF pesquisáveis e o texto copiável. Desligado: processamento mais rápido, PDF só como imagem.
+Keine Seite erkannt	Nenhuma página detetada
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	A margem da página não foi encontrada – foi usada a foto inteira.
+Unscharf	Desfocada
+Das Foto ist verwackelt oder unscharf.	A foto está tremida ou desfocada.
+Zu dunkel	Demasiado escura
+Die Seite ist schlecht ausgeleuchtet.	A página está mal iluminada.
+Text schlecht lesbar	Texto difícil de ler
+Die Texterkennung war unsicher.	O reconhecimento de texto foi incerto.
+Kein Text erkannt	Nenhum texto reconhecido
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Não foi encontrado texto na página – uma página em branco ou nenhuma página na imagem?
+Hindi	Hindi
+Bengalisch	Bengali
+Urdu	Urdu
+Indonesisch	Indonésio
+Seite erkennen	A detetar a página
+Seite entzerren	A endireitar a página
+Finger entfernen	A remover dedos
+Schärfe prüfen	A verificar a nitidez
+Ausrichtung	Orientação
+Bild verbessern	A melhorar a imagem
+Speicherort	Local de armazenamento
+Speicherort für Exporte	Local para exportações
+Jedes Mal fragen	Perguntar sempre
+Ordner wählen …	Escolher pasta …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	“Guardar” coloca PDF e outras exportações diretamente nesta pasta, sem perguntar sempre. Também funciona com cartão SD.
+Gespeichert in „%s“	Guardado em “%s”
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	O local de armazenamento não está acessível. Escolha-o novamente.
+Neu aufnehmen	Capturar de novo
+Um 90° links drehen	Girar 90° à esquerda
+Seite gelöscht	Página excluída
+Lange drücken: neu aufnehmen, drehen oder löschen	Toque longo: capturar de novo, girar ou excluir
+Ersetzt beide Seiten	Substitui as duas páginas
+Ränder bereinigen	Limpando as bordas
+Scan-Qualität	Qualidade da digitalização
+Schnell	Rápido
+Standard	Padrão
+Genau	Preciso
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Para textos grandes e nítidos, como cartas e impressões: fotos menores, processamento mais rápido.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Para livros e a maioria dos documentos: boa leitura em velocidade normal.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Para letras miúdas, livros antigos, notas de rodapé e fórmulas: resolução total da câmera, mais lento, mais memória.
+BILD	IMAGEM
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Coloque a imagem plana · sem flash · evite reflexos
+an	ligado
+aus	desligado
+Automatische Auslösung an: nach dem Umblättern	Captura automática ligada: após virar a página
+Automatische Auslösung an: sobald die Seite ruhig liegt	Captura automática ligada: assim que a página estiver parada
+Automatische Auslösung aus	Captura automática desligada
+PDF & Export	PDF e exportação
+Speicherort für PDFs und Bilder	Local para PDFs e imagens
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Pode alterar isto para arquivos individuais ao exportar.
+Weitere Optionen …	Mais opções …
+Automatische Verbesserung	Melhoria automática
+Schatten und Artefakte entfernen, Schrift schärfen	Remover sombras e artefatos, deixar o texto mais nítido
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Remover sombras e artefatos, deixar o texto mais nítido. Pode ser desativada em cada documento.
+unkorrigiert	sem correção
+Maximal	Máxima
+Bildqualität	Qualidade da imagem
+volle Auflösung	resolução total
+Briefe, Ausdrucke, große Schrift	Cartas, impressões, letra grande
+Bücher und die meisten Dokumente (empfohlen)	Livros e a maioria dos documentos (recomendado)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Letra miúda, fórmulas, livros antigos – mais lento
+Gilt auch für alle weiteren Scans.	Vale também para todas as próximas digitalizações.
+Ändern	Alterar
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Onde “Salvar” coloca suas exportações. “Compartilhar” não é afetado.
+Ordner und Dateiname beim Speichern wählen	Escolher pasta e nome do arquivo ao salvar
+Exporte landen direkt hier	As exportações vão direto para cá
+Anderen Ordner wählen …	Escolher outra pasta …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Também cartão SD e pastas na nuvem, se configurados no aparelho.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Não é possível manter o acesso a esta pasta.
+Sehr hohe Auflösung	Resolução muito alta
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Com %d MP, cada página demora muito mais a processar e precisa de muita memória. “Padrão” chega para a maioria dos documentos. “Máxima” só compensa para letra muito pequena.
+Trotzdem verwenden	Usar mesmo assim
+langsam	lento
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Nenhum disparador remoto ligado – emparelhe-o nas definições de Bluetooth
+Mit dem Fernauslöser auslösen	Disparar com o comando remoto
+Umblättern	Virar página
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Termina a captura. As páginas já fotografadas são mantidas e processadas.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Liga ou desliga a lanterna. Com papel brilhante, é melhor fotografar sem luz e na diagonal em relação à janela.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Usa fotos existentes em vez de novas capturas.
+Serie	Série
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Inicia ou para a série: o temporizador tira então uma foto automaticamente a cada poucos segundos.
+Auslöser	Disparador
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Tira uma foto. As teclas de volume e um disparador Bluetooth também disparam.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Termina a captura e abre a vista geral; o número mostra as fotos desta captura.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Quantos píxeis tem cada foto. Rápido (5 MP) para letra grande, Padrão (12 MP) para quase tudo, Máxima para letra pequena e fórmulas – demora mais.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Toque para mudar: desligado, 3, 5 ou 10 segundos. O disparador inicia então uma série com uma foto nesse intervalo – prático para livros.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Fotografa apenas quando toca no disparador.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fotografa sozinho assim que a página fica 0,7 segundos imóvel na imagem. No modo livro: depois de cada virar de página, assim que o livro volta a estar parado.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Fotografa com um disparador remoto Bluetooth (p. ex. “AB Shutter 3”). Emparelhe primeiro o disparador nas definições de Bluetooth do telemóvel.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Dá ao documento um nome próprio; também é usado como nome do ficheiro ao exportar.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Inverter a ordem de leitura das páginas duplas, traduzir no dispositivo ou eliminar a digitalização.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Abre a câmara e acrescenta mais páginas a este documento.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Usa fotos da galeria como páginas adicionais; são recortadas e reconhecidas como as fotos da câmara.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Alterar a ordem arrastando; selecionar páginas para as rodar, mover, copiar, extrair ou eliminar.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Partilhar, guardar ou imprimir como PDF, Word, imagens, ZIP, texto ou folha de cálculo.
+Farbe, Graustufen, Schwarz-Weiß	Cor, tons de cinzento, preto e branco
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Muda todas as páginas deste documento. Preto e branco dá os ficheiros mais pequenos, a cor reproduz fielmente ilustrações e carimbos.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Ligado: sombras, manchas e artefactos são removidos e o texto ganha contraste. Desligado: as páginas são apenas recortadas e endireitadas – para fotos, desenhos ou quando a melhoria distorce algo.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Cria o ficheiro e entrega-o a uma app, p. ex. e-mail, mensagens ou nuvem.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Coloca o ficheiro no local de armazenamento – na pasta fixa ou, com “Perguntar sempre”, onde o colocar.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Imprime através do serviço de impressão do Android; aí também pode escolher “Guardar como PDF”.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Onde “Guardar” coloca os ficheiros: perguntar sempre ou sempre numa pasta fixa, também num cartão SD ou numa pasta na nuvem.
+Hilfe & Anleitung	Ajuda e instruções
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Dica: mantenha um botão premido durante um segundo para ver o que faz.
+Startseite	Início
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Abre a câmara. Todas as fotos de uma captura vão para um documento comum.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	O ícone da galeria acima de “Digitalizar” usa fotos existentes; são recortadas e reconhecidas como as fotos da câmara.
+Suchen	Pesquisar
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Encontra digitalizações pelo nome e pelo texto reconhecido, com o número da página.
+Ordner und Kategorien	Pastas e categorias
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	As pastas agrupam digitalizações. As categorias (livros, recibos …) aparecem automaticamente assim que existem digitalizações desse tipo.
+Mehrere Scans	Várias digitalizações
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Toque longo numa digitalização: selecionar, juntar, mover para uma pasta ou eliminar.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	As digitalizações eliminadas ficam 30 dias no lixo (menu ⋮) e podem ser restauradas.
+Modi	Modos
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Escolha em baixo: Documento (folhas soltas), Livro (as páginas duplas são divididas em duas páginas), Cartão de identificação (frente e verso em tamanho real numa folha), Cartão de visita (o contacto é reconhecido), Imagem (cores fiéis, sem reconhecimento de texto), Fotografia tipo passe (câmara frontal, 35 × 45 mm) e código QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Em cima à esquerda: Rápido (5 MP) para letra grande, Padrão (12 MP) para quase tudo, Máxima para letra pequena e fórmulas – mais lento.
+Auslösung	Disparo
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manual: com o disparador. Auto 0,7 s: assim que a página fica 0,7 segundos imóvel; no modo livro depois de cada virar de página. Bluetooth: com um disparador remoto emparelhado. As teclas de volume disparam sempre.
+Timer und Licht	Temporizador e luz
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	O ícone do relógio tira uma foto a cada 3, 5 ou 10 segundos (início com o disparador). O flash liga a lanterna.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Toque na miniatura em baixo à direita: as páginas são processadas e a vista geral abre-se.
+Gute Fotos	Boas fotos
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Coloque a página plana e uniformemente iluminada, segure o telemóvel paralelo. Um fundo cuja cor se distinga do papel ajuda no recorte.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Aplica-se a todas as páginas do documento. Páginas individuais podem ser definidas de outra forma na vista de página.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Remove sombras e artefactos e dá mais contraste ao texto. Desligada, a página é apenas recortada e endireitada.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Tocar abre a página. Toque longo: capturar de novo, rodar ou eliminar. As páginas marcadas a laranja devem ser verificadas (p. ex. desfocadas), as vermelhas falharam.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Alterar a ordem arrastando, rodar várias páginas, movê-las ou copiá-las para outro documento ou extraí-las como novo documento.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, imagens, ZIP, texto ou folha de cálculo – partilhar, guardar ou imprimir.
+Mehr (⋮)	Mais (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Inverter a ordem de leitura das páginas duplas, traduzir no dispositivo ou eliminar a digitalização. O lápis em cima muda o nome.
+Seitenansicht	Vista de página
+Blättern und Zoomen	Folhear e ampliar
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Deslize para mudar de página, toque duas vezes ou use dois dedos para ampliar.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Cor, tons de cinzento ou preto e branco só para esta página, com pré-visualização. Por baixo, a melhoria automática desta página.
+Drehen und Zuschnitt	Rodar e recortar
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Rodar 90°. Recortar: voltar a definir os cantos da página na foto original.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Escrever na página com caneta, marcador ou texto.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Tornar ilegíveis dados sensíveis – com barras ou pixelizados. São sugeridos números de conta, números de cartão e rostos.
+Signieren und Text	Assinar e texto
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Assinar insere a sua assinatura guardada. Texto mostra o texto reconhecido para corrigir e copiar.
+Formate	Formatos
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (pesquisável), Word, imagens (JPG), ZIP, texto, Excel ou CSV; para cartões de visita também como contacto.
+PDF-Optionen	Opções de PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Formato da página, resolução e compressão determinam a qualidade e o tamanho do ficheiro – o tamanho é estimado em cima à direita. Opcionalmente com palavra-passe (AES-256).
+Teilen oder Speichern	Partilhar ou guardar
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Partilhar envia o ficheiro para uma app (e-mail, mensagens …). Guardar coloca-o no local de armazenamento.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	“Perguntar sempre” abre a escolha da pasta ao guardar. Com uma pasta fixa, as exportações vão para lá sem perguntar – também num cartão SD ou numa pasta na nuvem.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Imprime através do serviço de impressão do Android ou guarda como PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Qualidade de imagem, disparo e divisão de páginas duplas para novas digitalizações. Na câmara pode mudar isto a qualquer momento.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtro e melhoria automática com que começam os novos documentos.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Torna os PDF pesquisáveis. Os idiomas determinam que caracteres são reconhecidos.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Local de armazenamento e valores predefinidos de resolução, compressão e formato da página.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Bloqueio com impressão digital, cópia de segurança em ZIP e o lixo.
+Ecken setzen	Definir cantos
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Arraste os quatro cantos para as margens da página; a lupa mostra ampliado o ponto sob o dedo.
+Einzel- oder Doppelseite	Página simples ou dupla
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Escolha em baixo se a foto mostra uma página ou uma página dupla aberta. Automático deixa a app decidir.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	O visto em cima processa a página com o novo recorte.
+Werkzeuge	Ferramentas
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Caneta para escrever, marcador para destacar, texto para notas escritas. As cores estão por baixo.
+Korrigieren	Corrigir
+Rückgängig nimmt den letzten Strich zurück.	Anular retira o último traço.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Grava as alterações na página. Sem guardar, a página fica inalterada.
+Vorschläge	Sugestões
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Os números de conta, números de cartão, números fiscais e rostos encontrados estão marcados – toque para os desmarcar ou voltar a marcar.
+Eigene Bereiche	Áreas próprias
+Mit dem Finger weitere Rechtecke aufziehen.	Desenhe mais retângulos com o dedo.
+Balken oder Pixel	Barras ou píxeis
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Barra preta ou pixelização. O texto por baixo também é removido do reconhecimento de texto e do PDF.
+Zeichnen	Desenhar
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Assine uma vez com o dedo – a assinatura é guardada no dispositivo.
+Platzieren	Colocar
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Mover com um dedo, alterar o tamanho com dois dedos e depois inserir.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	O ícone do lápis em cima substitui a assinatura guardada.
+Text bearbeiten	Editar texto
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	O texto reconhecido da página está em baixo e pode ser alterado. Em cima, a imagem da página para comparar.
+Wirkung	Efeito
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	As correções entram na pesquisa, na camada de texto do PDF e nas exportações Word e texto.
+Holt einen gelöschten Scan zurück.	Recupera uma digitalização eliminada.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	As digitalizações são removidas automaticamente após 30 dias. “Esvaziar” elimina tudo de imediato.
+Belegung	Ocupação
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Mostra quanto espaço ocupam as digitalizações, as fotos originais, o lixo e a cache.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Remover as fotos originais poupa muito espaço; as páginas prontas mantêm-se, só o recorte deixa de poder ser alterado.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Fazer cópia de segurança de todas as digitalizações num ficheiro ZIP e restaurá-las neste ou noutro dispositivo. Nada é enviado.
+Auswahl	Seleção
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Escolha os idiomas dos seus documentos. Cada idioma adicional torna o reconhecimento mais lento.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Os idiomas em falta são transferidos uma vez e depois funcionam sem Internet.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Ligue o telemóvel e o PC à mesma rede Wi-Fi (ou ligue o PC ao hotspot do telemóvel).
+Herunterladen	Transferir
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Abra o endereço mostrado no navegador do PC ou digitalize o código QR; aí pode transferir todas as digitalizações em PDF ou texto.
+Sicherheit	Segurança
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Funciona apenas na rede local e só enquanto este ecrã estiver aberto.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Idioma, qualidade de imagem, disparo, reconhecimento de texto, local de armazenamento, bloqueio e cópia de segurança.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Usa fotos da galeria como novo documento; são recortadas e reconhecidas como as fotos da câmara.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Abre a câmara. Todas as fotos de uma captura vão para um documento comum.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Elimina esta página do documento (após confirmação).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Cor, tons de cinzento ou preto e branco e a melhoria automática só para esta página.
+Dreht die Seite um 90° im Uhrzeigersinn.	Roda a página 90° no sentido dos ponteiros do relógio.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Voltar a definir os cantos da página na foto original se faltar uma margem ou se aparecer o fundo.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Tornar ilegíveis dados sensíveis com barras ou píxeis; também desaparecem do texto do PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Coloca a sua assinatura guardada na página; da primeira vez desenha-a.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Mostra o texto reconhecido da página para corrigir e copiar.
+Fotografiert beim Tippen auf den Auslöser.	Fotografa quando toca no disparador.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Fotografa assim que a página fica 0,7 s imóvel na imagem; no modo livro depois de cada virar de página.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Fotografa com um disparador remoto Bluetooth emparelhado.
+Lautstärketasten lösen immer aus.	As teclas de volume disparam sempre.
+Word erstellen, Formeln erkennen (%d/%d)	A criar o Word, a reconhecer fórmulas (%d/%d)
+Belarussisch	Bielorrusso
+Bulgarisch	Búlgaro
+Serbisch	Sérvio
+Mazedonisch	Macedónio
+Kein Link im geteilten Text	Nenhuma ligação no texto partilhado
+Import fehlgeschlagen: %s	A importação falhou: %s
+Link laden	A carregar ligação
+Unter dem Link liegt keine PDF- oder Bilddatei.	A ligação não leva a um ficheiro PDF ou de imagem.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Só é possível importar ficheiros PDF e imagens.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Não é possível importar ficheiros PDF protegidos.
+PDF-Seite %d/%d importieren	A importar página PDF %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Disparar após %s s
+Wartezeit	Tempo de espera
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Quanto tempo a página tem de estar parada antes da foto automática. Mais curto é mais rápido, mais longo dá menos fotos tremidas.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Tira a foto sozinho assim que a página está parada; defina o tempo de espera (0,2–1,5 s) abaixo. No modo livro: após cada virar de página, assim que o livro volta a estar parado.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Adiciona fotos, capturas de ecrã, ficheiros PDF ou uma ligação como páginas adicionais; as fotos são recortadas, tudo é reconhecido.
+Senden an …	Enviar para …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Onde «Guardar» coloca as suas exportações. «Enviar para …» é independente.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Escolha uma subpasta, p. ex. «Documents» – o Android não permite a pasta principal do armazenamento.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Cria o ficheiro e envia-o para uma app, p. ex. WhatsApp, e-mail, Telegram ou um armazenamento na nuvem.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manual: com o botão do obturador. Auto: assim que a página está parada – o tempo de espera (0,2–1,5 s, predefinição 0,7 s) define-se na janela de digitalização sob o interruptor; no modo livro após cada virar de página. Bluetooth: com um disparador remoto emparelhado. As teclas de volume disparam sempre.
+Senden an oder Speichern	Enviar para ou guardar
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	«Enviar para …» envia o ficheiro para uma app (WhatsApp, e-mail, Telegram, nuvem …). Guardar coloca-o no local de armazenamento.
+Importieren	Importar
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Adiciona fotos, capturas de ecrã, ficheiros PDF ou uma ligação como novo documento; as fotos são recortadas, tudo é reconhecido.
+Bilder aus der Galerie	Imagens da galeria
+Fotos und Screenshots	Fotos e capturas de ecrã
+Dateien	Ficheiros
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Ficheiros PDF e imagens, p. ex. de Transferências ou da nuvem
+Eine PDF- oder Bilddatei aus dem Internet	Um ficheiro PDF ou de imagem da Internet
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Depois, como páginas digitalizadas: reconhecimento de texto, tradução e exportação para qualquer formato.
+Link importieren	Importar ligação
+Internetadresse	Endereço web
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Dispara assim que a página está parada durante %s s (ajustável na janela de digitalização); no modo livro após cada virar de página.
+Fachwörterbuch laden	A carregar glossário
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Falta o glossário de %s ou %s – traduzido sem termos técnicos
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Não é um ficheiro de glossário (glossary-xx.tsv.gz)
+Download nicht verfügbar	Transferência indisponível
+Estnisch	Estónio
+Irisch	Irlandês
+Litauisch	Lituano
+Lettisch	Letão
+Maltesisch	Maltês
+Slowakisch	Eslovaco
+Slowenisch	Esloveno
+Ohne Fachwörterbuch	Sem glossário
+Alle Fachgebiete	Todos os domínios
+Fachgebiet: %s	Domínio: %s
+Fachwörterbücher verwalten …	Gerir glossários …
+Fachwörterbücher	Glossários
+Aus Datei importieren	Importar de ficheiro
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Os termos técnicos de direito, medicina, técnica, economia e outros 17 domínios (IATE, a base terminológica da UE) são mantidos exatamente na tradução. É preciso o glossário da língua de origem e o da língua de destino, 0,3–9 MB cada.
+Einmal laden, danach offline.	Carregar uma vez, depois offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importar ficheiros glossary-xx.tsv.gz com o ícone de pasta em cima.
+Fachwörterbücher für die Übersetzung	Glossários para a tradução
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Direito, medicina, técnica e mais – 24 línguas da UE
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Todas as fotos e textos ficam neste dispositivo. A internet só é usada para carregar uma vez línguas, modelos de tradução e glossários, quando o pedires.
+Übersetzen	Traduzir
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Cria no dispositivo uma cópia traduzida do documento: as mesmas páginas e imagens, o texto no idioma de destino no seu lugar. Cada parágrafo é traduzido a partir do seu próprio idioma. Com «Área», os termos técnicos dos glossários são mantidos exatamente.
+Was nachgeladen werden kann	O que se pode transferir
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Tudo é opcional e só é carregado quando tocas; depois funciona sem internet:\n• Línguas do reconhecimento de texto: 1–15 MB cada (Definições › Línguas). Alemão e inglês estão incluídos.\n• Chinês: um modelo de reconhecimento próprio, cerca de 17 MB.\n• Modelos de tradução: cerca de 30 MB por língua, carregados automaticamente na primeira tradução.\n• Glossários: 0,3–9 MB por língua, cerca de 70 MB para as 24 línguas da UE (Definições › Glossários).\nOs ficheiros carregados podem ser removidos a qualquer momento.
+Wozu	Para que serve
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Os tradutores gerais não conhecem muitos termos técnicos ou traduzem-nos de forma inconsistente. Um glossário insere o termo definido, p. ex. «Beweislast» → «ónus da prova».
+Quelle	Fonte
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, a base terminológica das instituições da UE, com termos de 21 domínios (direito, saúde, técnica, economia, ambiente, transportes …). Existe para as 24 línguas oficiais da UE.
+Was nötig ist	O que é preciso
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Um glossário para a língua de origem e outro para a de destino, p. ex. alemão e inglês. Um glossário por língua serve para todos os pares de línguas.
+Laden oder importieren	Carregar ou importar
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Carregar com a seta (uma vez, depois offline) ou importar um ficheiro «glossary-xx.tsv.gz» com o ícone de pasta, p. ex. de um PC ou cartão SD.
+Benutzen	Utilização
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Ao traduzir, escolher o domínio em cima. «Todos os domínios» só usa termos traduzidos da mesma forma em todo o lado.
+Grenzen	Limites
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Os termos técnicos são inseridos na forma base; as formas flexionadas nem sempre são reconhecidas.
+Politik	Política
+Internationale Beziehungen	Relações internacionais
+Europäische Union	União Europeia
+Recht	Direito
+Wirtschaft	Economia
+Handel	Comércio
+Finanzwesen	Finanças
+Soziales und Gesundheit	Questões sociais e saúde
+Bildung und Kommunikation	Educação e comunicação
+Wissenschaft	Ciência
+Unternehmen und Wettbewerb	Empresa e concorrência
+Beschäftigung und Arbeitsbedingungen	Emprego e trabalho
+Verkehr	Transportes
+Umwelt	Ambiente
+Land-, Forst- und Fischereiwirtschaft	Agricultura, silvicultura e pescas
+Agrarerzeugnisse und Lebensmittel	Agroalimentação
+Produktion, Technologie und Forschung	Produção, tecnologia e investigação
+Energie	Energia
+Industrie	Indústria
+Geografie	Geografia
+Internationale Organisationen	Organizações internacionais
+Wenig Licht – Lampe einschalten	Pouca luz – ligar a lanterna
+Verarbeitung mehrfach abgebrochen	O processamento foi interrompido várias vezes
+Bearbeitungen gehen verloren	As edições serão perdidas
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	A página é recriada a partir da foto. Ocultações, assinatura e notas terão de ser adicionadas novamente.
+Neu zuschneiden	Recortar de novo
+Sprachdaten	Dados de idiomas
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Mostra quanto espaço ocupam digitalizações, fotos originais, reciclagem, cache e dados de idiomas (reconhecimento de texto, glossários).
+Bitte warten, bis alle Seiten erkannt sind	Aguarde até que todas as páginas sejam reconhecidas
+Die Sprache „%s“ kann nicht übersetzt werden	O idioma «%s» não pode ser traduzido
+Übersetzung in die Seiten setzen	A colocar a tradução nas páginas

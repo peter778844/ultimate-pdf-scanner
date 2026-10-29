@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/background"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/widget_bg" android:orientation="horizontal"
+    android:padding="10dp" android:gravity="center_vertical">
+
+    <LinearLayout android:id="@+id/w_scan" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1.6"
+        android:background="@drawable/widget_button" android:gravity="center" android:orientation="horizontal" android:padding="8dp">
+        <ImageView android:layout_width="28dp" android:layout_height="28dp" android:src="@drawable/ic_scan" android:contentDescription="@null" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="8dp"
+            android:text="Scannen" android:textColor="#FFFFFF" android:textSize="16sp" android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/w_book" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"
+        android:layout_marginStart="8dp" android:background="@drawable/widget_button" android:gravity="center" android:orientation="vertical">
+        <ImageView android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/ic_book" android:contentDescription="@null" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Buch" android:textColor="#FFFFFF" android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/w_qr" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"
+        android:layout_marginStart="8dp" android:background="@drawable/widget_button" android:gravity="center" android:orientation="vertical">
+        <ImageView android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/ic_qr" android:contentDescription="@null" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="QR-Code" android:textColor="#FFFFFF" android:textSize="12sp" />
+    </LinearLayout>
+</LinearLayout>

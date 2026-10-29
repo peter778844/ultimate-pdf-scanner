@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Najpierw skonfiguruj odcisk palca, rozpoznawanie twarzy lub blokadę ekranu.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	To urządzenie nie obsługuje odblokowania biometrycznego.
+Ultimate PDF Scanner entsperren	Odblokuj Ultimate PDF Scanner
+Deine Scans sind geschützt	Twoje skany są chronione
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner jest zablokowany
+Deine Scans bleiben auf diesem Gerät.	Twoje skany pozostają na tym urządzeniu.
+  Entsperren	  Odblokuj
+Systemsprache	Język systemu
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importuj zdjęcia
+Texterkennung vorbereiten	Przygotowywanie rozpoznawania tekstu
+Ein Foto konnte nicht verarbeitet werden: %s	Nie udało się przetworzyć zdjęcia: %s
+Foto laden	Wczytaj zdjęcie
+Foto nicht lesbar	Zdjęcie nieczytelne
+Filter anwenden	Zastosuj filtr
+Schwärzen	Zamaskuj
+Unterschrift einfügen	Wstaw podpis
+Unterschrift eingefügt	Podpis wstawiony
+Änderungen einfügen	Wstaw zmiany
+Seite bearbeitet	Strona edytowana
+Text gesichert	Tekst zapisany
+Zusammenführen	Scal
+%d Scans zusammengeführt	Scalono %d skanów
+Seiten verschieben	Przenieś strony
+Seiten kopieren	Kopiuj strony
+ (Teil)	 (część)
+Zwischenspeicher leeren	Wyczyść pamięć podręczną
+Zwischenspeicher geleert	Pamięć podręczna wyczyszczona
+Originalfotos entfernen	Usuń oryginalne zdjęcia
+Sicherung erstellen	Utwórz kopię zapasową
+Sicherung erstellen (%d/%d)	Utwórz kopię zapasową (%d/%d)
+Sicherung gespeichert	Kopia zapasowa zapisana
+Sicherung wiederherstellen	Przywróć kopię zapasową
+ (%d schon vorhanden)	 (%d już istnieje)
+Wiederherstellen fehlgeschlagen: %s	Przywracanie nie powiodło się: %s
+PDF erstellen (%d/%d)	Tworzenie PDF (%d/%d)
+%s erstellen	Tworzenie: %s
+Export fehlgeschlagen: %s	Eksport nie powiódł się: %s
+%s speichern	Zapisz: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF zapisany (chroniony hasłem, AES-256)
+%s gespeichert	Zapisano: %s
+Bilder speichern	Zapisz obrazy
+Bilder speichern (%d/%d)	Zapisz obrazy (%d/%d)
+%d Bilder gespeichert	Zapisano obrazy: %d
+Sprache erkennen	Wykryj język
+Kein erkannter Text zum Übersetzen	Brak rozpoznanego tekstu do tłumaczenia
+Sprache nicht erkannt	Nie rozpoznano języka
+Der Text ist bereits auf %s	Tekst jest już w języku: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Wczytywanie modelu językowego (za pierwszym razem ~30 MB)
+Übersetzen (%d/%d)	Tłumaczenie (%d/%d)
+Seite %d	Strona %d
+Übersetzung fehlgeschlagen: %s	Tłumaczenie nie powiodło się: %s
+1 Bereich unkenntlich gemacht	Zamaskowano 1 obszar
+%d Bereiche unkenntlich gemacht	Zamaskowano obszary: %d
+1 Scan wiederhergestellt	Przywrócono 1 skan
+%d Scans wiederhergestellt	Przywrócono skany: %d
+Server antwortet mit %d	Serwer odpowiada kodem %d
+Datei unvollständig	Plik niekompletny
+Nicht gefunden	Nie znaleziono
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Skany na telefonie: %d · bezpośrednio przez Wi-Fi, bez chmury
+Ausgangssprache „%s“ wird nicht unterstützt	Język źródłowy „%s” nie jest obsługiwany
+Zielsprache „%s“ wird nicht unterstützt	Język docelowy „%s” nie jest obsługiwany
+QR-CODE	KOD QR
+AUSWEIS	DOWÓD
+DOKUMENT	DOKUMENT
+BUCH	KSIĄŻKA
+VISITENKARTE	WIZYTÓWKA
+PASSFOTO	ZDJĘCIE DO DOWODU
+PDF	PDF
+Word	Word
+Bilder	Obrazy
+ZIP	ZIP
+Text	Tekst
+Excel	Excel
+CSV	CSV
+Kontakt	Kontakt
+Wie gescannt	Jak zeskanowano
+Letter	Letter
+Mittel	Średnia
+Englisch	Angielski
+Französisch	Francuski
+Italienisch	Włoski
+Spanisch	Hiszpański
+Portugiesisch	Portugalski
+Niederländisch	Niderlandzki
+Polnisch	Polski
+Tschechisch	Czeski
+Dänisch	Duński
+Schwedisch	Szwedzki
+Norwegisch	Norweski
+Finnisch	Fiński
+Ungarisch	Węgierski
+Rumänisch	Rumuński
+Kroatisch	Chorwacki
+Türkisch	Turecki
+Griechisch	Grecki
+Russisch	Rosyjski
+Ukrainisch	Ukraiński
+Arabisch	Arabski
+Hebräisch	Hebrajski
+Persisch	Perski
+Chinesisch (vereinfacht)	Chiński (uproszczony)
+Japanisch	Japoński
+Koreanisch	Koreański
+Latein	Łacina
+Deutsch (Fraktur)	Niemiecki (fraktura)
+1 Seite	1 strona
+%d Seiten	Strony: %d
+1 Scan	1 skan
+%d Scans	Skany: %d
+Abbrechen	Anuluj
+Bearbeiten	Edytuj
+Zurück	Wstecz
+Rückgängig	Cofnij
+Sichern	Zapisz
+Seite	Strona
+Einfügen	Wstaw
+Änderungen sichern?	Zapisać zmiany?
+Verwerfen	Odrzuć
+Schließen	Zamknij
+Fertig	Gotowe
+Öffnen	Otwórz
+Keine	Żadne
+Alle	Wszystkie
+Umbenennen	Zmień nazwę
+Mehr	Więcej
+Löschen	Usuń
+Teilen	Udostępnij
+Speichern	Zapisz
+Drucken	Drukuj
+Kopieren	Kopiuj
+Drehen	Obróć
+Laden	Pobierz
+Entfernen	Usuń
+Verschieben	Przenieś
+Name	Nazwa
+Aus	Wył.
+Leeren	Opróżnij
+Wiederherstellen	Przywróć
+Text einfügen	Wstaw tekst
+z. B. Name, Datum …	np. imię, data …
+Kein Gesicht erkannt – bitte noch einmal	Nie rozpoznano twarzy – spróbuj ponownie
+Seite erneut scannen	Zeskanuj stronę ponownie
+Fernauslöser verbunden	Pilot połączony
+Nach dem Umblättern auslösen	Wyzwalaj po przewróceniu strony
+Leserichtung rechts nach links	Kierunek czytania od prawej do lewej
+Leserichtung links nach rechts	Kierunek czytania od lewej do prawej
+Automatisch auslösen	Automatyczne wyzwalanie
+Kamera wechseln	Przełącz aparat
+Licht	Światło
+Bitte Kamerazugriff erlauben.	Zezwól na dostęp do aparatu.
+Passfoto wird zugeschnitten …	Kadrowanie zdjęcia do dowodu …
+Ohne Rückseite fertig	Gotowe bez tyłu
+Kein Code im Bild gefunden	Nie znaleziono kodu na obrazie
+Aus Galerie	Z galerii
+QR-Code oder Barcode in den Rahmen halten	Umieść kod QR lub kod kreskowy w ramce
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Twarz w owalu · patrz prosto · jasne tło
+Vorderseite des Ausweises in den Rahmen	Przód dokumentu w ramce
+Jetzt die Rückseite	Teraz tył
+Visitenkarte in den Rahmen legen	Połóż wizytówkę w ramce
+Aufgeschlagenes Buch ins Bild halten	Pokaż otwartą książkę w kadrze
+Doppelseite erkannt	Wykryto rozkładówkę
+Umblättern – löst danach automatisch aus	Przewróć stronę – potem nastąpi automatyczne wyzwolenie
+Ruhig halten …	Trzymaj nieruchomo …
+Ruhig halten – wird automatisch ausgelöst	Trzymaj nieruchomo – zdjęcie zostanie zrobione automatycznie
+Seite ins Bild halten	Pokaż stronę w kadrze
+Seite erkannt	Wykryto stronę
+Intervall-Timer	Interwałometr
+Serie starten	Rozpocznij serię
+Farbe	Kolor
+Graustufen	Skala szarości
+Schwarz-Weiß	Czarno-białe
+Original	Oryginał
+Automatisch	Automatycznie
+Zuschnitt nicht möglich	Kadrowanie niemożliwe
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Oryginalne zdjęcie tej strony zostało usunięte, aby oszczędzić miejsce. Opcją „Zeskanuj ponownie” możesz wykonać stronę od nowa.
+Zuschnitt anpassen	Dostosuj kadrowanie
+Übernehmen	Zastosuj
+Einzelseite	Pojedyncza strona
+Doppelseite	Rozkładówka
+Auto	Auto
+  Automatisch	  Automatycznie
+Ecken auf die Seitenränder ziehen	Przeciągnij narożniki na krawędzie strony
+Seiten ordnen	Uporządkuj strony
+%d ausgewählt	Wybrano: %d
+Filter für alle Seiten	Filtr dla wszystkich stron
+Leserichtung umkehren	Odwróć kierunek czytania
+Übersetzen…	Przetłumacz…
+Scan löschen	Usuń skan
+Scannen	Skanuj
+Import	Importuj
+Ordnen	Uporządkuj
+Exportieren	Eksportuj
+Übersetzen in …	Przetłumacz na …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Tłumaczenie odbywa się na urządzeniu. Za pierwszym razem model językowy jest pobierany jednorazowo.
+Übersetzung teilen	Udostępnij tłumaczenie
+Scan löschen?	Usunąć skan?
+„%s“ wird endgültig gelöscht.	„%s” zostanie trwale usunięty.
+Kontakt erkannt	Rozpoznano kontakt
+Zu Kontakten	Do kontaktów
+Seiten werden verarbeitet (%d/%d)	Przetwarzanie stron (%d/%d)
+Nur diese	Tylko te
+Wird neu verarbeitet	Ponowne przetwarzanie
+Erneut	Ponownie
+Fehlgeschlagen	Niepowodzenie
+Foto nicht verarbeitet	Zdjęcie nieprzetworzone
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Podczas przetwarzania obrazu wystąpił błąd.
+Keine Auffälligkeiten	Bez uwag
+Erneut scannen	Zeskanuj ponownie
+Ersetzt beide Seiten dieser Doppelseite	Zastępuje obie strony tej rozkładówki
+Kamera öffnen und diese Seite ersetzen	Otwórz aparat i zastąp tę stronę
+Nach vorn	Do przodu
+Nach hinten	Do tyłu
+Seite löschen	Usuń stronę
+Foto entfernen	Usuń zdjęcie
+1 Seite verschoben	Przeniesiono 1 stronę
+%d Seiten verschoben	Przeniesiono strony: %d
+1 Seite kopiert	Skopiowano 1 stronę
+%d Seiten kopiert	Skopiowano strony: %d
+1 Seite löschen?	Usunąć 1 stronę?
+%d Seiten löschen?	Usunąć strony (%d)?
+1 Seite prüfen	Sprawdź 1 stronę
+%d Seiten prüfen	Sprawdź strony: %d
+Seite löschen?	Usunąć stronę?
+Durchsuchbares PDF mit erkanntem Text	Przeszukiwalny PDF z rozpoznanym tekstem
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Edytowalny tekst dla Word, LibreOffice i Google Docs
+Die Seite als JPG-Bild	Strona jako obraz JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Jeden obraz JPG na stronę (plików: %d)
+Alle Seiten als JPG und der Text in einem Archiv	Wszystkie strony jako JPG i tekst w jednym archiwum
+Nur der erkannte Text	Tylko rozpoznany tekst
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Rozpoznane tabele, jeden arkusz na stronę
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Rozpoznane tabele jako CSV (średnik, dla Excela)
+Visitenkarte als Kontakt (vCard)	Wizytówka jako kontakt (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Przód i tył w rzeczywistym rozmiarze na jednej stronie – gotowe do druku
+Seitenformat	Format strony
+Mit Passwort schützen	Chroń hasłem
+AES-256-Verschlüsselung	Szyfrowanie AES-256
+Passwort	Hasło
+Mindestens 4 Zeichen	Co najmniej 4 znaki
+Passwort wiederholen	Powtórz hasło
+Passwörter stimmen nicht überein	Hasła nie są zgodne
+Seitenbilder einfügen	Wstaw obrazy stron
+Jede Seite als Bild über ihrem Text	Każda strona jako obraz nad swoim tekstem
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Kolumny są rozpoznawane po odstępach w tekście – najlepiej działa to przy wyraźnie oddzielonych kolumnach. Liczby takie jak „1.234,50” są przejmowane jako liczby.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Na tej wizytówce nie rozpoznano danych kontaktowych.
+1 ausgewählte Seite	1 wybrana strona
+%d ausgewählte Seiten	Wybrane strony: %d
+Mobil	Komórka
+Fax	Faks
+Telefon	Telefon
+%s teilen	Udostępnij: %s
+Scan	Skan
+Text teilen	Udostępnij tekst
+PDF teilen	Udostępnij PDF
+In den Papierkorb verschoben	Przeniesiono do kosza
+%d Scans in den Papierkorb verschoben	Przeniesiono do kosza skany: %d
+Auswahl beenden	Zakończ zaznaczanie
+Alle auswählen	Zaznacz wszystko
+In Ordner verschieben	Przenieś do folderu
+Ordner	Foldery
+Ordner umbenennen	Zmień nazwę folderu
+Ordner auflösen	Rozwiąż folder
+Papierkorb (%d)	Kosz (%d)
+Papierkorb	Kosz
+An PC senden	Wyślij na PC
+Speicher & Sicherung	Pamięć i kopia zapasowa
+Einstellungen	Ustawienia
+Scans und Text durchsuchen	Szukaj w skanach i tekście
+Alle Scans durchsuchen	Szukaj we wszystkich skanach
+Suche löschen	Wyczyść wyszukiwanie
+%d Treffer	Wyniki: %d
+Alle Scans	Wszystkie skany
+Nichts gefunden	Nic nie znaleziono
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Ani nazwa, ani rozpoznany tekst nie pasuje do „%s”.
+Ordner ist leer	Folder jest pusty
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Przenieś tu skany: przytrzymaj skan i wybierz „Przenieś do folderu”.
+Noch keine Scans	Brak skanów
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Dotknij „Skanuj”, aby fotografować strony,\nlub zaimportuj zdjęcia z galerii.
+Ordnername	Nazwa folderu
+Neuer Ordner	Nowy folder
+%d Scans zusammenführen?	Scalić skany (%d)?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Wszystkie strony zostaną dołączone do „%s” w kolejności zaznaczenia. Pozostałe skany zostaną potem usunięte.
+%d prüfen	Sprawdź: %d
+Wird verarbeitet (%d/%d)	Przetwarzanie (%d/%d)
+Als PDF teilen	Udostępnij jako PDF
+Kategorie ändern	Zmień kategorię
+Kein Ordner	Bez folderu
+Neuer Ordner …	Nowy folder …
+Kategorie	Kategoria
+Download fehlgeschlagen: %s	Pobieranie nie powiodło się: %s
+keine Verbindung	brak połączenia
+Sprachen der Texterkennung	Języki rozpoznawania tekstu
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Wybrane języki są rozpoznawane razem – wybierz tylko potrzebne, każdy kolejny spowalnia rozpoznawanie. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Brakujące języki są pobierane jednorazowo (ok. 2–15 MB) i potem działają offline.
+Wird geladen … %d %%	Pobieranie … %d %%
+Enthalten	Wbudowany
+Geladen · %s	Pobrano · %s
+Nicht geladen	Nie pobrano
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Dotknij, aby zaznaczyć · przytrzymaj i przeciągnij, aby przenieść
+Neuer Scan	Nowy skan
+Verschieben nach …	Przenieś do …
+Kopieren nach …	Kopiuj do …
+Seite %d von %d	Strona %d z %d
+Filter	Filtr
+Zuschnitt	Kadrowanie
+Signieren	Podpisz
+Code	Kod
+Link	Link
+E-Mail	E-mail
+Telefonnummer	Numer telefonu
+Ort	Miejsce
+Produktcode	Kod produktu
+Netzwerk: %s	Sieć: %s
+Passwort: %s	Hasło: %s
+Verschlüsselung: %s	Szyfrowanie: %s
+Passwort kopieren	Kopiuj hasło
+Verbinden	Połącz
+E-Mail schreiben	Napisz e-mail
+Anrufen	Zadzwoń
+In Karten öffnen	Otwórz w Mapach
+Suche sensible Daten…	Wyszukiwanie danych wrażliwych…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Nie znaleziono danych wrażliwych. Zaznacz palcem obszary do zamaskowania.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Znaleziono – dotknij, aby zaznaczyć lub odznaczyć, zaznacz kolejne obszary:
+Schwarzer Balken	Czarny pasek
+Verpixeln	Pikselizacja
+Unkenntlich machen (%d)	Zamaskuj (%d)
+Manuell	Ręcznie
+Gesicht	Twarz
+Kein WLAN	Brak Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Połącz telefon i PC z tą samą siecią Wi-Fi (lub PC z hotspotem telefonu). Adres pojawi się tutaj.
+Am PC im Browser öffnen	Otwórz w przeglądarce na PC
+QR-Code der Adresse	Kod QR adresu
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Wpisz adres lub zeskanuj kod QR kamerą PC. Tam możesz pobrać wszystkie skany jako PDF lub tekst.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Tylko w sieci lokalnej i tylko dopóki ten ekran jest otwarty. Nic nie jest wysyłane do internetu.
+Heruntergeladen	Pobrano
+App-Sperre nicht möglich	Blokada aplikacji niemożliwa
+Sprache	Język
+Sprache der App	Język aplikacji
+Aufnahme	Zdjęcia
+Doppelseiten im Dokument-Modus	Rozkładówki w trybie dokumentu
+Automatisch teilen	Dziel automatycznie
+Nie teilen	Nigdy nie dziel
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Robi zdjęcie, gdy strona leży nieruchomo w kadrze.
+Buch-Modus	Tryb książki
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Rozpoznaje przewracanie strony i robi zdjęcie, gdy książka znów leży nieruchomo.
+Leserichtung	Kierunek czytania
+Links → rechts	Od lewej → do prawej
+Rechts → links	Od prawej → do lewej
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Od prawej do lewej dla arabskiego, hebrajskiego, perskiego i japońskiego: prawa strona jest pierwsza.
+Fernauslöser	Pilot
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Sparuj pilota Bluetooth do aparatu (np. „AB Shutter 3”) w ustawieniach Bluetooth Androida. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	W aparacie zdjęcie robią wtedy pilot i przyciski głośności.
+Bild	Obraz
+Standardfilter	Domyślny filtr
+Handschrift entfernen	Usuń pismo odręczne
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Usuwa notatki niebieskim/czerwonym długopisem i ołówkiem. Usuwa też druk w tych kolorach.
+Texterkennung	Rozpoznawanie tekstu
+Sprachen	Języki
+Sicherheit & Speicher	Bezpieczeństwo i pamięć
+App-Sperre	Blokada aplikacji
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Przy otwieraniu odblokuj odciskiem palca, twarzą lub blokadą ekranu. Zawartość nie jest widoczna w przeglądzie aplikacji.
+Belegung, Backup als ZIP, Wiederherstellen	Zajęte miejsce, kopia ZIP, przywracanie
+Gelöschte Scans werden nach 30 Tagen entfernt	Usunięte skany są kasowane po 30 dniach
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Wszystkie zdjęcia i teksty pozostają na tym urządzeniu. Internet jest używany tylko do jednorazowego pobrania języków, gdy to uruchomisz.
+Über	O aplikacji
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Komponenty open source: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (wszystkie na licencji Apache 2.0); ML Kit (tłumaczenie, wykrywanie twarzy, na urządzeniu).
+Unterschrift zeichnen	Narysuj podpis
+Mit dem Finger unterschreiben	Podpisz palcem
+Unterschrift platzieren	Umieść podpis
+Neu zeichnen	Narysuj ponownie
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Przesuwaj jednym palcem, zmieniaj rozmiar dwoma palcami.
+Unterschrift	Podpis
+Belegt von Ultimate PDF Scanner	Zajęte przez Ultimate PDF Scanner
+%s frei auf dem Gerät	Wolne na urządzeniu: %s
+Seiten	Strony
+Originalfotos	Oryginalne zdjęcia
+Zwischenspeicher	Pamięć podręczna
+Platz schaffen	Zwolnij miejsce
+Exportierte Dateien zum Teilen	Wyeksportowane pliki do udostępnienia
+Gelöschte Scans der letzten 30 Tage	Usunięte skany z ostatnich 30 dni
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Gotowe strony zostają zachowane, kadrowania nie można potem zmienić.
+Größte Scans	Największe skany
+Sicherung	Kopia zapasowa
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Zapisz wszystkie skany jako jeden plik ZIP – np. na karcie SD, pendrivie lub PC. Nic nie jest wysyłane.
+Papierkorb mitsichern	Uwzględnij kosz
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-kopia_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Przy przywracaniu dodawane są tylko brakujące skany.
+Originalfotos entfernen?	Usunąć oryginalne zdjęcia?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Oszczędza %s. Stron nie będzie można potem ponownie przyciąć, „Zeskanuj ponownie” nadal działa.
+Text bearbeiten · Seite %d	Edycja tekstu · strona %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Poprawki trafiają do wyszukiwania i do warstwy tekstowej PDF.
+Kein Text erkannt – hier eintippen	Nie rozpoznano tekstu – wpisz tutaj
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Usunięte skany są trwale kasowane po %d dniach.
+Papierkorb ist leer	Kosz jest pusty
+Endgültig löschen	Usuń trwale
+Papierkorb leeren?	Opróżnić kosz?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	Skany (%d) zostaną trwale usunięte. Tego nie można cofnąć.
+Endgültig löschen?	Usunąć trwale?
+„%s“ wird sofort gelöscht.	„%s” zostanie natychmiast usunięty.
+noch 1 Tag	jeszcze 1 dzień
+noch %d Tage	jeszcze dni: %d
+Quittung	Paragon
+Quittungen	Paragony
+Rechnung	Faktura
+Rechnungen	Faktury
+Visitenkarte	Wizytówka
+Visitenkarten	Wizytówki
+Vertrag	Umowa
+Verträge	Umowy
+Brief	List
+Briefe	Listy
+Ausweis	Dowód tożsamości
+Ausweise	Dowody tożsamości
+Buch	Książka
+Bücher	Książki
+Passfoto	Zdjęcie do dowodu
+Passfotos	Zdjęcia do dowodu
+Dokument	Dokument
+Dokumente	Dokumenty
+Auflösung	Rozdzielczość
+Kompression	Kompresja
+Gering	Niska
+Stark	Silna
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi i niska kompresja do druku i archiwum, 150 dpi i silna kompresja do e-maila.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Sprawia, że PDF-y można przeszukiwać, a tekst kopiować. Wył.: szybsze przetwarzanie, PDF tylko jako obraz.
+Keine Seite erkannt	Nie wykryto strony
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Nie znaleziono krawędzi strony – użyto całego zdjęcia.
+Unscharf	Nieostre
+Das Foto ist verwackelt oder unscharf.	Zdjęcie jest poruszone lub nieostre.
+Zu dunkel	Za ciemne
+Die Seite ist schlecht ausgeleuchtet.	Strona jest słabo oświetlona.
+Text schlecht lesbar	Tekst słabo czytelny
+Die Texterkennung war unsicher.	Rozpoznawanie tekstu było niepewne.
+Kein Text erkannt	Nie rozpoznano tekstu
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Na stronie nie znaleziono tekstu – pusta strona czy w ogóle brak strony w kadrze?
+Hindi	Hindi
+Bengalisch	Bengalski
+Urdu	Urdu
+Indonesisch	Indonezyjski
+Seite erkennen	Wykrywanie strony
+Seite entzerren	Prostowanie strony
+Finger entfernen	Usuwanie palców
+Schärfe prüfen	Sprawdzanie ostrości
+Ausrichtung	Orientacja
+Bild verbessern	Poprawianie obrazu
+Speicherort	Miejsce zapisu
+Speicherort für Exporte	Miejsce zapisu eksportów
+Jedes Mal fragen	Pytaj za każdym razem
+Ordner wählen …	Wybierz folder …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	„Zapisz” umieszcza PDF-y i inne eksporty bezpośrednio w tym folderze, bez pytania za każdym razem. Możliwa jest też karta SD.
+Gespeichert in „%s“	Zapisano w „%s”
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Miejsce zapisu jest niedostępne. Wybierz je ponownie.
+Neu aufnehmen	Wykonaj ponownie
+Um 90° links drehen	Obróć o 90° w lewo
+Seite gelöscht	Strona usunięta
+Lange drücken: neu aufnehmen, drehen oder löschen	Przytrzymaj: wykonaj ponownie, obróć lub usuń
+Ersetzt beide Seiten	Zastępuje obie strony
+Ränder bereinigen	Czyszczenie krawędzi
+Scan-Qualität	Jakość skanowania
+Schnell	Szybka
+Standard	Standard
+Genau	Dokładna
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Do dużego, wyraźnego pisma jak listy i wydruki: mniejsze zdjęcia, najszybsze przetwarzanie.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Do książek i większości dokumentów: dobre rozpoznawanie przy normalnej szybkości.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Do drobnego druku, starych książek, przypisów i wzorów: pełna rozdzielczość aparatu, wolniej, więcej pamięci.
+BILD	OBRAZ
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Połóż obraz płasko · bez lampy · unikaj odbić
+an	wł.
+aus	wył.
+Automatische Auslösung an: nach dem Umblättern	Automatyczne wyzwalanie wł.: po przewróceniu strony
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automatyczne wyzwalanie wł.: gdy strona leży nieruchomo
+Automatische Auslösung aus	Automatyczne wyzwalanie wył.
+PDF & Export	PDF i eksport
+Speicherort für PDFs und Bilder	Miejsce zapisu PDF-ów i obrazów
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Przy eksporcie można to zmienić dla pojedynczych plików.
+Weitere Optionen …	Więcej opcji …
+Automatische Verbesserung	Automatyczna poprawa
+Schatten und Artefakte entfernen, Schrift schärfen	Usuń cienie i artefakty, wyostrz tekst
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Usuń cienie i artefakty, wyostrz tekst. Można wyłączyć w każdym dokumencie.
+unkorrigiert	bez korekty
+Maximal	Maksymalna
+Bildqualität	Jakość obrazu
+volle Auflösung	pełna rozdzielczość
+Briefe, Ausdrucke, große Schrift	Listy, wydruki, duże pismo
+Bücher und die meisten Dokumente (empfohlen)	Książki i większość dokumentów (zalecane)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Drobny druk, wzory, stare książki – wolniej
+Gilt auch für alle weiteren Scans.	Dotyczy też wszystkich kolejnych skanów.
+Ändern	Zmień
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Gdzie „Zapisz” umieszcza Twoje eksporty. „Udostępnij” nie zależy od tego.
+Ordner und Dateiname beim Speichern wählen	Wybieraj folder i nazwę pliku przy zapisywaniu
+Exporte landen direkt hier	Eksporty trafiają bezpośrednio tutaj
+Anderen Ordner wählen …	Wybierz inny folder …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Także karta SD i foldery w chmurze, jeśli są skonfigurowane na urządzeniu.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Stały dostęp do tego folderu nie jest możliwy.
+Sehr hohe Auflösung	Bardzo wysoka rozdzielczość
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Przy %d MP przetwarzanie każdej strony trwa znacznie dłużej i wymaga dużo pamięci. Do większości dokumentów wystarczy „Standard”. „Maksymalna” opłaca się tylko przy bardzo drobnym druku.
+Trotzdem verwenden	Użyj mimo to
+langsam	wolno
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Pilot nie jest połączony – sparuj go w ustawieniach Bluetooth
+Mit dem Fernauslöser auslösen	Wyzwalaj pilotem
+Umblättern	Przewracanie
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Kończy robienie zdjęć. Wykonane strony zostają zachowane i przetworzone.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Włącza lub wyłącza latarkę. Błyszczący papier lepiej fotografować bez światła i ukośnie do okna.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Używa istniejących zdjęć zamiast nowych.
+Serie	Seria
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Uruchamia lub zatrzymuje serię: timer robi wtedy automatycznie zdjęcie co kilka sekund.
+Auslöser	Spust migawki
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Robi zdjęcie. Przyciski głośności i pilot Bluetooth też wyzwalają.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Kończy robienie zdjęć i otwiera przegląd; liczba pokazuje zdjęcia tej sesji.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Ile pikseli ma każde zdjęcie. Szybka (5 MP) do dużego pisma, Standard (12 MP) do prawie wszystkiego, Maksymalna do drobnego druku i wzorów – trwa dłużej.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Dotknij, aby przełączyć: wył., 3, 5 lub 10 sekund. Spust uruchamia wtedy serię ze zdjęciem w tym odstępie – wygodne przy książkach.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Robi zdjęcie tylko po dotknięciu spustu.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Robi zdjęcie samo, gdy strona leży nieruchomo 0,7 sekundy. W trybie książki: po każdym przewróceniu strony, gdy książka znów leży spokojnie.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Robi zdjęcia pilotem Bluetooth (np. „AB Shutter 3”). Najpierw sparuj pilota w ustawieniach Bluetooth telefonu.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Nadaje dokumentowi własną nazwę; jest też używana jako nazwa pliku przy eksporcie.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Odwróć kierunek czytania rozkładówek, przetłumacz na urządzeniu lub usuń skan.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Otwiera aparat i dodaje kolejne strony do tego dokumentu.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Dodaje zdjęcia z galerii jako kolejne strony; są kadrowane i rozpoznawane jak zdjęcia z aparatu.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Zmieniaj kolejność przeciąganiem; zaznacz strony, aby je obrócić, przenieść, skopiować, wydzielić lub usunąć.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Udostępnij, zapisz lub wydrukuj jako PDF, Word, obrazy, ZIP, tekst lub tabelę.
+Farbe, Graustufen, Schwarz-Weiß	Kolor, skala szarości, czarno-białe
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Przełącza wszystkie strony tego dokumentu. Czarno-białe daje najmniejsze pliki, kolor wiernie oddaje ilustracje i pieczątki.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Wł.: cienie, plamy i artefakty są usuwane, a tekst staje się bardziej kontrastowy. Wył.: strony są tylko przycinane i prostowane – do zdjęć, rysunków lub gdy poprawa coś zniekształca.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Tworzy plik i przekazuje go do aplikacji, np. e-maila, komunikatora lub chmury.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Umieszcza plik w miejscu zapisu – w stałym folderze lub, przy „Pytaj za każdym razem”, tam, gdzie go odłożysz.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Drukuje przez usługę drukowania Androida; można tam też wybrać „Zapisz jako PDF”.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Gdzie „Zapisz” umieszcza pliki: pytaj za każdym razem lub zawsze w stałym folderze, także na karcie SD lub w folderze w chmurze.
+Hilfe & Anleitung	Pomoc i instrukcja
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Wskazówka: przytrzymaj przycisk przez sekundę, aby zobaczyć, co robi.
+Startseite	Ekran główny
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Otwiera aparat. Wszystkie zdjęcia jednej sesji trafiają do jednego wspólnego dokumentu.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Ikona galerii nad „Skanuj” pobiera istniejące zdjęcia; są kadrowane i rozpoznawane jak zdjęcia z aparatu.
+Suchen	Szukaj
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Znajduje skany po nazwie i rozpoznanym tekście, z numerem strony.
+Ordner und Kategorien	Foldery i kategorie
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Foldery grupują skany. Kategorie (książki, paragony …) pojawiają się automatycznie, gdy istnieją skany danego rodzaju.
+Mehrere Scans	Wiele skanów
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Przytrzymaj skan: zaznacz, scal, przenieś do folderu lub usuń.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Usunięte skany pozostają 30 dni w koszu (menu ⋮) i można je przywrócić.
+Modi	Tryby
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Wybierz na dole: Dokument (pojedyncze kartki), Książka (rozkładówki są dzielone na dwie strony), Dowód (przód i tył w rzeczywistym rozmiarze na jednej kartce), Wizytówka (kontakt jest rozpoznawany), Obraz (wierne kolory, bez rozpoznawania tekstu), Zdjęcie do dowodu (przedni aparat, 35 × 45 mm) i kod QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Lewy górny róg: Szybka (5 MP) do dużego pisma, Standard (12 MP) do prawie wszystkiego, Maksymalna do drobnego druku i wzorów – wolniej.
+Auslösung	Wyzwalanie
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Ręcznie: spustem. Auto 0,7 s: gdy strona leży nieruchomo 0,7 sekundy; w trybie książki po każdym przewróceniu strony. Bluetooth: sparowanym pilotem. Przyciski głośności wyzwalają zawsze.
+Timer und Licht	Timer i światło
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Ikona zegara robi zdjęcie co 3, 5 lub 10 sekund (start spustem). Lampa błyskowa włącza latarkę.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Dotknij miniatury w prawym dolnym rogu: strony są przetwarzane i otwiera się przegląd.
+Gute Fotos	Dobre zdjęcia
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Połóż stronę płasko i równomiernie oświetloną, trzymaj telefon równolegle. Podłoże o innym kolorze niż papier pomaga w kadrowaniu.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Dotyczy wszystkich stron dokumentu. Pojedyncze strony można ustawić inaczej w widoku strony.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Usuwa cienie i artefakty i zwiększa kontrast tekstu. Po wyłączeniu strona jest tylko przycinana i prostowana.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Dotknięcie otwiera stronę. Przytrzymanie: wykonaj ponownie, obróć lub usuń. Strony oznaczone na pomarańczowo należy sprawdzić (np. nieostre), czerwone się nie powiodły.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Zmieniaj kolejność przeciąganiem, obracaj wiele stron, przenoś je lub kopiuj do innego dokumentu albo wydziel jako nowy dokument.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, obrazy, ZIP, tekst lub tabela – udostępnij, zapisz lub wydrukuj.
+Mehr (⋮)	Więcej (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Odwróć kierunek czytania rozkładówek, przetłumacz na urządzeniu lub usuń skan. Ołówek u góry zmienia nazwę.
+Seitenansicht	Widok strony
+Blättern und Zoomen	Przewijanie i powiększanie
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Przesuń, aby zmienić stronę; dotknij dwukrotnie lub użyj dwóch palców, aby powiększyć.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Kolor, skala szarości lub czarno-białe tylko dla tej strony, z podglądem. Poniżej automatyczna poprawa tej strony.
+Drehen und Zuschnitt	Obracanie i kadrowanie
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Obrót o 90°. Kadrowanie: ponownie ustaw narożniki strony na oryginalnym zdjęciu.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Pisz na stronie długopisem, zakreślaczem lub tekstem.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Ukryj dane wrażliwe – paskami lub pikselizacją. Proponowane są numery kont, numery kart i twarze.
+Signieren und Text	Podpis i tekst
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Podpisz wstawia Twój zapisany podpis. Tekst pokazuje rozpoznany tekst do poprawienia i skopiowania.
+Formate	Formaty
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (przeszukiwalny), Word, obrazy (JPG), ZIP, tekst, Excel lub CSV; wizytówki również jako kontakt.
+PDF-Optionen	Opcje PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Format strony, rozdzielczość i kompresja decydują o jakości i rozmiarze pliku – rozmiar jest szacowany w prawym górnym rogu. Opcjonalnie z hasłem (AES-256).
+Teilen oder Speichern	Udostępnić czy zapisać
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Udostępnij wysyła plik do aplikacji (e-mail, komunikator …). Zapisz umieszcza go w miejscu zapisu.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	„Pytaj za każdym razem” otwiera przy zapisie wybór folderu. Ze stałym folderem eksporty trafiają tam bez pytania – także na kartę SD lub do folderu w chmurze.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Drukuje przez usługę drukowania Androida lub zapisuje jako PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Jakość obrazu, wyzwalanie i dzielenie rozkładówek dla nowych skanów. W aparacie można to zmienić w każdej chwili.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtr i automatyczna poprawa, z którymi zaczynają się nowe dokumenty.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Sprawia, że PDF-y można przeszukiwać. Języki określają, które znaki są rozpoznawane.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Miejsce zapisu i domyślne wartości rozdzielczości, kompresji i formatu strony.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Blokada odciskiem palca, kopia zapasowa ZIP i kosz.
+Ecken setzen	Ustaw narożniki
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Przeciągnij cztery narożniki na krawędzie strony; lupa pokazuje powiększone miejsce pod palcem.
+Einzel- oder Doppelseite	Pojedyncza strona czy rozkładówka
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Wybierz na dole, czy zdjęcie pokazuje jedną stronę czy otwartą rozkładówkę. Automatycznie – decyduje aplikacja.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Znacznik u góry przetwarza stronę z nowym kadrowaniem.
+Werkzeuge	Narzędzia
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Długopis do pisania, zakreślacz do wyróżniania, tekst do wpisanych notatek. Kolory są poniżej.
+Korrigieren	Popraw
+Rückgängig nimmt den letzten Strich zurück.	Cofnij usuwa ostatnią kreskę.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Zapisuje zmiany na stronie. Bez zapisania strona pozostaje bez zmian.
+Vorschläge	Propozycje
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Znalezione numery kont, kart, numery podatkowe i twarze są zaznaczone – dotknij, aby odznaczyć lub zaznaczyć ponownie.
+Eigene Bereiche	Własne obszary
+Mit dem Finger weitere Rechtecke aufziehen.	Zaznacz palcem kolejne prostokąty.
+Balken oder Pixel	Paski czy piksele
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Czarny pasek lub pikselizacja. Tekst pod spodem jest też usuwany z rozpoznanego tekstu i z PDF.
+Zeichnen	Rysuj
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Podpisz się raz palcem – podpis jest zapisywany na urządzeniu.
+Platzieren	Umieść
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Przesuwaj jednym palcem, zmieniaj rozmiar dwoma, a potem wstaw.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Ikona ołówka u góry zastępuje zapisany podpis.
+Text bearbeiten	Edytuj tekst
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Rozpoznany tekst strony jest na dole i można go zmienić. U góry obraz strony do porównania.
+Wirkung	Działanie
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Poprawki trafiają do wyszukiwania, warstwy tekstowej PDF oraz eksportu do Word i tekstu.
+Holt einen gelöschten Scan zurück.	Przywraca usunięty skan.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skany są automatycznie kasowane po 30 dniach. „Opróżnij” usuwa wszystko od razu.
+Belegung	Zajęte miejsce
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Pokazuje, ile miejsca zajmują skany, oryginalne zdjęcia, kosz i pamięć podręczna.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Usunięcie oryginalnych zdjęć oszczędza dużo miejsca; gotowe strony zostają, tylko kadrowania nie można potem zmienić.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Zapisz wszystkie skany jako plik ZIP i przywróć je na tym lub innym urządzeniu. Nic nie jest wysyłane.
+Auswahl	Wybór
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Wybierz języki swoich dokumentów. Każdy dodatkowy język spowalnia rozpoznawanie.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Brakujące języki są pobierane jednorazowo i potem działają bez internetu.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Połącz telefon i PC z tą samą siecią Wi-Fi (lub PC z hotspotem telefonu).
+Herunterladen	Pobierz
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Otwórz pokazany adres w przeglądarce na PC lub zeskanuj kod QR; tam można pobrać wszystkie skany jako PDF lub tekst.
+Sicherheit	Bezpieczeństwo
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Działa tylko w sieci lokalnej i tylko dopóki ten ekran jest otwarty.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Język, jakość obrazu, wyzwalanie, rozpoznawanie tekstu, miejsce zapisu, blokada aplikacji i kopia zapasowa.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Pobiera zdjęcia z galerii jako nowy dokument; są kadrowane i rozpoznawane jak zdjęcia z aparatu.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Otwiera aparat. Wszystkie zdjęcia jednej sesji trafiają do jednego wspólnego dokumentu.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Usuwa tę stronę z dokumentu (po potwierdzeniu).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Kolor, skala szarości lub czarno-białe oraz automatyczna poprawa tylko dla tej strony.
+Dreht die Seite um 90° im Uhrzeigersinn.	Obraca stronę o 90° zgodnie z ruchem wskazówek zegara.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Ponownie ustaw narożniki strony na oryginalnym zdjęciu, jeśli brakuje krawędzi lub widać tło.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Ukryj dane wrażliwe paskami lub pikselami; znikają też z tekstu PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Umieszcza Twój zapisany podpis na stronie; za pierwszym razem go rysujesz.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Pokazuje rozpoznany tekst strony do poprawienia i skopiowania.
+Fotografiert beim Tippen auf den Auslöser.	Robi zdjęcie po dotknięciu spustu.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Robi zdjęcie, gdy strona leży nieruchomo 0,7 s; w trybie książki po każdym przewróceniu strony.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Robi zdjęcia sparowanym pilotem Bluetooth.
+Lautstärketasten lösen immer aus.	Przyciski głośności wyzwalają zawsze.
+Word erstellen, Formeln erkennen (%d/%d)	Tworzenie pliku Word, rozpoznawanie wzorów (%d/%d)
+Belarussisch	Białoruski
+Bulgarisch	Bułgarski
+Serbisch	Serbski
+Mazedonisch	Macedoński
+Kein Link im geteilten Text	Brak linku w udostępnionym tekście
+Import fehlgeschlagen: %s	Import nie powiódł się: %s
+Link laden	Ładowanie linku
+Unter dem Link liegt keine PDF- oder Bilddatei.	Link nie prowadzi do pliku PDF ani obrazu.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Można importować tylko pliki PDF i obrazy.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Chronionych plików PDF nie można importować.
+PDF-Seite %d/%d importieren	Importowanie strony PDF %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Zdjęcie po %s s
+Wartezeit	Czas oczekiwania
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Jak długo strona musi leżeć nieruchomo przed automatycznym zdjęciem. Krócej jest szybciej, dłużej daje mniej poruszonych zdjęć.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Robi zdjęcie samo, gdy tylko strona leży nieruchomo; czas oczekiwania (0,2–1,5 s) ustawisz poniżej. W trybie książki: po każdym przewróceniu strony, gdy książka znów leży nieruchomo.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Dodaje zdjęcia, zrzuty ekranu, pliki PDF lub link jako kolejne strony; zdjęcia są przycinane, wszystko jest rozpoznawane.
+Senden an …	Wyślij do …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Gdzie „Zapisz” umieszcza eksporty. „Wyślij do …” jest od tego niezależne.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Wybierz podfolder, np. „Documents” – Android nie pozwala na główny folder pamięci.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Tworzy plik i wysyła go do aplikacji, np. WhatsApp, e-mail, Telegram lub chmury.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Ręcznie: przyciskiem migawki. Auto: gdy strona leży nieruchomo – czas oczekiwania (0,2–1,5 s, domyślnie 0,7 s) ustawisz w oknie skanowania pod przełącznikiem; w trybie książki po każdym przewróceniu strony. Bluetooth: sparowanym pilotem. Przyciski głośności zawsze robią zdjęcie.
+Senden an oder Speichern	Wyślij do lub zapisz
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Wyślij do …” wysyła plik do aplikacji (WhatsApp, e-mail, Telegram, chmura …). Zapisz umieszcza go w miejscu zapisu.
+Importieren	Importuj
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Dodaje zdjęcia, zrzuty ekranu, pliki PDF lub link jako nowy dokument; zdjęcia są przycinane, wszystko jest rozpoznawane.
+Bilder aus der Galerie	Obrazy z galerii
+Fotos und Screenshots	Zdjęcia i zrzuty ekranu
+Dateien	Pliki
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Pliki PDF i obrazy, np. z Pobranych lub z chmury
+Eine PDF- oder Bilddatei aus dem Internet	Plik PDF lub obraz z internetu
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Potem jak zeskanowane strony: rozpoznawanie tekstu, tłumaczenie i eksport do dowolnego formatu.
+Link importieren	Importuj link
+Internetadresse	Adres internetowy
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Robi zdjęcie, gdy strona leży nieruchomo przez %s s (do ustawienia w oknie skanowania); w trybie książki po każdym przewróceniu strony.
+Fachwörterbuch laden	Wczytywanie słownika
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Brak słownika dla %s lub %s – przetłumaczono bez terminów specjalistycznych
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	To nie jest plik słownika (glossary-xx.tsv.gz)
+Download nicht verfügbar	Pobieranie niedostępne
+Estnisch	Estoński
+Irisch	Irlandzki
+Litauisch	Litewski
+Lettisch	Łotewski
+Maltesisch	Maltański
+Slowakisch	Słowacki
+Slowenisch	Słoweński
+Ohne Fachwörterbuch	Bez słownika
+Alle Fachgebiete	Wszystkie dziedziny
+Fachgebiet: %s	Dziedzina: %s
+Fachwörterbücher verwalten …	Zarządzaj słownikami …
+Fachwörterbücher	Słowniki specjalistyczne
+Aus Datei importieren	Importuj z pliku
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Terminy specjalistyczne z prawa, medycyny, techniki, ekonomii i 17 innych dziedzin (IATE, baza terminologiczna UE) są przy tłumaczeniu przejmowane dokładnie. Potrzebny jest słownik języka źródłowego i docelowego, każdy 0,3–9 MB.
+Einmal laden, danach offline.	Pobierz raz, potem offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Zaimportuj pliki glossary-xx.tsv.gz ikoną folderu u góry.
+Fachwörterbücher für die Übersetzung	Słowniki specjalistyczne do tłumaczenia
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Prawo, medycyna, technika i więcej – 24 języki UE
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Wszystkie zdjęcia i teksty pozostają na tym urządzeniu. Internet służy tylko do jednorazowego pobrania języków, modeli tłumaczenia i słowników, gdy to uruchomisz.
+Übersetzen	Tłumacz
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Tworzy na urządzeniu przetłumaczoną kopię dokumentu: te same strony i obrazy, tekst w języku docelowym na swoim miejscu. Każdy akapit jest tłumaczony z własnego języka. Z „Dziedziną” terminy fachowe ze słowników są przejmowane dokładnie.
+Was nachgeladen werden kann	Co można pobrać
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Wszystko jest opcjonalne i pobierane tylko po dotknięciu; potem działa bez internetu:\n• Języki rozpoznawania tekstu: 1–15 MB każdy (Ustawienia › Języki). Niemiecki i angielski są wbudowane.\n• Chiński: osobny model rozpoznawania, ok. 17 MB.\n• Modele tłumaczenia: ok. 30 MB na język, pobierane automatycznie przy pierwszym tłumaczeniu.\n• Słowniki specjalistyczne: 0,3–9 MB na język, ok. 70 MB dla wszystkich 24 języków UE (Ustawienia › Słowniki specjalistyczne).\nPobrane pliki można w każdej chwili usunąć.
+Wozu	Do czego
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Ogólne tłumacze nie znają wielu terminów specjalistycznych lub tłumaczą je niespójnie. Słownik wstawia ustalony termin, np. „Beweislast” → „ciężar dowodu”.
+Quelle	Źródło
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, baza terminologiczna instytucji UE, z terminami z 21 dziedzin (prawo, zdrowie, technika, ekonomia, środowisko, transport …). Jest dostępna dla 24 języków urzędowych UE.
+Was nötig ist	Co jest potrzebne
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Po jednym słowniku dla języka źródłowego i docelowego, np. niemiecki i angielski. Jeden słownik na język wystarcza dla wszystkich par językowych.
+Laden oder importieren	Pobierz lub importuj
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Pobierz strzałką (raz, potem offline) albo zaimportuj plik „glossary-xx.tsv.gz” ikoną folderu, np. z komputera lub karty SD.
+Benutzen	Użycie
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Przy tłumaczeniu wybierz dziedzinę u góry. „Wszystkie dziedziny” używa tylko terminów tłumaczonych wszędzie tak samo.
+Grenzen	Ograniczenia
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Terminy są wstawiane w formie podstawowej; formy odmienione nie zawsze są rozpoznawane.
+Politik	Polityka
+Internationale Beziehungen	Stosunki międzynarodowe
+Europäische Union	Unia Europejska
+Recht	Prawo
+Wirtschaft	Gospodarka
+Handel	Handel
+Finanzwesen	Finanse
+Soziales und Gesundheit	Sprawy społeczne i zdrowie
+Bildung und Kommunikation	Edukacja i komunikacja
+Wissenschaft	Nauka
+Unternehmen und Wettbewerb	Przedsiębiorstwa i konkurencja
+Beschäftigung und Arbeitsbedingungen	Zatrudnienie i warunki pracy
+Verkehr	Transport
+Umwelt	Środowisko
+Land-, Forst- und Fischereiwirtschaft	Rolnictwo, leśnictwo i rybołówstwo
+Agrarerzeugnisse und Lebensmittel	Produkty rolno-spożywcze
+Produktion, Technologie und Forschung	Produkcja, technologia i badania
+Energie	Energia
+Industrie	Przemysł
+Geografie	Geografia
+Internationale Organisationen	Organizacje międzynarodowe
+Wenig Licht – Lampe einschalten	Słabe światło – włącz latarkę
+Verarbeitung mehrfach abgebrochen	Przetwarzanie zostało kilkakrotnie przerwane
+Bearbeitungen gehen verloren	Zmiany zostaną utracone
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Strona zostanie utworzona od nowa ze zdjęcia. Zaczernienia, podpis i notatki trzeba będzie dodać ponownie.
+Neu zuschneiden	Przytnij ponownie
+Sprachdaten	Dane językowe
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Pokazuje, ile miejsca zajmują skany, oryginalne zdjęcia, kosz, pamięć podręczna i dane językowe (rozpoznawanie tekstu, słowniki).
+Bitte warten, bis alle Seiten erkannt sind	Poczekaj, aż wszystkie strony zostaną rozpoznane
+Die Sprache „%s“ kann nicht übersetzt werden	Języka „%s” nie można przetłumaczyć
+Übersetzung in die Seiten setzen	Wstawianie tłumaczenia do stron

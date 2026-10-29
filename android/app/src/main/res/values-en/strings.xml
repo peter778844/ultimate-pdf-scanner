@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_description">Scan right away: document, book or QR code</string>
+    <string name="shortcut_scan">Scan</string>
+    <string name="shortcut_book">Scan book</string>
+    <string name="shortcut_qr">QR code</string>
+    <string name="tile_scan">Scan</string>
+</resources>

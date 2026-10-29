@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Pirmiausia nustatykite piršto atspaudą, atrakinimą veidu arba ekrano užraktą.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Šis įrenginys nepalaiko biometrinio atrakinimo.
+Ultimate PDF Scanner entsperren	Atrakinti Ultimate PDF Scanner
+Deine Scans sind geschützt	Jūsų skenai apsaugoti
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner užrakinta
+Deine Scans bleiben auf diesem Gerät.	Jūsų skenai lieka šiame įrenginyje.
+  Entsperren	  Atrakinti
+Systemsprache	Sistemos kalba
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importuoti nuotraukas
+Texterkennung vorbereiten	Ruošiamas teksto atpažinimas
+Ein Foto konnte nicht verarbeitet werden: %s	Nepavyko apdoroti nuotraukos: %s
+Foto laden	Įkelti nuotrauką
+Foto nicht lesbar	Nuotrauka neįskaitoma
+Filter anwenden	Taikyti filtrą
+Schwärzen	Paslėpti
+Unterschrift einfügen	Įterpti parašą
+Unterschrift eingefügt	Parašas įterptas
+Änderungen einfügen	Įterpti pakeitimus
+Seite bearbeitet	Puslapis redaguotas
+Text gesichert	Tekstas išsaugotas
+Zusammenführen	Sujungti
+%d Scans zusammengeführt	Sujungta skenų: %d
+Seiten verschieben	Perkelti puslapius
+Seiten kopieren	Kopijuoti puslapius
+ (Teil)	 (dalis)
+Zwischenspeicher leeren	Išvalyti talpyklą
+Zwischenspeicher geleert	Talpykla išvalyta
+Originalfotos entfernen	Pašalinti originalias nuotraukas
+Sicherung erstellen	Kurti atsarginę kopiją
+Sicherung erstellen (%d/%d)	Kuriama atsarginė kopija (%d/%d)
+Sicherung gespeichert	Atsarginė kopija išsaugota
+Sicherung wiederherstellen	Atkurti iš atsarginės kopijos
+ (%d schon vorhanden)	 (%d jau yra)
+Wiederherstellen fehlgeschlagen: %s	Atkurti nepavyko: %s
+PDF erstellen (%d/%d)	Kuriamas PDF (%d/%d)
+%s erstellen	Kuriama: %s
+Export fehlgeschlagen: %s	Eksportuoti nepavyko: %s
+%s speichern	Išsaugoti: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF išsaugotas (apsaugotas slaptažodžiu, AES-256)
+%s gespeichert	Išsaugota: %s
+Bilder speichern	Išsaugoti vaizdus
+Bilder speichern (%d/%d)	Saugomi vaizdai (%d/%d)
+%d Bilder gespeichert	Išsaugota vaizdų: %d
+Sprache erkennen	Atpažinti kalbą
+Kein erkannter Text zum Übersetzen	Nėra atpažinto teksto vertimui
+Sprache nicht erkannt	Kalba neatpažinta
+Der Text ist bereits auf %s	Tekstas jau yra šia kalba: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Įkeliamas kalbos modelis (pirmą kartą ~30 MB)
+Übersetzen (%d/%d)	Vertimas (%d/%d)
+Seite %d	%d puslapis
+Übersetzung fehlgeschlagen: %s	Išversti nepavyko: %s
+1 Bereich unkenntlich gemacht	Paslėpta 1 sritis
+%d Bereiche unkenntlich gemacht	Paslėpta sričių: %d
+1 Scan wiederhergestellt	Atkurtas 1 skenas
+%d Scans wiederhergestellt	Atkurta skenų: %d
+Server antwortet mit %d	Serveris atsako kodu %d
+Datei unvollständig	Failas nepilnas
+Nicht gefunden	Nerasta
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Skenų telefone: %d · tiesiogiai per Wi-Fi, be debesies
+Ausgangssprache „%s“ wird nicht unterstützt	Šaltinio kalba „%s“ nepalaikoma
+Zielsprache „%s“ wird nicht unterstützt	Tikslinė kalba „%s“ nepalaikoma
+QR-CODE	QR KODAS
+AUSWEIS	ASMENS DOKUMENTAS
+DOKUMENT	DOKUMENTAS
+BUCH	KNYGA
+VISITENKARTE	VIZITINĖ KORTELĖ
+PASSFOTO	NUOTRAUKA DOKUMENTAMS
+PDF	PDF
+Word	Word
+Bilder	Vaizdai
+ZIP	ZIP
+Text	Tekstas
+Excel	Excel
+CSV	CSV
+Kontakt	Kontaktas
+Wie gescannt	Kaip nuskenuota
+Letter	Letter
+Mittel	Vidutinis
+Englisch	Anglų
+Französisch	Prancūzų
+Italienisch	Italų
+Spanisch	Ispanų
+Portugiesisch	Portugalų
+Niederländisch	Olandų
+Polnisch	Lenkų
+Tschechisch	Čekų
+Dänisch	Danų
+Schwedisch	Švedų
+Norwegisch	Norvegų
+Finnisch	Suomių
+Ungarisch	Vengrų
+Rumänisch	Rumunų
+Kroatisch	Kroatų
+Türkisch	Turkų
+Griechisch	Graikų
+Russisch	Rusų
+Ukrainisch	Ukrainiečių
+Arabisch	Arabų
+Hebräisch	Hebrajų
+Persisch	Persų
+Chinesisch (vereinfacht)	Kinų (supaprastinta)
+Japanisch	Japonų
+Koreanisch	Korėjiečių
+Latein	Lotynų
+Deutsch (Fraktur)	Vokiečių (fraktūra)
+1 Seite	1 puslapis
+%d Seiten	Puslapių: %d
+1 Scan	1 skenas
+%d Scans	Skenų: %d
+Abbrechen	Atšaukti
+Bearbeiten	Redaguoti
+Zurück	Atgal
+Rückgängig	Anuliuoti
+Sichern	Išsaugoti
+Seite	Puslapis
+Einfügen	Įterpti
+Änderungen sichern?	Išsaugoti pakeitimus?
+Verwerfen	Atmesti
+Schließen	Uždaryti
+Fertig	Atlikta
+Öffnen	Atidaryti
+Keine	Jokių
+Alle	Visi
+Umbenennen	Pervardyti
+Mehr	Daugiau
+Löschen	Ištrinti
+Teilen	Bendrinti
+Speichern	Išsaugoti
+Drucken	Spausdinti
+Kopieren	Kopijuoti
+Drehen	Pasukti
+Laden	Atsisiųsti
+Entfernen	Pašalinti
+Verschieben	Perkelti
+Name	Pavadinimas
+Aus	Išjungta
+Leeren	Išvalyti
+Wiederherstellen	Atkurti
+Text einfügen	Įterpti tekstą
+z. B. Name, Datum …	pvz., vardas, data …
+Kein Gesicht erkannt – bitte noch einmal	Veidas neatpažintas – bandykite dar kartą
+Seite erneut scannen	Nuskenuoti puslapį iš naujo
+Fernauslöser verbunden	Nuotolinis užraktas prijungtas
+Nach dem Umblättern auslösen	Fotografuoti apvertus puslapį
+Leserichtung rechts nach links	Skaitymo kryptis iš dešinės į kairę
+Leserichtung links nach rechts	Skaitymo kryptis iš kairės į dešinę
+Automatisch auslösen	Automatinis fotografavimas
+Kamera wechseln	Perjungti kamerą
+Licht	Šviesa
+Bitte Kamerazugriff erlauben.	Leiskite naudoti kamerą.
+Passfoto wird zugeschnitten …	Apkarpoma nuotrauka dokumentams …
+Ohne Rückseite fertig	Baigta be antros pusės
+Kein Code im Bild gefunden	Vaizde nerasta kodo
+Aus Galerie	Iš galerijos
+QR-Code oder Barcode in den Rahmen halten	Laikykite QR kodą arba brūkšninį kodą rėmelyje
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Veidas ovale · žiūrėkite tiesiai · šviesus fonas
+Vorderseite des Ausweises in den Rahmen	Asmens dokumento priekinė pusė rėmelyje
+Jetzt die Rückseite	Dabar antra pusė
+Visitenkarte in den Rahmen legen	Padėkite vizitinę kortelę į rėmelį
+Aufgeschlagenes Buch ins Bild halten	Laikykite atverstą knygą kadre
+Doppelseite erkannt	Atpažintas atvartas
+Umblättern – löst danach automatisch aus	Apverskite puslapį – tada fotografuojama automatiškai
+Ruhig halten …	Laikykite nejudinamai …
+Ruhig halten – wird automatisch ausgelöst	Laikykite nejudinamai – bus nufotografuota automatiškai
+Seite ins Bild halten	Laikykite puslapį kadre
+Seite erkannt	Puslapis atpažintas
+Intervall-Timer	Intervalinis laikmatis
+Serie starten	Pradėti seriją
+Farbe	Spalvotas
+Graustufen	Pilkos atspalviai
+Schwarz-Weiß	Nespalvotas
+Original	Originalas
+Automatisch	Automatiškai
+Zuschnitt nicht möglich	Apkarpyti neįmanoma
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Šio puslapio originali nuotrauka pašalinta, kad būtų sutaupyta vietos. Su „Nuskenuoti iš naujo“ puslapį galima nufotografuoti iš naujo.
+Zuschnitt anpassen	Koreguoti apkarpymą
+Übernehmen	Taikyti
+Einzelseite	Vienas puslapis
+Doppelseite	Atvartas
+Auto	Auto
+  Automatisch	  Automatiškai
+Ecken auf die Seitenränder ziehen	Nutempkite kampus į puslapio kraštus
+Seiten ordnen	Tvarkyti puslapius
+%d ausgewählt	Pasirinkta: %d
+Filter für alle Seiten	Filtras visiems puslapiams
+Leserichtung umkehren	Apversti skaitymo kryptį
+Übersetzen…	Versti…
+Scan löschen	Ištrinti skeną
+Scannen	Skenuoti
+Import	Importuoti
+Ordnen	Tvarkyti
+Exportieren	Eksportuoti
+Übersetzen in …	Versti į …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Vertimas atliekamas įrenginyje. Pirmą kartą kalbos modelis atsisiunčiamas vieną kartą.
+Übersetzung teilen	Bendrinti vertimą
+Scan löschen?	Ištrinti skeną?
+„%s“ wird endgültig gelöscht.	„%s“ bus ištrintas visam laikui.
+Kontakt erkannt	Kontaktas atpažintas
+Zu Kontakten	Į kontaktus
+Seiten werden verarbeitet (%d/%d)	Apdorojami puslapiai (%d/%d)
+Nur diese	Tik šie
+Wird neu verarbeitet	Apdorojama iš naujo
+Erneut	Iš naujo
+Fehlgeschlagen	Nepavyko
+Foto nicht verarbeitet	Nuotrauka neapdorota
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Apdorojant vaizdą įvyko klaida.
+Keine Auffälligkeiten	Pastabų nėra
+Erneut scannen	Nuskenuoti iš naujo
+Ersetzt beide Seiten dieser Doppelseite	Pakeičia abu šio atvarto puslapius
+Kamera öffnen und diese Seite ersetzen	Atidaryti kamerą ir pakeisti šį puslapį
+Nach vorn	Pirmyn
+Nach hinten	Atgal
+Seite löschen	Ištrinti puslapį
+Foto entfernen	Pašalinti nuotrauką
+1 Seite verschoben	Perkeltas 1 puslapis
+%d Seiten verschoben	Perkelta puslapių: %d
+1 Seite kopiert	Nukopijuotas 1 puslapis
+%d Seiten kopiert	Nukopijuota puslapių: %d
+1 Seite löschen?	Ištrinti 1 puslapį?
+%d Seiten löschen?	Ištrinti puslapius (%d)?
+1 Seite prüfen	Patikrinti 1 puslapį
+%d Seiten prüfen	Patikrinti puslapius: %d
+Seite löschen?	Ištrinti puslapį?
+Durchsuchbares PDF mit erkanntem Text	Ieškomas PDF su atpažintu tekstu
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Redaguojamas tekstas Word, LibreOffice ir Google Docs
+Die Seite als JPG-Bild	Puslapis kaip JPG vaizdas
+Ein JPG-Bild pro Seite (%d Dateien)	Vienas JPG vaizdas puslapiui (failų: %d)
+Alle Seiten als JPG und der Text in einem Archiv	Visi puslapiai kaip JPG ir tekstas viename archyve
+Nur der erkannte Text	Tik atpažintas tekstas
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Atpažintos lentelės, vienas lapas puslapiui
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Atpažintos lentelės kaip CSV (kabliataškis, Excel)
+Visitenkarte als Kontakt (vCard)	Vizitinė kortelė kaip kontaktas (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Priekinė ir antra pusė tikru dydžiu viename puslapyje – paruošta spausdinti
+Seitenformat	Puslapio formatas
+Mit Passwort schützen	Apsaugoti slaptažodžiu
+AES-256-Verschlüsselung	AES-256 šifravimas
+Passwort	Slaptažodis
+Mindestens 4 Zeichen	Bent 4 simboliai
+Passwort wiederholen	Pakartokite slaptažodį
+Passwörter stimmen nicht überein	Slaptažodžiai nesutampa
+Seitenbilder einfügen	Įterpti puslapių vaizdus
+Jede Seite als Bild über ihrem Text	Kiekvienas puslapis kaip vaizdas virš jo teksto
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Stulpeliai atpažįstami pagal tarpus tekste – geriausiai veikia su aiškiai atskirtais stulpeliais. Skaičiai, pvz., „1.234,50“, perkeliami kaip skaičiai.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Šioje kortelėje kontaktinių duomenų neatpažinta.
+1 ausgewählte Seite	1 pasirinktas puslapis
+%d ausgewählte Seiten	Pasirinkta puslapių: %d
+Mobil	Mobilusis
+Fax	Faksas
+Telefon	Telefonas
+%s teilen	Bendrinti: %s
+Scan	Skenas
+Text teilen	Bendrinti tekstą
+PDF teilen	Bendrinti PDF
+In den Papierkorb verschoben	Perkelta į šiukšlinę
+%d Scans in den Papierkorb verschoben	Į šiukšlinę perkelta skenų: %d
+Auswahl beenden	Baigti žymėjimą
+Alle auswählen	Pažymėti viską
+In Ordner verschieben	Perkelti į aplanką
+Ordner	Aplankai
+Ordner umbenennen	Pervardyti aplanką
+Ordner auflösen	Panaikinti aplanką
+Papierkorb (%d)	Šiukšlinė (%d)
+Papierkorb	Šiukšlinė
+An PC senden	Siųsti į kompiuterį
+Speicher & Sicherung	Saugykla ir atsarginė kopija
+Einstellungen	Nustatymai
+Scans und Text durchsuchen	Ieškoti skenuose ir tekste
+Alle Scans durchsuchen	Ieškoti visuose skenuose
+Suche löschen	Išvalyti paiešką
+%d Treffer	Rezultatų: %d
+Alle Scans	Visi skenai
+Nichts gefunden	Nieko nerasta
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Nei pavadinimas, nei atpažintas tekstas neatitinka „%s“.
+Ordner ist leer	Aplankas tuščias
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Perkelkite skenus čia: ilgai paspauskite skeną ir pasirinkite „Perkelti į aplanką“.
+Noch keine Scans	Skenų dar nėra
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Bakstelėkite „Skenuoti“, kad fotografuotumėte puslapius,\narba importuokite nuotraukas iš galerijos.
+Ordnername	Aplanko pavadinimas
+Neuer Ordner	Naujas aplankas
+%d Scans zusammenführen?	Sujungti skenus (%d)?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Visi puslapiai pridedami prie „%s“ pasirinkimo tvarka. Kiti skenai po to panaikinami.
+%d prüfen	Patikrinti: %d
+Wird verarbeitet (%d/%d)	Apdorojama (%d/%d)
+Als PDF teilen	Bendrinti kaip PDF
+Kategorie ändern	Keisti kategoriją
+Kein Ordner	Be aplanko
+Neuer Ordner …	Naujas aplankas …
+Kategorie	Kategorija
+Download fehlgeschlagen: %s	Atsisiųsti nepavyko: %s
+keine Verbindung	nėra ryšio
+Sprachen der Texterkennung	Teksto atpažinimo kalbos
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Pasirinktos kalbos atpažįstamos kartu – rinkitės tik reikalingas, kiekviena papildoma lėtina atpažinimą. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Trūkstamos kalbos atsisiunčiamos vieną kartą (apie 2–15 MB) ir vėliau veikia neprisijungus.
+Wird geladen … %d %%	Atsisiunčiama … %d %%
+Enthalten	Įtraukta
+Geladen · %s	Atsisiųsta · %s
+Nicht geladen	Neatsisiųsta
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Bakstelėkite, kad pažymėtumėte · laikykite ir vilkite, kad perkeltumėte
+Neuer Scan	Naujas skenas
+Verschieben nach …	Perkelti į …
+Kopieren nach …	Kopijuoti į …
+Seite %d von %d	%d puslapis iš %d
+Filter	Filtras
+Zuschnitt	Apkarpymas
+Signieren	Pasirašyti
+Code	Kodas
+Link	Nuoroda
+E-Mail	El. paštas
+Telefonnummer	Telefono numeris
+Ort	Vieta
+Produktcode	Prekės kodas
+Netzwerk: %s	Tinklas: %s
+Passwort: %s	Slaptažodis: %s
+Verschlüsselung: %s	Šifravimas: %s
+Passwort kopieren	Kopijuoti slaptažodį
+Verbinden	Prisijungti
+E-Mail schreiben	Rašyti laišką
+Anrufen	Skambinti
+In Karten öffnen	Atidaryti Žemėlapiuose
+Suche sensible Daten…	Ieškoma neskelbtinų duomenų…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Neskelbtinų duomenų nerasta. Pirštu pažymėkite sritis, kurias reikia paslėpti.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Rasta – bakstelėkite, kad pažymėtumėte ar atžymėtumėte, pažymėkite daugiau sričių:
+Schwarzer Balken	Juoda juosta
+Verpixeln	Pikselizuoti
+Unkenntlich machen (%d)	Paslėpti (%d)
+Manuell	Rankiniu būdu
+Gesicht	Veidas
+Kein WLAN	Nėra Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Prijunkite telefoną ir kompiuterį prie to paties Wi-Fi (arba kompiuterį prie telefono interneto prieigos taško). Tada čia pasirodys adresas.
+Am PC im Browser öffnen	Atidaryti kompiuterio naršyklėje
+QR-Code der Adresse	Adreso QR kodas
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Įveskite adresą arba nuskenuokite QR kodą kompiuterio kamera. Ten galite atsisiųsti visus skenus kaip PDF ar tekstą.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Tik vietiniame tinkle ir tik kol atidarytas šis ekranas. Nieko neįkeliama į internetą.
+Heruntergeladen	Atsisiųsta
+App-Sperre nicht möglich	Programėlės užraktas negalimas
+Sprache	Kalba
+Sprache der App	Programėlės kalba
+Aufnahme	Fotografavimas
+Doppelseiten im Dokument-Modus	Atvartai dokumento režimu
+Automatisch teilen	Dalyti automatiškai
+Nie teilen	Niekada nedalyti
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Fotografuoja, kai tik puslapis ramiai guli kadre.
+Buch-Modus	Knygos režimas
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Atpažįsta puslapio vertimą ir fotografuoja, kai tik knyga vėl ramiai guli.
+Leserichtung	Skaitymo kryptis
+Links → rechts	Iš kairės → į dešinę
+Rechts → links	Iš dešinės → į kairę
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Iš dešinės į kairę arabų, hebrajų, persų ir japonų kalboms: pirmas būna dešinysis puslapis.
+Fernauslöser	Nuotolinis užraktas
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Suporuokite Bluetooth kameros nuotolinį užraktą (pvz., „AB Shutter 3“) Android Bluetooth nustatymuose. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Tada kameroje fotografuoja nuotolinis užraktas ir garsumo mygtukai.
+Bild	Vaizdas
+Standardfilter	Numatytasis filtras
+Handschrift entfernen	Pašalinti rašyseną
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Pašalina mėlyno/raudono rašiklio ir pieštuko užrašus. Pašalina ir šių spalvų spaudą.
+Texterkennung	Teksto atpažinimas
+Sprachen	Kalbos
+Sicherheit & Speicher	Sauga ir saugykla
+App-Sperre	Programėlės užraktas
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Atidarant atrakinti piršto atspaudu, veidu arba ekrano užraktu. Turinys nerodomas programėlių apžvalgoje.
+Belegung, Backup als ZIP, Wiederherstellen	Užimta vieta, atsarginė kopija kaip ZIP, atkūrimas
+Gelöschte Scans werden nach 30 Tagen entfernt	Ištrinti skenai pašalinami po 30 dienų
+Offline	Neprisijungus
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Visos nuotraukos ir tekstai lieka šiame įrenginyje. Internetas naudojamas tik vienkartiniam kalbų atsisiuntimui, kai jį paleidžiate.
+Über	Apie
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Atvirojo kodo komponentai: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (visi pagal Apache 2.0 licenciją); ML Kit (vertimas, veidų atpažinimas, įrenginyje).
+Unterschrift zeichnen	Nupiešti parašą
+Mit dem Finger unterschreiben	Pasirašykite pirštu
+Unterschrift platzieren	Padėti parašą
+Neu zeichnen	Piešti iš naujo
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Perkelkite vienu pirštu, dydį keiskite dviem pirštais.
+Unterschrift	Parašas
+Belegt von Ultimate PDF Scanner	Užima Ultimate PDF Scanner
+%s frei auf dem Gerät	Laisva įrenginyje: %s
+Seiten	Puslapiai
+Originalfotos	Originalios nuotraukos
+Zwischenspeicher	Talpykla
+Platz schaffen	Atlaisvinti vietos
+Exportierte Dateien zum Teilen	Eksportuoti failai bendrinimui
+Gelöschte Scans der letzten 30 Tage	Per paskutines 30 dienų ištrinti skenai
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Paruošti puslapiai lieka, bet apkarpymo vėliau pakeisti nebegalima.
+Größte Scans	Didžiausi skenai
+Sicherung	Atsarginė kopija
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Išsaugokite visus skenus viename ZIP faile – pvz., SD kortelėje, USB atmintinėje ar kompiuteryje. Nieko neįkeliama.
+Papierkorb mitsichern	Įtraukti šiukšlinę
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-atsargine-kopija_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Atkuriant pridedami tik trūkstami skenai.
+Originalfotos entfernen?	Pašalinti originalias nuotraukas?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Sutaupo %s. Puslapių vėliau nebebus galima apkarpyti iš naujo, „Nuskenuoti iš naujo“ liks įmanoma.
+Text bearbeiten · Seite %d	Redaguoti tekstą · %d puslapis
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Pataisos naudojamos paieškoje ir PDF teksto sluoksnyje.
+Kein Text erkannt – hier eintippen	Tekstas neatpažintas – įveskite jį čia
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Ištrinti skenai visam laikui pašalinami po %d d.
+Papierkorb ist leer	Šiukšlinė tuščia
+Endgültig löschen	Ištrinti visam laikui
+Papierkorb leeren?	Išvalyti šiukšlinę?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	Skenai (%d) bus ištrinti visam laikui. To atšaukti negalima.
+Endgültig löschen?	Ištrinti visam laikui?
+„%s“ wird sofort gelöscht.	„%s“ bus ištrintas iš karto.
+noch 1 Tag	liko 1 diena
+noch %d Tage	liko dienų: %d
+Quittung	Kvitas
+Quittungen	Kvitai
+Rechnung	Sąskaita faktūra
+Rechnungen	Sąskaitos faktūros
+Visitenkarte	Vizitinė kortelė
+Visitenkarten	Vizitinės kortelės
+Vertrag	Sutartis
+Verträge	Sutartys
+Brief	Laiškas
+Briefe	Laiškai
+Ausweis	Asmens dokumentas
+Ausweise	Asmens dokumentai
+Buch	Knyga
+Bücher	Knygos
+Passfoto	Nuotrauka dokumentams
+Passfotos	Nuotraukos dokumentams
+Dokument	Dokumentas
+Dokumente	Dokumentai
+Auflösung	Skyra
+Kompression	Glaudinimas
+Gering	Mažas
+Stark	Stiprus
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi ir mažas glaudinimas spausdinimui ir archyvui, 150 dpi ir stiprus glaudinimas el. paštui.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Leidžia ieškoti PDF ir kopijuoti tekstą. Išjungta: greitesnis apdorojimas, PDF tik kaip vaizdas.
+Keine Seite erkannt	Puslapis neatpažintas
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Puslapio kraštas nerastas – paimta visa nuotrauka.
+Unscharf	Neryškus
+Das Foto ist verwackelt oder unscharf.	Nuotrauka sujudėjusi arba neryški.
+Zu dunkel	Per tamsu
+Die Seite ist schlecht ausgeleuchtet.	Puslapis prastai apšviestas.
+Text schlecht lesbar	Tekstas sunkiai įskaitomas
+Die Texterkennung war unsicher.	Teksto atpažinimas buvo nepatikimas.
+Kein Text erkannt	Tekstas neatpažintas
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Puslapyje nerasta teksto – tuščias puslapis ar kadre apskritai nėra puslapio?
+Hindi	Hindi
+Bengalisch	Bengalų
+Urdu	Urdu
+Indonesisch	Indoneziečių
+Seite erkennen	Atpažinti puslapį
+Seite entzerren	Ištiesinti puslapį
+Finger entfernen	Pašalinti pirštus
+Schärfe prüfen	Tikrinti ryškumą
+Ausrichtung	Orientacija
+Bild verbessern	Pagerinti vaizdą
+Speicherort	Saugojimo vieta
+Speicherort für Exporte	Eksporto saugojimo vieta
+Jedes Mal fragen	Klausti kaskart
+Ordner wählen …	Pasirinkti aplanką …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	„Išsaugoti“ deda PDF ir kitus eksportus tiesiai į šį aplanką, kaskart neklausdamas. Galima ir SD kortelė.
+Gespeichert in „%s“	Išsaugota į „%s“
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Saugojimo vieta nepasiekiama. Pasirinkite ją iš naujo.
+Neu aufnehmen	Fotografuoti iš naujo
+Um 90° links drehen	Pasukti 90° į kairę
+Seite gelöscht	Puslapis ištrintas
+Lange drücken: neu aufnehmen, drehen oder löschen	Ilgai paspauskite: fotografuoti iš naujo, pasukti ar ištrinti
+Ersetzt beide Seiten	Pakeičia abu puslapius
+Ränder bereinigen	Išvalyti kraštus
+Scan-Qualität	Skenavimo kokybė
+Schnell	Greita
+Standard	Standartinė
+Genau	Tiksli
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Dideliam, aiškiam šriftui, pvz., laiškams ir spaudiniams: mažesnės nuotraukos, greičiausias apdorojimas.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Knygoms ir daugumai dokumentų: geras atpažinimas įprastu greičiu.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Smulkiam šriftui, senoms knygoms, išnašoms ir formulėms: visa kameros skyra, lėčiau, daugiau atminties.
+BILD	VAIZDAS
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Padėkite vaizdą lygiai · be blykstės · venkite atspindžių
+an	įjungta
+aus	išjungta
+Automatische Auslösung an: nach dem Umblättern	Automatinis fotografavimas įjungtas: apvertus puslapį
+Automatische Auslösung an: sobald die Seite ruhig liegt	Automatinis fotografavimas įjungtas: kai puslapis ramiai guli
+Automatische Auslösung aus	Automatinis fotografavimas išjungtas
+PDF & Export	PDF ir eksportas
+Speicherort für PDFs und Bilder	PDF ir vaizdų saugojimo vieta
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Eksportuojant tai galima pakeisti atskiriems failams.
+Weitere Optionen …	Daugiau parinkčių …
+Automatische Verbesserung	Automatinis pagerinimas
+Schatten und Artefakte entfernen, Schrift schärfen	Pašalinti šešėlius ir artefaktus, paryškinti šriftą
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Pašalinti šešėlius ir artefaktus, paryškinti šriftą. Galima išjungti kiekviename dokumente.
+unkorrigiert	nekoreguota
+Maximal	Maksimali
+Bildqualität	Vaizdo kokybė
+volle Auflösung	visa skyra
+Briefe, Ausdrucke, große Schrift	Laiškai, spaudiniai, didelis šriftas
+Bücher und die meisten Dokumente (empfohlen)	Knygos ir dauguma dokumentų (rekomenduojama)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Smulkus šriftas, formulės, senos knygos – lėčiau
+Gilt auch für alle weiteren Scans.	Galioja ir visiems tolesniems skenams.
+Ändern	Keisti
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Kur „Išsaugoti“ deda jūsų eksportus. „Bendrinti“ nuo to nepriklauso.
+Ordner und Dateiname beim Speichern wählen	Saugant pasirinkti aplanką ir failo pavadinimą
+Exporte landen direkt hier	Eksportai keliauja tiesiai čia
+Anderen Ordner wählen …	Pasirinkti kitą aplanką …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Taip pat SD kortelė ir debesies aplankai, jei jie nustatyti įrenginyje.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Nuolatinė prieiga prie šio aplanko negalima.
+Sehr hohe Auflösung	Labai didelė skyra
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	Esant %d MP kiekvieno puslapio apdorojimas trunka gerokai ilgiau ir reikalauja daug atminties. Daugumai dokumentų pakanka „Standartinė“. „Maksimali“ verta tik labai smulkiam šriftui.
+Trotzdem verwenden	Vis tiek naudoti
+langsam	lėta
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Nuotolinis užraktas neprijungtas – suporuokite jį Bluetooth nustatymuose
+Mit dem Fernauslöser auslösen	Fotografuoti nuotoliniu užraktu
+Umblättern	Vertimas
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Baigia fotografavimą. Jau nufotografuoti puslapiai išlieka ir apdorojami.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Įjungia arba išjungia žibintuvėlį. Blizgų popierių geriau fotografuoti be šviesos ir įstrižai lango atžvilgiu.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Naudoja esamas nuotraukas vietoj naujų kadrų.
+Serie	Serija
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Pradeda arba sustabdo seriją: laikmatis tada kas kelias sekundes automatiškai fotografuoja.
+Auslöser	Užraktas
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Padaro nuotrauką. Fotografuoja ir garsumo mygtukai bei Bluetooth nuotolinis užraktas.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Baigia fotografavimą ir atidaro apžvalgą; skaičius rodo šio fotografavimo nuotraukas.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Kiek pikselių turi kiekviena nuotrauka. Greita (5 MP) dideliam šriftui, Standartinė (12 MP) beveik viskam, Maksimali smulkiam šriftui ir formulėms – užtrunka ilgiau.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Bakstelėkite, kad perjungtumėte: išjungta, 3, 5 ar 10 sekundžių. Užraktas tada pradeda seriją su nuotrauka tokiu intervalu – patogu knygoms.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Fotografuoja tik bakstelėjus užraktą.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fotografuoja pats, kai tik puslapis 0,7 sekundės ramiai guli. Knygos režimu: po kiekvieno puslapio vertimo, kai knyga vėl nejuda.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Fotografuoja Bluetooth nuotoliniu užraktu (pvz., „AB Shutter 3“). Pirmiausia suporuokite užraktą telefono Bluetooth nustatymuose.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Suteikia dokumentui savo pavadinimą; jis naudojamas ir kaip failo pavadinimas eksportuojant.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Apversti atvartų skaitymo kryptį, versti įrenginyje arba ištrinti skeną.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Atidaro kamerą ir prideda naujų puslapių į šį dokumentą.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Paima nuotraukas iš galerijos kaip naujus puslapius; jie apkarpomi ir atpažįstami kaip kameros nuotraukos.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Keiskite tvarką vilkdami; pažymėkite puslapius, kad juos pasuktumėte, perkeltumėte, nukopijuotumėte, išskirtumėte ar ištrintumėte.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Bendrinti, išsaugoti ar spausdinti kaip PDF, Word, vaizdus, ZIP, tekstą ar lentelę.
+Farbe, Graustufen, Schwarz-Weiß	Spalvotas, pilkos atspalviai, nespalvotas
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Perjungia visus šio dokumento puslapius. Nespalvotas duoda mažiausius failus, spalvotas tiksliai perteikia iliustracijas ir antspaudus.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Įjungta: šešėliai, dėmės ir artefaktai pašalinami, šriftas tampa kontrastingesnis. Išjungta: puslapiai tik apkarpomi ir ištiesinami – nuotraukoms, piešiniams arba kai pagerinimas ką nors iškraipo.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Sukuria failą ir perduoda jį programėlei, pvz., el. paštui, pokalbių programėlei ar debesiui.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Padeda failą į saugojimo vietą – į nuolatinį aplanką arba, esant „Klausti kaskart“, ten, kur jį padėsite.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Spausdina per Android spausdinimo paslaugą; ten galima pasirinkti ir „Išsaugoti kaip PDF“.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Kur „Išsaugoti“ deda failus: klausti kaskart arba visada į nuolatinį aplanką, taip pat į SD kortelę ar debesies aplanką.
+Hilfe & Anleitung	Pagalba ir instrukcija
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Patarimas: palaikykite mygtuką vieną sekundę ir pamatysite, ką jis daro.
+Startseite	Pradžia
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Atidaro kamerą. Visos vieno fotografavimo nuotraukos patenka į vieną bendrą dokumentą.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Galerijos piktograma virš „Skenuoti“ paima esamas nuotraukas; jos apkarpomos ir atpažįstamos kaip kameros nuotraukos.
+Suchen	Paieška
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Randa skenus pagal pavadinimą ir atpažintą tekstą, su puslapio numeriu.
+Ordner und Kategorien	Aplankai ir kategorijos
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Aplankai grupuoja skenus. Kategorijos (knygos, kvitai …) atsiranda pačios, kai tik yra tokio tipo skenų.
+Mehrere Scans	Keli skenai
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Ilgai paspauskite skeną: pažymėti, sujungti, perkelti į aplanką ar ištrinti.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Ištrinti skenai 30 dienų lieka šiukšlinėje (meniu ⋮) ir gali būti atkurti.
+Modi	Režimai
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Pasirinkite apačioje: Dokumentas (pavieniai lapai), Knyga (atvartai padalijami į du puslapius), Asmens dokumentas (priekinė ir antra pusė tikru dydžiu viename lape), Vizitinė kortelė (kontaktas atpažįstamas), Vaizdas (tikros spalvos, be teksto atpažinimo), Nuotrauka dokumentams (priekinė kamera, 35 × 45 mm) ir QR kodas.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Viršuje kairėje: Greita (5 MP) dideliam šriftui, Standartinė (12 MP) beveik viskam, Maksimali smulkiam šriftui ir formulėms – lėčiau.
+Auslösung	Fotografavimas
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Rankiniu būdu: užraktu. Auto 0,7 s: kai tik puslapis 0,7 sekundės ramiai guli; knygos režimu po kiekvieno puslapio vertimo. Bluetooth: suporuotu nuotoliniu užraktu. Garsumo mygtukai fotografuoja visada.
+Timer und Licht	Laikmatis ir šviesa
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Laikrodžio piktograma fotografuoja kas 3, 5 ar 10 sekundžių (pradžia užraktu). Blykstė įjungia žibintuvėlį.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Bakstelėkite miniatiūrą apačioje dešinėje: puslapiai apdorojami ir atidaroma apžvalga.
+Gute Fotos	Geros nuotraukos
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Padėkite puslapį lygiai ir tolygiai apšviestą, laikykite telefoną lygiagrečiai. Pagrindas, kurio spalva skiriasi nuo popieriaus, padeda apkarpyti.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Galioja visiems dokumento puslapiams. Atskirus puslapius galima nustatyti kitaip puslapio peržiūroje.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Pašalina šešėlius ir artefaktus ir padaro šriftą kontrastingesnį. Išjungus puslapis tik apkarpomas ir ištiesinamas.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Bakstelėjus atidaromas puslapis. Ilgai paspaudus: fotografuoti iš naujo, pasukti ar ištrinti. Oranžine žyma pažymėtus puslapius reikėtų patikrinti (pvz., neryškūs), raudonieji nepavyko.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Keiskite tvarką vilkdami, sukite kelis puslapius, perkelkite ar nukopijuokite juos į kitą dokumentą arba išskirkite kaip naują dokumentą.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, vaizdai, ZIP, tekstas ar lentelė – bendrinti, išsaugoti ar spausdinti.
+Mehr (⋮)	Daugiau (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Apversti atvartų skaitymo kryptį, versti įrenginyje arba ištrinti skeną. Pieštukas viršuje keičia pavadinimą.
+Seitenansicht	Puslapio peržiūra
+Blättern und Zoomen	Vartymas ir mastelis
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Perbraukite, kad pakeistumėte puslapį; dukart bakstelėkite arba naudokite du pirštus, kad padidintumėte.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Spalvotas, pilkos atspalviai ar nespalvotas tik šiam puslapiui, su peržiūra. Žemiau – šio puslapio automatinis pagerinimas.
+Drehen und Zuschnitt	Pasukimas ir apkarpymas
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Pasukti 90°. Apkarpyti: iš naujo nustatyti puslapio kampus originalioje nuotraukoje.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Rašykite puslapyje rašikliu, žymekliu ar tekstu.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Padarykite neskelbtinus duomenis neįskaitomus – juostomis ar pikselizuojant. Siūlomi sąskaitų, kortelių numeriai ir veidai.
+Signieren und Text	Parašas ir tekstas
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	„Pasirašyti“ įterpia išsaugotą parašą. „Tekstas“ rodo atpažintą tekstą taisymui ir kopijavimui.
+Formate	Formatai
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (ieškomas), Word, vaizdai (JPG), ZIP, tekstas, Excel ar CSV; vizitinės kortelės ir kaip kontaktas.
+PDF-Optionen	PDF parinktys
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Puslapio formatas, skyra ir glaudinimas lemia kokybę ir failo dydį – dydis įvertinamas viršuje dešinėje. Pasirinktinai su slaptažodžiu (AES-256).
+Teilen oder Speichern	Bendrinti ar išsaugoti
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	„Bendrinti“ siunčia failą programėlei (el. paštas, pokalbiai …). „Išsaugoti“ padeda jį į saugojimo vietą.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	„Klausti kaskart“ saugant atidaro aplanko pasirinkimą. Su nuolatiniu aplanku eksportai patenka ten neklausiant – taip pat į SD kortelę ar debesies aplanką.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Spausdina per Android spausdinimo paslaugą arba išsaugo kaip PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Vaizdo kokybė, fotografavimas ir atvartų dalijimas naujiems skenams. Kameroje tai galima bet kada pakeisti.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtras ir automatinis pagerinimas, nuo kurių prasideda nauji dokumentai.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Leidžia ieškoti PDF. Kalbos nulemia, kurie ženklai atpažįstami.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Saugojimo vieta ir numatytosios skyros, glaudinimo bei puslapio formato reikšmės.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Programėlės užraktas piršto atspaudu, atsarginė kopija kaip ZIP ir šiukšlinė.
+Ecken setzen	Nustatyti kampus
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Nutempkite keturis kampus į puslapio kraštus; lupa rodo padidintą vietą po pirštu.
+Einzel- oder Doppelseite	Vienas puslapis ar atvartas
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Apačioje pasirinkite, ar nuotraukoje vienas puslapis, ar atverstas atvartas. „Automatiškai“ leidžia spręsti programėlei.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Varnelė viršuje apdoroja puslapį su nauju apkarpymu.
+Werkzeuge	Įrankiai
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Rašiklis rašymui, žymeklis paryškinimui, tekstas įvestoms pastaboms. Spalvos žemiau.
+Korrigieren	Taisyti
+Rückgängig nimmt den letzten Strich zurück.	„Anuliuoti“ pašalina paskutinį brūkšnį.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Įrašo pakeitimus į puslapį. Neišsaugojus puslapis lieka nepakitęs.
+Vorschläge	Pasiūlymai
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Rasti sąskaitų, kortelių, mokesčių numeriai ir veidai pažymėti – bakstelėkite, kad atžymėtumėte ar vėl pažymėtumėte.
+Eigene Bereiche	Savos sritys
+Mit dem Finger weitere Rechtecke aufziehen.	Pirštu pažymėkite daugiau stačiakampių.
+Balken oder Pixel	Juostos ar pikseliai
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Juoda juosta arba pikselizavimas. Tekstas po ja pašalinamas ir iš teksto atpažinimo, ir iš PDF.
+Zeichnen	Piešti
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Pasirašykite vieną kartą pirštu – parašas išsaugomas įrenginyje.
+Platzieren	Padėti
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Perkelkite vienu pirštu, dydį keiskite dviem, tada įterpkite.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Pieštuko piktograma viršuje pakeičia išsaugotą parašą.
+Text bearbeiten	Redaguoti tekstą
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Atpažintas puslapio tekstas yra apačioje ir jį galima keisti. Viršuje – puslapio vaizdas palyginimui.
+Wirkung	Poveikis
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Pataisos patenka į paiešką, PDF teksto sluoksnį ir Word bei teksto eksportus.
+Holt einen gelöschten Scan zurück.	Grąžina ištrintą skeną.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Skenai automatiškai pašalinami po 30 dienų. „Išvalyti“ ištrina viską iš karto.
+Belegung	Užimta vieta
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Rodo, kiek vietos užima skenai, originalios nuotraukos, šiukšlinė ir talpykla.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Pašalinus originalias nuotraukas sutaupoma daug vietos; paruošti puslapiai lieka, tik apkarpymo vėliau pakeisti nebegalima.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Išsaugokite visus skenus kaip ZIP failą ir atkurkite juos šiame ar kitame įrenginyje. Nieko neįkeliama.
+Auswahl	Pasirinkimas
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Pasirinkite savo dokumentų kalbas. Kiekviena papildoma kalba lėtina atpažinimą.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Trūkstamos kalbos atsisiunčiamos vieną kartą ir vėliau veikia be interneto.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Prijunkite telefoną ir kompiuterį prie to paties Wi-Fi (arba kompiuterį prie telefono interneto prieigos taško).
+Herunterladen	Atsisiųsti
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Atidarykite rodomą adresą kompiuterio naršyklėje arba nuskenuokite QR kodą; ten visus skenus galima atsisiųsti kaip PDF ar tekstą.
+Sicherheit	Sauga
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Veikia tik vietiniame tinkle ir tik kol atidarytas šis ekranas.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Kalba, vaizdo kokybė, fotografavimas, teksto atpažinimas, saugojimo vieta, programėlės užraktas ir atsarginė kopija.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Paima nuotraukas iš galerijos kaip naują dokumentą; jos apkarpomos ir atpažįstamos kaip kameros nuotraukos.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Atidaro kamerą. Visos vieno fotografavimo nuotraukos patenka į vieną bendrą dokumentą.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Ištrina šį puslapį iš dokumento (patvirtinus).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Spalvotas, pilkos atspalviai ar nespalvotas ir automatinis pagerinimas tik šiam puslapiui.
+Dreht die Seite um 90° im Uhrzeigersinn.	Pasuka puslapį 90° pagal laikrodžio rodyklę.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Iš naujo nustatykite puslapio kampus originalioje nuotraukoje, jei trūksta krašto ar matosi fonas.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Padarykite neskelbtinus duomenis neįskaitomus juostomis ar pikseliais; jie dingsta ir iš PDF teksto.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Padeda išsaugotą parašą puslapyje; pirmą kartą jį nupiešiate.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Rodo atpažintą puslapio tekstą taisymui ir kopijavimui.
+Fotografiert beim Tippen auf den Auslöser.	Fotografuoja bakstelėjus užraktą.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Fotografuoja, kai tik puslapis 0,7 s ramiai guli; knygos režimu po kiekvieno puslapio vertimo.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Fotografuoja suporuotu Bluetooth nuotoliniu užraktu.
+Lautstärketasten lösen immer aus.	Garsumo mygtukai fotografuoja visada.
+Word erstellen, Formeln erkennen (%d/%d)	Kuriamas Word, atpažįstamos formulės (%d/%d)
+Belarussisch	Baltarusių
+Bulgarisch	Bulgarų
+Serbisch	Serbų
+Mazedonisch	Makedonų
+Kein Link im geteilten Text	Bendrinamame tekste nėra nuorodos
+Import fehlgeschlagen: %s	Importuoti nepavyko: %s
+Link laden	Įkeliama nuoroda
+Unter dem Link liegt keine PDF- oder Bilddatei.	Nuoroda neveda į PDF ar vaizdo failą.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Importuoti galima tik PDF failus ir vaizdus.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Apsaugotų PDF failų importuoti negalima.
+PDF-Seite %d/%d importieren	Importuojamas PDF puslapis %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Fotografuoti po %s s
+Wartezeit	Laukimo laikas
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Kiek laiko puslapis turi gulėti ramiai prieš automatinę nuotrauką. Trumpiau – greičiau, ilgiau – mažiau suliejusių nuotraukų.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fotografuoja pats, kai tik puslapis guli ramiai; laukimo laiką (0,2–1,5 s) nustatai žemiau. Knygos režimu: po kiekvieno puslapio vertimo, kai tik knyga vėl guli ramiai.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Prideda nuotraukas, ekrano kopijas, PDF failus ar nuorodą kaip papildomus puslapius; nuotraukos apkerpamos, viskas atpažįstama.
+Senden an …	Siųsti į …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Kur „Išsaugoti“ deda eksportus. „Siųsti į …“ nuo to nepriklauso.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Pasirink poaplankį, pvz., „Documents“ – saugyklos viršutinio aplanko Android neleidžia.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Sukuria failą ir siunčia jį į programėlę, pvz., WhatsApp, el. paštą, Telegram ar debesį.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Rankiniu būdu: užrakto mygtuku. Auto: kai tik puslapis guli ramiai – laukimo laiką (0,2–1,5 s, numatyta 0,7 s) nustatai nuskaitymo lange po jungikliu; knygos režimu po kiekvieno puslapio vertimo. Bluetooth: susietu nuotoliniu užraktu. Garsumo mygtukai visada fotografuoja.
+Senden an oder Speichern	Siųsti arba išsaugoti
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Siųsti į …“ siunčia failą į programėlę (WhatsApp, el. paštas, Telegram, debesis …). Išsaugoti jį padeda į saugojimo vietą.
+Importieren	Importuoti
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Perima nuotraukas, ekrano kopijas, PDF failus ar nuorodą kaip naują dokumentą; nuotraukos apkerpamos, viskas atpažįstama.
+Bilder aus der Galerie	Vaizdai iš galerijos
+Fotos und Screenshots	Nuotraukos ir ekrano kopijos
+Dateien	Failai
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	PDF failai ir vaizdai, pvz., iš Atsisiuntimų ar debesies
+Eine PDF- oder Bilddatei aus dem Internet	PDF ar vaizdo failas iš interneto
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Toliau kaip nuskaityti puslapiai: teksto atpažinimas, vertimas ir eksportas į bet kokį formatą.
+Link importieren	Importuoti nuorodą
+Internetadresse	Interneto adresas
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Fotografuoja, kai puslapis %s s guli ramiai (nustatoma nuskaitymo lange); knygos režimu po kiekvieno puslapio vertimo.
+Fachwörterbuch laden	Įkeliamas žodynas
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Trūksta žodyno kalbai %s arba %s – išversta be terminų
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Ne žodyno failas (glossary-xx.tsv.gz)
+Download nicht verfügbar	Atsisiuntimas negalimas
+Estnisch	Estų
+Irisch	Airių
+Litauisch	Lietuvių
+Lettisch	Latvių
+Maltesisch	Maltiečių
+Slowakisch	Slovakų
+Slowenisch	Slovėnų
+Ohne Fachwörterbuch	Be žodyno
+Alle Fachgebiete	Visos sritys
+Fachgebiet: %s	Sritis: %s
+Fachwörterbücher verwalten …	Tvarkyti žodynus …
+Fachwörterbücher	Terminų žodynai
+Aus Datei importieren	Importuoti iš failo
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Teisės, medicinos, technikos, ekonomikos ir dar 17 sričių terminai (IATE, ES terminų bazė) verčiant perimami tiksliai. Reikia šaltinio ir tikslinės kalbos žodyno, kiekvienas 0,3–9 MB.
+Einmal laden, danach offline.	Atsisiųsti kartą, paskui neprisijungus.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importuokite glossary-xx.tsv.gz failus aplanko piktograma viršuje.
+Fachwörterbücher für die Übersetzung	Terminų žodynai vertimui
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Teisė, medicina, technika ir kt. – 24 ES kalbos
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Visos nuotraukos ir tekstai lieka šiame įrenginyje. Internetas naudojamas tik vienkartiniam kalbų, vertimo modelių ir žodynų atsisiuntimui, kai tai pradedate.
+Übersetzen	Versti
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Įrenginyje sukuria išverstą dokumento kopiją: tie patys puslapiai ir paveikslėliai, tekstas tiksline kalba savo vietoje. Kiekviena pastraipa verčiama iš savo kalbos. Su „Sritimi“ specialieji terminai iš žodynų perkeliami tiksliai.
+Was nachgeladen werden kann	Ką galima atsisiųsti
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Viskas neprivaloma ir atsisiunčiama tik palietus; paskui veikia be interneto:\n• Teksto atpažinimo kalbos: kiekviena 1–15 MB (Nustatymai › Kalbos). Vokiečių ir anglų įtrauktos.\n• Kinų: atskiras atpažinimo modelis, apie 17 MB.\n• Vertimo modeliai: apie 30 MB kalbai, atsisiunčiami automatiškai per pirmą vertimą.\n• Terminų žodynai: 0,3–9 MB kalbai, visoms 24 ES kalboms kartu apie 70 MB (Nustatymai › Terminų žodynai).\nAtsisiųstus failus galima bet kada pašalinti.
+Wozu	Kam to reikia
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Bendrieji vertėjai daugelio terminų nežino arba verčia juos nenuosekliai. Žodynas įterpia nustatytą terminą, pvz., „Beweislast“ → „įrodinėjimo pareiga“.
+Quelle	Šaltinis
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE – ES institucijų terminų bazė su 21 srities terminais (teisė, sveikata, technika, ekonomika, aplinka, transportas …). Ji yra 24 oficialiosiomis ES kalbomis.
+Was nötig ist	Ko reikia
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Po vieną žodyną šaltinio ir tikslinei kalbai, pvz., vokiečių ir anglų. Vieno žodyno kalbai užtenka visoms kalbų poroms.
+Laden oder importieren	Atsisiųsti arba importuoti
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Atsisiųskite rodykle (kartą, paskui neprisijungus) arba aplanko piktograma importuokite failą „glossary-xx.tsv.gz“, pvz., iš kompiuterio ar SD kortelės.
+Benutzen	Naudojimas
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Verčiant viršuje pasirinkite sritį. „Visos sritys“ naudoja tik terminus, kurie visur verčiami vienodai.
+Grenzen	Apribojimai
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Terminai įterpiami pagrindine forma; linksniuotos formos ne visada atpažįstamos.
+Politik	Politika
+Internationale Beziehungen	Tarptautiniai santykiai
+Europäische Union	Europos Sąjunga
+Recht	Teisė
+Wirtschaft	Ekonomika
+Handel	Prekyba
+Finanzwesen	Finansai
+Soziales und Gesundheit	Socialiniai klausimai ir sveikata
+Bildung und Kommunikation	Švietimas ir komunikacija
+Wissenschaft	Mokslas
+Unternehmen und Wettbewerb	Verslas ir konkurencija
+Beschäftigung und Arbeitsbedingungen	Užimtumas ir darbo sąlygos
+Verkehr	Transportas
+Umwelt	Aplinka
+Land-, Forst- und Fischereiwirtschaft	Žemės ūkis, miškininkystė ir žuvininkystė
+Agrarerzeugnisse und Lebensmittel	Žemės ūkio maisto produktai
+Produktion, Technologie und Forschung	Gamyba, technologijos ir moksliniai tyrimai
+Energie	Energetika
+Industrie	Pramonė
+Geografie	Geografija
+Internationale Organisationen	Tarptautinės organizacijos
+Wenig Licht – Lampe einschalten	Mažai šviesos – įjungti žibintuvėlį
+Verarbeitung mehrfach abgebrochen	Apdorojimas buvo kelis kartus nutrauktas
+Bearbeitungen gehen verloren	Pakeitimai bus prarasti
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Puslapis sukuriamas iš naujo iš nuotraukos. Užtamsinimus, parašą ir pastabas reikės pridėti dar kartą.
+Neu zuschneiden	Apkarpyti iš naujo
+Sprachdaten	Kalbų duomenys
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Rodo, kiek vietos užima nuskaitymai, originalios nuotraukos, šiukšliadėžė, talpykla ir kalbų duomenys (teksto atpažinimas, žodynai).
+Bitte warten, bis alle Seiten erkannt sind	Palaukite, kol bus atpažinti visi puslapiai
+Die Sprache „%s“ kann nicht übersetzt werden	Kalbos „%s“ išversti negalima
+Übersetzung in die Seiten setzen	Vertimas įterpiamas į puslapius

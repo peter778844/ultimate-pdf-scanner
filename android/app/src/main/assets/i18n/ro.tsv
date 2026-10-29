@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Configurați mai întâi amprenta, deblocarea facială sau blocarea ecranului.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Acest dispozitiv nu acceptă deblocarea biometrică.
+Ultimate PDF Scanner entsperren	Deblocați Ultimate PDF Scanner
+Deine Scans sind geschützt	Scanările dvs. sunt protejate
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner este blocat
+Deine Scans bleiben auf diesem Gerät.	Scanările dvs. rămân pe acest dispozitiv.
+  Entsperren	  Deblocați
+Systemsprache	Limba sistemului
+Deutsch	Deutsch
+English	English
+Fotos importieren	Importați fotografii
+Texterkennung vorbereiten	Se pregătește recunoașterea textului
+Ein Foto konnte nicht verarbeitet werden: %s	O fotografie nu a putut fi procesată: %s
+Foto laden	Încărcați fotografia
+Foto nicht lesbar	Fotografie ilizibilă
+Filter anwenden	Aplicați filtrul
+Schwärzen	Ascundeți
+Unterschrift einfügen	Inserați semnătura
+Unterschrift eingefügt	Semnătură inserată
+Änderungen einfügen	Inserați modificările
+Seite bearbeitet	Pagină editată
+Text gesichert	Text salvat
+Zusammenführen	Combinați
+%d Scans zusammengeführt	Scanări combinate: %d
+Seiten verschieben	Mutați paginile
+Seiten kopieren	Copiați paginile
+ (Teil)	 (parte)
+Zwischenspeicher leeren	Goliți memoria cache
+Zwischenspeicher geleert	Memoria cache golită
+Originalfotos entfernen	Eliminați fotografiile originale
+Sicherung erstellen	Creați o copie de rezervă
+Sicherung erstellen (%d/%d)	Creați o copie de rezervă (%d/%d)
+Sicherung gespeichert	Copie de rezervă salvată
+Sicherung wiederherstellen	Restaurați copia de rezervă
+ (%d schon vorhanden)	 (%d există deja)
+Wiederherstellen fehlgeschlagen: %s	Restaurarea a eșuat: %s
+PDF erstellen (%d/%d)	Se creează PDF (%d/%d)
+%s erstellen	Se creează: %s
+Export fehlgeschlagen: %s	Exportul a eșuat: %s
+%s speichern	Salvați: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF salvat (protejat cu parolă, AES-256)
+%s gespeichert	Salvat: %s
+Bilder speichern	Salvați imaginile
+Bilder speichern (%d/%d)	Salvați imaginile (%d/%d)
+%d Bilder gespeichert	Imagini salvate: %d
+Sprache erkennen	Detectați limba
+Kein erkannter Text zum Übersetzen	Niciun text recunoscut de tradus
+Sprache nicht erkannt	Limba nu a fost recunoscută
+Der Text ist bereits auf %s	Textul este deja în: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Se încarcă modelul lingvistic (prima dată ~30 MB)
+Übersetzen (%d/%d)	Traducere (%d/%d)
+Seite %d	Pagina %d
+Übersetzung fehlgeschlagen: %s	Traducerea a eșuat: %s
+1 Bereich unkenntlich gemacht	1 zonă ascunsă
+%d Bereiche unkenntlich gemacht	Zone ascunse: %d
+1 Scan wiederhergestellt	1 scanare restaurată
+%d Scans wiederhergestellt	Scanări restaurate: %d
+Server antwortet mit %d	Serverul răspunde cu %d
+Datei unvollständig	Fișier incomplet
+Nicht gefunden	Negăsit
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Scanări pe telefon: %d · direct prin Wi-Fi, fără cloud
+Ausgangssprache „%s“ wird nicht unterstützt	Limba sursă „%s” nu este acceptată
+Zielsprache „%s“ wird nicht unterstützt	Limba țintă „%s” nu este acceptată
+QR-CODE	COD QR
+AUSWEIS	ACT DE IDENTITATE
+DOKUMENT	DOCUMENT
+BUCH	CARTE
+VISITENKARTE	CARTE DE VIZITĂ
+PASSFOTO	FOTOGRAFIE PAȘAPORT
+PDF	PDF
+Word	Word
+Bilder	Imagini
+ZIP	ZIP
+Text	Text
+Excel	Excel
+CSV	CSV
+Kontakt	Contact
+Wie gescannt	Ca la scanare
+Letter	Letter
+Mittel	Medie
+Englisch	Engleză
+Französisch	Franceză
+Italienisch	Italiană
+Spanisch	Spaniolă
+Portugiesisch	Portugheză
+Niederländisch	Neerlandeză
+Polnisch	Poloneză
+Tschechisch	Cehă
+Dänisch	Daneză
+Schwedisch	Suedeză
+Norwegisch	Norvegiană
+Finnisch	Finlandeză
+Ungarisch	Maghiară
+Rumänisch	Română
+Kroatisch	Croată
+Türkisch	Turcă
+Griechisch	Greacă
+Russisch	Rusă
+Ukrainisch	Ucraineană
+Arabisch	Arabă
+Hebräisch	Ebraică
+Persisch	Persană
+Chinesisch (vereinfacht)	Chineză (simplificată)
+Japanisch	Japoneză
+Koreanisch	Coreeană
+Latein	Latină
+Deutsch (Fraktur)	Germană (Fraktur)
+1 Seite	1 pagină
+%d Seiten	%d pagini
+1 Scan	1 scanare
+%d Scans	%d scanări
+Abbrechen	Anulați
+Bearbeiten	Editați
+Zurück	Înapoi
+Rückgängig	Anulați acțiunea
+Sichern	Salvați
+Seite	Pagină
+Einfügen	Inserați
+Änderungen sichern?	Salvați modificările?
+Verwerfen	Renunțați
+Schließen	Închideți
+Fertig	Gata
+Öffnen	Deschideți
+Keine	Niciuna
+Alle	Toate
+Umbenennen	Redenumiți
+Mehr	Mai multe
+Löschen	Ștergeți
+Teilen	Distribuiți
+Speichern	Salvați
+Drucken	Imprimați
+Kopieren	Copiați
+Drehen	Rotiți
+Laden	Descărcați
+Entfernen	Eliminați
+Verschieben	Mutați
+Name	Nume
+Aus	Dezactivat
+Leeren	Goliți
+Wiederherstellen	Restaurați
+Text einfügen	Inserați text
+z. B. Name, Datum …	de ex. nume, dată …
+Kein Gesicht erkannt – bitte noch einmal	Nicio față recunoscută – încercați din nou
+Seite erneut scannen	Scanați din nou pagina
+Fernauslöser verbunden	Telecomandă conectată
+Nach dem Umblättern auslösen	Declanșare după întoarcerea paginii
+Leserichtung rechts nach links	Sens de citire de la dreapta la stânga
+Leserichtung links nach rechts	Sens de citire de la stânga la dreapta
+Automatisch auslösen	Declanșare automată
+Kamera wechseln	Schimbați camera
+Licht	Lumină
+Bitte Kamerazugriff erlauben.	Permiteți accesul la cameră.
+Passfoto wird zugeschnitten …	Se decupează fotografia pașaport …
+Ohne Rückseite fertig	Gata fără verso
+Kein Code im Bild gefunden	Nu s-a găsit niciun cod în imagine
+Aus Galerie	Din galerie
+QR-Code oder Barcode in den Rahmen halten	Țineți codul QR sau codul de bare în cadru
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Fața în oval · priviți drept · fundal deschis
+Vorderseite des Ausweises in den Rahmen	Fața actului de identitate în cadru
+Jetzt die Rückseite	Acum versoul
+Visitenkarte in den Rahmen legen	Puneți cartea de vizită în cadru
+Aufgeschlagenes Buch ins Bild halten	Țineți cartea deschisă în cadru
+Doppelseite erkannt	Pagină dublă detectată
+Umblättern – löst danach automatisch aus	Întoarceți pagina – apoi se declanșează automat
+Ruhig halten …	Țineți nemișcat …
+Ruhig halten – wird automatisch ausgelöst	Țineți nemișcat – se declanșează automat
+Seite ins Bild halten	Țineți pagina în cadru
+Seite erkannt	Pagină detectată
+Intervall-Timer	Temporizator cu interval
+Serie starten	Porniți seria
+Farbe	Color
+Graustufen	Tonuri de gri
+Schwarz-Weiß	Alb-negru
+Original	Original
+Automatisch	Automat
+Zuschnitt nicht möglich	Decuparea nu este posibilă
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Fotografia originală a acestei pagini a fost eliminată pentru a economisi spațiu. Cu „Scanați din nou” puteți captura din nou pagina.
+Zuschnitt anpassen	Ajustați decuparea
+Übernehmen	Aplicați
+Einzelseite	Pagină simplă
+Doppelseite	Pagină dublă
+Auto	Auto
+  Automatisch	  Automat
+Ecken auf die Seitenränder ziehen	Trageți colțurile pe marginile paginii
+Seiten ordnen	Ordonați paginile
+%d ausgewählt	%d selectate
+Filter für alle Seiten	Filtru pentru toate paginile
+Leserichtung umkehren	Inversați sensul de citire
+Übersetzen…	Traduceți…
+Scan löschen	Ștergeți scanarea
+Scannen	Scanați
+Import	Import
+Ordnen	Ordonați
+Exportieren	Exportați
+Übersetzen in …	Traduceți în …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Traducerea se face pe dispozitiv. Prima dată modelul lingvistic se descarcă o singură dată.
+Übersetzung teilen	Distribuiți traducerea
+Scan löschen?	Ștergeți scanarea?
+„%s“ wird endgültig gelöscht.	„%s” va fi șters definitiv.
+Kontakt erkannt	Contact recunoscut
+Zu Kontakten	La contacte
+Seiten werden verarbeitet (%d/%d)	Se procesează paginile (%d/%d)
+Nur diese	Doar acestea
+Wird neu verarbeitet	Se reprocesează
+Erneut	Din nou
+Fehlgeschlagen	Eșuat
+Foto nicht verarbeitet	Fotografie neprocesată
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	A apărut o eroare la procesarea imaginii.
+Keine Auffälligkeiten	Nicio problemă
+Erneut scannen	Scanați din nou
+Ersetzt beide Seiten dieser Doppelseite	Înlocuiește ambele pagini ale acestei pagini duble
+Kamera öffnen und diese Seite ersetzen	Deschideți camera și înlocuiți această pagină
+Nach vorn	Înainte
+Nach hinten	Înapoi
+Seite löschen	Ștergeți pagina
+Foto entfernen	Eliminați fotografia
+1 Seite verschoben	1 pagină mutată
+%d Seiten verschoben	Pagini mutate: %d
+1 Seite kopiert	1 pagină copiată
+%d Seiten kopiert	Pagini copiate: %d
+1 Seite löschen?	Ștergeți 1 pagină?
+%d Seiten löschen?	Ștergeți %d pagini?
+1 Seite prüfen	Verificați 1 pagină
+%d Seiten prüfen	Verificați %d pagini
+Seite löschen?	Ștergeți pagina?
+Durchsuchbares PDF mit erkanntem Text	PDF cu căutare și text recunoscut
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Text editabil pentru Word, LibreOffice și Google Docs
+Die Seite als JPG-Bild	Pagina ca imagine JPG
+Ein JPG-Bild pro Seite (%d Dateien)	O imagine JPG pe pagină (%d fișiere)
+Alle Seiten als JPG und der Text in einem Archiv	Toate paginile ca JPG și textul într-o arhivă
+Nur der erkannte Text	Doar textul recunoscut
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tabele recunoscute, o foaie pe pagină
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tabele recunoscute ca CSV (punct și virgulă, pentru Excel)
+Visitenkarte als Kontakt (vCard)	Carte de vizită ca contact (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Față și verso la dimensiune reală pe o pagină – gata de imprimat
+Seitenformat	Format pagină
+Mit Passwort schützen	Protejați cu parolă
+AES-256-Verschlüsselung	Criptare AES-256
+Passwort	Parolă
+Mindestens 4 Zeichen	Cel puțin 4 caractere
+Passwort wiederholen	Repetați parola
+Passwörter stimmen nicht überein	Parolele nu se potrivesc
+Seitenbilder einfügen	Inserați imaginile paginilor
+Jede Seite als Bild über ihrem Text	Fiecare pagină ca imagine deasupra textului ei
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Coloanele sunt recunoscute după spațiile din text – funcționează cel mai bine cu coloane clar separate. Numere ca „1.234,50” sunt preluate ca numere.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Pe această carte de vizită nu s-au recunoscut date de contact.
+1 ausgewählte Seite	1 pagină selectată
+%d ausgewählte Seiten	%d pagini selectate
+Mobil	Mobil
+Fax	Fax
+Telefon	Telefon
+%s teilen	Distribuiți: %s
+Scan	Scanare
+Text teilen	Distribuiți textul
+PDF teilen	Distribuiți PDF
+In den Papierkorb verschoben	Mutat în coșul de gunoi
+%d Scans in den Papierkorb verschoben	Scanări mutate în coșul de gunoi: %d
+Auswahl beenden	Încheiați selecția
+Alle auswählen	Selectați tot
+In Ordner verschieben	Mutați în dosar
+Ordner	Dosare
+Ordner umbenennen	Redenumiți dosarul
+Ordner auflösen	Desființați dosarul
+Papierkorb (%d)	Coș de gunoi (%d)
+Papierkorb	Coș de gunoi
+An PC senden	Trimiteți la PC
+Speicher & Sicherung	Stocare și copie de rezervă
+Einstellungen	Setări
+Scans und Text durchsuchen	Căutați în scanări și text
+Alle Scans durchsuchen	Căutați în toate scanările
+Suche löschen	Ștergeți căutarea
+%d Treffer	%d rezultate
+Alle Scans	Toate scanările
+Nichts gefunden	Nimic găsit
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Niciun nume și niciun text recunoscut nu se potrivește cu „%s”.
+Ordner ist leer	Dosarul este gol
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Mutați scanări aici: țineți apăsat pe o scanare și alegeți „Mutați în dosar”.
+Noch keine Scans	Încă nicio scanare
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Atingeți „Scanați” pentru a fotografia pagini,\nsau importați fotografii din galerie.
+Ordnername	Numele dosarului
+Neuer Ordner	Dosar nou
+%d Scans zusammenführen?	Combinați %d scanări?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Toate paginile sunt adăugate la „%s” în ordinea selecției. Celelalte scanări dispar apoi.
+%d prüfen	Verificați: %d
+Wird verarbeitet (%d/%d)	Se procesează (%d/%d)
+Als PDF teilen	Distribuiți ca PDF
+Kategorie ändern	Schimbați categoria
+Kein Ordner	Fără dosar
+Neuer Ordner …	Dosar nou …
+Kategorie	Categorie
+Download fehlgeschlagen: %s	Descărcarea a eșuat: %s
+keine Verbindung	fără conexiune
+Sprachen der Texterkennung	Limbile recunoașterii textului
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Limbile alese sunt recunoscute împreună – alegeți doar cele necesare, fiecare în plus încetinește recunoașterea. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Limbile lipsă se descarcă o singură dată (cca 2–15 MB) și apoi funcționează offline.
+Wird geladen … %d %%	Se descarcă … %d %%
+Enthalten	Inclus
+Geladen · %s	Descărcat · %s
+Nicht geladen	Nedescărcat
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Atingeți pentru a selecta · țineți apăsat și trageți pentru a muta
+Neuer Scan	Scanare nouă
+Verschieben nach …	Mutați în …
+Kopieren nach …	Copiați în …
+Seite %d von %d	Pagina %d din %d
+Filter	Filtru
+Zuschnitt	Decupare
+Signieren	Semnați
+Code	Cod
+Link	Link
+E-Mail	E-mail
+Telefonnummer	Număr de telefon
+Ort	Loc
+Produktcode	Cod produs
+Netzwerk: %s	Rețea: %s
+Passwort: %s	Parolă: %s
+Verschlüsselung: %s	Criptare: %s
+Passwort kopieren	Copiați parola
+Verbinden	Conectați
+E-Mail schreiben	Scrieți un e-mail
+Anrufen	Apelați
+In Karten öffnen	Deschideți în Hărți
+Suche sensible Daten…	Se caută date sensibile…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Nu s-au găsit date sensibile. Trasați cu degetul zonele de ascuns.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Găsite – atingeți pentru a selecta sau deselecta, trasați alte zone:
+Schwarzer Balken	Bară neagră
+Verpixeln	Pixelare
+Unkenntlich machen (%d)	Ascundeți (%d)
+Manuell	Manual
+Gesicht	Față
+Kein WLAN	Fără Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Conectați telefonul și PC-ul la aceeași rețea Wi-Fi (sau PC-ul la hotspotul telefonului). Adresa va apărea apoi aici.
+Am PC im Browser öffnen	Deschideți în browserul de pe PC
+QR-Code der Adresse	Codul QR al adresei
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Introduceți adresa sau scanați codul QR cu camera PC-ului. Acolo puteți descărca toate scanările ca PDF sau text.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Doar în rețeaua locală și doar cât timp acest ecran este deschis. Nimic nu se încarcă pe internet.
+Heruntergeladen	Descărcat
+App-Sperre nicht möglich	Blocarea aplicației nu este posibilă
+Sprache	Limbă
+Sprache der App	Limba aplicației
+Aufnahme	Captură
+Doppelseiten im Dokument-Modus	Pagini duble în modul document
+Automatisch teilen	Împărțire automată
+Nie teilen	Nu împărțiți niciodată
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Fotografiază de îndată ce pagina stă nemișcată în cadru.
+Buch-Modus	Mod carte
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Recunoaște întoarcerea paginii și fotografiază de îndată ce cartea stă din nou nemișcată.
+Leserichtung	Sens de citire
+Links → rechts	Stânga → dreapta
+Rechts → links	Dreapta → stânga
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Dreapta → stânga pentru arabă, ebraică, persană și japoneză: pagina din dreapta vine prima.
+Fernauslöser	Telecomandă
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Asociați telecomanda Bluetooth pentru cameră (de ex. „AB Shutter 3”) în setările Bluetooth Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	În cameră declanșează apoi telecomanda și butoanele de volum.
+Bild	Imagine
+Standardfilter	Filtru implicit
+Handschrift entfernen	Eliminați scrisul de mână
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Elimină notițele cu pix albastru/roșu și creion. Elimină și tiparul în aceste culori.
+Texterkennung	Recunoașterea textului
+Sprachen	Limbi
+Sicherheit & Speicher	Securitate și stocare
+App-Sperre	Blocarea aplicației
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	La deschidere deblocați cu amprentă, față sau blocarea ecranului. Conținutul nu apare în prezentarea aplicațiilor.
+Belegung, Backup als ZIP, Wiederherstellen	Ocupare, copie de rezervă ca ZIP, restaurare
+Gelöschte Scans werden nach 30 Tagen entfernt	Scanările șterse sunt eliminate după 30 de zile
+Offline	Offline
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Toate fotografiile și textele rămân pe acest dispozitiv. Internetul este folosit doar pentru descărcarea unică a limbilor, când o porniți dvs.
+Über	Despre
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Componente open source: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (toate cu licența Apache 2.0); ML Kit (traducere, detectarea fețelor, pe dispozitiv).
+Unterschrift zeichnen	Desenați semnătura
+Mit dem Finger unterschreiben	Semnați cu degetul
+Unterschrift platzieren	Plasați semnătura
+Neu zeichnen	Desenați din nou
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Mutați cu un deget, redimensionați cu două degete.
+Unterschrift	Semnătură
+Belegt von Ultimate PDF Scanner	Ocupat de Ultimate PDF Scanner
+%s frei auf dem Gerät	Liber pe dispozitiv: %s
+Seiten	Pagini
+Originalfotos	Fotografii originale
+Zwischenspeicher	Memorie cache
+Platz schaffen	Eliberați spațiu
+Exportierte Dateien zum Teilen	Fișiere exportate pentru distribuire
+Gelöschte Scans der letzten 30 Tage	Scanări șterse în ultimele 30 de zile
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Paginile finalizate rămân, dar decuparea nu mai poate fi modificată după aceea.
+Größte Scans	Cele mai mari scanări
+Sicherung	Copie de rezervă
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Salvați toate scanările într-un singur fișier ZIP – de ex. pe un card SD, un stick USB sau PC. Nimic nu se încarcă.
+Papierkorb mitsichern	Includeți coșul de gunoi
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-copie-de-rezerva_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	La restaurare se adaugă doar scanările care lipsesc.
+Originalfotos entfernen?	Eliminați fotografiile originale?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Economisește %s. Paginile nu mai pot fi decupate din nou, „Scanați din nou” rămâne posibil.
+Text bearbeiten · Seite %d	Editați textul · pagina %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Corecturile sunt preluate în căutare și în stratul de text al PDF-ului.
+Kein Text erkannt – hier eintippen	Niciun text recunoscut – introduceți-l aici
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Scanările șterse sunt eliminate definitiv după %d zile.
+Papierkorb ist leer	Coșul de gunoi este gol
+Endgültig löschen	Ștergeți definitiv
+Papierkorb leeren?	Goliți coșul de gunoi?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d scanări vor fi șterse definitiv. Acțiunea nu poate fi anulată.
+Endgültig löschen?	Ștergeți definitiv?
+„%s“ wird sofort gelöscht.	„%s” va fi șters imediat.
+noch 1 Tag	încă 1 zi
+noch %d Tage	încă %d zile
+Quittung	Bon
+Quittungen	Bonuri
+Rechnung	Factură
+Rechnungen	Facturi
+Visitenkarte	Carte de vizită
+Visitenkarten	Cărți de vizită
+Vertrag	Contract
+Verträge	Contracte
+Brief	Scrisoare
+Briefe	Scrisori
+Ausweis	Act de identitate
+Ausweise	Acte de identitate
+Buch	Carte
+Bücher	Cărți
+Passfoto	Fotografie pașaport
+Passfotos	Fotografii pașaport
+Dokument	Document
+Dokumente	Documente
+Auflösung	Rezoluție
+Kompression	Compresie
+Gering	Scăzută
+Stark	Puternică
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi și compresie scăzută pentru tipar și arhivă, 150 dpi și compresie puternică pentru e-mail.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Face PDF-urile căutabile și textul copiabil. Dezactivat: procesare mai rapidă, PDF doar ca imagine.
+Keine Seite erkannt	Nicio pagină detectată
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Marginea paginii nu a fost găsită – a fost preluată întreaga fotografie.
+Unscharf	Neclară
+Das Foto ist verwackelt oder unscharf.	Fotografia este mișcată sau neclară.
+Zu dunkel	Prea întunecată
+Die Seite ist schlecht ausgeleuchtet.	Pagina este slab iluminată.
+Text schlecht lesbar	Text greu lizibil
+Die Texterkennung war unsicher.	Recunoașterea textului a fost nesigură.
+Kein Text erkannt	Niciun text recunoscut
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Nu s-a găsit text pe pagină – o pagină goală sau nicio pagină în imagine?
+Hindi	Hindi
+Bengalisch	Bengaleză
+Urdu	Urdu
+Indonesisch	Indoneziană
+Seite erkennen	Detectați pagina
+Seite entzerren	Îndreptați pagina
+Finger entfernen	Eliminați degetele
+Schärfe prüfen	Verificați claritatea
+Ausrichtung	Orientare
+Bild verbessern	Îmbunătățiți imaginea
+Speicherort	Locație de salvare
+Speicherort für Exporte	Locație de salvare pentru exporturi
+Jedes Mal fragen	Întreabă de fiecare dată
+Ordner wählen …	Alegeți dosarul …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	„Salvați” pune PDF-urile și alte exporturi direct în acest dosar, fără să întrebe de fiecare dată. Este posibil și un card SD.
+Gespeichert in „%s“	Salvat în „%s”
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Locația de salvare nu este accesibilă. Alegeți-o din nou.
+Neu aufnehmen	Capturați din nou
+Um 90° links drehen	Rotiți 90° la stânga
+Seite gelöscht	Pagină ștearsă
+Lange drücken: neu aufnehmen, drehen oder löschen	Apăsați lung: capturați din nou, rotiți sau ștergeți
+Ersetzt beide Seiten	Înlocuiește ambele pagini
+Ränder bereinigen	Curățați marginile
+Scan-Qualität	Calitatea scanării
+Schnell	Rapidă
+Standard	Standard
+Genau	Precisă
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Pentru scris mare și clar, ca scrisori și tipărituri: fotografii mai mici, procesare cea mai rapidă.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Pentru cărți și majoritatea documentelor: recunoaștere bună la viteză normală.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Pentru litere mici, cărți vechi, note de subsol și formule: rezoluția completă a camerei, mai lent, mai multă memorie.
+BILD	IMAGINE
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Așezați imaginea plat · fără bliț · evitați reflexiile
+an	activat
+aus	dezactivat
+Automatische Auslösung an: nach dem Umblättern	Declanșare automată activată: după întoarcerea paginii
+Automatische Auslösung an: sobald die Seite ruhig liegt	Declanșare automată activată: când pagina stă nemișcată
+Automatische Auslösung aus	Declanșare automată dezactivată
+PDF & Export	PDF și export
+Speicherort für PDFs und Bilder	Locație de salvare pentru PDF-uri și imagini
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	La export puteți schimba asta pentru fișiere individuale.
+Weitere Optionen …	Mai multe opțiuni …
+Automatische Verbesserung	Îmbunătățire automată
+Schatten und Artefakte entfernen, Schrift schärfen	Eliminați umbrele și artefactele, clarificați scrisul
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Eliminați umbrele și artefactele, clarificați scrisul. Se poate dezactiva în fiecare document.
+unkorrigiert	necorectat
+Maximal	Maximă
+Bildqualität	Calitatea imaginii
+volle Auflösung	rezoluție completă
+Briefe, Ausdrucke, große Schrift	Scrisori, tipărituri, scris mare
+Bücher und die meisten Dokumente (empfohlen)	Cărți și majoritatea documentelor (recomandat)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Litere mici, formule, cărți vechi – mai lent
+Gilt auch für alle weiteren Scans.	Se aplică și tuturor scanărilor următoare.
+Ändern	Schimbați
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Unde pune „Salvați” exporturile dvs. „Distribuiți” nu depinde de asta.
+Ordner und Dateiname beim Speichern wählen	Alegeți dosarul și numele fișierului la salvare
+Exporte landen direkt hier	Exporturile ajung direct aici
+Anderen Ordner wählen …	Alegeți alt dosar …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Și card SD și dosare în cloud, dacă sunt configurate pe dispozitiv.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Accesul permanent la acest dosar nu este posibil.
+Sehr hohe Auflösung	Rezoluție foarte mare
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	La %d MP procesarea fiecărei pagini durează mult mai mult și necesită multă memorie. „Standard” ajunge pentru majoritatea documentelor. „Maximă” merită doar pentru litere foarte mici.
+Trotzdem verwenden	Folosiți oricum
+langsam	lent
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Nicio telecomandă conectată – asociați-o în setările Bluetooth
+Mit dem Fernauslöser auslösen	Declanșați cu telecomanda
+Umblättern	Întoarcere pagină
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Încheie captura. Paginile deja fotografiate rămân și sunt procesate.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Pornește sau oprește lanterna. Hârtia lucioasă se fotografiază mai bine fără lumină și oblic față de fereastră.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Folosește fotografii existente în loc de capturi noi.
+Serie	Serie
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Pornește sau oprește seria: temporizatorul face atunci automat o fotografie la câteva secunde.
+Auslöser	Declanșator
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Face o fotografie. Butoanele de volum și o telecomandă Bluetooth declanșează și ele.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Încheie captura și deschide prezentarea; numărul arată fotografiile acestei capturi.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Câți pixeli are fiecare fotografie. Rapidă (5 MP) pentru scris mare, Standard (12 MP) pentru aproape orice, Maximă pentru litere mici și formule – durează mai mult.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Atingeți pentru a comuta: dezactivat, 3, 5 sau 10 secunde. Declanșatorul pornește apoi o serie cu o fotografie la acest interval – practic pentru cărți.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Fotografiază doar când atingeți declanșatorul.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Fotografiază singur de îndată ce pagina stă nemișcată 0,7 secunde. În modul carte: după fiecare întoarcere a paginii, când cartea stă din nou nemișcată.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Fotografiază cu o telecomandă Bluetooth (de ex. „AB Shutter 3”). Asociați mai întâi telecomanda în setările Bluetooth ale telefonului.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Dă documentului un nume propriu; este folosit și ca nume de fișier la export.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Inversați sensul de citire al paginilor duble, traduceți pe dispozitiv sau ștergeți scanarea.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Deschide camera și adaugă pagini noi la acest document.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Preia fotografii din galerie ca pagini noi; sunt decupate și recunoscute ca fotografiile camerei.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Schimbați ordinea prin tragere; selectați pagini pentru a le roti, muta, copia, extrage sau șterge.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Distribuiți, salvați sau imprimați ca PDF, Word, imagini, ZIP, text sau tabel.
+Farbe, Graustufen, Schwarz-Weiß	Color, tonuri de gri, alb-negru
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Schimbă toate paginile acestui document. Alb-negru dă cele mai mici fișiere, color redă fidel ilustrațiile și ștampilele.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Activat: umbrele, petele și artefactele sunt eliminate, iar scrisul devine mai contrastant. Dezactivat: paginile sunt doar decupate și îndreptate – pentru fotografii, desene sau când îmbunătățirea denaturează ceva.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Creează fișierul și îl transmite unei aplicații, de ex. e-mail, mesagerie sau cloud.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Pune fișierul în locația de salvare – în dosarul fix sau, cu „Întreabă de fiecare dată”, unde îl puneți dvs.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Imprimă prin serviciul de imprimare Android; acolo se poate alege și „Salvați ca PDF”.
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Unde pune „Salvați” fișierele: întreabă de fiecare dată sau mereu într-un dosar fix, și pe card SD sau într-un dosar în cloud.
+Hilfe & Anleitung	Ajutor și instrucțiuni
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Sfat: țineți apăsat un buton o secundă pentru a vedea ce face.
+Startseite	Acasă
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Deschide camera. Toate fotografiile unei capturi ajung într-un singur document comun.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Pictograma galeriei de deasupra „Scanați” preia fotografii existente; sunt decupate și recunoscute ca fotografiile camerei.
+Suchen	Căutare
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Găsește scanări după nume și după textul recunoscut, cu numărul paginii.
+Ordner und Kategorien	Dosare și categorii
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Dosarele grupează scanările. Categoriile (cărți, bonuri …) apar singure de îndată ce există scanări de acel tip.
+Mehrere Scans	Mai multe scanări
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Apăsați lung pe o scanare: selectați, combinați, mutați într-un dosar sau ștergeți.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Scanările șterse rămân 30 de zile în coșul de gunoi (meniul ⋮) și pot fi restaurate.
+Modi	Moduri
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Alegeți jos: Document (foi separate), Carte (paginile duble sunt împărțite în două), Act de identitate (față și verso la dimensiune reală pe o foaie), Carte de vizită (contactul este recunoscut), Imagine (culori fidele, fără recunoaștere de text), Fotografie pașaport (camera frontală, 35 × 45 mm) și cod QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Sus în stânga: Rapidă (5 MP) pentru scris mare, Standard (12 MP) pentru aproape orice, Maximă pentru litere mici și formule – mai lent.
+Auslösung	Declanșare
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manual: cu declanșatorul. Auto 0,7 s: de îndată ce pagina stă nemișcată 0,7 secunde; în modul carte după fiecare întoarcere a paginii. Bluetooth: cu o telecomandă asociată. Butoanele de volum declanșează mereu.
+Timer und Licht	Temporizator și lumină
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Pictograma ceas face o fotografie la fiecare 3, 5 sau 10 secunde (pornire cu declanșatorul). Blițul aprinde lanterna.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Atingeți miniatura din dreapta jos: paginile sunt procesate și se deschide prezentarea.
+Gute Fotos	Fotografii bune
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Așezați pagina plat și uniform luminată, țineți telefonul paralel. Un fundal de altă culoare decât hârtia ajută la decupare.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Se aplică tuturor paginilor documentului. Paginile individuale pot fi setate altfel în vizualizarea paginii.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Elimină umbrele și artefactele și face scrisul mai contrastant. Dezactivată, pagina este doar decupată și îndreptată.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Atingerea deschide pagina. Apăsare lungă: capturați din nou, rotiți sau ștergeți. Paginile marcate cu portocaliu trebuie verificate (de ex. neclare), cele roșii au eșuat.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Schimbați ordinea prin tragere, rotiți mai multe pagini, mutați-le sau copiați-le în alt document sau extrageți-le ca document nou.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, imagini, ZIP, text sau tabel – distribuiți, salvați sau imprimați.
+Mehr (⋮)	Mai multe (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Inversați sensul de citire al paginilor duble, traduceți pe dispozitiv sau ștergeți scanarea. Creionul de sus schimbă numele.
+Seitenansicht	Vizualizarea paginii
+Blättern und Zoomen	Răsfoire și zoom
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Glisați pentru a schimba pagina; atingeți de două ori sau folosiți două degete pentru zoom.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Color, tonuri de gri sau alb-negru doar pentru această pagină, cu previzualizare. Dedesubt, îmbunătățirea automată a acestei pagini.
+Drehen und Zuschnitt	Rotire și decupare
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Rotire cu 90°. Decupare: repoziționați colțurile paginii pe fotografia originală.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Scrieți pe pagină cu pixul, markerul sau text.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Faceți datele sensibile ilizibile – cu bare sau pixelate. Sunt propuse numere de cont, numere de card și fețe.
+Signieren und Text	Semnătură și text
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Semnați inserează semnătura salvată. Text arată textul recunoscut pentru corectare și copiere.
+Formate	Formate
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (căutabil), Word, imagini (JPG), ZIP, text, Excel sau CSV; pentru cărți de vizită și ca contact.
+PDF-Optionen	Opțiuni PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Formatul paginii, rezoluția și compresia determină calitatea și dimensiunea fișierului – dimensiunea este estimată sus în dreapta. Opțional cu parolă (AES-256).
+Teilen oder Speichern	Distribuiți sau salvați
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Distribuiți trimite fișierul către o aplicație (e-mail, mesagerie …). Salvați îl pune în locația de salvare.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	„Întreabă de fiecare dată” deschide alegerea dosarului la salvare. Cu un dosar fix, exporturile ajung acolo fără întrebări – și pe card SD sau într-un dosar în cloud.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Imprimă prin serviciul de imprimare Android sau salvează ca PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Calitatea imaginii, declanșarea și împărțirea paginilor duble pentru scanări noi. În cameră se pot schimba oricând.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtrul și îmbunătățirea automată cu care încep documentele noi.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Face PDF-urile căutabile. Limbile determină ce caractere sunt recunoscute.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Locația de salvare și valorile implicite pentru rezoluție, compresie și formatul paginii.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Blocarea aplicației cu amprentă, copie de rezervă ca ZIP și coșul de gunoi.
+Ecken setzen	Setați colțurile
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Trageți cele patru colțuri pe marginile paginii; lupa arată mărit locul de sub deget.
+Einzel- oder Doppelseite	Pagină simplă sau dublă
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Alegeți jos dacă fotografia arată o pagină sau o pagină dublă deschisă. Automat lasă aplicația să decidă.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Bifa de sus procesează pagina cu noua decupare.
+Werkzeuge	Instrumente
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Pix pentru scris, marker pentru evidențiere, text pentru notițe tastate. Culorile sunt dedesubt.
+Korrigieren	Corectați
+Rückgängig nimmt den letzten Strich zurück.	Anulați acțiunea elimină ultima linie.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Scrie modificările în pagină. Fără salvare, pagina rămâne neschimbată.
+Vorschläge	Sugestii
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Numerele de cont, de card, fiscale și fețele găsite sunt marcate – atingeți pentru a le deselecta sau selecta din nou.
+Eigene Bereiche	Zone proprii
+Mit dem Finger weitere Rechtecke aufziehen.	Trasați cu degetul alte dreptunghiuri.
+Balken oder Pixel	Bare sau pixeli
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Bară neagră sau pixelare. Textul de dedesubt este eliminat și din recunoașterea textului și din PDF.
+Zeichnen	Desenați
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Semnați o dată cu degetul – semnătura este salvată pe dispozitiv.
+Platzieren	Plasați
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Mutați cu un deget, redimensionați cu două, apoi inserați.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Pictograma creion de sus înlocuiește semnătura salvată.
+Text bearbeiten	Editați textul
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Textul recunoscut al paginii este jos și poate fi modificat. Sus este imaginea paginii pentru comparație.
+Wirkung	Efect
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Corecturile sunt preluate în căutare, în stratul de text al PDF-ului și în exporturile Word și text.
+Holt einen gelöschten Scan zurück.	Recuperează o scanare ștearsă.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Scanările sunt eliminate automat după 30 de zile. „Goliți” șterge totul imediat.
+Belegung	Ocupare
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Arată cât spațiu ocupă scanările, fotografiile originale, coșul de gunoi și memoria cache.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Eliminarea fotografiilor originale economisește mult spațiu; paginile finalizate rămân, doar decuparea nu mai poate fi modificată.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Salvați toate scanările ca fișier ZIP și restaurați-le pe acest dispozitiv sau pe altul. Nimic nu se încarcă.
+Auswahl	Selecție
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Alegeți limbile documentelor dvs. Fiecare limbă în plus încetinește recunoașterea.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Limbile lipsă se descarcă o dată și apoi funcționează fără internet.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Conectați telefonul și PC-ul la aceeași rețea Wi-Fi (sau PC-ul la hotspotul telefonului).
+Herunterladen	Descărcați
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Deschideți adresa afișată în browserul PC-ului sau scanați codul QR; acolo puteți descărca toate scanările ca PDF sau text.
+Sicherheit	Securitate
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Funcționează doar în rețeaua locală și doar cât timp acest ecran este deschis.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Limbă, calitatea imaginii, declanșare, recunoașterea textului, locație de salvare, blocarea aplicației și copie de rezervă.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Preia fotografii din galerie ca document nou; sunt decupate și recunoscute ca fotografiile camerei.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Deschide camera. Toate fotografiile unei capturi ajung într-un singur document comun.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Șterge această pagină din document (după confirmare).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Color, tonuri de gri sau alb-negru și îmbunătățirea automată doar pentru această pagină.
+Dreht die Seite um 90° im Uhrzeigersinn.	Rotește pagina cu 90° în sensul acelor de ceasornic.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Repoziționați colțurile paginii pe fotografia originală dacă lipsește o margine sau apare fundalul.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Faceți datele sensibile ilizibile cu bare sau pixeli; ele dispar și din textul PDF-ului.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Plasează semnătura salvată pe pagină; prima dată o desenați.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Arată textul recunoscut al paginii pentru corectare și copiere.
+Fotografiert beim Tippen auf den Auslöser.	Fotografiază când atingeți declanșatorul.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Fotografiază de îndată ce pagina stă nemișcată 0,7 s; în modul carte după fiecare întoarcere a paginii.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Fotografiază cu o telecomandă Bluetooth asociată.
+Lautstärketasten lösen immer aus.	Butoanele de volum declanșează mereu.
+Word erstellen, Formeln erkennen (%d/%d)	Se creează Word, se recunosc formulele (%d/%d)
+Belarussisch	Belarusă
+Bulgarisch	Bulgară
+Serbisch	Sârbă
+Mazedonisch	Macedoneană
+Kein Link im geteilten Text	Niciun link în textul partajat
+Import fehlgeschlagen: %s	Importul a eșuat: %s
+Link laden	Se încarcă linkul
+Unter dem Link liegt keine PDF- oder Bilddatei.	Linkul nu duce la un fișier PDF sau imagine.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Se pot importa doar fișiere PDF și imagini.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Fișierele PDF protejate nu pot fi importate.
+PDF-Seite %d/%d importieren	Se importă pagina PDF %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Declanșare după %s s
+Wartezeit	Timp de așteptare
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Cât timp trebuie să stea pagina nemișcată înainte de fotografia automată. Mai scurt e mai rapid, mai lung dă mai puține fotografii mișcate.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Face singur fotografia de îndată ce pagina stă nemișcată; timpul de așteptare (0,2–1,5 s) îl setezi dedesubt. În modul carte: după fiecare întoarcere de pagină, de îndată ce cartea stă iar nemișcată.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Adaugă fotografii, capturi de ecran, fișiere PDF sau un link ca pagini suplimentare; fotografiile sunt decupate, totul este recunoscut.
+Senden an …	Trimite la …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Unde pune „Salvare” exporturile. „Trimite la …” nu depinde de asta.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Alege un subfolder, de ex. „Documents” – Android nu permite folderul principal al memoriei.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Creează fișierul și îl trimite unei aplicații, de ex. WhatsApp, e-mail, Telegram sau un cloud.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manual: cu declanșatorul. Auto: de îndată ce pagina stă nemișcată – timpul de așteptare (0,2–1,5 s, implicit 0,7 s) îl setezi în fereastra de scanare sub comutator; în modul carte după fiecare întoarcere de pagină. Bluetooth: cu o telecomandă asociată. Tastele de volum declanșează mereu.
+Senden an oder Speichern	Trimite la sau salvează
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	„Trimite la …” trimite fișierul unei aplicații (WhatsApp, e-mail, Telegram, cloud …). Salvare îl pune la locația de stocare.
+Importieren	Importă
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Adaugă fotografii, capturi de ecran, fișiere PDF sau un link ca document nou; fotografiile sunt decupate, totul este recunoscut.
+Bilder aus der Galerie	Imagini din galerie
+Fotos und Screenshots	Fotografii și capturi de ecran
+Dateien	Fișiere
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Fișiere PDF și imagini, de ex. din Descărcări sau din cloud
+Eine PDF- oder Bilddatei aus dem Internet	Un fișier PDF sau imagine de pe internet
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Apoi ca paginile scanate: recunoașterea textului, traducere și export în orice format.
+Link importieren	Importă link
+Internetadresse	Adresă web
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Declanșează de îndată ce pagina stă nemișcată %s s (reglabil în fereastra de scanare); în modul carte după fiecare întoarcere de pagină.
+Fachwörterbuch laden	Se încarcă glosarul
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Lipsește glosarul pentru %s sau %s – tradus fără termeni de specialitate
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Nu este un fișier glosar (glossary-xx.tsv.gz)
+Download nicht verfügbar	Descărcare indisponibilă
+Estnisch	Estonă
+Irisch	Irlandeză
+Litauisch	Lituaniană
+Lettisch	Letonă
+Maltesisch	Malteză
+Slowakisch	Slovacă
+Slowenisch	Slovenă
+Ohne Fachwörterbuch	Fără glosar
+Alle Fachgebiete	Toate domeniile
+Fachgebiet: %s	Domeniu: %s
+Fachwörterbücher verwalten …	Gestionează glosarele …
+Fachwörterbücher	Glosare de specialitate
+Aus Datei importieren	Importă din fișier
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Termenii de specialitate din drept, medicină, tehnică, economie și alte 17 domenii (IATE, baza terminologică a UE) sunt preluați exact la traducere. Este nevoie de glosarul limbii sursă și al limbii țintă, câte 0,3–9 MB.
+Einmal laden, danach offline.	Descarcă o dată, apoi offline.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importă fișierele glossary-xx.tsv.gz cu pictograma dosar de sus.
+Fachwörterbücher für die Übersetzung	Glosare pentru traducere
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Drept, medicină, tehnică și altele – 24 de limbi ale UE
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Toate fotografiile și textele rămân pe acest dispozitiv. Internetul este folosit doar pentru descărcarea unică a limbilor, modelelor de traducere și glosarelor, când o pornești tu.
+Übersetzen	Tradu
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Creează pe dispozitiv o copie tradusă a documentului: aceleași pagini și imagini, textul în limba țintă la locul lui. Fiecare paragraf este tradus din propria limbă. Cu „Domeniu”, termenii de specialitate din glosare sunt preluați exact.
+Was nachgeladen werden kann	Ce se poate descărca
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Totul este opțional și se descarcă doar la atingere; apoi funcționează fără internet:\n• Limbi pentru recunoașterea textului: câte 1–15 MB (Setări › Limbi). Germana și engleza sunt incluse.\n• Chineză: un model de recunoaștere propriu, cca 17 MB.\n• Modele de traducere: cca 30 MB pe limbă, descărcate automat la prima traducere.\n• Glosare: 0,3–9 MB pe limbă, cca 70 MB pentru toate cele 24 de limbi ale UE (Setări › Glosare de specialitate).\nFișierele descărcate pot fi eliminate oricând.
+Wozu	La ce folosește
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Traducătoarele generale nu cunosc mulți termeni de specialitate sau îi traduc inconsecvent. Un glosar inserează termenul stabilit, de ex. „Beweislast” → „sarcina probei”.
+Quelle	Sursă
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, baza terminologică a instituțiilor UE, cu termeni din 21 de domenii (drept, sănătate, tehnică, economie, mediu, transporturi …). Există pentru cele 24 de limbi oficiale ale UE.
+Was nötig ist	Ce este necesar
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Câte un glosar pentru limba sursă și pentru limba țintă, de ex. germană și engleză. Un glosar pe limbă ajunge pentru toate perechile de limbi.
+Laden oder importieren	Descarcă sau importă
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Descarcă cu săgeata (o dată, apoi offline) sau importă un fișier „glossary-xx.tsv.gz” cu pictograma dosar, de ex. de pe un PC sau un card SD.
+Benutzen	Utilizare
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	La traducere alege domeniul de sus. „Toate domeniile” folosește doar termenii traduși la fel peste tot.
+Grenzen	Limite
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Termenii sunt inserați în forma de bază; formele flexionate nu sunt întotdeauna recunoscute.
+Politik	Politică
+Internationale Beziehungen	Relații internaționale
+Europäische Union	Uniunea Europeană
+Recht	Drept
+Wirtschaft	Economie
+Handel	Comerț
+Finanzwesen	Finanțe
+Soziales und Gesundheit	Probleme sociale și sănătate
+Bildung und Kommunikation	Educație și comunicare
+Wissenschaft	Știință
+Unternehmen und Wettbewerb	Întreprinderi și concurență
+Beschäftigung und Arbeitsbedingungen	Ocuparea forței de muncă și condiții de muncă
+Verkehr	Transporturi
+Umwelt	Mediu
+Land-, Forst- und Fischereiwirtschaft	Agricultură, silvicultură și pescuit
+Agrarerzeugnisse und Lebensmittel	Produse agroalimentare
+Produktion, Technologie und Forschung	Producție, tehnologie și cercetare
+Energie	Energie
+Industrie	Industrie
+Geografie	Geografie
+Internationale Organisationen	Organizații internaționale
+Wenig Licht – Lampe einschalten	Lumină slabă – aprinde lanterna
+Verarbeitung mehrfach abgebrochen	Procesarea a fost întreruptă de mai multe ori
+Bearbeitungen gehen verloren	Modificările se vor pierde
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Pagina este refăcută din fotografie. Înnegririle, semnătura și notițele trebuie adăugate din nou.
+Neu zuschneiden	Decupează din nou
+Sprachdaten	Date lingvistice
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Arată cât spațiu ocupă scanările, fotografiile originale, coșul, memoria cache și datele lingvistice (recunoaștere text, glosare).
+Bitte warten, bis alle Seiten erkannt sind	Așteptați până când toate paginile sunt recunoscute
+Die Sprache „%s“ kann nicht übersetzt werden	Limba „%s” nu poate fi tradusă
+Übersetzung in die Seiten setzen	Se plasează traducerea în pagini

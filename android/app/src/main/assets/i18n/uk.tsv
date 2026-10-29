@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Спочатку налаштуйте відбиток пальця, розблокування обличчям або блокування екрана.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Цей пристрій не підтримує біометричне розблокування.
+Ultimate PDF Scanner entsperren	Розблокувати Ultimate PDF Scanner
+Deine Scans sind geschützt	Ваші скани захищені
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner заблоковано
+Deine Scans bleiben auf diesem Gerät.	Ваші скани залишаються на цьому пристрої.
+  Entsperren	  Розблокувати
+Systemsprache	Мова системи
+Deutsch	Deutsch
+English	English
+Fotos importieren	Імпортувати фото
+Texterkennung vorbereiten	Підготовка розпізнавання тексту
+Ein Foto konnte nicht verarbeitet werden: %s	Не вдалося обробити фото: %s
+Foto laden	Завантажити фото
+Foto nicht lesbar	Фото не читається
+Filter anwenden	Застосувати фільтр
+Schwärzen	Приховати дані
+Unterschrift einfügen	Вставити підпис
+Unterschrift eingefügt	Підпис вставлено
+Änderungen einfügen	Вставити зміни
+Seite bearbeitet	Сторінку змінено
+Text gesichert	Текст збережено
+Zusammenführen	Об’єднати
+%d Scans zusammengeführt	Об’єднано сканів: %d
+Seiten verschieben	Перемістити сторінки
+Seiten kopieren	Копіювати сторінки
+ (Teil)	 (частина)
+Zwischenspeicher leeren	Очистити кеш
+Zwischenspeicher geleert	Кеш очищено
+Originalfotos entfernen	Видалити оригінальні фото
+Sicherung erstellen	Створити резервну копію
+Sicherung erstellen (%d/%d)	Створення резервної копії (%d/%d)
+Sicherung gespeichert	Резервну копію збережено
+Sicherung wiederherstellen	Відновити з резервної копії
+ (%d schon vorhanden)	 (%d уже є)
+Wiederherstellen fehlgeschlagen: %s	Не вдалося відновити: %s
+PDF erstellen (%d/%d)	Створення PDF (%d/%d)
+%s erstellen	Створення: %s
+Export fehlgeschlagen: %s	Не вдалося експортувати: %s
+%s speichern	Зберегти: %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF збережено (захищено паролем, AES-256)
+%s gespeichert	Збережено: %s
+Bilder speichern	Зберегти зображення
+Bilder speichern (%d/%d)	Збереження зображень (%d/%d)
+%d Bilder gespeichert	Збережено зображень: %d
+Sprache erkennen	Визначити мову
+Kein erkannter Text zum Übersetzen	Немає розпізнаного тексту для перекладу
+Sprache nicht erkannt	Мову не розпізнано
+Der Text ist bereits auf %s	Текст уже мовою: %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Завантаження мовної моделі (першого разу ~30 МБ)
+Übersetzen (%d/%d)	Переклад (%d/%d)
+Seite %d	Сторінка %d
+Übersetzung fehlgeschlagen: %s	Не вдалося перекласти: %s
+1 Bereich unkenntlich gemacht	Приховано 1 ділянку
+%d Bereiche unkenntlich gemacht	Приховано ділянок: %d
+1 Scan wiederhergestellt	Відновлено 1 скан
+%d Scans wiederhergestellt	Відновлено сканів: %d
+Server antwortet mit %d	Сервер відповідає кодом %d
+Datei unvollständig	Файл неповний
+Nicht gefunden	Не знайдено
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	Сканів на телефоні: %d · напряму через Wi-Fi, без хмари
+Ausgangssprache „%s“ wird nicht unterstützt	Мова оригіналу «%s» не підтримується
+Zielsprache „%s“ wird nicht unterstützt	Мова перекладу «%s» не підтримується
+QR-CODE	QR-КОД
+AUSWEIS	ПОСВІДЧЕННЯ
+DOKUMENT	ДОКУМЕНТ
+BUCH	КНИГА
+VISITENKARTE	ВІЗИТІВКА
+PASSFOTO	ФОТО НА ДОКУМЕНТИ
+PDF	PDF
+Word	Word
+Bilder	Зображення
+ZIP	ZIP
+Text	Текст
+Excel	Excel
+CSV	CSV
+Kontakt	Контакт
+Wie gescannt	Як відскановано
+Letter	Letter
+Mittel	Середнє
+Englisch	Англійська
+Französisch	Французька
+Italienisch	Італійська
+Spanisch	Іспанська
+Portugiesisch	Португальська
+Niederländisch	Нідерландська
+Polnisch	Польська
+Tschechisch	Чеська
+Dänisch	Данська
+Schwedisch	Шведська
+Norwegisch	Норвезька
+Finnisch	Фінська
+Ungarisch	Угорська
+Rumänisch	Румунська
+Kroatisch	Хорватська
+Türkisch	Турецька
+Griechisch	Грецька
+Russisch	Російська
+Ukrainisch	Українська
+Arabisch	Арабська
+Hebräisch	Іврит
+Persisch	Перська
+Chinesisch (vereinfacht)	Китайська (спрощена)
+Japanisch	Японська
+Koreanisch	Корейська
+Latein	Латина
+Deutsch (Fraktur)	Німецька (фрактура)
+1 Seite	1 сторінка
+%d Seiten	Сторінок: %d
+1 Scan	1 скан
+%d Scans	Сканів: %d
+Abbrechen	Скасувати
+Bearbeiten	Редагувати
+Zurück	Назад
+Rückgängig	Скасувати дію
+Sichern	Зберегти
+Seite	Сторінка
+Einfügen	Вставити
+Änderungen sichern?	Зберегти зміни?
+Verwerfen	Відхилити
+Schließen	Закрити
+Fertig	Готово
+Öffnen	Відкрити
+Keine	Жодної
+Alle	Усі
+Umbenennen	Перейменувати
+Mehr	Більше
+Löschen	Видалити
+Teilen	Поділитися
+Speichern	Зберегти
+Drucken	Друк
+Kopieren	Копіювати
+Drehen	Повернути
+Laden	Завантажити
+Entfernen	Прибрати
+Verschieben	Перемістити
+Name	Назва
+Aus	Вимк.
+Leeren	Очистити
+Wiederherstellen	Відновити
+Text einfügen	Вставити текст
+z. B. Name, Datum …	напр. ім’я, дата …
+Kein Gesicht erkannt – bitte noch einmal	Обличчя не розпізнано – спробуйте ще раз
+Seite erneut scannen	Сканувати сторінку повторно
+Fernauslöser verbunden	Пульт підключено
+Nach dem Umblättern auslösen	Знімати після перегортання сторінки
+Leserichtung rechts nach links	Напрям читання справа наліво
+Leserichtung links nach rechts	Напрям читання зліва направо
+Automatisch auslösen	Автоматична зйомка
+Kamera wechseln	Перемкнути камеру
+Licht	Світло
+Bitte Kamerazugriff erlauben.	Дозвольте доступ до камери.
+Passfoto wird zugeschnitten …	Обрізання фото на документи …
+Ohne Rückseite fertig	Готово без зворотного боку
+Kein Code im Bild gefunden	На зображенні не знайдено коду
+Aus Galerie	З галереї
+QR-Code oder Barcode in den Rahmen halten	Утримуйте QR-код або штрихкод у рамці
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Обличчя в овалі · дивіться прямо · світлий фон
+Vorderseite des Ausweises in den Rahmen	Лицьовий бік посвідчення в рамку
+Jetzt die Rückseite	Тепер зворотний бік
+Visitenkarte in den Rahmen legen	Покладіть візитівку в рамку
+Aufgeschlagenes Buch ins Bild halten	Утримуйте розгорнуту книгу в кадрі
+Doppelseite erkannt	Розпізнано розворот
+Umblättern – löst danach automatisch aus	Переверніть сторінку – потім знімок автоматично
+Ruhig halten …	Тримайте нерухомо …
+Ruhig halten – wird automatisch ausgelöst	Тримайте нерухомо – знімок буде автоматично
+Seite ins Bild halten	Утримуйте сторінку в кадрі
+Seite erkannt	Сторінку розпізнано
+Intervall-Timer	Інтервальний таймер
+Serie starten	Почати серію
+Farbe	Колір
+Graustufen	Відтінки сірого
+Schwarz-Weiß	Чорно-біле
+Original	Оригінал
+Automatisch	Автоматично
+Zuschnitt nicht möglich	Обрізання неможливе
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	Оригінальне фото цієї сторінки видалено для економії місця. Через «Сканувати повторно» сторінку можна зняти знову.
+Zuschnitt anpassen	Налаштувати обрізання
+Übernehmen	Застосувати
+Einzelseite	Одна сторінка
+Doppelseite	Розворот
+Auto	Авто
+  Automatisch	  Автоматично
+Ecken auf die Seitenränder ziehen	Перетягніть кути на краї сторінки
+Seiten ordnen	Упорядкувати сторінки
+%d ausgewählt	Вибрано: %d
+Filter für alle Seiten	Фільтр для всіх сторінок
+Leserichtung umkehren	Змінити напрям читання
+Übersetzen…	Перекласти…
+Scan löschen	Видалити скан
+Scannen	Сканувати
+Import	Імпорт
+Ordnen	Упорядкувати
+Exportieren	Експорт
+Übersetzen in …	Перекласти на …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	Переклад виконується на пристрої. Першого разу мовна модель завантажується один раз.
+Übersetzung teilen	Поділитися перекладом
+Scan löschen?	Видалити скан?
+„%s“ wird endgültig gelöscht.	«%s» буде видалено назавжди.
+Kontakt erkannt	Контакт розпізнано
+Zu Kontakten	До контактів
+Seiten werden verarbeitet (%d/%d)	Обробка сторінок (%d/%d)
+Nur diese	Лише ці
+Wird neu verarbeitet	Повторна обробка
+Erneut	Знову
+Fehlgeschlagen	Помилка
+Foto nicht verarbeitet	Фото не оброблено
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Під час обробки зображення сталася помилка.
+Keine Auffälligkeiten	Без зауважень
+Erneut scannen	Сканувати повторно
+Ersetzt beide Seiten dieser Doppelseite	Замінює обидві сторінки цього розвороту
+Kamera öffnen und diese Seite ersetzen	Відкрити камеру й замінити цю сторінку
+Nach vorn	Вперед
+Nach hinten	Назад
+Seite löschen	Видалити сторінку
+Foto entfernen	Прибрати фото
+1 Seite verschoben	Переміщено 1 сторінку
+%d Seiten verschoben	Переміщено сторінок: %d
+1 Seite kopiert	Скопійовано 1 сторінку
+%d Seiten kopiert	Скопійовано сторінок: %d
+1 Seite löschen?	Видалити 1 сторінку?
+%d Seiten löschen?	Видалити сторінки (%d)?
+1 Seite prüfen	Перевірити 1 сторінку
+%d Seiten prüfen	Перевірити сторінки: %d
+Seite löschen?	Видалити сторінку?
+Durchsuchbares PDF mit erkanntem Text	PDF із пошуком і розпізнаним текстом
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Текст для редагування у Word, LibreOffice і Google Docs
+Die Seite als JPG-Bild	Сторінка як зображення JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Одне зображення JPG на сторінку (файлів: %d)
+Alle Seiten als JPG und der Text in einem Archiv	Усі сторінки як JPG і текст в одному архіві
+Nur der erkannte Text	Лише розпізнаний текст
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Розпізнані таблиці, один аркуш на сторінку
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Розпізнані таблиці як CSV (крапка з комою, для Excel)
+Visitenkarte als Kontakt (vCard)	Візитівка як контакт (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Лицьовий і зворотний бік у натуральну величину на одній сторінці – готово до друку
+Seitenformat	Формат сторінки
+Mit Passwort schützen	Захистити паролем
+AES-256-Verschlüsselung	Шифрування AES-256
+Passwort	Пароль
+Mindestens 4 Zeichen	Щонайменше 4 символи
+Passwort wiederholen	Повторіть пароль
+Passwörter stimmen nicht überein	Паролі не збігаються
+Seitenbilder einfügen	Вставити зображення сторінок
+Jede Seite als Bild über ihrem Text	Кожна сторінка як зображення над своїм текстом
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Стовпці розпізнаються за проміжками в тексті – найкраще це працює з чітко розділеними стовпцями. Числа на кшталт «1.234,50» переносяться як числа.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	На цій візитівці не розпізнано контактних даних.
+1 ausgewählte Seite	1 вибрана сторінка
+%d ausgewählte Seiten	Вибрано сторінок: %d
+Mobil	Мобільний
+Fax	Факс
+Telefon	Телефон
+%s teilen	Поділитися: %s
+Scan	Скан
+Text teilen	Поділитися текстом
+PDF teilen	Поділитися PDF
+In den Papierkorb verschoben	Переміщено в кошик
+%d Scans in den Papierkorb verschoben	У кошик переміщено сканів: %d
+Auswahl beenden	Завершити вибір
+Alle auswählen	Вибрати все
+In Ordner verschieben	Перемістити в папку
+Ordner	Папки
+Ordner umbenennen	Перейменувати папку
+Ordner auflösen	Розформувати папку
+Papierkorb (%d)	Кошик (%d)
+Papierkorb	Кошик
+An PC senden	Надіслати на ПК
+Speicher & Sicherung	Сховище та резервна копія
+Einstellungen	Налаштування
+Scans und Text durchsuchen	Пошук у сканах і тексті
+Alle Scans durchsuchen	Пошук у всіх сканах
+Suche löschen	Очистити пошук
+%d Treffer	Результатів: %d
+Alle Scans	Усі скани
+Nichts gefunden	Нічого не знайдено
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Ні назва, ні розпізнаний текст не відповідають «%s».
+Ordner ist leer	Папка порожня
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Перемістіть скани сюди: утримуйте скан і виберіть «Перемістити в папку».
+Noch keine Scans	Ще немає сканів
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Торкніться «Сканувати», щоб сфотографувати сторінки,\nабо імпортуйте фото з галереї.
+Ordnername	Назва папки
+Neuer Ordner	Нова папка
+%d Scans zusammenführen?	Об’єднати скани (%d)?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Усі сторінки додаються до «%s» у порядку вибору. Інші скани після цього зникають.
+%d prüfen	Перевірити: %d
+Wird verarbeitet (%d/%d)	Обробляється (%d/%d)
+Als PDF teilen	Поділитися як PDF
+Kategorie ändern	Змінити категорію
+Kein Ordner	Без папки
+Neuer Ordner …	Нова папка …
+Kategorie	Категорія
+Download fehlgeschlagen: %s	Не вдалося завантажити: %s
+keine Verbindung	немає з’єднання
+Sprachen der Texterkennung	Мови розпізнавання тексту
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Вибрані мови розпізнаються разом – вибирайте лише потрібні, кожна додаткова сповільнює розпізнавання. 
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Відсутні мови завантажуються один раз (прибл. 2–15 МБ) і далі працюють офлайн.
+Wird geladen … %d %%	Завантаження … %d %%
+Enthalten	Вбудовано
+Geladen · %s	Завантажено · %s
+Nicht geladen	Не завантажено
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Торкніться, щоб вибрати · утримуйте й перетягуйте, щоб перемістити
+Neuer Scan	Новий скан
+Verschieben nach …	Перемістити до …
+Kopieren nach …	Копіювати до …
+Seite %d von %d	Сторінка %d з %d
+Filter	Фільтр
+Zuschnitt	Обрізання
+Signieren	Підписати
+Code	Код
+Link	Посилання
+E-Mail	Ел. пошта
+Telefonnummer	Номер телефону
+Ort	Місце
+Produktcode	Код товару
+Netzwerk: %s	Мережа: %s
+Passwort: %s	Пароль: %s
+Verschlüsselung: %s	Шифрування: %s
+Passwort kopieren	Копіювати пароль
+Verbinden	Підключитися
+E-Mail schreiben	Написати лист
+Anrufen	Зателефонувати
+In Karten öffnen	Відкрити в Картах
+Suche sensible Daten…	Пошук конфіденційних даних…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Конфіденційних даних не знайдено. Виділіть пальцем ділянки, які треба приховати.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Знайдено – торкніться, щоб вибрати чи зняти вибір, виділіть інші ділянки:
+Schwarzer Balken	Чорна смуга
+Verpixeln	Пікселізувати
+Unkenntlich machen (%d)	Приховати (%d)
+Manuell	Вручну
+Gesicht	Обличчя
+Kein WLAN	Немає Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Підключіть телефон і ПК до однієї мережі Wi-Fi (або ПК до точки доступу телефона). Тоді тут з’явиться адреса.
+Am PC im Browser öffnen	Відкрити в браузері на ПК
+QR-Code der Adresse	QR-код адреси
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Введіть адресу або відскануйте QR-код камерою ПК. Там можна завантажити всі скани як PDF або текст.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Лише в локальній мережі й лише поки відкритий цей екран. Нічого не завантажується в інтернет.
+Heruntergeladen	Завантажено
+App-Sperre nicht möglich	Блокування застосунку неможливе
+Sprache	Мова
+Sprache der App	Мова застосунку
+Aufnahme	Зйомка
+Doppelseiten im Dokument-Modus	Розвороти в режимі документа
+Automatisch teilen	Ділити автоматично
+Nie teilen	Ніколи не ділити
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Знімає, щойно сторінка нерухомо лежить у кадрі.
+Buch-Modus	Режим книги
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Розпізнає перегортання сторінки й знімає, щойно книга знову нерухома.
+Leserichtung	Напрям читання
+Links → rechts	Зліва → направо
+Rechts → links	Справа → наліво
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Справа наліво для арабської, івриту, перської та японської: першою йде права сторінка.
+Fernauslöser	Пульт
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Створіть пару з Bluetooth-пультом для камери (напр. «AB Shutter 3») у налаштуваннях Bluetooth Android. 
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Тоді в камері знімають пульт і кнопки гучності.
+Bild	Зображення
+Standardfilter	Фільтр за замовчуванням
+Handschrift entfernen	Видаляти рукопис
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Видаляє нотатки синьою/червоною ручкою та олівцем. Видаляє також друк цих кольорів.
+Texterkennung	Розпізнавання тексту
+Sprachen	Мови
+Sicherheit & Speicher	Безпека та сховище
+App-Sperre	Блокування застосунку
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Під час відкриття розблоковувати відбитком пальця, обличчям або блокуванням екрана. Вміст не показується в огляді застосунків.
+Belegung, Backup als ZIP, Wiederherstellen	Зайняте місце, резервна копія у ZIP, відновлення
+Gelöschte Scans werden nach 30 Tagen entfernt	Видалені скани стираються через 30 днів
+Offline	Офлайн
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Усі фото й тексти залишаються на цьому пристрої. Інтернет використовується лише для одноразового завантаження мов, коли ви це запускаєте.
+Über	Про застосунок
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Компоненти з відкритим кодом: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (усі за ліцензією Apache 2.0); ML Kit (переклад, розпізнавання облич, на пристрої).
+Unterschrift zeichnen	Намалювати підпис
+Mit dem Finger unterschreiben	Підпишіться пальцем
+Unterschrift platzieren	Розмістити підпис
+Neu zeichnen	Намалювати знову
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Переміщуйте одним пальцем, змінюйте розмір двома пальцями.
+Unterschrift	Підпис
+Belegt von Ultimate PDF Scanner	Займає Ultimate PDF Scanner
+%s frei auf dem Gerät	Вільно на пристрої: %s
+Seiten	Сторінки
+Originalfotos	Оригінальні фото
+Zwischenspeicher	Кеш
+Platz schaffen	Звільнити місце
+Exportierte Dateien zum Teilen	Експортовані файли для надсилання
+Gelöschte Scans der letzten 30 Tage	Видалені скани за останні 30 днів
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Готові сторінки залишаються, але обрізання потім змінити не можна.
+Größte Scans	Найбільші скани
+Sicherung	Резервна копія
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Збережіть усі скани в один ZIP-файл – напр. на SD-карту, USB-накопичувач або ПК. Нічого не завантажується в мережу.
+Papierkorb mitsichern	Включити кошик
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-rezervna-kopiia_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	Під час відновлення додаються лише відсутні скани.
+Originalfotos entfernen?	Видалити оригінальні фото?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Заощаджує %s. Сторінки потім не можна буде обрізати заново, «Сканувати повторно» залишиться доступним.
+Text bearbeiten · Seite %d	Редагування тексту · сторінка %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Виправлення потрапляють у пошук і в текстовий шар PDF.
+Kein Text erkannt – hier eintippen	Текст не розпізнано – введіть його тут
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Видалені скани остаточно стираються через %d дн.
+Papierkorb ist leer	Кошик порожній
+Endgültig löschen	Видалити назавжди
+Papierkorb leeren?	Очистити кошик?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	Скани (%d) буде видалено назавжди. Це не можна скасувати.
+Endgültig löschen?	Видалити назавжди?
+„%s“ wird sofort gelöscht.	«%s» буде видалено негайно.
+noch 1 Tag	ще 1 день
+noch %d Tage	ще днів: %d
+Quittung	Чек
+Quittungen	Чеки
+Rechnung	Рахунок
+Rechnungen	Рахунки
+Visitenkarte	Візитівка
+Visitenkarten	Візитівки
+Vertrag	Договір
+Verträge	Договори
+Brief	Лист
+Briefe	Листи
+Ausweis	Посвідчення
+Ausweise	Посвідчення
+Buch	Книга
+Bücher	Книги
+Passfoto	Фото на документи
+Passfotos	Фото на документи
+Dokument	Документ
+Dokumente	Документи
+Auflösung	Роздільна здатність
+Kompression	Стиснення
+Gering	Слабке
+Stark	Сильне
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi і слабке стиснення для друку та архіву, 150 dpi і сильне стиснення для пошти.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Робить PDF доступними для пошуку, а текст – для копіювання. Вимк.: швидша обробка, PDF лише як зображення.
+Keine Seite erkannt	Сторінку не розпізнано
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Край сторінки не знайдено – використано все фото.
+Unscharf	Розмито
+Das Foto ist verwackelt oder unscharf.	Фото змазане або нечітке.
+Zu dunkel	Надто темно
+Die Seite ist schlecht ausgeleuchtet.	Сторінка погано освітлена.
+Text schlecht lesbar	Текст погано читається
+Die Texterkennung war unsicher.	Розпізнавання тексту було непевним.
+Kein Text erkannt	Текст не розпізнано
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	На сторінці не знайдено тексту – порожня сторінка чи в кадрі взагалі немає сторінки?
+Hindi	Гінді
+Bengalisch	Бенгальська
+Urdu	Урду
+Indonesisch	Індонезійська
+Seite erkennen	Розпізнавання сторінки
+Seite entzerren	Вирівнювання сторінки
+Finger entfernen	Видалення пальців
+Schärfe prüfen	Перевірка різкості
+Ausrichtung	Орієнтація
+Bild verbessern	Покращення зображення
+Speicherort	Місце збереження
+Speicherort für Exporte	Місце збереження для експорту
+Jedes Mal fragen	Щоразу питати
+Ordner wählen …	Вибрати папку …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	«Зберегти» кладе PDF та інші експорти прямо в цю папку, не питаючи щоразу. Можна також SD-карту.
+Gespeichert in „%s“	Збережено в «%s»
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	Місце збереження недоступне. Виберіть його знову.
+Neu aufnehmen	Зняти знову
+Um 90° links drehen	Повернути на 90° ліворуч
+Seite gelöscht	Сторінку видалено
+Lange drücken: neu aufnehmen, drehen oder löschen	Довге натискання: зняти знову, повернути або видалити
+Ersetzt beide Seiten	Замінює обидві сторінки
+Ränder bereinigen	Очищення країв
+Scan-Qualität	Якість сканування
+Schnell	Швидко
+Standard	Стандарт
+Genau	Точно
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Для великого, чіткого шрифту, як листи й роздруківки: менші фото, найшвидша обробка.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Для книжок і більшості документів: добре розпізнавання за звичайної швидкості.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Для дрібного шрифту, старих книжок, виносок і формул: повна роздільна здатність камери, повільніше, більше пам’яті.
+BILD	ЗОБРАЖЕННЯ
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Покладіть зображення рівно · без спалаху · уникайте відблисків
+an	увімк.
+aus	вимк.
+Automatische Auslösung an: nach dem Umblättern	Автозйомку ввімкнено: після перегортання сторінки
+Automatische Auslösung an: sobald die Seite ruhig liegt	Автозйомку ввімкнено: щойно сторінка нерухома
+Automatische Auslösung aus	Автозйомку вимкнено
+PDF & Export	PDF та експорт
+Speicherort für PDFs und Bilder	Місце збереження для PDF і зображень
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Під час експорту це можна змінити для окремих файлів.
+Weitere Optionen …	Інші параметри …
+Automatische Verbesserung	Автоматичне покращення
+Schatten und Artefakte entfernen, Schrift schärfen	Прибрати тіні й артефакти, зробити шрифт чіткішим
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Прибрати тіні й артефакти, зробити шрифт чіткішим. Можна вимкнути в кожному документі.
+unkorrigiert	без корекції
+Maximal	Максимум
+Bildqualität	Якість зображення
+volle Auflösung	повна роздільна здатність
+Briefe, Ausdrucke, große Schrift	Листи, роздруківки, великий шрифт
+Bücher und die meisten Dokumente (empfohlen)	Книжки й більшість документів (рекомендовано)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Дрібний шрифт, формули, старі книжки – повільніше
+Gilt auch für alle weiteren Scans.	Діє також для всіх наступних сканів.
+Ändern	Змінити
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Куди «Зберегти» кладе ваші експорти. «Поділитися» від цього не залежить.
+Ordner und Dateiname beim Speichern wählen	Під час збереження вибирати папку й назву файлу
+Exporte landen direkt hier	Експорти потрапляють прямо сюди
+Anderen Ordner wählen …	Вибрати іншу папку …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Також SD-карта й хмарні папки, якщо їх налаштовано на пристрої.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Постійний доступ до цієї папки неможливий.
+Sehr hohe Auflösung	Дуже висока роздільна здатність
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	При %d МП обробка кожної сторінки триває значно довше й потребує багато пам’яті. Для більшості документів досить «Стандарт». «Максимум» має сенс лише для дуже дрібного шрифту.
+Trotzdem verwenden	Усе одно використати
+langsam	повільно
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Пульт не підключено – створіть пару в налаштуваннях Bluetooth
+Mit dem Fernauslöser auslösen	Знімати пультом
+Umblättern	Перегортання
+Auto 0,7 s	Авто 0,7 с
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Завершує зйомку. Уже зняті сторінки зберігаються й обробляються.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Вмикає або вимикає ліхтарик. Глянцевий папір краще знімати без світла й під кутом до вікна.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Використовує наявні фото замість нових знімків.
+Serie	Серія
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Запускає або зупиняє серію: таймер автоматично робить знімок кожні кілька секунд.
+Auslöser	Затвор
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Робить знімок. Кнопки гучності й Bluetooth-пульт також спрацьовують як затвор.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Завершує зйомку й відкриває огляд; число показує фото цієї зйомки.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Скільки пікселів у кожному фото. Швидко (5 МП) для великого шрифту, Стандарт (12 МП) майже для всього, Максимум для дрібного шрифту й формул – довше.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Торкніться, щоб перемкнути: вимк., 3, 5 або 10 секунд. Затвор тоді запускає серію зі знімком через цей інтервал – зручно для книжок.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Знімає лише після натискання затвора.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Знімає сам, щойно сторінка 0,7 секунди нерухома. У режимі книги: після кожного перегортання, щойно книга знову нерухома.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Знімає Bluetooth-пультом (напр. «AB Shutter 3»). Спершу створіть пару з пультом у налаштуваннях Bluetooth телефона.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Дає документу власну назву; вона ж використовується як назва файлу під час експорту.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Змінити напрям читання розворотів, перекласти на пристрої або видалити скан.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Відкриває камеру й додає нові сторінки до цього документа.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Додає фото з галереї як нові сторінки; вони обрізаються й розпізнаються як знімки камери.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Змінюйте порядок перетягуванням; виберіть сторінки, щоб повернути, перемістити, скопіювати, виокремити чи видалити їх.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Поділитися, зберегти або надрукувати як PDF, Word, зображення, ZIP, текст чи таблицю.
+Farbe, Graustufen, Schwarz-Weiß	Колір, відтінки сірого, чорно-біле
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Перемикає всі сторінки цього документа. Чорно-біле дає найменші файли, колір точно передає ілюстрації й печатки.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Увімк.: тіні, плями й артефакти прибираються, шрифт стає контрастнішим. Вимк.: сторінки лише обрізаються й вирівнюються – для фото, малюнків або коли покращення щось спотворює.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Створює файл і передає його застосунку, напр. пошті, месенджеру чи хмарі.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Кладе файл у місце збереження – у сталу папку або, за «Щоразу питати», туди, куди ви вкажете.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Друкує через службу друку Android; там можна також вибрати «Зберегти як PDF».
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Куди «Зберегти» кладе файли: щоразу питати або завжди в сталу папку, також на SD-карту чи в хмарну папку.
+Hilfe & Anleitung	Довідка та інструкція
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Порада: утримуйте кнопку секунду – і з’явиться пояснення її дії.
+Startseite	Головна
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Відкриває камеру. Усі фото однієї зйомки потрапляють в один спільний документ.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	Значок галереї над «Сканувати» бере наявні фото; вони обрізаються й розпізнаються як знімки камери.
+Suchen	Пошук
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Знаходить скани за назвою та розпізнаним текстом, з номером сторінки.
+Ordner und Kategorien	Папки та категорії
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Папки групують скани. Категорії (книги, чеки …) з’являються самі, щойно є скани цього типу.
+Mehrere Scans	Кілька сканів
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Утримуйте скан: вибрати, об’єднати, перемістити в папку або видалити.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Видалені скани зберігаються в кошику (меню ⋮) 30 днів і можуть бути відновлені.
+Modi	Режими
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	Виберіть унизу: Документ (окремі аркуші), Книга (розвороти діляться на дві сторінки), Посвідчення (лицьовий і зворотний бік у натуральну величину на одному аркуші), Візитівка (контакт розпізнається), Зображення (точні кольори, без розпізнавання тексту), Фото на документи (фронтальна камера, 35 × 45 мм) і QR-код.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	Угорі ліворуч: Швидко (5 МП) для великого шрифту, Стандарт (12 МП) майже для всього, Максимум для дрібного шрифту й формул – повільніше.
+Auslösung	Зйомка
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Вручну: затвором. Авто 0,7 с: щойно сторінка 0,7 секунди нерухома; у режимі книги після кожного перегортання. Bluetooth: пультом, з яким створено пару. Кнопки гучності спрацьовують завжди.
+Timer und Licht	Таймер і світло
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	Значок годинника робить знімок кожні 3, 5 або 10 секунд (запуск затвором). Спалах вмикає ліхтарик.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Торкніться мініатюри праворуч унизу: сторінки обробляються, відкривається огляд.
+Gute Fotos	Гарні знімки
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Покладіть сторінку рівно й рівномірно освітленою, тримайте телефон паралельно. Підкладка, що відрізняється кольором від паперу, допомагає з обрізанням.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	Діє для всіх сторінок документа. Окремі сторінки можна налаштувати інакше в перегляді сторінки.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Прибирає тіні й артефакти та робить шрифт контрастнішим. Якщо вимкнути, сторінка лише обрізається й вирівнюється.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Дотик відкриває сторінку. Довге натискання: зняти знову, повернути або видалити. Сторінки з помаранчевою позначкою варто перевірити (напр. розмиті), червоні не вдалося обробити.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Змінюйте порядок перетягуванням, повертайте кілька сторінок, переміщуйте чи копіюйте їх в інший документ або виокремте в новий документ.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, зображення, ZIP, текст або таблиця – поділитися, зберегти чи надрукувати.
+Mehr (⋮)	Більше (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Змінити напрям читання розворотів, перекласти на пристрої або видалити скан. Олівець угорі змінює назву.
+Seitenansicht	Перегляд сторінки
+Blättern und Zoomen	Гортання й масштаб
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Проведіть, щоб змінити сторінку; двічі торкніться або використайте два пальці для збільшення.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Колір, відтінки сірого чи чорно-біле лише для цієї сторінки, з попереднім переглядом. Нижче – автоматичне покращення цієї сторінки.
+Drehen und Zuschnitt	Поворот і обрізання
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Поворот на 90°. Обрізання: заново задати кути сторінки на оригінальному фото.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Пишіть на сторінці ручкою, маркером або текстом.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Приховайте конфіденційні дані – смугами чи пікселізацією. Пропонуються номери рахунків, карток і обличчя.
+Signieren und Text	Підпис і текст
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	«Підписати» вставляє ваш збережений підпис. «Текст» показує розпізнаний текст для виправлення й копіювання.
+Formate	Формати
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (з пошуком), Word, зображення (JPG), ZIP, текст, Excel або CSV; для візитівок також як контакт.
+PDF-Optionen	Параметри PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Формат сторінки, роздільна здатність і стиснення визначають якість і розмір файлу – розмір оцінюється праворуч угорі. За бажанням із паролем (AES-256).
+Teilen oder Speichern	Поділитися чи зберегти
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	«Поділитися» надсилає файл у застосунок (пошта, месенджер …). «Зберегти» кладе його в місце збереження.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	«Щоразу питати» під час збереження відкриває вибір папки. Зі сталою папкою експорти потрапляють туди без запитань – також на SD-карту чи в хмарну папку.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Друкує через службу друку Android або зберігає як PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Якість зображення, зйомка й поділ розворотів для нових сканів. У камері це можна змінити будь-коли.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Фільтр і автоматичне покращення, з якими починаються нові документи.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Робить PDF доступними для пошуку. Мови визначають, які символи розпізнаються.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Місце збереження та значення за замовчуванням для роздільної здатності, стиснення й формату сторінки.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Блокування відбитком пальця, резервна копія у ZIP і кошик.
+Ecken setzen	Кути
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Перетягніть чотири кути на краї сторінки; лупа показує збільшеним місце під пальцем.
+Einzel- oder Doppelseite	Одна сторінка чи розворот
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Виберіть унизу, чи фото показує одну сторінку, чи розгорнутий розворот. «Автоматично» залишає рішення застосунку.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	Галочка вгорі обробляє сторінку з новим обрізанням.
+Werkzeuge	Інструменти
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Ручка для письма, маркер для виділення, текст для набраних нотаток. Кольори нижче.
+Korrigieren	Виправити
+Rückgängig nimmt den letzten Strich zurück.	«Скасувати дію» прибирає останній штрих.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Записує зміни в сторінку. Без збереження сторінка залишається без змін.
+Vorschläge	Пропозиції
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Знайдені номери рахунків, карток, податкові номери й обличчя позначено – торкніться, щоб зняти чи знову поставити позначку.
+Eigene Bereiche	Власні ділянки
+Mit dem Finger weitere Rechtecke aufziehen.	Виділіть пальцем додаткові прямокутники.
+Balken oder Pixel	Смуги чи пікселі
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Чорна смуга або пікселізація. Текст під ними також видаляється з розпізнаного тексту та з PDF.
+Zeichnen	Малювати
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Підпишіться один раз пальцем – підпис зберігається на пристрої.
+Platzieren	Розмістити
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Переміщуйте одним пальцем, змінюйте розмір двома, потім вставте.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	Значок олівця вгорі замінює збережений підпис.
+Text bearbeiten	Редагувати текст
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Розпізнаний текст сторінки внизу, його можна змінити. Угорі зображення сторінки для порівняння.
+Wirkung	Дія
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Виправлення потрапляють у пошук, у текстовий шар PDF і в експорт до Word і тексту.
+Holt einen gelöschten Scan zurück.	Повертає видалений скан.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Скани стираються автоматично через 30 днів. «Очистити» видаляє все одразу.
+Belegung	Зайняте місце
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Показує, скільки місця займають скани, оригінальні фото, кошик і кеш.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Видалення оригінальних фото заощаджує багато місця; готові сторінки залишаються, лише обрізання потім змінити не можна.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Збережіть усі скани в ZIP-файл і відновіть їх на цьому чи іншому пристрої. Нічого не завантажується в мережу.
+Auswahl	Вибір
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Виберіть мови ваших документів. Кожна додаткова мова сповільнює розпізнавання.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Відсутні мови завантажуються один раз і далі працюють без інтернету.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Підключіть телефон і ПК до однієї мережі Wi-Fi (або ПК до точки доступу телефона).
+Herunterladen	Завантажити
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Відкрийте показану адресу в браузері на ПК або відскануйте QR-код; там усі скани можна завантажити як PDF або текст.
+Sicherheit	Безпека
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Працює лише в локальній мережі й лише поки відкритий цей екран.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Мова, якість зображення, зйомка, розпізнавання тексту, місце збереження, блокування й резервне копіювання.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Бере фото з галереї як новий документ; вони обрізаються й розпізнаються як знімки камери.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Відкриває камеру. Усі фото однієї зйомки потрапляють в один спільний документ.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Видаляє цю сторінку з документа (з підтвердженням).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Колір, відтінки сірого чи чорно-біле та автоматичне покращення лише для цієї сторінки.
+Dreht die Seite um 90° im Uhrzeigersinn.	Повертає сторінку на 90° за годинниковою стрілкою.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Заново задайте кути сторінки на оригінальному фото, якщо бракує краю чи потрапило тло.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Приховайте конфіденційні дані смугами чи пікселями; вони зникають і з тексту PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Розміщує ваш збережений підпис на сторінці; першого разу ви його малюєте.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Показує розпізнаний текст сторінки для виправлення й копіювання.
+Fotografiert beim Tippen auf den Auslöser.	Знімає після натискання затвора.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Знімає, щойно сторінка 0,7 с нерухома в кадрі; у режимі книги після кожного перегортання.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Знімає Bluetooth-пультом, з яким створено пару.
+Lautstärketasten lösen immer aus.	Кнопки гучності спрацьовують завжди.
+Word erstellen, Formeln erkennen (%d/%d)	Створення Word, розпізнавання формул (%d/%d)
+Belarussisch	Білоруська
+Bulgarisch	Болгарська
+Serbisch	Сербська
+Mazedonisch	Македонська
+Kein Link im geteilten Text	У переданому тексті немає посилання
+Import fehlgeschlagen: %s	Помилка імпорту: %s
+Link laden	Завантаження посилання
+Unter dem Link liegt keine PDF- oder Bilddatei.	Посилання не веде до файлу PDF чи зображення.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Імпортувати можна лише файли PDF і зображення.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Захищені файли PDF імпортувати не можна.
+PDF-Seite %d/%d importieren	Імпорт сторінки PDF %d/%d
+Auto %s s	Авто %s с
+Auslösen nach %s s	Знімок через %s с
+Wartezeit	Час очікування
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Скільки сторінка має лежати нерухомо перед автоматичним знімком. Коротше — швидше, довше — менше змазаних фото.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Знімає сам, щойно сторінка нерухома; час очікування (0,2–1,5 с) налаштовується нижче. У режимі книги: після кожного гортання, щойно книга знову нерухома.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Додає фото, знімки екрана, файли PDF або посилання як додаткові сторінки; фото обрізаються, усе розпізнається.
+Senden an …	Надіслати до …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Куди «Зберегти» кладе експорт. «Надіслати до …» від цього не залежить.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Виберіть підпапку, наприклад «Documents» — кореневу папку сховища Android не дозволяє.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Створює файл і надсилає його в застосунок, наприклад WhatsApp, пошту, Telegram або хмару.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Вручну: кнопкою затвора. Авто: щойно сторінка нерухома — час очікування (0,2–1,5 с, типово 0,7 с) налаштовується у вікні сканування під перемикачем; у режимі книги після кожного гортання. Bluetooth: спареним пультом. Кнопки гучності завжди роблять знімок.
+Senden an oder Speichern	Надіслати або зберегти
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	«Надіслати до …» надсилає файл у застосунок (WhatsApp, пошта, Telegram, хмара …). «Зберегти» кладе його в місце збереження.
+Importieren	Імпорт
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Додає фото, знімки екрана, файли PDF або посилання як новий документ; фото обрізаються, усе розпізнається.
+Bilder aus der Galerie	Зображення з галереї
+Fotos und Screenshots	Фото і знімки екрана
+Dateien	Файли
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Файли PDF і зображення, наприклад із Завантажень або хмари
+Eine PDF- oder Bilddatei aus dem Internet	Файл PDF чи зображення з інтернету
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Далі як відскановані сторінки: розпізнавання тексту, переклад і експорт у будь-який формат.
+Link importieren	Імпорт посилання
+Internetadresse	Вебадреса
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Знімає, щойно сторінка нерухома %s с (налаштовується у вікні сканування); у режимі книги після кожного гортання.
+Fachwörterbuch laden	Завантаження словника
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Немає словника для %s або %s – перекладено без спеціальних термінів
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Це не файл словника (glossary-xx.tsv.gz)
+Download nicht verfügbar	Завантаження недоступне
+Estnisch	Естонська
+Irisch	Ірландська
+Litauisch	Литовська
+Lettisch	Латиська
+Maltesisch	Мальтійська
+Slowakisch	Словацька
+Slowenisch	Словенська
+Ohne Fachwörterbuch	Без словника
+Alle Fachgebiete	Усі галузі
+Fachgebiet: %s	Галузь: %s
+Fachwörterbücher verwalten …	Керувати словниками …
+Fachwörterbücher	Фахові словники
+Aus Datei importieren	Імпорт із файлу
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Терміни з права, медицини, техніки, економіки та ще 17 галузей (IATE, термінологічна база ЄС) під час перекладу передаються точно. Потрібен словник вихідної та цільової мови, кожен 0,3–9 МБ.
+Einmal laden, danach offline.	Завантажити один раз, далі офлайн.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Імпортуйте файли glossary-xx.tsv.gz значком теки вгорі.
+Fachwörterbücher für die Übersetzung	Фахові словники для перекладу
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Право, медицина, техніка та інше – 24 мови ЄС
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Усі фото й тексти залишаються на цьому пристрої. Інтернет використовується лише для одноразового завантаження мов, моделей перекладу та словників, коли ви це запускаєте.
+Übersetzen	Перекласти
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Створює на пристрої перекладену копію документа: ті самі сторінки й зображення, текст цільовою мовою на своєму місці. Кожен абзац перекладається зі своєї мови. З «Галуззю» спеціальні терміни з глосаріїв переносяться точно.
+Was nachgeladen werden kann	Що можна завантажити
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Усе за бажанням і завантажується лише після натискання; потім працює без інтернету:\n• Мови розпізнавання тексту: по 1–15 МБ (Налаштування › Мови). Німецька й англійська вбудовані.\n• Китайська: окрема модель розпізнавання, близько 17 МБ.\n• Моделі перекладу: близько 30 МБ на мову, завантажуються автоматично під час першого перекладу.\n• Фахові словники: 0,3–9 МБ на мову, близько 70 МБ для всіх 24 мов ЄС (Налаштування › Фахові словники).\nЗавантажені файли можна будь-коли видалити.
+Wozu	Навіщо
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Звичайні перекладачі не знають багатьох термінів або перекладають їх непослідовно. Словник вставляє встановлений термін, напр. «Beweislast» → «тягар доведення».
+Quelle	Джерело
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE – термінологічна база установ ЄС із термінами з 21 галузі (право, охорона здоров’я, техніка, економіка, довкілля, транспорт …). Є для 24 офіційних мов ЄС.
+Was nötig ist	Що потрібно
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	По одному словнику для вихідної та цільової мови, напр. німецької та англійської. Одного словника на мову вистачає для всіх мовних пар.
+Laden oder importieren	Завантажити або імпортувати
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Завантажте стрілкою (один раз, далі офлайн) або імпортуйте файл «glossary-xx.tsv.gz» значком теки, напр. з ПК чи SD-картки.
+Benutzen	Використання
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Під час перекладу виберіть галузь угорі. «Усі галузі» використовує лише терміни, які всюди перекладаються однаково.
+Grenzen	Обмеження
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Терміни вставляються в початковій формі; відмінкові форми розпізнаються не завжди.
+Politik	Політика
+Internationale Beziehungen	Міжнародні відносини
+Europäische Union	Європейський Союз
+Recht	Право
+Wirtschaft	Економіка
+Handel	Торгівля
+Finanzwesen	Фінанси
+Soziales und Gesundheit	Соціальні питання та здоров’я
+Bildung und Kommunikation	Освіта і комунікації
+Wissenschaft	Наука
+Unternehmen und Wettbewerb	Бізнес і конкуренція
+Beschäftigung und Arbeitsbedingungen	Зайнятість і умови праці
+Verkehr	Транспорт
+Umwelt	Довкілля
+Land-, Forst- und Fischereiwirtschaft	Сільське, лісове та рибне господарство
+Agrarerzeugnisse und Lebensmittel	Агропродовольство
+Produktion, Technologie und Forschung	Виробництво, технології та дослідження
+Energie	Енергетика
+Industrie	Промисловість
+Geografie	Географія
+Internationale Organisationen	Міжнародні організації
+Wenig Licht – Lampe einschalten	Мало світла – увімкнути ліхтарик
+Verarbeitung mehrfach abgebrochen	Обробку неодноразово перервано
+Bearbeitungen gehen verloren	Зміни буде втрачено
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	Сторінку буде створено заново з фото. Зафарбування, підпис і нотатки доведеться додати знову.
+Neu zuschneiden	Обрізати знову
+Sprachdaten	Мовні дані
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Показує, скільки місця займають скани, оригінальні фото, кошик, кеш і мовні дані (розпізнавання тексту, словники).
+Bitte warten, bis alle Seiten erkannt sind	Зачекайте, доки всі сторінки буде розпізнано
+Die Sprache „%s“ kann nicht übersetzt werden	Мову «%s» неможливо перекласти
+Übersetzung in die Seiten setzen	Вставлення перекладу в сторінки

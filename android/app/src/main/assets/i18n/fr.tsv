@@ -1,0 +1,745 @@
+Bitte zuerst Fingerabdruck, Gesichtsentsperrung oder eine Displaysperre einrichten.	Veuillez d’abord configurer une empreinte digitale, le déverrouillage facial ou un verrouillage de l’écran.
+Dieses Gerät unterstützt keine biometrische Entsperrung.	Cet appareil ne prend pas en charge le déverrouillage biométrique.
+Ultimate PDF Scanner entsperren	Déverrouiller Ultimate PDF Scanner
+Deine Scans sind geschützt	Vos scans sont protégés
+Ultimate PDF Scanner ist gesperrt	Ultimate PDF Scanner est verrouillé
+Deine Scans bleiben auf diesem Gerät.	Vos scans restent sur cet appareil.
+  Entsperren	  Déverrouiller
+Systemsprache	Langue du système
+Deutsch	Allemand
+English	Anglais
+Fotos importieren	Importer des photos
+Texterkennung vorbereiten	Préparation de la reconnaissance de texte
+Ein Foto konnte nicht verarbeitet werden: %s	Une photo n’a pas pu être traitée : %s
+Foto laden	Chargement de la photo
+Foto nicht lesbar	Photo illisible
+Filter anwenden	Application du filtre
+Schwärzen	Caviarder
+Unterschrift einfügen	Ajout de la signature
+Unterschrift eingefügt	Signature ajoutée
+Änderungen einfügen	Application des modifications
+Seite bearbeitet	Page modifiée
+Text gesichert	Texte enregistré
+Zusammenführen	Fusionner
+%d Scans zusammengeführt	%d scans fusionnés
+Seiten verschieben	Déplacement des pages
+Seiten kopieren	Copie des pages
+ (Teil)	 (partie)
+Zwischenspeicher leeren	Vider le cache
+Zwischenspeicher geleert	Cache vidé
+Originalfotos entfernen	Supprimer les photos d’origine
+Sicherung erstellen	Création de la sauvegarde
+Sicherung erstellen (%d/%d)	Création de la sauvegarde (%d/%d)
+Sicherung gespeichert	Sauvegarde enregistrée
+Sicherung wiederherstellen	Restauration de la sauvegarde
+ (%d schon vorhanden)	 (%d déjà présents)
+Wiederherstellen fehlgeschlagen: %s	Échec de la restauration : %s
+PDF erstellen (%d/%d)	Création du PDF (%d/%d)
+%s erstellen	Création : %s
+Export fehlgeschlagen: %s	Échec de l’export : %s
+%s speichern	Enregistrement : %s
+PDF gespeichert (passwortgeschützt, AES-256)	PDF enregistré (protégé par mot de passe, AES-256)
+%s gespeichert	%s enregistré
+Bilder speichern	Enregistrement des images
+Bilder speichern (%d/%d)	Enregistrement des images (%d/%d)
+%d Bilder gespeichert	%d images enregistrées
+Sprache erkennen	Détection de la langue
+Kein erkannter Text zum Übersetzen	Aucun texte reconnu à traduire
+Sprache nicht erkannt	Langue non reconnue
+Der Text ist bereits auf %s	Le texte est déjà en %s
+Sprachmodell laden (beim ersten Mal ~30 MB)	Chargement du modèle de langue (~30 Mo la première fois)
+Übersetzen (%d/%d)	Traduction (%d/%d)
+Seite %d	Page %d
+Übersetzung fehlgeschlagen: %s	Échec de la traduction : %s
+1 Bereich unkenntlich gemacht	1 zone caviardée
+%d Bereiche unkenntlich gemacht	%d zones caviardées
+1 Scan wiederhergestellt	1 scan restauré
+%d Scans wiederhergestellt	%d scans restaurés
+Server antwortet mit %d	Le serveur a répondu %d
+Datei unvollständig	Fichier incomplet
+Nicht gefunden	Introuvable
+%d Scans auf dem Handy · direkt über das WLAN, ohne Cloud	%d scans sur le téléphone · directement via le Wi-Fi, sans cloud
+Ausgangssprache „%s“ wird nicht unterstützt	La langue source « %s » n’est pas prise en charge
+Zielsprache „%s“ wird nicht unterstützt	La langue cible « %s » n’est pas prise en charge
+QR-CODE	CODE QR
+AUSWEIS	PIÈCE D’IDENTITÉ
+DOKUMENT	DOCUMENT
+BUCH	LIVRE
+VISITENKARTE	CARTE DE VISITE
+PASSFOTO	PHOTO D’IDENTITÉ
+PDF	PDF
+Word	Word
+Bilder	Images
+ZIP	ZIP
+Text	Texte
+Excel	Excel
+CSV	CSV
+Kontakt	Contact
+Wie gescannt	Tel que scanné
+Letter	Letter
+Mittel	Moyenne
+Englisch	Anglais
+Französisch	Français
+Italienisch	Italien
+Spanisch	Espagnol
+Portugiesisch	Portugais
+Niederländisch	Néerlandais
+Polnisch	Polonais
+Tschechisch	Tchèque
+Dänisch	Danois
+Schwedisch	Suédois
+Norwegisch	Norvégien
+Finnisch	Finnois
+Ungarisch	Hongrois
+Rumänisch	Roumain
+Kroatisch	Croate
+Türkisch	Turc
+Griechisch	Grec
+Russisch	Russe
+Ukrainisch	Ukrainien
+Arabisch	Arabe
+Hebräisch	Hébreu
+Persisch	Persan
+Chinesisch (vereinfacht)	Chinois (simplifié)
+Japanisch	Japonais
+Koreanisch	Coréen
+Latein	Latin
+Deutsch (Fraktur)	Allemand (Fraktur)
+1 Seite	1 page
+%d Seiten	%d pages
+1 Scan	1 scan
+%d Scans	%d scans
+Abbrechen	Annuler
+Bearbeiten	Modifier
+Zurück	Retour
+Rückgängig	Annuler la dernière action
+Sichern	Enregistrer
+Seite	Page
+Einfügen	Insérer
+Änderungen sichern?	Enregistrer les modifications ?
+Verwerfen	Ignorer
+Schließen	Fermer
+Fertig	Terminé
+Öffnen	Ouvrir
+Keine	Aucune
+Alle	Toutes
+Umbenennen	Renommer
+Mehr	Plus
+Löschen	Supprimer
+Teilen	Partager
+Speichern	Enregistrer
+Drucken	Imprimer
+Kopieren	Copier
+Drehen	Pivoter
+Laden	Télécharger
+Entfernen	Retirer
+Verschieben	Déplacer
+Name	Nom
+Aus	Désactivé
+Leeren	Vider
+Wiederherstellen	Restaurer
+Text einfügen	Ajouter du texte
+z. B. Name, Datum …	p. ex. nom, date …
+Kein Gesicht erkannt – bitte noch einmal	Aucun visage détecté – veuillez réessayer
+Seite erneut scannen	Rescanner la page
+Fernauslöser verbunden	Déclencheur à distance connecté
+Nach dem Umblättern auslösen	Déclencher après chaque page tournée
+Leserichtung rechts nach links	Sens de lecture de droite à gauche
+Leserichtung links nach rechts	Sens de lecture de gauche à droite
+Automatisch auslösen	Déclenchement automatique
+Kamera wechseln	Changer de caméra
+Licht	Lampe
+Bitte Kamerazugriff erlauben.	Veuillez autoriser l’accès à la caméra.
+Passfoto wird zugeschnitten …	Recadrage de la photo d’identité …
+Ohne Rückseite fertig	Terminé sans verso
+Kein Code im Bild gefunden	Aucun code trouvé dans l’image
+Aus Galerie	Depuis la galerie
+QR-Code oder Barcode in den Rahmen halten	Placez un code QR ou un code-barres dans le cadre
+Gesicht ins Oval · gerade schauen · heller Hintergrund	Visage dans l’ovale · regard droit · fond clair
+Vorderseite des Ausweises in den Rahmen	Recto de la pièce d’identité dans le cadre
+Jetzt die Rückseite	Maintenant le verso
+Visitenkarte in den Rahmen legen	Placez la carte de visite dans le cadre
+Aufgeschlagenes Buch ins Bild halten	Placez le livre ouvert dans le champ
+Doppelseite erkannt	Double page détectée
+Umblättern – löst danach automatisch aus	Tournez la page – déclenchement automatique ensuite
+Ruhig halten …	Ne bougez plus …
+Ruhig halten – wird automatisch ausgelöst	Ne bougez plus – déclenchement automatique
+Seite ins Bild halten	Placez la page dans le champ
+Seite erkannt	Page détectée
+Intervall-Timer	Minuteur d’intervalle
+Serie starten	Démarrer la série
+Farbe	Couleur
+Graustufen	Niveaux de gris
+Schwarz-Weiß	Noir et blanc
+Original	Original
+Automatisch	Automatique
+Zuschnitt nicht möglich	Recadrage impossible
+Das Originalfoto dieser Seite wurde entfernt, um Speicher zu sparen. Mit „Erneut scannen“ lässt sich die Seite neu aufnehmen.	La photo d’origine de cette page a été supprimée pour gagner de la place. Utilisez « Rescanner » pour reprendre la page.
+Zuschnitt anpassen	Ajuster le recadrage
+Übernehmen	Appliquer
+Einzelseite	Page simple
+Doppelseite	Double page
+Auto	Auto
+  Automatisch	  Automatique
+Ecken auf die Seitenränder ziehen	Faites glisser les coins sur les bords de la page
+Seiten ordnen	Organiser les pages
+%d ausgewählt	%d sélectionnées
+Filter für alle Seiten	Filtre pour toutes les pages
+Leserichtung umkehren	Inverser le sens de lecture
+Übersetzen…	Traduire…
+Scan löschen	Supprimer le scan
+Scannen	Scanner
+Import	Importer
+Ordnen	Organiser
+Exportieren	Exporter
+Übersetzen in …	Traduire en …
+Die Übersetzung läuft auf dem Gerät. Beim ersten Mal wird das Sprachmodell einmalig geladen.	La traduction se fait sur l’appareil. Le modèle de langue est téléchargé une seule fois la première fois.
+Übersetzung teilen	Partager la traduction
+Scan löschen?	Supprimer le scan ?
+„%s“ wird endgültig gelöscht.	« %s » sera supprimé définitivement.
+Kontakt erkannt	Contact reconnu
+Zu Kontakten	Ajouter aux contacts
+Seiten werden verarbeitet (%d/%d)	Traitement des pages (%d/%d)
+Nur diese	Seulement celles-ci
+Wird neu verarbeitet	Nouveau traitement
+Erneut	Reprendre
+Fehlgeschlagen	Échec
+Foto nicht verarbeitet	Photo non traitée
+Bei der Bildverarbeitung ist ein Fehler aufgetreten.	Une erreur s’est produite lors du traitement de l’image.
+Keine Auffälligkeiten	Aucun problème détecté
+Erneut scannen	Rescanner
+Ersetzt beide Seiten dieser Doppelseite	Remplace les deux pages de cette double page
+Kamera öffnen und diese Seite ersetzen	Ouvrir la caméra et remplacer cette page
+Nach vorn	Avancer
+Nach hinten	Reculer
+Seite löschen	Supprimer la page
+Foto entfernen	Retirer la photo
+1 Seite verschoben	1 page déplacée
+%d Seiten verschoben	%d pages déplacées
+1 Seite kopiert	1 page copiée
+%d Seiten kopiert	%d pages copiées
+1 Seite löschen?	Supprimer 1 page ?
+%d Seiten löschen?	Supprimer %d pages ?
+1 Seite prüfen	Vérifier 1 page
+%d Seiten prüfen	Vérifier %d pages
+Seite löschen?	Supprimer la page ?
+Durchsuchbares PDF mit erkanntem Text	PDF consultable avec le texte reconnu
+Bearbeitbarer Text für Word, LibreOffice und Google Docs	Texte modifiable pour Word, LibreOffice et Google Docs
+Die Seite als JPG-Bild	La page en image JPG
+Ein JPG-Bild pro Seite (%d Dateien)	Une image JPG par page (%d fichiers)
+Alle Seiten als JPG und der Text in einem Archiv	Toutes les pages en JPG et le texte dans une archive
+Nur der erkannte Text	Seulement le texte reconnu
+Erkannte Tabellen, ein Tabellenblatt pro Seite	Tableaux reconnus, une feuille par page
+Erkannte Tabellen als CSV (Semikolon, für Excel)	Tableaux reconnus en CSV (point-virgule, pour Excel)
+Visitenkarte als Kontakt (vCard)	Carte de visite en contact (vCard)
+Vorder- und Rückseite in Originalgröße auf einer Seite – fertig zum Ausdrucken	Recto et verso en taille réelle sur une page – prêt à imprimer
+Seitenformat	Format de page
+Mit Passwort schützen	Protéger par mot de passe
+AES-256-Verschlüsselung	Chiffrement AES-256
+Passwort	Mot de passe
+Mindestens 4 Zeichen	Au moins 4 caractères
+Passwort wiederholen	Répéter le mot de passe
+Passwörter stimmen nicht überein	Les mots de passe ne correspondent pas
+Seitenbilder einfügen	Inclure les images des pages
+Jede Seite als Bild über ihrem Text	Chaque page en image au-dessus de son texte
+Spalten werden an den Abständen im Text erkannt – am besten klappt das mit klar getrennten Spalten. Zahlen wie „1.234,50“ werden als Zahlen übernommen.	Les colonnes sont reconnues grâce aux espaces dans le texte – cela fonctionne mieux avec des colonnes bien séparées. Les nombres comme « 1 234,50 » sont repris comme nombres.
+Auf dieser Karte wurden keine Kontaktdaten erkannt.	Aucune coordonnée n’a été reconnue sur cette carte.
+1 ausgewählte Seite	1 page sélectionnée
+%d ausgewählte Seiten	%d pages sélectionnées
+Mobil	Mobile
+Fax	Fax
+Telefon	Téléphone
+%s teilen	Partager : %s
+Scan	Scan
+Text teilen	Partager le texte
+PDF teilen	Partager le PDF
+In den Papierkorb verschoben	Déplacé dans la corbeille
+%d Scans in den Papierkorb verschoben	%d scans déplacés dans la corbeille
+Auswahl beenden	Quitter la sélection
+Alle auswählen	Tout sélectionner
+In Ordner verschieben	Déplacer dans un dossier
+Ordner	Dossiers
+Ordner umbenennen	Renommer le dossier
+Ordner auflösen	Supprimer le dossier
+Papierkorb (%d)	Corbeille (%d)
+Papierkorb	Corbeille
+An PC senden	Envoyer vers le PC
+Speicher & Sicherung	Stockage et sauvegarde
+Einstellungen	Paramètres
+Scans und Text durchsuchen	Rechercher dans les scans et le texte
+Alle Scans durchsuchen	Rechercher dans tous les scans
+Suche löschen	Effacer la recherche
+%d Treffer	%d résultats
+Alle Scans	Tous les scans
+Nichts gefunden	Aucun résultat
+Weder ein Name noch ein erkannter Text passt zu „%s“.	Aucun nom ni texte reconnu ne correspond à « %s ».
+Ordner ist leer	Le dossier est vide
+Verschiebe Scans hierher: lange auf einen Scan tippen und „In Ordner“ wählen.	Déplacez des scans ici : appui long sur un scan, puis « Déplacer dans un dossier ».
+Noch keine Scans	Aucun scan pour l’instant
+Tippe auf „Scannen“, um Seiten zu fotografieren,\noder importiere Fotos aus der Galerie.	Touchez « Scanner » pour photographier des pages,\nou importez des photos depuis la galerie.
+Ordnername	Nom du dossier
+Neuer Ordner	Nouveau dossier
+%d Scans zusammenführen?	Fusionner %d scans ?
+Alle Seiten werden in der Auswahlreihenfolge an „%s“ angehängt. Die übrigen Scans entfallen danach.	Toutes les pages sont ajoutées à « %s » dans l’ordre de sélection. Les autres scans sont ensuite supprimés.
+%d prüfen	%d à vérifier
+Wird verarbeitet (%d/%d)	Traitement (%d/%d)
+Als PDF teilen	Partager en PDF
+Kategorie ändern	Changer de catégorie
+Kein Ordner	Aucun dossier
+Neuer Ordner …	Nouveau dossier …
+Kategorie	Catégorie
+Download fehlgeschlagen: %s	Échec du téléchargement : %s
+keine Verbindung	pas de connexion
+Sprachen der Texterkennung	Langues de la reconnaissance de texte
+Gewählte Sprachen werden zusammen erkannt – am besten nur die nötigen wählen, jede weitere macht die Erkennung langsamer. 	Les langues choisies sont reconnues ensemble – ne choisissez que celles nécessaires, chaque langue ralentit la reconnaissance.
+Fehlende Sprachen werden einmalig geladen (ca. 2–15 MB) und funktionieren danach offline.	Les langues manquantes sont téléchargées une fois (environ 2–15 Mo) et fonctionnent ensuite hors ligne.
+Wird geladen … %d %%	Téléchargement … %d %%
+Enthalten	Incluse
+Geladen · %s	Téléchargée · %s
+Nicht geladen	Non téléchargée
+Tippen zum Auswählen · gedrückt halten und ziehen zum Verschieben	Touchez pour sélectionner · maintenez et faites glisser pour déplacer
+Neuer Scan	Nouveau scan
+Verschieben nach …	Déplacer vers …
+Kopieren nach …	Copier vers …
+Seite %d von %d	Page %d sur %d
+Filter	Filtre
+Zuschnitt	Recadrer
+Signieren	Signer
+Code	Code
+Link	Lien
+E-Mail	E-mail
+Telefonnummer	Numéro de téléphone
+Ort	Lieu
+Produktcode	Code produit
+Netzwerk: %s	Réseau : %s
+Passwort: %s	Mot de passe : %s
+Verschlüsselung: %s	Chiffrement : %s
+Passwort kopieren	Copier le mot de passe
+Verbinden	Se connecter
+E-Mail schreiben	Écrire un e-mail
+Anrufen	Appeler
+In Karten öffnen	Ouvrir dans Maps
+Suche sensible Daten…	Recherche de données sensibles…
+Nichts Sensibles gefunden. Bereiche zum Schwärzen mit dem Finger aufziehen.	Rien de sensible trouvé. Tracez avec le doigt les zones à caviarder.
+Gefunden – antippen zum An-/Abwählen, weitere Bereiche aufziehen:	Trouvé – touchez pour (dé)sélectionner, tracez pour ajouter des zones :
+Schwarzer Balken	Barre noire
+Verpixeln	Pixelliser
+Unkenntlich machen (%d)	Caviarder (%d)
+Manuell	Manuel
+Gesicht	Visage
+Kein WLAN	Pas de Wi-Fi
+Verbinde Handy und PC mit demselben WLAN (oder den PC mit dem Hotspot des Handys). Die Adresse erscheint dann hier.	Connectez le téléphone et le PC au même Wi-Fi (ou le PC au point d’accès du téléphone). L’adresse apparaît alors ici.
+Am PC im Browser öffnen	Ouvrir dans le navigateur du PC
+QR-Code der Adresse	Code QR de l’adresse
+Adresse eintippen oder den QR-Code mit der PC-Kamera scannen. Dort lassen sich alle Scans als PDF oder Text herunterladen.	Saisissez l’adresse ou scannez le code QR avec la caméra du PC. Tous les scans peuvent y être téléchargés en PDF ou en texte.
+Nur im lokalen Netz und nur solange dieser Bildschirm offen ist. Nichts wird ins Internet hochgeladen.	Uniquement sur le réseau local et seulement tant que cet écran est ouvert. Rien n’est envoyé sur Internet.
+Heruntergeladen	Téléchargé
+App-Sperre nicht möglich	Verrouillage de l’application impossible
+Sprache	Langue
+Sprache der App	Langue de l’application
+Aufnahme	Prise de vue
+Doppelseiten im Dokument-Modus	Doubles pages en mode document
+Automatisch teilen	Séparer automatiquement
+Nie teilen	Ne jamais séparer
+Fotografiert, sobald die Seite ruhig im Bild liegt.	Prend la photo dès que la page est stable dans le champ.
+Buch-Modus	Mode livre
+Erkennt das Umblättern und fotografiert, sobald das Buch wieder ruhig liegt.	Détecte les pages tournées et déclenche dès que le livre est à nouveau stable.
+Leserichtung	Sens de lecture
+Links → rechts	Gauche → droite
+Rechts → links	Droite → gauche
+Rechts → links für Arabisch, Hebräisch, Persisch und Japanisch: die rechte Seite kommt zuerst.	Droite → gauche pour l’arabe, l’hébreu, le persan et le japonais : la page de droite vient en premier.
+Fernauslöser	Déclencheur à distance
+Bluetooth-Kamera-Fernauslöser (z. B. „AB Shutter 3“) in den Android-Bluetooth-Einstellungen koppeln. 	Associez un déclencheur Bluetooth (p. ex. « AB Shutter 3 ») dans les paramètres Bluetooth d’Android.
+In der Kamera lösen dann der Fernauslöser und die Lautstärketasten aus.	Dans la caméra, le déclencheur et les touches de volume prennent alors la photo.
+Bild	Image
+Standardfilter	Filtre par défaut
+Handschrift entfernen	Supprimer l’écriture manuscrite
+Entfernt blaue/rote Stiftnotizen und Bleistift. Entfernt auch Druck in diesen Farben.	Supprime les notes au stylo bleu/rouge et au crayon. Supprime aussi l’impression dans ces couleurs.
+Texterkennung	Reconnaissance de texte
+Sprachen	Langues
+Sicherheit & Speicher	Sécurité et stockage
+App-Sperre	Verrouillage de l’application
+Beim Öffnen mit Fingerabdruck, Gesicht oder Displaysperre entsperren. Inhalte erscheinen nicht in der App-Übersicht.	Déverrouiller par empreinte, visage ou verrouillage de l’écran à l’ouverture. Le contenu est masqué dans l’aperçu des applications récentes.
+Belegung, Backup als ZIP, Wiederherstellen	Occupation, sauvegarde en ZIP, restauration
+Gelöschte Scans werden nach 30 Tagen entfernt	Les scans supprimés sont effacés après 30 jours
+Offline	Hors ligne
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen genutzt, wenn du es anstößt.	Toutes les photos et tous les textes restent sur cet appareil. Internet ne sert qu’à télécharger une fois des langues, à votre demande.
+Über	À propos
+Open-Source-Komponenten: OpenCV, Tesseract OCR, PdfBox-Android, ZXing (jeweils Apache-Lizenz 2.0); ML Kit (Übersetzung, Gesichtserkennung, auf dem Gerät).	Composants open source : OpenCV, Tesseract OCR, PdfBox-Android, ZXing (tous sous licence Apache 2.0) ; ML Kit (traduction, détection de visage, sur l’appareil).
+Unterschrift zeichnen	Dessiner la signature
+Mit dem Finger unterschreiben	Signez avec le doigt
+Unterschrift platzieren	Placer la signature
+Neu zeichnen	Redessiner
+Verschieben mit einem Finger, Größe mit zwei Fingern ändern.	Déplacer avec un doigt, redimensionner avec deux doigts.
+Unterschrift	Signature
+Belegt von Ultimate PDF Scanner	Utilisé par Ultimate PDF Scanner
+%s frei auf dem Gerät	%s libres sur l’appareil
+Seiten	Pages
+Originalfotos	Photos d’origine
+Zwischenspeicher	Cache
+Platz schaffen	Libérer de l’espace
+Exportierte Dateien zum Teilen	Fichiers exportés pour le partage
+Gelöschte Scans der letzten 30 Tage	Scans supprimés au cours des 30 derniers jours
+Die fertigen Seiten bleiben erhalten, der Zuschnitt lässt sich danach nicht mehr ändern.	Les pages finies sont conservées, mais le recadrage ne peut plus être modifié.
+Größte Scans	Plus gros scans
+Sicherung	Sauvegarde
+Alle Scans als eine ZIP-Datei sichern – z. B. auf eine SD-Karte, einen USB-Stick oder den PC. Nichts wird hochgeladen.	Sauvegardez tous les scans dans un fichier ZIP – p. ex. sur une carte SD, une clé USB ou le PC. Rien n’est envoyé en ligne.
+Papierkorb mitsichern	Inclure la corbeille
+UltimatePDFScanner-Sicherung_	UltimatePDFScanner-Sauvegarde_
+Beim Wiederherstellen werden nur Scans ergänzt, die noch fehlen.	La restauration n’ajoute que les scans manquants.
+Originalfotos entfernen?	Supprimer les photos d’origine ?
+Spart %s. Seiten lassen sich danach nicht mehr neu zuschneiden, „Erneut scannen“ bleibt möglich.	Économise %s. Les pages ne pourront plus être recadrées ; « Rescanner » reste possible.
+Text bearbeiten · Seite %d	Modifier le texte · page %d
+Korrekturen gehen in die Suche und in die Textebene des PDFs ein.	Les corrections sont reprises dans la recherche et dans la couche texte du PDF.
+Kein Text erkannt – hier eintippen	Aucun texte reconnu – saisissez-le ici
+Gelöschte Scans werden nach %d Tagen endgültig entfernt.	Les scans supprimés sont effacés définitivement après %d jours.
+Papierkorb ist leer	La corbeille est vide
+Endgültig löschen	Supprimer définitivement
+Papierkorb leeren?	Vider la corbeille ?
+%d Scans werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.	%d scans seront supprimés définitivement. Cette action est irréversible.
+Endgültig löschen?	Supprimer définitivement ?
+„%s“ wird sofort gelöscht.	« %s » sera supprimé immédiatement.
+noch 1 Tag	encore 1 jour
+noch %d Tage	encore %d jours
+Quittung	Reçu
+Quittungen	Reçus
+Rechnung	Facture
+Rechnungen	Factures
+Visitenkarte	Carte de visite
+Visitenkarten	Cartes de visite
+Vertrag	Contrat
+Verträge	Contrats
+Brief	Lettre
+Briefe	Lettres
+Ausweis	Pièce d’identité
+Ausweise	Pièces d’identité
+Buch	Livre
+Bücher	Livres
+Passfoto	Photo d’identité
+Passfotos	Photos d’identité
+Dokument	Document
+Dokumente	Documents
+Auflösung	Résolution
+Kompression	Compression
+Gering	Faible
+Stark	Forte
+300 dpi	300 dpi
+200 dpi	200 dpi
+150 dpi	150 dpi
+300 dpi und geringe Kompression für Druck und Archiv, 150 dpi und starke Kompression für E-Mail.	300 dpi et compression faible pour l’impression et l’archivage, 150 dpi et compression forte pour l’e-mail.
+Macht PDFs durchsuchbar und den Text kopierbar. Aus: schnellere Verarbeitung, PDF nur als Bild.	Rend les PDF consultables et le texte copiable. Désactivé : traitement plus rapide, PDF uniquement en image.
+Keine Seite erkannt	Aucune page détectée
+Der Seitenrand wurde nicht gefunden – das ganze Foto wurde übernommen.	Le bord de la page n’a pas été trouvé – la photo entière a été utilisée.
+Unscharf	Flou
+Das Foto ist verwackelt oder unscharf.	La photo est bougée ou floue.
+Zu dunkel	Trop sombre
+Die Seite ist schlecht ausgeleuchtet.	La page est mal éclairée.
+Text schlecht lesbar	Texte difficile à lire
+Die Texterkennung war unsicher.	La reconnaissance de texte était incertaine.
+Kein Text erkannt	Aucun texte reconnu
+Auf der Seite wurde kein Text gefunden – eine leere Seite oder gar keine Seite im Bild?	Aucun texte n’a été trouvé sur la page – une page blanche, ou aucune page dans l’image ?
+Hindi	Hindi
+Bengalisch	Bengali
+Urdu	Ourdou
+Indonesisch	Indonésien
+Seite erkennen	Détection de la page
+Seite entzerren	Redressement de la page
+Finger entfernen	Suppression des doigts
+Schärfe prüfen	Vérification de la netteté
+Ausrichtung	Orientation
+Bild verbessern	Amélioration de l'image
+Speicherort	Emplacement
+Speicherort für Exporte	Emplacement des exports
+Jedes Mal fragen	Demander à chaque fois
+Ordner wählen …	Choisir un dossier …
+„Speichern“ legt PDFs und andere Exporte direkt in diesem Ordner ab, ohne jedes Mal nachzufragen. Auch eine SD-Karte ist möglich.	« Enregistrer » place les PDF et autres exports directement dans ce dossier, sans demander à chaque fois. Une carte SD convient aussi.
+Gespeichert in „%s“	Enregistré dans « %s »
+Der Speicherort ist nicht erreichbar. Bitte neu wählen.	L'emplacement n'est pas accessible. Veuillez le choisir à nouveau.
+Neu aufnehmen	Reprendre
+Um 90° links drehen	Pivoter de 90° à gauche
+Seite gelöscht	Page supprimée
+Lange drücken: neu aufnehmen, drehen oder löschen	Appui long : reprendre, pivoter ou supprimer
+Ersetzt beide Seiten	Remplace les deux pages
+Ränder bereinigen	Nettoyage des bords
+Scan-Qualität	Qualité de numérisation
+Schnell	Rapide
+Standard	Standard
+Genau	Précis
+Für große, klare Schrift wie Briefe und Ausdrucke: kleinere Fotos, schnellste Verarbeitung.	Pour les textes grands et nets comme les lettres et impressions : photos plus petites, traitement le plus rapide.
+Für Bücher und die meisten Dokumente: gute Erkennung bei normaler Geschwindigkeit.	Pour les livres et la plupart des documents : bonne reconnaissance à vitesse normale.
+Für Kleingedrucktes, alte Bücher, Fußnoten und Formeln: volle Kameraauflösung, langsamer, mehr Speicher.	Pour les petits caractères, livres anciens, notes de bas de page et formules : pleine résolution de l’appareil photo, plus lent, plus de mémoire.
+BILD	IMAGE
+Bild flach hinlegen · kein Blitz · Spiegelungen vermeiden	Posez l’image à plat · sans flash · évitez les reflets
+an	activé
+aus	désactivé
+Automatische Auslösung an: nach dem Umblättern	Déclenchement auto activé : après chaque page tournée
+Automatische Auslösung an: sobald die Seite ruhig liegt	Déclenchement auto activé : dès que la page est immobile
+Automatische Auslösung aus	Déclenchement auto désactivé
+PDF & Export	PDF et export
+Speicherort für PDFs und Bilder	Emplacement des PDF et images
+Beim Exportieren lässt sich das für einzelne Dateien ändern.	Modifiable pour chaque fichier lors de l’export.
+Weitere Optionen …	Plus d’options …
+Automatische Verbesserung	Amélioration automatique
+Schatten und Artefakte entfernen, Schrift schärfen	Supprimer ombres et artefacts, rendre le texte plus net
+Schatten und Artefakte entfernen, Schrift schärfen. In jedem Dokument einzeln abschaltbar.	Supprimer ombres et artefacts, rendre le texte plus net. Désactivable pour chaque document.
+unkorrigiert	non corrigé
+Maximal	Maximale
+Bildqualität	Qualité d’image
+volle Auflösung	pleine résolution
+Briefe, Ausdrucke, große Schrift	Lettres, impressions, gros caractères
+Bücher und die meisten Dokumente (empfohlen)	Livres et la plupart des documents (recommandé)
+Kleingedrucktes, Formeln, alte Bücher – langsamer	Petits caractères, formules, livres anciens – plus lent
+Gilt auch für alle weiteren Scans.	S’applique aussi à tous les scans suivants.
+Ändern	Modifier
+Wohin „Speichern“ deine Exporte legt. „Teilen“ ist davon unabhängig.	Où « Enregistrer » place vos exports. « Partager » n’est pas concerné.
+Ordner und Dateiname beim Speichern wählen	Choisir le dossier et le nom du fichier à l’enregistrement
+Exporte landen direkt hier	Les exports sont enregistrés directement ici
+Anderen Ordner wählen …	Choisir un autre dossier …
+Auch SD-Karte und Cloud-Ordner, sofern auf dem Gerät eingerichtet.	Carte SD et dossiers cloud aussi, s’ils sont configurés sur l’appareil.
+Auf diesen Ordner ist kein dauerhafter Zugriff möglich.	Un accès durable à ce dossier n’est pas possible.
+Sehr hohe Auflösung	Résolution très élevée
+Mit %d MP dauert die Verarbeitung jeder Seite deutlich länger und braucht viel Speicher. Für die meisten Dokumente reicht „Standard“. „Maximal“ lohnt sich nur für sehr kleine Schrift.	À %d MP, chaque page prend beaucoup plus de temps à traiter et nécessite beaucoup de mémoire. « Standard » suffit pour la plupart des documents. « Maximale » n’est utile que pour les très petits caractères.
+Trotzdem verwenden	Utiliser quand même
+langsam	lent
+Kein Fernauslöser verbunden – in den Bluetooth-Einstellungen koppeln	Aucune télécommande connectée – associez-la dans les paramètres Bluetooth
+Mit dem Fernauslöser auslösen	Déclencher avec la télécommande
+Umblättern	Tourner la page
+Auto 0,7 s	Auto 0,7 s
+Bluetooth	Bluetooth
+Beendet die Aufnahme. Bereits fotografierte Seiten bleiben erhalten und werden verarbeitet.	Termine la prise de vue. Les pages déjà photographiées sont conservées et traitées.
+Schaltet die Taschenlampe ein oder aus. Bei glänzendem Papier besser ohne Licht und schräg zum Fenster fotografieren.	Allume ou éteint la lampe. Avec du papier brillant, photographiez plutôt sans lumière et en biais par rapport à la fenêtre.
+Übernimmt vorhandene Fotos statt neuer Aufnahmen.	Utilise des photos existantes au lieu de nouvelles prises.
+Serie	Série
+Startet oder stoppt die Serie: Der Timer macht dann automatisch alle paar Sekunden ein Foto.	Démarre ou arrête la série : le minuteur prend alors automatiquement une photo toutes les quelques secondes.
+Auslöser	Déclencheur
+Macht ein Foto. Die Lautstärketasten und ein Bluetooth-Fernauslöser lösen ebenfalls aus.	Prend une photo. Les touches de volume et une télécommande Bluetooth déclenchent aussi.
+Beendet die Aufnahme und öffnet die Übersicht; die Zahl zeigt die Fotos dieser Aufnahme.	Termine la prise de vue et ouvre l’aperçu ; le nombre indique les photos de cette prise.
+Wie viele Pixel jedes Foto hat. Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – braucht länger.	Nombre de pixels de chaque photo. Rapide (5 MP) pour les gros caractères, Standard (12 MP) pour presque tout, Maximale pour les petits caractères et les formules – plus lent.
+Tippen schaltet um: aus, 3, 5 oder 10 Sekunden. Danach startet der Auslöser eine Serie mit einem Foto in diesem Abstand – praktisch für Bücher.	Appuyez pour changer : désactivé, 3, 5 ou 10 secondes. Le déclencheur lance alors une série avec une photo à cet intervalle – pratique pour les livres.
+Fotografiert nur, wenn du auf den Auslöser tippst.	Ne photographie que lorsque vous appuyez sur le déclencheur.
+Fotografiert von selbst, sobald die Seite 0,7 Sekunden ruhig im Bild liegt. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Photographie tout seul dès que la page reste immobile 0,7 seconde dans l’image. En mode livre : après chaque page tournée, dès que le livre est de nouveau immobile.
+Fotografiert mit einem Bluetooth-Fernauslöser (z. B. „AB Shutter 3“). Den Auslöser vorher in den Bluetooth-Einstellungen des Handys koppeln.	Photographie avec une télécommande Bluetooth (p. ex. « AB Shutter 3 »). Associez d’abord la télécommande dans les paramètres Bluetooth du téléphone.
+Gibt dem Dokument einen eigenen Namen; er wird auch als Dateiname beim Export verwendet.	Donne un nom propre au document ; il sert aussi de nom de fichier à l’export.
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen.	Inverser le sens de lecture des doubles pages, traduire sur l’appareil ou supprimer le scan.
+Öffnet die Kamera und hängt weitere Seiten an dieses Dokument an.	Ouvre l’appareil photo et ajoute d’autres pages à ce document.
+Übernimmt Fotos aus der Galerie als weitere Seiten; sie werden wie Kamerafotos zugeschnitten und erkannt.	Ajoute des photos de la galerie comme pages supplémentaires ; elles sont recadrées et reconnues comme les photos de l’appareil.
+Reihenfolge per Ziehen ändern; Seiten auswählen, um sie zu drehen, zu verschieben, zu kopieren, herauszulösen oder zu löschen.	Modifier l’ordre en faisant glisser ; sélectionner des pages pour les faire pivoter, déplacer, copier, extraire ou supprimer.
+Als PDF, Word, Bilder, ZIP, Text oder Tabelle teilen, speichern oder drucken.	Partager, enregistrer ou imprimer en PDF, Word, images, ZIP, texte ou tableau.
+Farbe, Graustufen, Schwarz-Weiß	Couleur, niveaux de gris, noir et blanc
+Stellt alle Seiten dieses Dokuments um. Schwarz-Weiß ergibt die kleinsten Dateien, Farbe gibt Abbildungen und Stempel originalgetreu wieder.	Change toutes les pages de ce document. Le noir et blanc donne les plus petits fichiers, la couleur restitue fidèlement illustrations et tampons.
+An: Schatten, Flecken und Artefakte werden entfernt, die Schrift wird kontrastreicher. Aus: Die Seiten werden nur zugeschnitten und entzerrt – für Fotos, Zeichnungen oder wenn die Verbesserung etwas verfälscht.	Activé : les ombres, taches et artefacts sont supprimés et le texte gagne en contraste. Désactivé : les pages sont seulement recadrées et redressées – pour les photos, les dessins ou si l’amélioration altère quelque chose.
+Erstellt die Datei und gibt sie an eine App weiter, z. B. E-Mail, Messenger oder Cloud.	Crée le fichier et le transmet à une application, p. ex. e-mail, messagerie ou cloud.
+Legt die Datei am Speicherort ab – im festen Ordner oder, bei „Jedes Mal fragen“, dort, wo du sie hinlegst.	Place le fichier à l’emplacement d’enregistrement – dans le dossier fixe ou, avec « Demander à chaque fois », là où vous le déposez.
+Druckt über den Android-Druckdienst; dort lässt sich auch „Als PDF speichern“ wählen.	Imprime via le service d’impression Android ; vous pouvez aussi y choisir « Enregistrer au format PDF ».
+Wohin „Speichern“ die Dateien legt: jedes Mal fragen oder immer in einen festen Ordner, auch auf SD-Karte oder in einen Cloud-Ordner.	Où « Enregistrer » place les fichiers : demander à chaque fois ou toujours dans un dossier fixe, aussi sur une carte SD ou dans un dossier cloud.
+Hilfe & Anleitung	Aide et mode d’emploi
+Tipp: Einen Knopf eine Sekunde gedrückt halten – dann erscheint, was er macht.	Astuce : maintenez un bouton appuyé une seconde pour voir ce qu’il fait.
+Startseite	Accueil
+Öffnet die Kamera. Alle Fotos einer Aufnahme landen in einem gemeinsamen Dokument.	Ouvre l’appareil photo. Toutes les photos d’une prise de vue vont dans un même document.
+Das Galerie-Symbol über „Scannen“ übernimmt vorhandene Fotos; sie werden wie Kamerafotos zugeschnitten und erkannt.	L’icône de galerie au-dessus de « Scanner » reprend des photos existantes ; elles sont recadrées et reconnues comme les photos de l’appareil.
+Suchen	Rechercher
+Findet Scans nach Namen und nach dem erkannten Text, mit Seitenangabe.	Trouve les scans par nom et par texte reconnu, avec le numéro de page.
+Ordner und Kategorien	Dossiers et catégories
+Ordner fassen Scans zusammen. Die Kategorien (Bücher, Belege …) erscheinen automatisch, sobald es Scans dieser Art gibt.	Les dossiers regroupent les scans. Les catégories (livres, reçus …) apparaissent automatiquement dès qu’il existe des scans de ce type.
+Mehrere Scans	Plusieurs scans
+Lange auf einen Scan tippen: auswählen, zusammenführen, in einen Ordner verschieben oder löschen.	Appui long sur un scan : sélectionner, fusionner, déplacer dans un dossier ou supprimer.
+Gelöschte Scans bleiben 30 Tage im Papierkorb (Menü ⋮) und lassen sich wiederherstellen.	Les scans supprimés restent 30 jours dans la corbeille (menu ⋮) et peuvent être restaurés.
+Modi	Modes
+Unten wählen: Dokument (einzelne Blätter), Buch (Doppelseiten werden in zwei Seiten geteilt), Ausweis (Vorder- und Rückseite in Originalgröße auf einem Blatt), Visitenkarte (Kontakt wird erkannt), Bild (farbtreu, ohne Texterkennung), Passfoto (Frontkamera, 35 × 45 mm) und QR-Code.	À choisir en bas : Document (feuilles simples), Livre (les doubles pages sont divisées en deux pages), Pièce d’identité (recto et verso en taille réelle sur une feuille), Carte de visite (le contact est reconnu), Image (couleurs fidèles, sans reconnaissance de texte), Photo d’identité (caméra frontale, 35 × 45 mm) et code QR.
+Oben links: Schnell (5 MP) für große Schrift, Standard (12 MP) für fast alles, Maximal für Kleingedrucktes und Formeln – langsamer.	En haut à gauche : Rapide (5 MP) pour les gros caractères, Standard (12 MP) pour presque tout, Maximale pour les petits caractères et les formules – plus lent.
+Auslösung	Déclenchement
+Manuell: mit dem Auslöser. Auto 0,7 s: sobald die Seite 0,7 Sekunden ruhig liegt; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuel : avec le déclencheur. Auto 0,7 s : dès que la page est immobile pendant 0,7 seconde ; en mode livre après chaque page tournée. Bluetooth : avec une télécommande associée. Les touches de volume déclenchent toujours.
+Timer und Licht	Minuteur et lumière
+Das Uhr-Symbol macht alle 3, 5 oder 10 Sekunden ein Foto (Start mit dem Auslöser). Der Blitz schaltet die Taschenlampe ein.	L’icône d’horloge prend une photo toutes les 3, 5 ou 10 secondes (démarrage avec le déclencheur). Le flash allume la lampe.
+Auf das Vorschaubild rechts unten tippen: Die Seiten werden verarbeitet und die Übersicht öffnet sich.	Appuyez sur la miniature en bas à droite : les pages sont traitées et l’aperçu s’ouvre.
+Gute Fotos	Bonnes photos
+Seite flach und gleichmäßig beleuchtet hinlegen, Handy parallel halten. Ein Untergrund, der sich farblich vom Papier abhebt, hilft beim Zuschneiden.	Posez la page à plat et uniformément éclairée, tenez le téléphone parallèle. Un support dont la couleur se distingue du papier aide au recadrage.
+Gilt für alle Seiten des Dokuments. Einzelne Seiten lassen sich in der Seitenansicht anders einstellen.	S’applique à toutes les pages du document. Chaque page peut être réglée différemment dans la vue de page.
+Entfernt Schatten und Artefakte und macht die Schrift kontrastreicher. Ausschalten zeigt die Seite nur zugeschnitten und entzerrt.	Supprime ombres et artefacts et rend le texte plus contrasté. Désactivée, la page est seulement recadrée et redressée.
+Antippen öffnet die Seite. Lange drücken: neu aufnehmen, drehen oder löschen. Orange markierte Seiten sollten geprüft werden (z. B. unscharf), rote sind fehlgeschlagen.	Appuyer ouvre la page. Appui long : reprendre, faire pivoter ou supprimer. Les pages marquées en orange sont à vérifier (p. ex. floues), les rouges ont échoué.
+Reihenfolge per Ziehen ändern, mehrere Seiten drehen, in ein anderes Dokument verschieben oder kopieren, oder als neues Dokument herauslösen.	Modifier l’ordre en faisant glisser, faire pivoter plusieurs pages, les déplacer ou copier vers un autre document, ou les extraire en nouveau document.
+PDF, Word, Bilder, ZIP, Text oder Tabelle – teilen, speichern oder drucken.	PDF, Word, images, ZIP, texte ou tableau – partager, enregistrer ou imprimer.
+Mehr (⋮)	Plus (⋮)
+Leserichtung von Doppelseiten umkehren, auf dem Gerät übersetzen oder den Scan löschen. Den Namen ändert der Stift oben.	Inverser le sens de lecture des doubles pages, traduire sur l’appareil ou supprimer le scan. Le crayon en haut change le nom.
+Seitenansicht	Vue de page
+Blättern und Zoomen	Feuilleter et zoomer
+Wischen wechselt die Seite, Doppeltippen oder zwei Finger vergrößern.	Balayez pour changer de page, touchez deux fois ou utilisez deux doigts pour zoomer.
+Farbe, Graustufen oder Schwarz-Weiß nur für diese Seite, mit Vorschau. Darunter die automatische Verbesserung für diese Seite.	Couleur, niveaux de gris ou noir et blanc pour cette page seulement, avec aperçu. En dessous, l’amélioration automatique de cette page.
+Drehen und Zuschnitt	Rotation et recadrage
+Drehen um 90°. Zuschnitt: die Ecken der Seite im Originalfoto neu setzen.	Rotation de 90°. Recadrage : replacer les coins de la page sur la photo d’origine.
+Mit Stift, Marker oder Text auf die Seite schreiben.	Écrire sur la page avec un stylo, un surligneur ou du texte.
+Sensible Daten unkenntlich machen – mit Balken oder verpixelt. Kontonummern, Kartennummern und Gesichter werden vorgeschlagen.	Rendre illisibles les données sensibles – avec des barres ou pixellisées. Les numéros de compte, numéros de carte et visages sont proposés.
+Signieren und Text	Signer et texte
+Signieren setzt deine gespeicherte Unterschrift ein. Text zeigt den erkannten Text zum Korrigieren und Kopieren.	Signer insère votre signature enregistrée. Texte affiche le texte reconnu pour le corriger et le copier.
+Formate	Formats
+PDF (durchsuchbar), Word, Bilder (JPG), ZIP, Text, Excel oder CSV; bei Visitenkarten auch als Kontakt.	PDF (avec recherche), Word, images (JPG), ZIP, texte, Excel ou CSV ; pour les cartes de visite aussi en contact.
+PDF-Optionen	Options PDF
+Seitenformat, Auflösung und Kompression bestimmen Qualität und Dateigröße – die Größe wird oben rechts geschätzt. Optional mit Passwort (AES-256).	Format de page, résolution et compression déterminent la qualité et la taille du fichier – la taille est estimée en haut à droite. Mot de passe en option (AES-256).
+Teilen oder Speichern	Partager ou enregistrer
+Teilen schickt die Datei an eine App (E-Mail, Messenger …). Speichern legt sie am Speicherort ab.	Partager envoie le fichier à une application (e-mail, messagerie …). Enregistrer le place à l’emplacement d’enregistrement.
+„Jedes Mal fragen“ öffnet beim Speichern die Ordnerauswahl. Mit einem festen Ordner landen Exporte ohne Nachfrage dort – auch auf SD-Karte oder in einem Cloud-Ordner.	« Demander à chaque fois » ouvre le choix du dossier à l’enregistrement. Avec un dossier fixe, les exports y arrivent sans question – aussi sur carte SD ou dans un dossier cloud.
+Druckt über den Android-Druckdienst oder speichert als PDF.	Imprime via le service d’impression Android ou enregistre en PDF.
+Bildqualität, Auslösung und Teilung von Doppelseiten für neue Scans. In der Kamera lässt sich das jederzeit umstellen.	Qualité d’image, déclenchement et division des doubles pages pour les nouveaux scans. Dans l’appareil photo, vous pouvez les changer à tout moment.
+Filter und automatische Verbesserung, mit denen neue Dokumente beginnen.	Filtre et amélioration automatique avec lesquels commencent les nouveaux documents.
+Macht PDFs durchsuchbar. Die Sprachen bestimmen, welche Schriftzeichen erkannt werden.	Rend les PDF consultables. Les langues déterminent quels caractères sont reconnus.
+Speicherort und die Vorgaben für Auflösung, Kompression und Seitenformat.	Emplacement d’enregistrement et valeurs par défaut de résolution, compression et format de page.
+App-Sperre mit Fingerabdruck, Sicherung als ZIP und der Papierkorb.	Verrouillage par empreinte digitale, sauvegarde en ZIP et corbeille.
+Ecken setzen	Placer les coins
+Die vier Ecken auf die Seitenränder ziehen; die Lupe zeigt die Stelle unter dem Finger vergrößert.	Faites glisser les quatre coins sur les bords de la page ; la loupe agrandit l’endroit sous votre doigt.
+Einzel- oder Doppelseite	Page simple ou double
+Unten wählen, ob das Foto eine Seite oder eine aufgeschlagene Doppelseite zeigt. Automatisch entscheidet die App.	Choisissez en bas si la photo montre une page ou une double page ouverte. Automatique laisse l’application décider.
+Das Häkchen oben verarbeitet die Seite mit dem neuen Zuschnitt.	La coche en haut traite la page avec le nouveau recadrage.
+Werkzeuge	Outils
+Stift zum Schreiben, Marker zum Hervorheben, Text für getippte Notizen. Darunter die Farben.	Stylo pour écrire, surligneur pour marquer, texte pour des notes tapées. Les couleurs sont en dessous.
+Korrigieren	Corriger
+Rückgängig nimmt den letzten Strich zurück.	Annuler retire le dernier trait.
+Schreibt die Änderungen in die Seite. Ohne Sichern bleibt die Seite unverändert.	Écrit les modifications dans la page. Sans enregistrer, la page reste inchangée.
+Vorschläge	Suggestions
+Gefundene Kontonummern, Kartennummern, Steuernummern und Gesichter sind markiert – antippen wählt sie ab oder wieder an.	Les numéros de compte, de carte, fiscaux et les visages trouvés sont marqués – touchez pour les désélectionner ou les resélectionner.
+Eigene Bereiche	Zones personnelles
+Mit dem Finger weitere Rechtecke aufziehen.	Tracez d’autres rectangles avec le doigt.
+Balken oder Pixel	Barres ou pixels
+Schwarzer Balken oder Verpixeln. Der Text darunter wird auch aus der Texterkennung und dem PDF entfernt.	Barre noire ou pixellisation. Le texte en dessous est aussi retiré de la reconnaissance de texte et du PDF.
+Zeichnen	Dessiner
+Einmal mit dem Finger unterschreiben – die Unterschrift wird auf dem Gerät gespeichert.	Signez une fois avec le doigt – la signature est enregistrée sur l’appareil.
+Platzieren	Placer
+Mit einem Finger verschieben, mit zwei Fingern die Größe ändern, dann einfügen.	Déplacer avec un doigt, redimensionner avec deux doigts, puis insérer.
+Das Stift-Symbol oben ersetzt die gespeicherte Unterschrift.	L’icône de crayon en haut remplace la signature enregistrée.
+Text bearbeiten	Modifier le texte
+Der erkannte Text der Seite steht unten und lässt sich ändern. Oben das Seitenbild zum Vergleichen.	Le texte reconnu de la page se trouve en bas et peut être modifié. En haut, l’image de la page pour comparer.
+Wirkung	Effet
+Korrekturen gehen in die Suche, in die Textebene des PDFs und in Word- und Text-Exporte ein.	Les corrections sont reprises dans la recherche, la couche de texte du PDF et les exports Word et texte.
+Holt einen gelöschten Scan zurück.	Récupère un scan supprimé.
+Nach 30 Tagen werden Scans automatisch entfernt. „Leeren“ löscht sofort alles.	Les scans sont supprimés automatiquement après 30 jours. « Vider » supprime tout immédiatement.
+Belegung	Occupation
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb und Zwischenspeicher belegen.	Montre l’espace occupé par les scans, les photos d’origine, la corbeille et le cache.
+Originalfotos entfernen spart viel Platz; die fertigen Seiten bleiben, nur der Zuschnitt ist danach nicht mehr änderbar.	Supprimer les photos d’origine libère beaucoup d’espace ; les pages finies restent, seul le recadrage ne peut plus être modifié.
+Alle Scans als ZIP-Datei sichern und auf diesem oder einem anderen Gerät wiederherstellen. Nichts wird hochgeladen.	Sauvegarder tous les scans dans un fichier ZIP et les restaurer sur cet appareil ou un autre. Rien n’est envoyé en ligne.
+Auswahl	Sélection
+Die Sprachen der Dokumente wählen. Jede zusätzliche Sprache macht die Erkennung langsamer.	Choisissez les langues de vos documents. Chaque langue supplémentaire ralentit la reconnaissance.
+Fehlende Sprachen werden einmalig geladen und arbeiten danach ohne Internet.	Les langues manquantes sont téléchargées une seule fois et fonctionnent ensuite sans Internet.
+Handy und PC ins selbe WLAN bringen (oder den PC mit dem Hotspot des Handys).	Mettez le téléphone et le PC sur le même Wi-Fi (ou connectez le PC au point d’accès du téléphone).
+Herunterladen	Télécharger
+Die angezeigte Adresse am PC im Browser öffnen oder den QR-Code scannen; dort lassen sich alle Scans als PDF oder Text laden.	Ouvrez l’adresse affichée dans le navigateur du PC ou scannez le code QR ; tous les scans peuvent y être téléchargés en PDF ou en texte.
+Sicherheit	Sécurité
+Funktioniert nur im lokalen Netz und nur, solange dieser Bildschirm offen ist.	Fonctionne uniquement sur le réseau local et seulement tant que cet écran est ouvert.
+Sprache, Bildqualität, Auslösung, Texterkennung, Speicherort, App-Sperre und Sicherung.	Langue, qualité d’image, déclenchement, reconnaissance de texte, emplacement d’enregistrement, verrouillage et sauvegarde.
+Übernimmt Fotos aus der Galerie als neues Dokument; sie werden wie Kamerafotos zugeschnitten und erkannt.	Reprend des photos de la galerie comme nouveau document ; elles sont recadrées et reconnues comme les photos de l’appareil.
+Öffnet die Kamera. Alle Fotos einer Aufnahme kommen in ein gemeinsames Dokument.	Ouvre l’appareil photo. Toutes les photos d’une prise de vue vont dans un même document.
+Löscht diese Seite aus dem Dokument (mit Rückfrage).	Supprime cette page du document (après confirmation).
+Farbe, Graustufen oder Schwarz-Weiß und die automatische Verbesserung nur für diese Seite.	Couleur, niveaux de gris ou noir et blanc et l’amélioration automatique pour cette page seulement.
+Dreht die Seite um 90° im Uhrzeigersinn.	Fait pivoter la page de 90° dans le sens horaire.
+Die Ecken der Seite im Originalfoto neu setzen, wenn Rand fehlt oder Hintergrund mit drauf ist.	Replacer les coins de la page sur la photo d’origine si un bord manque ou si le fond est inclus.
+Sensible Daten mit Balken oder Pixeln unkenntlich machen; sie verschwinden auch aus dem Text des PDFs.	Rendre illisibles les données sensibles avec des barres ou des pixels ; elles disparaissent aussi du texte du PDF.
+Setzt deine gespeicherte Unterschrift auf die Seite; beim ersten Mal zeichnest du sie.	Place votre signature enregistrée sur la page ; la première fois, vous la dessinez.
+Zeigt den erkannten Text der Seite zum Korrigieren und Kopieren.	Affiche le texte reconnu de la page pour le corriger et le copier.
+Fotografiert beim Tippen auf den Auslöser.	Photographie quand vous appuyez sur le déclencheur.
+Fotografiert, sobald die Seite 0,7 s ruhig im Bild liegt; im Buch-Modus nach jedem Umblättern.	Photographie dès que la page reste immobile 0,7 s dans l’image ; en mode livre après chaque page tournée.
+Fotografiert mit einem gekoppelten Bluetooth-Fernauslöser.	Photographie avec une télécommande Bluetooth associée.
+Lautstärketasten lösen immer aus.	Les touches de volume déclenchent toujours.
+Word erstellen, Formeln erkennen (%d/%d)	Création du Word, reconnaissance des formules (%d/%d)
+Belarussisch	Biélorusse
+Bulgarisch	Bulgare
+Serbisch	Serbe
+Mazedonisch	Macédonien
+Kein Link im geteilten Text	Aucun lien dans le texte partagé
+Import fehlgeschlagen: %s	Échec de l’importation : %s
+Link laden	Chargement du lien
+Unter dem Link liegt keine PDF- oder Bilddatei.	Le lien ne mène pas à un fichier PDF ou image.
+Nur PDF-Dateien und Bilder lassen sich importieren.	Seuls les fichiers PDF et les images peuvent être importés.
+Geschützte PDF-Dateien lassen sich nicht importieren.	Les fichiers PDF protégés ne peuvent pas être importés.
+PDF-Seite %d/%d importieren	Importation de la page PDF %d/%d
+Auto %s s	Auto %s s
+Auslösen nach %s s	Déclencher après %s s
+Wartezeit	Délai
+Wie lange die Seite ruhig im Bild liegen muss, bevor automatisch fotografiert wird. Kürzer geht schneller, länger gibt weniger verwackelte Fotos.	Durée pendant laquelle la page doit rester immobile avant la prise de vue automatique. Plus court est plus rapide, plus long donne moins de photos floues.
+Fotografiert von selbst, sobald die Seite ruhig im Bild liegt; die Wartezeit (0,2–1,5 s) stellst du darunter ein. Im Buch-Modus: nach jedem Umblättern, sobald das Buch wieder still liegt.	Prend la photo tout seul dès que la page est immobile ; réglez le délai (0,2–1,5 s) en dessous. En mode livre : après chaque tourne de page, dès que le livre est de nouveau immobile.
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als weitere Seiten; Kamerafotos werden zugeschnitten, alles wird erkannt.	Ajoute des photos, captures d’écran, fichiers PDF ou un lien comme pages supplémentaires ; les photos sont recadrées, tout est reconnu.
+Senden an …	Envoyer à …
+Wohin „Speichern“ deine Exporte legt. „Senden an …“ ist davon unabhängig.	Où « Enregistrer » place vos exports. « Envoyer à … » en est indépendant.
+Einen Unterordner wählen, z. B. „Documents“ – den obersten Ordner des Speichers lässt Android nicht zu.	Choisissez un sous-dossier, p. ex. « Documents » – Android n’autorise pas le dossier racine du stockage.
+Erstellt die Datei und schickt sie an eine App, z. B. WhatsApp, E-Mail, Telegram oder einen Cloud-Speicher.	Crée le fichier et l’envoie à une application, p. ex. WhatsApp, e-mail, Telegram ou un stockage cloud.
+Manuell: mit dem Auslöser. Auto: sobald die Seite ruhig liegt – die Wartezeit (0,2–1,5 s, Standard 0,7 s) stellst du im Scan-Fenster unter dem Schalter ein; im Buch-Modus nach jedem Umblättern. Bluetooth: mit einem gekoppelten Fernauslöser. Die Lautstärketasten lösen immer aus.	Manuel : avec le déclencheur. Auto : dès que la page est immobile – réglez le délai (0,2–1,5 s, par défaut 0,7 s) dans la fenêtre de scan sous l’interrupteur ; en mode livre après chaque tourne de page. Bluetooth : avec une télécommande appairée. Les touches de volume déclenchent toujours.
+Senden an oder Speichern	Envoyer à ou enregistrer
+„Senden an …“ schickt die Datei an eine App (WhatsApp, E-Mail, Telegram, Cloud …). Speichern legt sie am Speicherort ab.	« Envoyer à … » envoie le fichier à une application (WhatsApp, e-mail, Telegram, cloud …). Enregistrer le place à l’emplacement de stockage.
+Importieren	Importer
+Übernimmt Fotos, Screenshots, PDF-Dateien oder einen Link als neues Dokument; Kamerafotos werden zugeschnitten, alles wird erkannt.	Ajoute des photos, captures d’écran, fichiers PDF ou un lien comme nouveau document ; les photos sont recadrées, tout est reconnu.
+Bilder aus der Galerie	Images de la galerie
+Fotos und Screenshots	Photos et captures d’écran
+Dateien	Fichiers
+PDF-Dateien und Bilder, z. B. aus Downloads oder der Cloud	Fichiers PDF et images, p. ex. depuis Téléchargements ou le cloud
+Eine PDF- oder Bilddatei aus dem Internet	Un fichier PDF ou image d’Internet
+Danach wie gescannte Seiten: Texterkennung, Übersetzung und Export in jedes Format.	Ensuite comme des pages scannées : reconnaissance de texte, traduction et export dans tous les formats.
+Link importieren	Importer un lien
+Internetadresse	Adresse web
+Fotografiert, sobald die Seite %s s ruhig im Bild liegt (im Scan-Fenster einstellbar); im Buch-Modus nach jedem Umblättern.	Prend la photo dès que la page est immobile pendant %s s (réglable dans la fenêtre de scan) ; en mode livre après chaque tourne de page.
+Fachwörterbuch laden	Chargement du glossaire
+Fachwörterbuch für %s oder %s fehlt – übersetzt ohne Fachbegriffe	Glossaire pour %s ou %s manquant – traduit sans termes techniques
+Keine Fachwörterbuch-Datei (glossary-xx.tsv.gz)	Pas un fichier de glossaire (glossary-xx.tsv.gz)
+Download nicht verfügbar	Téléchargement indisponible
+Estnisch	Estonien
+Irisch	Irlandais
+Litauisch	Lituanien
+Lettisch	Letton
+Maltesisch	Maltais
+Slowakisch	Slovaque
+Slowenisch	Slovène
+Ohne Fachwörterbuch	Sans glossaire
+Alle Fachgebiete	Tous les domaines
+Fachgebiet: %s	Domaine : %s
+Fachwörterbücher verwalten …	Gérer les glossaires …
+Fachwörterbücher	Glossaires
+Aus Datei importieren	Importer depuis un fichier
+Fachbegriffe aus Recht, Medizin, Technik, Wirtschaft und 17 weiteren Fachgebieten (IATE, Terminologiedatenbank der EU) werden beim Übersetzen genau so übernommen. Nötig ist das Wörterbuch der Ausgangs- und der Zielsprache, je 0,3–9 MB.	Les termes techniques du droit, de la médecine, de la technique, de l’économie et de 17 autres domaines (IATE, base terminologique de l’UE) sont repris exactement lors de la traduction. Il faut le glossaire de la langue source et celui de la langue cible, 0,3 à 9 Mo chacun.
+Einmal laden, danach offline.	Charger une fois, ensuite hors ligne.
+Dateien glossary-xx.tsv.gz über das Ordner-Symbol oben importieren.	Importer les fichiers glossary-xx.tsv.gz avec l’icône de dossier en haut.
+Fachwörterbücher für die Übersetzung	Glossaires pour la traduction
+Recht, Medizin, Technik und mehr – 24 EU-Sprachen	Droit, médecine, technique et plus – 24 langues de l’UE
+Alle Fotos und Texte bleiben auf diesem Gerät. Internet wird nur für das einmalige Laden von Sprachen, Übersetzungsmodellen und Fachwörterbüchern genutzt, wenn du es anstößt.	Toutes les photos et tous les textes restent sur cet appareil. Internet ne sert qu’au chargement unique des langues, modèles de traduction et glossaires, quand vous le lancez.
+Übersetzen	Traduire
+Legt auf dem Gerät eine übersetzte Kopie des Dokuments an: gleiche Seiten und Bilder, der Text steht in der Zielsprache an seiner Stelle. Jeder Absatz wird aus seiner eigenen Sprache übersetzt. Mit „Fachgebiet“ werden Fachbegriffe aus den Fachwörterbüchern genau so übernommen.	Crée sur l’appareil une copie traduite du document : mêmes pages et images, le texte dans la langue cible à sa place. Chaque paragraphe est traduit depuis sa propre langue. Avec « Domaine », les termes techniques des glossaires sont repris exactement.
+Was nachgeladen werden kann	Ce qui peut être téléchargé
+Alles ist freiwillig und wird nur auf deinen Tipp geladen, danach arbeitet es ohne Internet:\n• Sprachen der Texterkennung: je 1–15 MB (Einstellungen › Sprachen). Deutsch und Englisch sind enthalten.\n• Chinesisch: ein eigenes Erkennungsmodell, ca. 17 MB.\n• Übersetzungsmodelle: ca. 30 MB je Sprache, werden bei der ersten Übersetzung automatisch geladen.\n• Fachwörterbücher: 0,3–9 MB je Sprache, für alle 24 EU-Sprachen zusammen ca. 70 MB (Einstellungen › Fachwörterbücher).\nGeladene Dateien lassen sich jederzeit wieder entfernen.	Tout est facultatif et n’est chargé que sur votre demande ; ensuite cela fonctionne sans Internet :\n• Langues de la reconnaissance de texte : 1 à 15 Mo chacune (Paramètres › Langues). L’allemand et l’anglais sont inclus.\n• Chinois : un modèle de reconnaissance propre, environ 17 Mo.\n• Modèles de traduction : environ 30 Mo par langue, chargés automatiquement lors de la première traduction.\n• Glossaires : 0,3 à 9 Mo par langue, environ 70 Mo pour les 24 langues de l’UE (Paramètres › Glossaires).\nLes fichiers chargés peuvent être supprimés à tout moment.
+Wozu	À quoi ça sert
+Allgemeine Übersetzer kennen viele Fachbegriffe nicht oder übersetzen sie uneinheitlich. Ein Fachwörterbuch setzt den festgelegten Fachbegriff ein, z. B. „Beweislast“ → „burden of proof“.	Les traducteurs généraux ne connaissent pas beaucoup de termes techniques ou les traduisent de façon incohérente. Un glossaire insère le terme défini, p. ex. « Beweislast » → « charge de la preuve ».
+Quelle	Source
+IATE, die Terminologiedatenbank der EU-Institutionen, mit Begriffen aus 21 Fachgebieten (Recht, Gesundheit, Technik, Wirtschaft, Umwelt, Verkehr …). Es gibt sie für die 24 Amtssprachen der EU.	IATE, la base terminologique des institutions de l’UE, avec des termes de 21 domaines (droit, santé, technique, économie, environnement, transports …). Elle existe pour les 24 langues officielles de l’UE.
+Was nötig ist	Ce qu’il faut
+Je ein Wörterbuch für die Ausgangs- und die Zielsprache, z. B. Deutsch und Englisch. Ein Wörterbuch pro Sprache genügt für alle Sprachpaare.	Un glossaire pour la langue source et un pour la langue cible, p. ex. allemand et anglais. Un glossaire par langue suffit pour toutes les paires de langues.
+Laden oder importieren	Charger ou importer
+Mit dem Pfeil laden (einmalig, danach offline) oder mit dem Ordner-Symbol eine Datei „glossary-xx.tsv.gz“ importieren, etwa vom PC oder einer SD-Karte.	Charger avec la flèche (une fois, ensuite hors ligne) ou importer un fichier « glossary-xx.tsv.gz » avec l’icône de dossier, p. ex. depuis un PC ou une carte SD.
+Benutzen	Utilisation
+Beim Übersetzen oben das Fachgebiet wählen. „Alle Fachgebiete“ nutzt nur Begriffe, die überall gleich übersetzt werden.	Lors de la traduction, choisir le domaine en haut. « Tous les domaines » n’utilise que les termes traduits partout de la même façon.
+Grenzen	Limites
+Fachbegriffe werden in ihrer Grundform eingesetzt; gebeugte Formen („der Mitgliedstaaten“) erkennt das Wörterbuch nicht immer.	Les termes techniques sont insérés sous leur forme de base ; les formes fléchies ne sont pas toujours reconnues.
+Politik	Politique
+Internationale Beziehungen	Relations internationales
+Europäische Union	Union européenne
+Recht	Droit
+Wirtschaft	Économie
+Handel	Échanges économiques et commerciaux
+Finanzwesen	Finances
+Soziales und Gesundheit	Questions sociales et santé
+Bildung und Kommunikation	Éducation et communication
+Wissenschaft	Sciences
+Unternehmen und Wettbewerb	Entreprise et concurrence
+Beschäftigung und Arbeitsbedingungen	Emploi et travail
+Verkehr	Transports
+Umwelt	Environnement
+Land-, Forst- und Fischereiwirtschaft	Agriculture, sylviculture et pêche
+Agrarerzeugnisse und Lebensmittel	Agroalimentaire
+Produktion, Technologie und Forschung	Production, technologie et recherche
+Energie	Énergie
+Industrie	Industrie
+Geografie	Géographie
+Internationale Organisationen	Organisations internationales
+Wenig Licht – Lampe einschalten	Peu de lumière – allumer la lampe
+Verarbeitung mehrfach abgebrochen	Le traitement a été interrompu plusieurs fois
+Bearbeitungen gehen verloren	Les modifications seront perdues
+Die Seite wird aus dem Foto neu erstellt. Schwärzungen, Unterschrift und Notizen müssen danach erneut eingefügt werden.	La page est recréée à partir de la photo. Les caviardages, la signature et les notes devront être ajoutés à nouveau.
+Neu zuschneiden	Recadrer
+Sprachdaten	Données linguistiques
+Zeigt, wie viel Platz Scans, Originalfotos, Papierkorb, Zwischenspeicher und Sprachdaten (Texterkennung, Fachwörterbücher) belegen.	Indique la place occupée par les scans, les photos originales, la corbeille, le cache et les données linguistiques (reconnaissance de texte, glossaires).
+Bitte warten, bis alle Seiten erkannt sind	Veuillez patienter jusqu’à ce que toutes les pages soient reconnues
+Die Sprache „%s“ kann nicht übersetzt werden	La langue « %s » ne peut pas être traduite
+Übersetzung in die Seiten setzen	Insertion de la traduction dans les pages
