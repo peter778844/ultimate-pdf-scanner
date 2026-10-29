@@ -927,18 +927,14 @@ private fun analyze(proxy: ImageProxy, mode: CaptureMode, motion: PageTurn): Fra
         CaptureMode.PASSPORT -> FrameInfo(null, 0.0, null, brightness)
         else -> {
             val m = if (mode == CaptureMode.BOOK) motion.motion(upright) else 0.0
-            val tq = System.nanoTime()
             val q = Detect.previewQuad(upright)
-            android.util.Log.d("UPSDEBUG", "previewQuad ${(System.nanoTime() - tq) / 1_000_000} ms")
             val fq = q?.let { FrameQuad(FloatArray(8) { i -> (if (i % 2 == 0) q[i / 2].x / upright.cols() else q[i / 2].y / upright.rows()).toFloat() }, System.currentTimeMillis()) }
             FrameInfo(fq, m, null, brightness)
         }
     }
     upright.release()
-    android.util.Log.d("UPSDEBUG", "frame ${w}x$h mode=$mode quad=${info.quad != null} bright=${info.brightness.toInt()}")
     info
 } catch (e: Throwable) {
-    android.util.Log.e("UPSDEBUG", "analyze failed", e)
     null
 } finally {
     proxy.close()
